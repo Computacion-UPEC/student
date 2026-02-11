@@ -29,14 +29,14 @@ export function HeroSection() {
             <div className="flex items-center gap-3 rounded-xl bg-primary-foreground/10 px-6 py-4">
               <Calendar className="h-5 w-5 text-secondary" />
               <div className="text-left">
-                <p className="text-2xl font-bold text-primary-foreground">4+</p>
+                <p className="text-2xl font-bold text-primary-foreground">9+</p>
                 <p className="text-sm text-primary-foreground/70">Eventos realizados</p>
               </div>
             </div>
             <div className="flex items-center gap-3 rounded-xl bg-primary-foreground/10 px-6 py-4">
               <Users className="h-5 w-5 text-secondary" />
               <div className="text-left">
-                <p className="text-2xl font-bold text-primary-foreground">6+</p>
+                <p className="text-2xl font-bold text-primary-foreground">12</p>
                 <p className="text-sm text-primary-foreground/70">Speakers invitados</p>
               </div>
             </div>

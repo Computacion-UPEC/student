@@ -1,36 +1,26 @@
 "use client"
 
-import { Calendar, Clock, MapPin, Linkedin, Github, Globe } from "lucide-react"
+import { Calendar, Clock, MapPin, Linkedin, Github, Globe, Star } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
-import type { Event } from "@/lib/events-data"
-import { useState } from "react"
+import type { Event, Speaker } from "@/lib/events-data"
+import { getSpeakerStars } from "@/lib/events-data"
+import { CompositeImage as SpeakerCompositeAvatar } from "@/components/speakers-section"
 
-function SpeakerAvatar({ speaker }: { speaker: Event["speakers"][number] }) {
-  const [imgError, setImgError] = useState(false)
-  const initials = speaker.name
-    .split(" ")
-    .map((n) => n[0])
-    .join("")
-    .slice(0, 2)
+function SpeakerAvatar({ speaker }: { speaker: Speaker }) {
+  const stars = getSpeakerStars(speaker)
 
   return (
     <div className="flex items-center gap-4 rounded-xl border border-border bg-muted/50 p-4">
-      <div className="relative h-14 w-14 shrink-0 overflow-hidden rounded-full border-2 border-secondary">
-        {!imgError ? (
-          <img
-            src={speaker.photo || "/placeholder.svg"}
-            alt={speaker.name}
-            className="h-full w-full object-cover"
-            onError={() => setImgError(true)}
-          />
-        ) : (
-          <div className="flex h-full w-full items-center justify-center bg-primary text-sm font-bold text-primary-foreground">
-            {initials}
-          </div>
-        )}
-      </div>
+      <SpeakerCompositeAvatar speaker={speaker} size="sm" />
       <div className="flex-1 min-w-0">
-        <p className="font-heading text-sm font-semibold text-foreground truncate">{speaker.name}</p>
+        <div className="flex items-center gap-2">
+          <p className="font-heading text-sm font-semibold text-foreground truncate">{speaker.name}</p>
+          <div className="flex items-center gap-0.5 shrink-0">
+            {Array.from({ length: stars }).map((_, i) => (
+              <Star key={i} className="h-3 w-3 fill-secondary text-secondary" />
+            ))}
+          </div>
+        </div>
         <p className="mt-0.5 text-xs text-muted-foreground leading-relaxed">{speaker.title}</p>
         <div className="mt-2 flex items-center gap-2">
           {speaker.linkedin && (
@@ -38,7 +28,7 @@ function SpeakerAvatar({ speaker }: { speaker: Event["speakers"][number] }) {
               href={speaker.linkedin}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-muted-foreground transition-colors hover:text-primary"
+              className="text-muted-foreground transition-colors hover:text-[#0A66C2]"
               aria-label={`LinkedIn de ${speaker.name}`}
             >
               <Linkedin className="h-4 w-4" />
@@ -49,7 +39,7 @@ function SpeakerAvatar({ speaker }: { speaker: Event["speakers"][number] }) {
               href={speaker.github}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-muted-foreground transition-colors hover:text-primary"
+              className="text-muted-foreground transition-colors hover:text-foreground"
               aria-label={`GitHub de ${speaker.name}`}
             >
               <Github className="h-4 w-4" />
