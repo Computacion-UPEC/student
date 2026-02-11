@@ -1,7 +1,7 @@
 from PIL import Image
 import os
 
-img = Image.open("/vercel/share/v0-project/public/images/speakers-composite.png")
+img = Image.open("/vercel/share/v0-project/scripts/speakers-composite.jpg")
 w, h = img.size
 print(f"Image size: {w}x{h}")
 
