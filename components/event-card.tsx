@@ -2,6 +2,7 @@
 
 import { Calendar, Clock, MapPin, Linkedin, Github, Globe, Star } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
+import { Carousel, CarouselContent, CarouselItem, CarouselPrevious, CarouselNext } from "@/components/ui/carousel"
 import type { Event, Speaker } from "@/lib/events-data"
 import { getSpeakerStars } from "@/lib/events-data"
 import { CompositeImage as SpeakerCompositeAvatar } from "@/components/speakers-section"
@@ -62,12 +63,13 @@ function SpeakerAvatar({ speaker }: { speaker: Speaker }) {
   )
 }
 
-const typeColors: Record<Event["type"], string> = {
+const typeColors: Record<string, string> = {
   Workshop: "bg-secondary text-secondary-foreground",
   Charla: "bg-primary text-primary-foreground",
   Hackathon: "bg-destructive text-destructive-foreground",
   Seminario: "bg-primary/80 text-primary-foreground",
   Meetup: "bg-secondary/80 text-secondary-foreground",
+  Club: "bg-primary/60 text-primary-foreground",
 }
 
 const orgColors: Record<Event["organization"], string> = {
@@ -89,6 +91,24 @@ export function EventCard({ event }: { event: Event }) {
       </div>
 
       <div className="p-6">
+        {event.galleryImages && event.galleryImages.length > 0 ? (
+          <div className="mb-4">
+            <Carousel>
+              <CarouselPrevious />
+              <CarouselContent>
+                {event.galleryImages.map((src, i) => (
+                  <CarouselItem key={i}>
+                    <div className="aspect-[16/9] overflow-hidden rounded-xl bg-muted">
+                      <img src={encodeURI(src)} alt={`${event.title} ${i + 1}`} className="h-full w-full object-cover" />
+                    </div>
+                  </CarouselItem>
+                ))}
+              </CarouselContent>
+              <CarouselNext />
+            </Carousel>
+          </div>
+        ) : null}
+
         <h3 className="font-heading text-xl font-bold text-foreground leading-tight text-balance">
           {event.title}
         </h3>

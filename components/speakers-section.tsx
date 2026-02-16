@@ -1,5 +1,3 @@
-"use client"
-
 import { Linkedin, Github, Globe, Star, ExternalLink } from "lucide-react"
 import { allSpeakers, getSpeakerStars } from "@/lib/events-data"
 import type { Speaker } from "@/lib/events-data"
@@ -11,11 +9,44 @@ export function CompositeImage({
   speaker: Speaker
   size?: "sm" | "md" | "lg" | "xl"
 }) {
-  const initials = speaker.name
-    .split(" ")
-    .map((n) => n[0])
-    .join("")
-    .slice(0, 2)
+  if (!speaker.image) {
+    const initials = speaker.name
+      .split(" ")
+      .map((n) => n[0])
+      .join("")
+      .slice(0, 2)
+
+    const sizeMap = {
+      sm: "h-14 w-14",
+      md: "h-20 w-20",
+      lg: "h-40 w-40",
+      xl: "h-56 w-56",
+    }
+    const borderMap = {
+      sm: "border-2",
+      md: "border-[3px]",
+      lg: "border-4",
+      xl: "border-4",
+    }
+    const textMap = {
+      sm: "text-sm",
+      md: "text-lg",
+      lg: "text-2xl",
+      xl: "text-3xl",
+    }
+
+    const sizeClasses = sizeMap[size]
+    const borderClasses = borderMap[size]
+    const textClasses = textMap[size]
+
+    return (
+      <div className={`${sizeClasses} shrink-0 overflow-hidden rounded-full ${borderClasses} border-secondary`}>
+        <div className={`flex h-full w-full items-center justify-center bg-primary ${textClasses} font-bold text-primary-foreground`}>
+          {initials}
+        </div>
+      </div>
+    )
+  }
 
   const sizeMap = {
     sm: "h-14 w-14",
@@ -29,44 +60,20 @@ export function CompositeImage({
     lg: "border-4",
     xl: "border-4",
   }
-  const textMap = {
-    sm: "text-sm",
-    md: "text-lg",
-    lg: "text-2xl",
-    xl: "text-3xl",
-  }
 
   const sizeClasses = sizeMap[size]
   const borderClasses = borderMap[size]
-  const textClasses = textMap[size]
-
-  if (!speaker.cropBox) {
-    return (
-      <div className={`${sizeClasses} shrink-0 overflow-hidden rounded-full ${borderClasses} border-secondary`}>
-        <div className={`flex h-full w-full items-center justify-center bg-primary ${textClasses} font-bold text-primary-foreground`}>
-          {initials}
-        </div>
-      </div>
-    )
-  }
-
-  const { cx, cy, zoom } = speaker.cropBox
-  const bgSize = `${zoom * 100}%`
-  const bgPosX = `${cx}%`
-  const bgPosY = `${cy}%`
 
   return (
-    <div
-      className={`${sizeClasses} shrink-0 overflow-hidden rounded-full ${borderClasses} border-secondary bg-background`}
-      role="img"
-      aria-label={speaker.name}
-      style={{
-        backgroundImage: "url(/speakers/composite.jpg)",
-        backgroundSize: bgSize,
-        backgroundPosition: `${bgPosX} ${bgPosY}`,
-        backgroundRepeat: "no-repeat",
-      }}
-    />
+    <div className={`${sizeClasses} shrink-0 overflow-hidden rounded-full ${borderClasses} border-secondary bg-background`} role="img" aria-label={speaker.name}>
+      <img
+        src={encodeURI(speaker.image)}
+        alt={speaker.name}
+        className={`h-full w-full object-cover`}
+        style={{ objectPosition: speaker.imagePosition ?? "center" }}
+        loading="lazy"
+      />
+    </div>
   )
 }
 
