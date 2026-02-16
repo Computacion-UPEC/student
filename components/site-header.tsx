@@ -10,11 +10,11 @@ export function SiteHeader() {
     <header className="sticky top-0 z-50 border-b border-border bg-card/80 backdrop-blur-md">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
         <div className="flex items-center gap-3">
-          <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary">
-            <span className="font-heading text-lg font-bold text-primary-foreground">C</span>
+          <div className="flex h-15 w-10 items-center justify-center rounded-lg bg-primary">
+            <img src="/images/logo-computacion.jpg" alt="Logo Computación" className="h-6 w-6 rounded-full object-cover" />
           </div>
           <div className="flex flex-col">
-            <span className="font-heading text-sm font-bold leading-tight text-foreground">COMC & IEEE</span>
+            <span className="font-heading text-sm font-bold leading-tight text-foreground">Computación UPEC</span>
             <span className="text-xs text-muted-foreground">Student Branch UPEC</span>
           </div>
         </div>

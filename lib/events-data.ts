@@ -129,6 +129,7 @@ export const allSpeakers: Speaker[] = [
     topic: "FastAPI",
     image: "/images/speakers/john.png",
     imagePosition: "center 0%",
+    github: "https://github.com/johncortes117",
     linkedin: "https://www.linkedin.com/in/john-cortes-pozo/",
     website: "https://johncp.dev/",
   },
