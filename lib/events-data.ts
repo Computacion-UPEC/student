@@ -2,10 +2,7 @@ export interface Speaker {
   name: string
   title: string
   topic: string
-  photo?: string
-  // Crop box in the composite image (percentage-based for responsiveness)
-  // cx/cy = center x/y as %, zoom = how much to scale the composite
-  cropBox?: { cx: number; cy: number; zoom: number }
+  image?: string
   linkedin?: string
   github?: string
   website?: string
@@ -41,7 +38,7 @@ export const allSpeakers: Speaker[] = [
     name: "Angelo Benavides",
     title: "Developer",
     topic: "Git - Github",
-    cropBox: { cx: 7, cy: 22, zoom: 7.5 },
+    image: "/images/speakers/angelo.png",
     linkedin: "https://www.linkedin.com/in/angelobenavidesa/",
     github: "https://github.com/AngeloAlexanderBenavides",
     website: "https://angeloalexanderbenavides.github.io/",
@@ -50,14 +47,14 @@ export const allSpeakers: Speaker[] = [
     name: "Edison Lopez",
     title: "Developer",
     topic: "Fundamentos HTML",
-    cropBox: { cx: 22, cy: 20, zoom: 7.5 },
+    image: "/images/speakers/edison.png",
     linkedin: "https://www.linkedin.com/in/edison-l%C3%B3pez-6b69b4343/",
   },
   {
     name: "Geovanny Basantes",
     title: "Developer",
     topic: "API Development",
-    cropBox: { cx: 38, cy: 20, zoom: 7.5 },
+    image: "/images/speakers/Geovany.png",
     linkedin: "https://www.linkedin.com/in/geovanny-basantes-0471b123a/",
     github: "https://github.com/COMPUMAX-EC",
     website: "https://geobas.compumax.tech/",
@@ -66,35 +63,35 @@ export const allSpeakers: Speaker[] = [
     name: "Erika Delgado",
     title: "Developer",
     topic: "API Development",
-    cropBox: { cx: 55, cy: 20, zoom: 7.5 },
+    image: "/images/speakers/Erika.png",
     linkedin: "https://www.linkedin.com/in/erika-delgado-30113a380/",
   },
   {
     name: "Luis Valverde",
     title: "Developer",
     topic: "Git - Github",
-    cropBox: { cx: 70, cy: 20, zoom: 7.5 },
+    image: "/images/speakers/Luis.png",
     linkedin: "https://www.linkedin.com/in/luis-valverde-102653216/",
   },
   {
     name: "Alexa Domiguez",
     title: "Developer",
     topic: "Docker",
-    cropBox: { cx: 89, cy: 20, zoom: 7.5 },
+    image: "/images/speakers/Alexa.png",
     linkedin: "https://www.linkedin.com/in/alexadm0402/",
   },
   {
     name: "Luis Guerrero",
     title: "Developer",
     topic: "Soft Skills",
-    cropBox: { cx: 6, cy: 68, zoom: 7.5 },
+    image: "/images/speakers/Lguerrero.png",
     linkedin: "https://www.linkedin.com/in/ilukas/",
   },
   {
     name: "Cristian Baraja",
     title: "Developer",
     topic: "Web App with Docker",
-    cropBox: { cx: 24, cy: 70, zoom: 7.5 },
+    image: "/images/speakers/composite.jpg",
     linkedin: "https://www.linkedin.com/in/cristian-baraja-85a9a129a/",
     github: "https://github.com/baraja-cristian",
   },
@@ -102,13 +99,13 @@ export const allSpeakers: Speaker[] = [
     name: "Luis Martinez",
     title: "Developer",
     topic: "Python Asynchronous",
-    cropBox: { cx: 43, cy: 68, zoom: 7.5 },
+    image: "/images/speakers/Frame 26.png",
   },
   {
     name: "Anthony Quiranza",
     title: "Developer",
     topic: "AI Agents OpenClaw - Copilot",
-    cropBox: { cx: 60, cy: 68, zoom: 7.5 },
+    image: "/images/speakers/antoni.jpeg",
     linkedin: "https://www.linkedin.com/in/anthonyquiranza/",
     github: "https://github.com/AnthonyQuiranza",
     website: "https://www.cloudsofts.net/",
@@ -117,7 +114,7 @@ export const allSpeakers: Speaker[] = [
     name: "John Cortez",
     title: "Developer",
     topic: "FastAPI",
-    cropBox: { cx: 76, cy: 70, zoom: 7.5 },
+    image: "/images/speakers/john.png",
     linkedin: "https://www.linkedin.com/in/john-cortes-pozo/",
     website: "https://johncp.dev/",
   },
@@ -125,7 +122,7 @@ export const allSpeakers: Speaker[] = [
     name: "Michael Paredes",
     title: "Developer",
     topic: "Notion",
-    cropBox: { cx: 92, cy: 70, zoom: 7.5 },
+    image: "/images/speakers/Michael.png",
     linkedin: "https://www.linkedin.com/in/michael-paredes-a9a5a033b/",
   },
 ]
