@@ -6,7 +6,7 @@ import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
-import { opportunities, opportunityCompanies, opportunityLevels, opportunityLocations, opportunityModalities, opportunitySkills, opportunitySources, opportunityYears, companyColors, companyInitials } from "@/lib/opportunities-data"
+import { opportunities, opportunityCompanies, opportunityLevels, opportunityLocations, opportunityModalities, opportunitySkills, opportunitySources, opportunityYears, companyColors, companyInitials, companyLogos } from "@/lib/opportunities-data"
 
 const accentClasses = { green: "border-l-primary", gold: "border-l-secondary", blue: "border-l-sky-500" }
 const initialFilters = { skill: "Todas", level: "Todos", modality: "Todas", source: "Todas", company: "Todas", location: "Todas", year: "Todos" }
@@ -14,7 +14,10 @@ const initialFilters = { skill: "Todas", level: "Todos", modality: "Todas", sour
 type FilterKey = keyof typeof initialFilters
 
 function CompanyMark({ company }: { company: string }) {
-  return <div aria-label={`Logo de ${company}`} className="flex size-12 shrink-0 items-center justify-center rounded-xl text-xs font-black tracking-tight text-white shadow-sm" style={{ backgroundColor: companyColors[company] ?? "hsl(var(--primary))" }}>{companyInitials[company] ?? company.slice(0, 2).toUpperCase()}</div>
+  const logo = companyLogos[company]
+  return <div aria-label={`Logo de ${company}`} className="flex size-12 shrink-0 items-center justify-center overflow-hidden rounded-xl text-xs font-black tracking-tight text-white shadow-sm" style={{ backgroundColor: companyColors[company] ?? "hsl(var(--primary))" }}>
+    {logo ? <img src={logo} alt="" className="size-8 object-contain" /> : companyInitials[company] ?? company.slice(0, 2).toUpperCase()}
+  </div>
 }
 
 function FilterSelect({ label, value, options, onChange }: { label: string; value: string; options: string[]; onChange: (value: string) => void }) {
@@ -47,7 +50,7 @@ export function OpportunitiesSection() {
         {filtersOpen && <div className="mt-5 grid gap-4 border-t border-border pt-5 sm:grid-cols-2 lg:grid-cols-4"><FilterSelect label="Empresa" value={filters.company} options={opportunityCompanies} onChange={(value) => updateFilter("company", value)} /><FilterSelect label="Habilidad" value={filters.skill} options={opportunitySkills} onChange={(value) => updateFilter("skill", value)} /><FilterSelect label="Nivel" value={filters.level} options={opportunityLevels} onChange={(value) => updateFilter("level", value)} /><FilterSelect label="Modalidad" value={filters.modality} options={opportunityModalities} onChange={(value) => updateFilter("modality", value)} /><FilterSelect label="Ubicación" value={filters.location} options={opportunityLocations} onChange={(value) => updateFilter("location", value)} /><FilterSelect label="Fuente" value={filters.source} options={opportunitySources} onChange={(value) => updateFilter("source", value)} /><FilterSelect label="Año" value={filters.year} options={opportunityYears} onChange={(value) => updateFilter("year", value)} /></div>}
       </div>
 
-      <div className="mb-5 flex flex-wrap items-center justify-between gap-2"><p className="text-sm text-muted-foreground"><span className="font-bold text-foreground">{filtered.length}</span> ofertas encontradas</p><p className="text-sm font-medium text-primary">Actualizado por la comunidad estudiantil</p></div>
+      <div className="mb-5 flex flex-wrap items-center justify-between gap-2"><p className="text-sm text-muted-foreground"><span className="font-bold text-foreground">{filtered.length}</span> ofertas encontradas</p><p className="text-sm font-medium text-primary">Fuente: scripts/scrape_celec.py · Actualizado por la comunidad estudiantil</p></div>
       <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">{filtered.map((item) => <Card key={item.id} className={`flex h-full flex-col border-l-4 ${accentClasses[item.accent]} transition-transform hover:-translate-y-1`}><CardHeader><div className="flex items-start justify-between gap-3"><div className="flex items-center gap-3"><CompanyMark company={item.company} /><div><CardTitle className="font-heading text-xl leading-tight">{item.role}</CardTitle><p className="mt-1 font-medium text-primary">{item.company}</p></div></div><Badge variant="outline">{item.level}</Badge></div></CardHeader><CardContent className="flex-1"><div className="mb-4 flex flex-wrap gap-3 text-xs text-muted-foreground"><span className="inline-flex items-center gap-1"><MapPin data-icon="inline-start" />{item.location}</span><span>{item.modality}</span><span className="inline-flex items-center gap-1"><CalendarDays data-icon="inline-start" />{new Date(item.publishedAt).toLocaleDateString("es-EC", { month: "short", year: "numeric" })}</span></div><p className="text-sm leading-relaxed text-muted-foreground">{item.summary}</p><div className="mt-5 flex flex-wrap gap-2">{item.skills.map((itemSkill) => <Badge key={itemSkill} variant="secondary">{itemSkill}</Badge>)}</div></CardContent><CardFooter className="flex items-center justify-between gap-3"><span className="text-xs text-muted-foreground">{item.source}</span><Button variant="ghost" size="sm" className="text-primary">Ver referencia <ArrowUpRight data-icon="inline-end" /></Button></CardFooter></Card>)}</div>
       {filtered.length === 0 && <div className="rounded-2xl border border-dashed border-border bg-card p-12 text-center text-muted-foreground"><Check className="mx-auto mb-3 text-primary" />No encontramos ofertas con esos filtros.</div>}
     </div>
