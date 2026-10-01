@@ -1,7 +1,7 @@
 "use client"
 
 import { useMemo, useState } from "react"
-import { ArrowUpRight, BriefcaseBusiness, CalendarDays, Check, ChevronDown, MapPin, Search, SlidersHorizontal, Sparkles, X } from "lucide-react"
+import { ArrowUpRight, CalendarDays, Check, ChevronDown, MapPin, Search, SlidersHorizontal, Sparkles, X } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
@@ -40,9 +40,9 @@ export function OpportunitiesSection() {
 
   return <section id="oportunidades" className="scroll-mt-20 border-t border-border bg-muted/30 py-20 md:py-28">
     <div className="mx-auto max-w-7xl px-6">
-      <div className="mb-12 grid gap-8 lg:grid-cols-[1fr_360px] lg:items-end">
-        <div><Badge className="mb-4 gap-2 bg-primary text-primary-foreground"><BriefcaseBusiness data-icon="inline-start" /> Mercado laboral</Badge><h2 className="font-heading text-4xl font-bold tracking-tight text-foreground md:text-6xl">Oportunidades</h2><p className="mt-4 max-w-2xl text-lg leading-relaxed text-muted-foreground">Explora el histórico de ofertas, compara empresas y descubre qué especialidades están abriendo puertas para estudiantes de computación.</p></div>
-        <Card className="border-primary/20 bg-primary text-primary-foreground"><CardContent className="flex gap-4 p-5"><Sparkles className="mt-1 shrink-0 text-secondary" /><div><p className="font-semibold">Especialízate con evidencia</p><p className="mt-1 text-sm leading-relaxed text-primary-foreground/75">Filtra por empresa, modalidad, nivel, año y habilidad para orientar tu siguiente proyecto de aprendizaje.</p></div></CardContent></Card>
+      <div className="mb-8 flex items-center gap-3 rounded-2xl border border-primary/20 bg-primary p-5 text-primary-foreground">
+        <Sparkles className="shrink-0 text-secondary" />
+        <p className="text-sm leading-relaxed text-primary-foreground/85"><span className="font-semibold text-primary-foreground">Especialízate con evidencia.</span> Filtra por empresa, modalidad, nivel, año y habilidad para orientar tu siguiente proyecto de aprendizaje.</p>
       </div>
 
       <div className="mb-8 rounded-2xl border border-border bg-card p-4 md:p-5">
