@@ -2,6 +2,7 @@ import { SiteHeader } from "@/components/site-header"
 import { HeroSection } from "@/components/hero-section"
 import { EventsSection } from "@/components/events-section"
 import { SpeakersSection } from "@/components/speakers-section"
+import { OpportunitiesSection } from "@/components/opportunities-section"
 import { AboutSection } from "@/components/about-section"
 import { SiteFooter } from "@/components/site-footer"
 
@@ -13,6 +14,7 @@ export default function Home() {
         <HeroSection />
         <EventsSection />
         <SpeakersSection />
+        <OpportunitiesSection />
         <AboutSection />
       </main>
       <SiteFooter />

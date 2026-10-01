@@ -40,6 +40,12 @@ export function SiteHeader() {
             Speakers
           </a>
           <a
+            href="#oportunidades"
+            className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
+          >
+            Oportunidades
+          </a>
+          <a
             href="#about"
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
           >
@@ -77,6 +83,13 @@ export function SiteHeader() {
               onClick={() => setMobileOpen(false)}
             >
               Speakers
+            </a>
+            <a
+              href="#oportunidades"
+              className="text-sm font-medium text-muted-foreground hover:text-primary"
+              onClick={() => setMobileOpen(false)}
+            >
+              Oportunidades
             </a>
             <a
               href="#about"
