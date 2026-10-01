@@ -38,11 +38,30 @@ export function OpportunitiesSection() {
     return searchable.includes(query.toLowerCase()) && (filters.skill === "Todas" || item.skills.includes(filters.skill)) && (filters.level === "Todos" || item.level === filters.level) && (filters.modality === "Todas" || item.modality === filters.modality) && (filters.source === "Todas" || item.source === filters.source) && (filters.company === "Todas" || item.company === filters.company) && (filters.location === "Todas" || item.location === filters.location) && (filters.year === "Todos" || item.publishedAt.startsWith(filters.year))
   }), [filters, query])
 
+  const companyIndex = useMemo(() => opportunityCompanies.slice(1).map((company) => ({
+    company,
+    count: opportunities.filter((item) => item.company === company).length,
+  })).sort((a, b) => b.count - a.count || a.company.localeCompare(b.company)), [])
+
   return <section id="oportunidades" className="scroll-mt-20 border-t border-border bg-muted/30 py-20 md:py-28">
     <div className="mx-auto max-w-7xl px-6">
       <div className="mb-8 flex items-center gap-3 rounded-2xl border border-primary/20 bg-primary p-5 text-primary-foreground">
         <Sparkles className="shrink-0 text-secondary" />
         <p className="text-sm leading-relaxed text-primary-foreground/85"><span className="font-semibold text-primary-foreground">Especialízate con evidencia.</span> Filtra por empresa, modalidad, nivel, año y habilidad para orientar tu siguiente proyecto de aprendizaje.</p>
+      </div>
+
+      <div className="mb-8">
+        <div className="mb-4 flex items-end justify-between gap-4">
+          <div><h2 className="font-heading text-2xl font-bold text-foreground md:text-3xl">Índice por empresa</h2><p className="mt-1 text-sm text-muted-foreground">Ofertas históricas para perfiles de Ingeniería en Computación.</p></div>
+          <Badge variant="outline">{opportunities.length} ofertas registradas</Badge>
+        </div>
+        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
+          {companyIndex.map(({ company, count }) => <button key={company} type="button" onClick={() => updateFilter("company", company)} className="group flex items-center gap-3 rounded-xl border border-border bg-card p-3 text-left transition-all hover:-translate-y-0.5 hover:border-primary/50 hover:shadow-md">
+            <CompanyMark company={company} />
+            <span className="min-w-0 flex-1"><span className="block truncate text-sm font-semibold text-foreground">{company}</span><span className="text-xs text-muted-foreground">{count} {count === 1 ? "oferta" : "ofertas"}</span></span>
+            <span className="font-heading text-2xl font-bold text-primary">{count}</span>
+          </button>)}
+        </div>
       </div>
 
       <div className="mb-8 rounded-2xl border border-border bg-card p-4 md:p-5">
