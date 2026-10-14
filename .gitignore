@@ -8,3 +8,8 @@ node_modules/
 .next/
 .env*.local
 .DS_Store
+# Build caches
+*.tsbuildinfo
+
+# This project uses pnpm (pnpm-lock.yaml)
+package-lock.json
