@@ -46,6 +46,12 @@ export function SiteHeader() {
             Oportunidades
           </a>
           <a
+            href="/comunidades"
+            className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
+          >
+            Comunidades
+          </a>
+          <a
             href="#about"
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
           >
@@ -90,6 +96,13 @@ export function SiteHeader() {
               onClick={() => setMobileOpen(false)}
             >
               Oportunidades
+            </a>
+            <a
+              href="/comunidades"
+              className="text-sm font-medium text-muted-foreground hover:text-primary"
+              onClick={() => setMobileOpen(false)}
+            >
+              Comunidades
             </a>
             <a
               href="#about"
