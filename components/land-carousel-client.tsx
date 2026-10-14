@@ -94,13 +94,21 @@ export default function LandCarouselClient({
             const objectPosition = typeof item === 'string' ? 'center' : item.position ?? 'center'
 
             return (
-              <CarouselItem key={i}>
-                <div className="h-full w-full overflow-hidden">
+              <CarouselItem key={i} className="h-full">
+                <div className="relative h-full w-full overflow-hidden">
+                  {/* fondo difuminado de la misma imagen para rellenar los lados sin recortar la foto */}
+                  <img
+                    src={src}
+                    alt=""
+                    aria-hidden="true"
+                    className="absolute inset-0 h-full w-full scale-110 object-cover blur-2xl"
+                    style={{ objectPosition }}
+                    loading="lazy"
+                  />
                   <img
                     src={src}
                     alt={`slide-${i + 1}`}
-                    className="h-full w-full object-cover"
-                    style={{ objectPosition }}
+                    className="relative h-full w-full object-contain"
                     loading="lazy"
                   />
                 </div>
