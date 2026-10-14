@@ -1,4 +1,4 @@
-import { Calendar, Users, Zap } from "lucide-react"
+import { Calendar, Github, Users, Zap } from "lucide-react"
 import LandCarouselClient from "@/components/land-carousel-client"
 import { landImagesData } from "@/lib/land-images"
 
@@ -57,6 +57,16 @@ export function HeroSection() {
           <p className="mt-6 max-w-2xl text-lg leading-relaxed text-primary-foreground/80 text-pretty">
             Descubre los eventos organizados por el Club de Optimizacion y Matematica Computacional y la rama IEEE Student Branch UPEC
           </p>
+
+          <a
+            href="https://github.com/Computacion-UPEC"
+            target="_blank"
+            rel="noreferrer"
+            className="mt-8 inline-flex items-center gap-2 rounded-full bg-secondary px-6 py-3 text-sm font-semibold text-secondary-foreground shadow-lg transition-transform hover:-translate-y-0.5"
+          >
+            <Github className="h-5 w-5" />
+            Nuestros proyectos en GitHub
+          </a>
 
           <div className="mt-12 grid grid-cols-1 gap-6 sm:grid-cols-3">
             <div className="flex items-center gap-3 rounded-xl bg-primary-foreground/10 px-6 py-4">
