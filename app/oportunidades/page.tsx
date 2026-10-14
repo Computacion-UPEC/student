@@ -7,7 +7,7 @@ import { SiteHeader } from "@/components/site-header"
 
 export const metadata: Metadata = {
   title: "Oportunidades | COMC & IEEE Student Branch UPEC",
-  description: "Histórico de ofertas de empleo y habilidades buscadas para estudiantes de Computación UPEC.",
+  description: "Ofertas de empleo reales, internships y becas para estudiantes de Computación UPEC.",
 }
 
 export default function OpportunitiesPage() {

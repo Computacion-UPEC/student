@@ -1,72 +1,59 @@
-export type Opportunity = {
+import celecData from "@/lib/data/celec-jobs.json"
+
+// --- Ofertas reales de CELEC EP (generadas con scripts/scrape_celec.py + scripts/export-celec.mjs)
+
+export type CelecJob = {
   id: string
+  unit: string
   role: string
-  company: string
-  location: string
-  modality: "Remoto" | "Híbrido" | "Presencial"
-  level: "Prácticas" | "Junior" | "Mid-level" | "Senior"
+  /** "Directa": piden Computación/Sistemas/TI. "Posible": carrera afín o cargo TIC, revisar requisitos. */
+  fit: "Directa" | "Posible"
+  fitDetail: string
+  minExperienceMonths: number | null
+  experience: string
+  education: string
+  salary: string
+  openings: string
   publishedAt: string
-  source: string
-  skills: string[]
-  summary: string
-  accent: "green" | "gold" | "blue"
+  closesAt: string | null
+  statusAtScrape: string
+  code: string
+  url: string | null
 }
 
-export const opportunities: Opportunity[] = [
-  { id: "pichincha-dev", role: "Desarrollador Backend", company: "Banco Pichincha", location: "Quito, Ecuador", modality: "Híbrido", level: "Junior", publishedAt: "2026-02-14", source: "LinkedIn", skills: ["Java", "Spring", "SQL", "Git"], summary: "Desarrollo de servicios financieros seguros y APIs para canales digitales.", accent: "green" },
-  { id: "guayaquil-data", role: "Analista de Datos", company: "Banco Guayaquil", location: "Guayaquil, Ecuador", modality: "Híbrido", level: "Junior", publishedAt: "2026-01-31", source: "LinkedIn", skills: ["SQL", "Python", "Power BI", "Excel"], summary: "Convertir datos de negocio en reportes y decisiones para productos financieros.", accent: "gold" },
-  { id: "celec-software", role: "Ingeniero de Software", company: "CELEC EP", location: "Quito, Ecuador", modality: "Presencial", level: "Mid-level", publishedAt: "2025-12-20", source: "Encuentra Empleo", skills: ["Python", "APIs", "PostgreSQL", "Linux"], summary: "Construcción y mantenimiento de sistemas para operación e infraestructura energética.", accent: "blue" },
-  { id: "tulcan-support", role: "Desarrollador de Sistemas", company: "Cooperativa Tulcán", location: "Tulcán, Ecuador", modality: "Presencial", level: "Junior", publishedAt: "2025-11-28", source: "Encuentra Empleo", skills: ["PHP", "JavaScript", "MySQL", "Git"], summary: "Soporte y evolución de aplicaciones internas para servicios cooperativos.", accent: "green" },
-  { id: "gad-web", role: "Desarrollador Web", company: "GAD Municipal", location: "Tulcán, Ecuador", modality: "Presencial", level: "Prácticas", publishedAt: "2025-10-08", source: "Encuentra Empleo", skills: ["HTML", "CSS", "JavaScript", "WordPress"], summary: "Creación de sitios y herramientas digitales para servicios ciudadanos.", accent: "gold" },
-  { id: "cloud-engineer", role: "Cloud Engineer Junior", company: "CloudSofts", location: "Quito, Ecuador", modality: "Remoto", level: "Junior", publishedAt: "2026-02-18", source: "LinkedIn", skills: ["AWS", "Docker", "Linux", "Python"], summary: "Automatización de infraestructura y despliegue de servicios cloud.", accent: "blue" },
-  { id: "backend-python", role: "Backend Developer", company: "Kuna Tech", location: "Latam", modality: "Remoto", level: "Junior", publishedAt: "2026-01-29", source: "Get on Board", skills: ["Python", "FastAPI", "PostgreSQL", "Git"], summary: "Construcción de APIs escalables para una plataforma fintech.", accent: "green" },
-  { id: "frontend-intern", role: "Frontend Developer Intern", company: "Pacha Digital", location: "Tulcán, Ecuador", modality: "Híbrido", level: "Prácticas", publishedAt: "2025-12-11", source: "LinkedIn", skills: ["React", "TypeScript", "CSS", "GitHub"], summary: "Interfaces accesibles y componentes reutilizables.", accent: "gold" },
-  { id: "qa-automation", role: "QA Automation Engineer", company: "DevQuality", location: "Latam", modality: "Remoto", level: "Mid-level", publishedAt: "2025-09-22", source: "Wellfound", skills: ["Playwright", "JavaScript", "CI/CD", "Testing"], summary: "Pruebas automatizadas y mejora continua de aplicaciones web.", accent: "blue" },
-]
+export const celecJobs = celecData.jobs as CelecJob[]
+export const celecSourceFile = celecData.source
+export const celecLatestPublished = celecJobs.reduce((max, job) => (job.publishedAt > max ? job.publishedAt : max), "")
 
-export const opportunitySkills = ["Todas", "Python", "JavaScript", "Java", "React", "Docker", "SQL", "APIs", "Cloud", "Testing"]
-export const opportunityLevels = ["Todos", "Prácticas", "Junior", "Mid-level", "Senior"]
-export const opportunityModalities = ["Todas", "Remoto", "Híbrido", "Presencial"]
-export const opportunitySources = ["Todas", "LinkedIn", "Encuentra Empleo", "Get on Board", "Wellfound"]
-export const opportunityCompanies = ["Todas", "Banco Pichincha", "Banco Guayaquil", "CELEC EP", "Cooperativa Tulcán", "GAD Municipal", "CloudSofts", "Kuna Tech", "Pacha Digital", "DevQuality"]
-export const opportunityLocations = ["Todas", "Quito, Ecuador", "Guayaquil, Ecuador", "Tulcán, Ecuador", "Latam"]
+const CELEC = "https://www.celec.gob.ec"
 
-export const companyInitials: Record<string, string> = {
-  "Banco Pichincha": "BP", "Banco Guayaquil": "BG", "CELEC EP": "CE", "Cooperativa Tulcán": "CT", "GAD Municipal": "GAD", "Encuentra Empleo": "EE", CloudSofts: "CS", "Kuna Tech": "KT", "Pacha Digital": "PD", DevQuality: "DQ",
+// Página de empleo de cada unidad de negocio (las mismas que recorre el scraper)
+export const celecUnitUrls: Record<string, string> = {
+  "CELEC EP Matriz": `${CELEC}/bolsa-de-empleo/`,
+  "CELEC SUR": `${CELEC}/celecsur/bolsa-de-empleo/`,
+  "Coca Codo Sinclair": `${CELEC}/cocacodo/bolsa-de-empleo/`,
+  Hidrotoapi: `${CELEC}/hidrotoapi/bolsa-de-empleo/`,
+  Termoesmeraldas: `${CELEC}/termoesmeraldas/oportunides-de-empleo/`,
+  "Termomanabí": `${CELEC}/termomanabi/bolsa-de-empleo/`,
+  "Termogas Machala": `${CELEC}/termogasmachala/oportunidades-de-empleo/`,
+  Electroguayas: `${CELEC}/electroguayas/`,
+  "Hidroagoyán": `${CELEC}/hidroagoyan/`,
+  Gensur: `${CELEC}/gensur/`,
+  "Hidronación": `${CELEC}/hidronacion/`,
+  Termopichincha: `${CELEC}/termopichincha/`,
+  Transelectric: `${CELEC}/transelectric/`,
 }
 
-export const companyColors: Record<string, string> = {
-  "Banco Pichincha": "#c8102e", "Banco Guayaquil": "#d1006f", "CELEC EP": "#e87519", "Cooperativa Tulcán": "#087f5b", "GAD Municipal": "#1479b8", "Encuentra Empleo": "#3730a3", CloudSofts: "#1e293b", "Kuna Tech": "#6d28d9", "Pacha Digital": "#be185d", DevQuality: "#0e7490",
+export type JobStatus = "Abierta" | "Cerrada" | "Por confirmar"
+
+/** Estado según la fecha de cierre; sin fecha se usa lo que marcó el scraper. */
+export function celecJobStatus(job: CelecJob, today: string | null): JobStatus {
+  if (job.closesAt && today) return job.closesAt >= today ? "Abierta" : "Cerrada"
+  if (job.statusAtScrape.startsWith("Abierta")) return job.closesAt ? "Abierta" : "Por confirmar"
+  return "Cerrada"
 }
 
-export const companyLogos: Record<string, string> = {
-  "Banco Pichincha": "/images/logos/banco-pichincha.svg",
-  "Banco Guayaquil": "/images/logos/banco-guayaquil.png",
-  "CELEC EP": "/images/logos/celec-ep.png",
-  "Cooperativa Tulcán": "/images/logos/cooperativa-tulcan.png",
-}
-
-// Where to apply for each company. Public institutions post jobs on Encuentra Empleo;
-// companies without their own portal link to the platform where their offers were published.
-const encuentraEmpleo = "https://encuentraempleo.trabajo.gob.ec"
-const linkedinSearch = (company: string) => `https://www.linkedin.com/jobs/search/?keywords=${encodeURIComponent(company)}`
-
-export const companyApplyUrls: Record<string, string> = {
-  "Banco Pichincha": "https://vacantes.pichincha.com/",
-  "Banco Guayaquil": "https://apps.bancoguayaquil.com/reclutamiento/",
-  "CELEC EP": encuentraEmpleo,
-  "Cooperativa Tulcán": "https://www.cooptulcan.fin.ec/bolsa-de-empleo/",
-  "GAD Municipal": encuentraEmpleo,
-  CloudSofts: linkedinSearch("CloudSofts"),
-  "Kuna Tech": "https://www.getonbrd.com/jobs",
-  "Pacha Digital": linkedinSearch("Pacha Digital"),
-  DevQuality: "https://wellfound.com/jobs",
-}
-
-// Logos that already include their own background fill the whole tile.
-export const fullBleedLogos = new Set(["Cooperativa Tulcán"])
-
-export const opportunityYears = ["Todos", "2026", "2025"]
+// --- Rutas y convocatorias públicas
 
 export type PublicOpportunity = {
   id: string
