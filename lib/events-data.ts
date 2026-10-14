@@ -365,7 +365,6 @@ export const events: Event[] = [
       "/images/Club/Global Azure/image.jpg",
       "/images/Club/Global Azure/137213514_459525515434107_7064115080387063774_n.jpg",
       "/images/Club/Global Azure/137295451_459527092100616_4498612538876355225_n.jpg",
-      "/images/Club/Global Azure/164337246_508469063873085_4918156804902889359_n.jpg",
     ],
     tags: ["Club", "Global Azure"],
   },
@@ -403,7 +402,6 @@ export const events: Event[] = [
     galleryImages: [
       "/images/Club/Hackaton Dorothy Hood/image.jpg",
       "/images/Club/Hackaton Dorothy Hood/580519995_1448996320569000_9222537604875246104_n.jpg",
-      "/images/Club/Hackaton Dorothy Hood/580525165_1448996523902313_6585156541127987492_n.jpg",
       "/images/Club/Hackaton Dorothy Hood/580869285_1448995640569068_8627014637176927079_n.jpg",
       "/images/Club/Hackaton Dorothy Hood/581060587_1448995790569053_2227940584307286287_n.jpg",
       "/images/Club/Hackaton Dorothy Hood/581062388_1448995740569058_811977940054549788_n.jpg",
@@ -430,7 +428,6 @@ export const events: Event[] = [
       "/images/Club/ICAM-2023/485142607_1112926637543466_5193248837704643868_n.jpg",
       "/images/Club/ICAM-2023/485159363_1112926420876821_7924685312507933759_n.jpg",
       "/images/Club/ICAM-2023/485382161_1112926744210122_6705321244543364328_n.jpg",
-      "/images/Club/ICAM-2023/485661013_1112926447543485_3723093693953439923_n.jpg",
       "/images/Club/ICAM-2023/485709263_1112926424210154_759221080577280064_n.jpg",
       "/images/Club/ICAM-2023/485767119_1112926620876801_434584313237290801_n.jpg",
       "/images/Club/ICAM-2023/485792695_1112926444210152_8486577385782591745_n.jpg",
@@ -453,7 +450,6 @@ export const events: Event[] = [
     posterImage: "/images/Club/IEEE Xtreame/image.jpg",
     galleryImages: [
       "/images/Club/IEEE Xtreame/image.jpg",
-      "/images/Club/IEEE Xtreame/572520012_1434998268635472_4209563847533959564_n.jpg",
       "/images/Club/IEEE Xtreame/573032373_1434998185302147_5064283394109673532_n.jpg",
       "/images/Club/IEEE Xtreame/573876017_1434998188635480_8692841714282183411_n.jpg",
       "/images/Club/IEEE Xtreame/574060873_1434998191968813_3404813503617636424_n (1).jpg",
@@ -497,7 +493,6 @@ export const events: Event[] = [
     posterImage: "/images/Club/IoT/image.jpg",
     galleryImages: [
       "/images/Club/IoT/image.jpg",
-      "/images/Club/IoT/615392661_1358714366298024_6683490841465496469_n.jpg",
       "/images/Club/IoT/615469232_1358714126298048_1771444998256300022_n.jpg",
       "/images/Club/IoT/615488779_1358714312964696_3536813422139858738_n.jpg",
       "/images/Club/IoT/615853415_1358714062964721_1101341111533403276_n.jpg",
@@ -564,7 +559,6 @@ export const events: Event[] = [
     posterImage: "/images/Club/Yachay Navidad/603088054_1344311741071620_4038708009968465707_n.jpg",
     galleryImages: [
       "/images/Club/Yachay Navidad/603088054_1344311741071620_4038708009968465707_n.jpg",
-      "/images/Club/Yachay Navidad/604271131_1344311664404961_579433211131059204_n.jpg",
       "/images/Club/Yachay Navidad/604361685_1344311667738294_692892450457586051_n.jpg",
       "/images/Club/Yachay Navidad/604688564_1344311617738299_6577173980192763151_n.jpg",
       "/images/Club/Yachay Navidad/604725930_1344311811071613_6222709147910958234_n.jpg",
