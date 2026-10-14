@@ -46,6 +46,23 @@ export const companyLogos: Record<string, string> = {
   "Cooperativa Tulcán": "/images/logos/cooperativa-tulcan.png",
 }
 
+// Where to apply for each company. Public institutions post jobs on Encuentra Empleo;
+// companies without their own portal link to the platform where their offers were published.
+const encuentraEmpleo = "https://encuentraempleo.trabajo.gob.ec"
+const linkedinSearch = (company: string) => `https://www.linkedin.com/jobs/search/?keywords=${encodeURIComponent(company)}`
+
+export const companyApplyUrls: Record<string, string> = {
+  "Banco Pichincha": "https://vacantes.pichincha.com/",
+  "Banco Guayaquil": "https://apps.bancoguayaquil.com/reclutamiento/",
+  "CELEC EP": encuentraEmpleo,
+  "Cooperativa Tulcán": "https://www.cooptulcan.fin.ec/bolsa-de-empleo/",
+  "GAD Municipal": encuentraEmpleo,
+  CloudSofts: linkedinSearch("CloudSofts"),
+  "Kuna Tech": "https://www.getonbrd.com/jobs",
+  "Pacha Digital": linkedinSearch("Pacha Digital"),
+  DevQuality: "https://wellfound.com/jobs",
+}
+
 // Logos that already include their own background fill the whole tile.
 export const fullBleedLogos = new Set(["Cooperativa Tulcán"])
 
@@ -62,7 +79,7 @@ export type PublicOpportunity = {
 }
 
 export const publicOpportunities: PublicOpportunity[] = [
-  { id: "educa-empleo", title: "Educa Empleo", platform: "educaempleo.educacion.gob.ec", url: "https://educaempleo.educacion.gob.ec", description: "Convocatorias para docencia técnica de informática en instituciones fiscales.", steps: ["Crear cuenta con cédula y correo", "Validar título en SENESCYT", "Filtrar por provincia y especialidad", "Postular hasta a 5 instituciones"], category: "Docencia técnica" },
+  { id: "educa-empleo", title: "Educa Empleo", platform: "academico.educarecuador.gob.ec", url: "https://academico.educarecuador.gob.ec/educaempleo/#/homePage", description: "Convocatorias para docencia técnica de informática en instituciones fiscales.", steps: ["Crear cuenta con cédula y correo", "Validar título en SENESCYT", "Filtrar por provincia y especialidad", "Postular hasta a 5 instituciones"], category: "Docencia técnica" },
   { id: "policia-especialistas", title: "Oficial Especialista · Policía Nacional", platform: "reclutamiento.policia.gob.ec", url: "https://reclutamiento.policia.gob.ec", description: "Convocatorias para profesionales TIC, informática y áreas especializadas.", steps: ["Registrar usuario durante el llamamiento", "Validar título SENESCYT", "Descargar prospecto y declaración", "Subir documentos PDF"], category: "Sector público" },
   { id: "fuerzas-armadas", title: "Oficial Especialista · Fuerzas Armadas", platform: "ESMIL · FAE · Armada", url: "https://esmil.mil.ec", description: "Procesos de admisión para especialistas en TIC y ciberdefensa.", steps: ["Revisar el boletín oficial", "Crear cuenta en el portal de la rama", "Descargar expediente de admisión", "Completar pruebas y entrega documental"], category: "TIC y ciberdefensa" },
   { id: "ist-publicos", title: "Docencia en Institutos Técnicos Públicos", platform: "educacionsuperior.gob.ec", url: "https://educacionsuperior.gob.ec", description: "Concursos y servicios ocasionales para docentes de institutos superiores.", steps: ["Revisar convocatorias semestrales", "Preparar expediente digital", "Enviar documentos a Talento Humano", "Presentar entrevista y clase demostrativa"], category: "Docencia técnica" },

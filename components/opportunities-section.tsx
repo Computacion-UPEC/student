@@ -6,7 +6,7 @@ import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
-import { opportunities, publicOpportunities, opportunityCompanies, opportunityLevels, opportunityLocations, opportunityModalities, opportunitySkills, opportunitySources, opportunityYears, companyColors, companyInitials, companyLogos, fullBleedLogos } from "@/lib/opportunities-data"
+import { opportunities, publicOpportunities, opportunityCompanies, opportunityLevels, opportunityLocations, opportunityModalities, opportunitySkills, opportunitySources, opportunityYears, companyColors, companyInitials, companyLogos, fullBleedLogos, companyApplyUrls } from "@/lib/opportunities-data"
 
 const accentClasses = { green: "border-l-primary", gold: "border-l-secondary", blue: "border-l-sky-500" }
 const initialFilters = { skill: "Todas", level: "Todos", modality: "Todas", source: "Todas", company: "Todas", location: "Todas", year: "Todos" }
@@ -53,7 +53,10 @@ export function OpportunitiesSection() {
 
       <div className="mb-10">
         <div className="mb-4 flex items-end justify-between gap-4"><div><h2 className="font-heading text-2xl font-bold text-foreground md:text-3xl">Rutas y convocatorias</h2><p className="mt-1 text-sm text-muted-foreground">Opciones concretas para ingresar a docencia, sector público y consultoría.</p></div><Badge variant="outline">{publicOpportunities.length} rutas</Badge></div>
-        <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">{publicOpportunities.map((item) => <Card key={item.id} className="flex h-full flex-col border-primary/15"><CardHeader><div className="flex items-start justify-between gap-3"><div><Badge variant="secondary" className="mb-3">{item.category}</Badge><CardTitle className="font-heading text-xl leading-tight">{item.title}</CardTitle><p className="mt-2 text-xs font-medium text-primary">{item.platform}</p></div><Button asChild variant="outline" size="icon" aria-label={`Abrir ${item.title}`}><a href={item.url} target="_blank" rel="noreferrer"><ArrowUpRight data-icon="inline-end" /></a></Button></div></CardHeader><CardContent className="flex-1"><p className="text-sm leading-relaxed text-muted-foreground">{item.description}</p><ol className="mt-4 flex flex-col gap-2 text-sm text-foreground">{item.steps.map((step, index) => <li key={step} className="flex gap-2"><span className="flex size-5 shrink-0 items-center justify-center rounded-full bg-primary text-xs font-bold text-primary-foreground">{index + 1}</span><span>{step}</span></li>)}</ol></CardContent></Card>)}</div>
+        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">{publicOpportunities.map((item) => <Card key={item.id} className="flex h-full flex-col gap-0 border-primary/15 py-0">
+          <div className="flex items-start justify-between gap-3 p-4 pb-2"><div className="min-w-0"><Badge variant="secondary" className="mb-2 text-[11px]">{item.category}</Badge><h3 className="font-heading text-base font-bold leading-tight text-foreground">{item.title}</h3><p className="mt-1 truncate text-xs font-medium text-primary">{item.platform}</p></div><Button asChild variant="outline" size="icon" className="size-8 shrink-0" aria-label={`Abrir ${item.title}`}><a href={item.url} target="_blank" rel="noreferrer"><ArrowUpRight data-icon="inline-end" /></a></Button></div>
+          <div className="flex flex-1 flex-col px-4 pb-4"><p className="line-clamp-2 text-sm leading-snug text-muted-foreground">{item.description}</p><details className="group mt-2 text-sm"><summary className="flex cursor-pointer list-none items-center gap-1 text-xs font-semibold text-primary hover:underline [&::-webkit-details-marker]:hidden"><ChevronDown className="size-3.5 transition-transform group-open:rotate-180" /> Ver pasos</summary><ol className="mt-2 flex flex-col gap-1.5 text-foreground">{item.steps.map((step, index) => <li key={step} className="flex gap-2 text-xs"><span className="flex size-4 shrink-0 items-center justify-center rounded-full bg-primary text-[10px] font-bold text-primary-foreground">{index + 1}</span><span>{step}</span></li>)}</ol></details></div>
+        </Card>)}</div>
       </div>
 
       <div className="mb-8">
@@ -62,11 +65,14 @@ export function OpportunitiesSection() {
           <Badge variant="outline">{opportunities.length} ofertas registradas</Badge>
         </div>
         <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
-          {companyIndex.map(({ company, count }) => <button key={company} type="button" onClick={() => updateFilter("company", company)} className="group flex items-center gap-3 rounded-xl border border-border bg-card p-3 text-left transition-all hover:-translate-y-0.5 hover:border-primary/50 hover:shadow-md">
-            <CompanyMark company={company} />
-            <span className="min-w-0 flex-1"><span className="block truncate text-sm font-semibold text-foreground">{company}</span><span className="text-xs text-muted-foreground">{count} {count === 1 ? "oferta" : "ofertas"}</span></span>
-            <span className="font-heading text-2xl font-bold text-primary">{count}</span>
-          </button>)}
+          {companyIndex.map(({ company, count }) => <div key={company} className="flex flex-col gap-2 rounded-xl border border-border bg-card p-3 transition-all hover:-translate-y-0.5 hover:border-primary/50 hover:shadow-md">
+            <button type="button" onClick={() => updateFilter("company", company)} className="flex items-center gap-3 text-left" aria-label={`Ver ofertas de ${company}`}>
+              <CompanyMark company={company} />
+              <span className="min-w-0 flex-1"><span className="block truncate text-sm font-semibold text-foreground">{company}</span><span className="text-xs text-muted-foreground">{count} {count === 1 ? "oferta" : "ofertas"}</span></span>
+              <span className="font-heading text-2xl font-bold text-primary">{count}</span>
+            </button>
+            {companyApplyUrls[company] && <Button asChild size="sm" variant="outline" className="h-7 w-full text-xs"><a href={companyApplyUrls[company]} target="_blank" rel="noreferrer">Postular <ArrowUpRight data-icon="inline-end" /></a></Button>}
+          </div>)}
         </div>
       </div>
 
