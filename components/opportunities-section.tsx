@@ -6,7 +6,7 @@ import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
-import { opportunities, opportunityCompanies, opportunityLevels, opportunityLocations, opportunityModalities, opportunitySkills, opportunitySources, opportunityYears, companyColors, companyInitials, companyLogos } from "@/lib/opportunities-data"
+import { opportunities, publicOpportunities, opportunityCompanies, opportunityLevels, opportunityLocations, opportunityModalities, opportunitySkills, opportunitySources, opportunityYears, companyColors, companyInitials, companyLogos } from "@/lib/opportunities-data"
 
 const accentClasses = { green: "border-l-primary", gold: "border-l-secondary", blue: "border-l-sky-500" }
 const initialFilters = { skill: "Todas", level: "Todos", modality: "Todas", source: "Todas", company: "Todas", location: "Todas", year: "Todos" }
@@ -48,6 +48,11 @@ export function OpportunitiesSection() {
       <div className="mb-8 flex items-center gap-3 rounded-2xl border border-primary/20 bg-primary p-5 text-primary-foreground">
         <Sparkles className="shrink-0 text-secondary" />
         <p className="text-sm leading-relaxed text-primary-foreground/85"><span className="font-semibold text-primary-foreground">Especialízate con evidencia.</span> Filtra por empresa, modalidad, nivel, año y habilidad para orientar tu siguiente proyecto de aprendizaje.</p>
+      </div>
+
+      <div className="mb-10">
+        <div className="mb-4 flex items-end justify-between gap-4"><div><h2 className="font-heading text-2xl font-bold text-foreground md:text-3xl">Rutas y convocatorias</h2><p className="mt-1 text-sm text-muted-foreground">Opciones concretas para ingresar a docencia, sector público y consultoría.</p></div><Badge variant="outline">{publicOpportunities.length} rutas</Badge></div>
+        <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">{publicOpportunities.map((item) => <Card key={item.id} className="flex h-full flex-col border-primary/15"><CardHeader><div className="flex items-start justify-between gap-3"><div><Badge variant="secondary" className="mb-3">{item.category}</Badge><CardTitle className="font-heading text-xl leading-tight">{item.title}</CardTitle><p className="mt-2 text-xs font-medium text-primary">{item.platform}</p></div><Button asChild variant="outline" size="icon" aria-label={`Abrir ${item.title}`}><a href={item.url} target="_blank" rel="noreferrer"><ArrowUpRight data-icon="inline-end" /></a></Button></div></CardHeader><CardContent className="flex-1"><p className="text-sm leading-relaxed text-muted-foreground">{item.description}</p><ol className="mt-4 flex flex-col gap-2 text-sm text-foreground">{item.steps.map((step, index) => <li key={step} className="flex gap-2"><span className="flex size-5 shrink-0 items-center justify-center rounded-full bg-primary text-xs font-bold text-primary-foreground">{index + 1}</span><span>{step}</span></li>)}</ol></CardContent></Card>)}</div>
       </div>
 
       <div className="mb-8">
