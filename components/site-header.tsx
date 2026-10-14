@@ -28,25 +28,31 @@ export function SiteHeader() {
 
         <nav className="hidden items-center gap-8 md:flex">
           <a
-            href="#eventos"
+            href="/#eventos"
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
           >
             Eventos
           </a>
           <a
-            href="#speakers"
+            href="/#speakers"
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
           >
             Speakers
           </a>
           <a
-            href="#oportunidades"
+            href="/oportunidades"
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
           >
             Oportunidades
           </a>
           <a
-            href="#about"
+            href="/comunidades"
+            className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
+          >
+            Comunidades
+          </a>
+          <a
+            href="/#about"
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
           >
             Nosotros
@@ -71,28 +77,35 @@ export function SiteHeader() {
         <nav className="border-t border-border bg-card px-6 py-4 md:hidden">
           <div className="flex flex-col gap-4">
             <a
-              href="#eventos"
+              href="/#eventos"
               className="text-sm font-medium text-muted-foreground hover:text-primary"
               onClick={() => setMobileOpen(false)}
             >
               Eventos
             </a>
             <a
-              href="#speakers"
+              href="/#speakers"
               className="text-sm font-medium text-muted-foreground hover:text-primary"
               onClick={() => setMobileOpen(false)}
             >
               Speakers
             </a>
             <a
-              href="#oportunidades"
+              href="/oportunidades"
               className="text-sm font-medium text-muted-foreground hover:text-primary"
               onClick={() => setMobileOpen(false)}
             >
               Oportunidades
             </a>
             <a
-              href="#about"
+              href="/comunidades"
+              className="text-sm font-medium text-muted-foreground hover:text-primary"
+              onClick={() => setMobileOpen(false)}
+            >
+              Comunidades
+            </a>
+            <a
+              href="/#about"
               className="text-sm font-medium text-muted-foreground hover:text-primary"
               onClick={() => setMobileOpen(false)}
             >
