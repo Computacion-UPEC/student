@@ -28,13 +28,13 @@ export function SiteHeader() {
 
         <nav className="hidden items-center gap-8 md:flex">
           <a
-            href="#eventos"
+            href="/#eventos"
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
           >
             Eventos
           </a>
           <a
-            href="#speakers"
+            href="/#speakers"
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
           >
             Speakers
@@ -52,7 +52,7 @@ export function SiteHeader() {
             Comunidades
           </a>
           <a
-            href="#about"
+            href="/#about"
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary"
           >
             Nosotros
@@ -77,14 +77,14 @@ export function SiteHeader() {
         <nav className="border-t border-border bg-card px-6 py-4 md:hidden">
           <div className="flex flex-col gap-4">
             <a
-              href="#eventos"
+              href="/#eventos"
               className="text-sm font-medium text-muted-foreground hover:text-primary"
               onClick={() => setMobileOpen(false)}
             >
               Eventos
             </a>
             <a
-              href="#speakers"
+              href="/#speakers"
               className="text-sm font-medium text-muted-foreground hover:text-primary"
               onClick={() => setMobileOpen(false)}
             >
@@ -105,7 +105,7 @@ export function SiteHeader() {
               Comunidades
             </a>
             <a
-              href="#about"
+              href="/#about"
               className="text-sm font-medium text-muted-foreground hover:text-primary"
               onClick={() => setMobileOpen(false)}
             >
