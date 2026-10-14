@@ -36,17 +36,18 @@ export const companyInitials: Record<string, string> = {
 }
 
 export const companyColors: Record<string, string> = {
-  "Banco Pichincha": "#c8102e", "Banco Guayaquil": "#005baa", "CELEC EP": "#e87519", "Cooperativa Tulcán": "#087f5b", "GAD Municipal": "#1479b8", "Encuentra Empleo": "#3730a3", CloudSofts: "#1e293b", "Kuna Tech": "#6d28d9", "Pacha Digital": "#be185d", DevQuality: "#0e7490",
+  "Banco Pichincha": "#c8102e", "Banco Guayaquil": "#d1006f", "CELEC EP": "#e87519", "Cooperativa Tulcán": "#087f5b", "GAD Municipal": "#1479b8", "Encuentra Empleo": "#3730a3", CloudSofts: "#1e293b", "Kuna Tech": "#6d28d9", "Pacha Digital": "#be185d", DevQuality: "#0e7490",
 }
 
 export const companyLogos: Record<string, string> = {
-  "Banco Pichincha": "https://thesvg.org/icons/banco-pichincha/default.svg",
-  "Banco Guayaquil": "https://thesvg.org/icons/banco-guayaquil/default.svg",
-  "CELEC EP": "https://thesvg.org/icons/celec-ep/default.svg",
-  "Cooperativa Tulcán": "https://thesvg.org/icons/cooperativa-tulcan/default.svg",
-  "GAD Municipal": "https://thesvg.org/icons/gad-municipal/default.svg",
-  "Encuentra Empleo": "https://thesvg.org/icons/encuentra-empleo/default.svg",
+  "Banco Pichincha": "/images/logos/banco-pichincha.svg",
+  "Banco Guayaquil": "/images/logos/banco-guayaquil.png",
+  "CELEC EP": "/images/logos/celec-ep.png",
+  "Cooperativa Tulcán": "/images/logos/cooperativa-tulcan.png",
 }
+
+// Logos that already include their own background fill the whole tile.
+export const fullBleedLogos = new Set(["Cooperativa Tulcán"])
 
 export const opportunityYears = ["Todos", "2026", "2025"]
 

@@ -6,7 +6,7 @@ import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
-import { opportunities, publicOpportunities, opportunityCompanies, opportunityLevels, opportunityLocations, opportunityModalities, opportunitySkills, opportunitySources, opportunityYears, companyColors, companyInitials, companyLogos } from "@/lib/opportunities-data"
+import { opportunities, publicOpportunities, opportunityCompanies, opportunityLevels, opportunityLocations, opportunityModalities, opportunitySkills, opportunitySources, opportunityYears, companyColors, companyInitials, companyLogos, fullBleedLogos } from "@/lib/opportunities-data"
 
 const accentClasses = { green: "border-l-primary", gold: "border-l-secondary", blue: "border-l-sky-500" }
 const initialFilters = { skill: "Todas", level: "Todos", modality: "Todas", source: "Todas", company: "Todas", location: "Todas", year: "Todos" }
@@ -15,8 +15,9 @@ type FilterKey = keyof typeof initialFilters
 
 function CompanyMark({ company }: { company: string }) {
   const logo = companyLogos[company]
-  return <div aria-label={`Logo de ${company}`} className="flex size-12 shrink-0 items-center justify-center overflow-hidden rounded-xl text-xs font-black tracking-tight text-white shadow-sm" style={{ backgroundColor: companyColors[company] ?? "hsl(var(--primary))" }}>
-    {logo ? <img src={logo} alt="" className="size-8 object-contain" /> : companyInitials[company] ?? company.slice(0, 2).toUpperCase()}
+  const fullBleed = fullBleedLogos.has(company)
+  return <div aria-label={`Logo de ${company}`} className={`flex size-12 shrink-0 items-center justify-center overflow-hidden rounded-xl text-xs font-black tracking-tight text-white shadow-sm ${logo && !fullBleed ? "border bg-white p-1.5" : ""}`} style={logo ? undefined : { backgroundColor: companyColors[company] ?? "hsl(var(--primary))" }}>
+    {logo ? <img src={logo} alt="" className={fullBleed ? "size-full object-cover" : "size-full object-contain"} /> : companyInitials[company] ?? company.slice(0, 2).toUpperCase()}
   </div>
 }
 
