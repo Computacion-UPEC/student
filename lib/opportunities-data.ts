@@ -76,11 +76,13 @@ export type PublicOpportunity = {
   description: string
   steps: string[]
   category: string
+  /** Short status note, e.g. when a call only opens once a year. */
+  note?: string
 }
 
 export const publicOpportunities: PublicOpportunity[] = [
   { id: "educa-empleo", title: "Educa Empleo", platform: "academico.educarecuador.gob.ec", url: "https://academico.educarecuador.gob.ec/educaempleo/#/homePage", description: "Convocatorias para docencia técnica de informática en instituciones fiscales.", steps: ["Crear cuenta con cédula y correo", "Validar título en SENESCYT", "Filtrar por provincia y especialidad", "Postular hasta a 5 instituciones"], category: "Docencia técnica" },
-  { id: "policia-especialistas", title: "Oficial Especialista · Policía Nacional", platform: "reclutamiento.policia.gob.ec", url: "https://reclutamiento.policia.gob.ec", description: "Convocatorias para profesionales TIC, informática y áreas especializadas.", steps: ["Registrar usuario durante el llamamiento", "Validar título SENESCYT", "Descargar prospecto y declaración", "Subir documentos PDF"], category: "Sector público" },
+  { id: "policia-especialistas", title: "Oficial Especialista · Policía Nacional", platform: "reclutamiento.policia.gob.ec", url: "https://reclutamiento.policia.gob.ec", description: "Convocatorias para profesionales TIC, informática y áreas especializadas.", steps: ["Registrar usuario durante el llamamiento", "Validar título SENESCYT", "Descargar prospecto y declaración", "Subir documentos PDF"], category: "Sector público", note: "Convocatoria anual. Última: abril 2026 (cerrada)." },
   { id: "sercop-consultoria", title: "Proveedor del Estado · SERCOP", platform: "portal.compraspublicas.gob.ec", url: "https://portal.compraspublicas.gob.ec/sercop/", description: "Oportunidades de consultoría, desarrollo, redes y soporte mediante contratación pública.", steps: ["Obtener RUP con RUC activo", "Seleccionar códigos CPC afines", "Filtrar necesidades por Carchi", "Enviar cotización y hoja técnica"], category: "Consultoría" },
   { id: "encuentra-empleo-publico", title: "Vacantes del Sector Público", platform: "encuentraempleo.trabajo.gob.ec", url: "https://encuentraempleo.trabajo.gob.ec", description: "Convocatorias LOSEP y servicios ocasionales para perfiles de Tecnologías de la Información.", steps: ["Completar la hoja de vida", "Entrar a Sector Público", "Filtrar por TIC y nivel jerárquico", "Postular a las convocatorias"], category: "Sector público" },
 ]
