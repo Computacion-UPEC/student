@@ -1,22 +1,24 @@
 "use client"
 
-import { useState, type ReactNode } from "react"
-import { Building2, CircleDot, History, Landmark, Zap } from "lucide-react"
+import { useEffect, useState, type ReactNode } from "react"
+import { Building2, CircleDot, Code2, History, Landmark, Zap } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import { CelecJobs } from "@/components/opportunities/celec-jobs"
 import { FinanceJobs, financeITJobs } from "@/components/opportunities/finance-jobs"
 import { FinancePortals } from "@/components/opportunities/finance-portals"
 import { PetroecuadorJobs } from "@/components/opportunities/petroecuador-jobs"
 import { PublicRoutes } from "@/components/opportunities/public-routes"
+import { TechJobs, countRecentTechITJobs } from "@/components/opportunities/tech-jobs"
 import { EmploymentStageNotice } from "@/components/opportunities/stage-picker"
 import { financePortals } from "@/lib/finance-portals"
 import { celecJobs, publicOpportunities } from "@/lib/opportunities-data"
 import { itJobs as petroecuadorITJobs } from "@/components/opportunities/petroecuador-jobs"
 import type { Stage } from "@/lib/student-stages"
 
-type Sector = "energia" | "financiero" | "publico"
+type Sector = "tecnologia" | "energia" | "financiero" | "publico"
 
 const sectors: { id: Sector; label: string; icon: typeof Zap; ownership: string; count: number; unit: string; description: string }[] = [
+  { id: "tecnologia", label: "Tecnología / Software", icon: Code2, ownership: "Privado", count: countRecentTechITJobs(null), unit: "vacantes", description: "Vacantes de TI en Ecuador de empresas de desarrollo de software (Devsu, Stack Builders)." },
   { id: "energia", label: "Energía", icon: Zap, ownership: "Empresas públicas", count: celecJobs.length + petroecuadorITJobs.length, unit: "ofertas", description: petroecuadorITJobs.length ? "Convocatorias reales de CELEC EP (electricidad) y cargos de TI de EP Petroecuador (petróleo)." : "Convocatorias reales de CELEC EP (electricidad). Los cargos de TI de Petroecuador aparecerán cuando publique alguno." },
   { id: "financiero", label: "Financiero", icon: Landmark, ownership: "Públicos y privados", count: financePortals.length, unit: "portales", description: financeITJobs.length ? "Ofertas de TI de bancos y cooperativas, y sus portales oficiales de empleo." : "Portales oficiales de empleo de bancos y cooperativas." },
   { id: "publico", label: "Sector público", icon: Building2, ownership: "Público", count: publicOpportunities.length, unit: "rutas", description: "Plataformas del Estado para docencia, cargos públicos y consultoría." },
@@ -40,6 +42,10 @@ export function EmploymentTab({ stage }: { stage: Stage | null }) {
   const [showHistoric, setShowHistoric] = useState(false)
   const filters = { onlyOpen, showHistoric, onShowHistoric: () => setShowHistoric(true) }
   const visible = (id: Sector) => sector === "todos" || sector === id
+  // El conteo de Tecnología depende de la fecha (últimos 60 días): se calcula al montar
+  const [now, setNow] = useState<number | null>(null)
+  useEffect(() => { setNow(Date.now()) }, [])
+  const countFor = (item: (typeof sectors)[number]) => item.id === "tecnologia" ? countRecentTechITJobs(now) : item.count
 
   const toggleClass = (active: boolean) => `inline-flex items-center gap-1.5 rounded-lg border px-3 py-1.5 text-sm font-medium transition-colors ${active ? "border-primary bg-primary text-primary-foreground" : "border-border bg-background text-foreground hover:border-primary/50"}`
 
@@ -48,7 +54,7 @@ export function EmploymentTab({ stage }: { stage: Stage | null }) {
 
     <div className="mb-8 flex flex-col gap-3 rounded-2xl border border-border bg-card p-4 lg:flex-row lg:items-center lg:justify-between">
       <div className="flex flex-wrap gap-1 rounded-lg bg-muted p-1" role="group" aria-label="Sector">
-        {[{ id: "todos" as const, label: "Todos", count: null }, ...sectors.map((item) => ({ id: item.id, label: item.label, count: item.count }))].map((item) => <button key={item.id} type="button" aria-pressed={sector === item.id} onClick={() => setSector(item.id)} className={`rounded-md px-3 py-1.5 text-sm font-medium transition-colors ${sector === item.id ? "bg-background text-foreground shadow-sm" : "text-muted-foreground hover:text-foreground"}`}>{item.label}{item.count != null && <span className="ml-1 text-xs text-muted-foreground">{item.count}</span>}</button>)}
+        {[{ id: "todos" as const, label: "Todos", count: null }, ...sectors.map((item) => ({ id: item.id, label: item.label, count: countFor(item) }))].map((item) => <button key={item.id} type="button" aria-pressed={sector === item.id} onClick={() => setSector(item.id)} className={`rounded-md px-3 py-1.5 text-sm font-medium transition-colors ${sector === item.id ? "bg-background text-foreground shadow-sm" : "text-muted-foreground hover:text-foreground"}`}>{item.label}{item.count != null && <span className="ml-1 text-xs text-muted-foreground">{item.count}</span>}</button>)}
       </div>
       <div className="flex flex-wrap gap-2">
         <button type="button" aria-pressed={onlyOpen} onClick={() => setOnlyOpen((value) => !value)} className={toggleClass(onlyOpen)}><CircleDot className="size-4" /> Solo abiertas</button>
@@ -56,8 +62,9 @@ export function EmploymentTab({ stage }: { stage: Stage | null }) {
       </div>
     </div>
 
-    {visible("energia") && <SectorGroup sector={sectors[0]}><PetroecuadorJobs {...filters} /><CelecJobs {...filters} /></SectorGroup>}
-    {visible("financiero") && <SectorGroup sector={sectors[1]}><FinanceJobs {...filters} /><FinancePortals /></SectorGroup>}
-    {visible("publico") && <SectorGroup sector={sectors[2]}><PublicRoutes /></SectorGroup>}
+    {visible("tecnologia") && <SectorGroup sector={sectors.find((item) => item.id === "tecnologia")!}><TechJobs {...filters} /></SectorGroup>}
+    {visible("energia") && <SectorGroup sector={sectors.find((item) => item.id === "energia")!}><PetroecuadorJobs {...filters} /><CelecJobs {...filters} /></SectorGroup>}
+    {visible("financiero") && <SectorGroup sector={sectors.find((item) => item.id === "financiero")!}><FinanceJobs {...filters} /><FinancePortals /></SectorGroup>}
+    {visible("publico") && <SectorGroup sector={sectors.find((item) => item.id === "publico")!}><PublicRoutes /></SectorGroup>}
   </div>
 }
