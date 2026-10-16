@@ -305,7 +305,9 @@ def requisitos(f, t):
             m = meses_experiencia(seg)
             if m is not None:
                 meses.append(m)
-        sm = re.search(r"\$\s?([\d.]+,\d{2}|\d[\d.,]*)", b) or re.search(r"\b(\d{3,4}\.\d{2})\b", b)
+        # Toma el número completo: algunas convocatorias usan "1.170,00" y otras "1,170.00"
+        # (el patrón anterior cortaba "1,170.00" en "1,17"). export-celec.mjs lo normaliza.
+        sm = re.search(r"\$\s?(\d[\d.,]*\d)", b) or re.search(r"\b(\d{3,4}\.\d{2})\b", b)
         if sm:
             sueldos.append("$ " + sm.group(1))
     return (" || ".join(dict.fromkeys(forms)), " || ".join(dict.fromkeys(exps)),
