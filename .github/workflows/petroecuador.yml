@@ -1,0 +1,52 @@
+# Recolecta las convocatorias de EP Petroecuador y guarda el historial en lib/data/petroecuador-jobs.json.
+# Algunas convocatorias duran solo 2 días, por eso corre dos veces al día. Solo hace commit si hay cambios,
+# y ese commit dispara el despliegue en Vercel.
+name: Convocatorias Petroecuador
+
+on:
+  schedule:
+    - cron: "0 13 * * *" # 08:00 en Ecuador
+    - cron: "0 23 * * *" # 18:00 en Ecuador
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: petroecuador-collector
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: scripts/petroecuador/package-lock.json
+
+      - name: Instalar el recolector
+        working-directory: scripts/petroecuador
+        run: |
+          npm ci --no-audit --no-fund
+          npx playwright-core install --with-deps chromium
+
+      - name: Recolectar convocatorias
+        working-directory: scripts/petroecuador
+        run: node collect.mjs
+
+      - name: Guardar cambios
+        run: |
+          if git diff --quiet -- lib/data/petroecuador-jobs.json; then
+            echo "Sin cambios en las convocatorias."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add lib/data/petroecuador-jobs.json
+          git commit -m "Update Petroecuador job calls"
+          git push

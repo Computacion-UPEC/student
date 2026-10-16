@@ -12,4 +12,4 @@ node_modules/
 *.tsbuildinfo
 
 # This project uses pnpm (pnpm-lock.yaml)
-package-lock.json
+/package-lock.json
