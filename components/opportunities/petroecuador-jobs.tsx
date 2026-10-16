@@ -6,6 +6,7 @@ import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import petroecuadorData from "@/lib/data/petroecuador-jobs.json"
 import type { PetroecuadorJob } from "@/lib/opportunities-data"
+import type { EmploymentFilters } from "@/components/opportunities/celec-jobs"
 
 const data = petroecuadorData as { source: string; collectedSince: string; jobs: PetroecuadorJob[] }
 const PREVIEW = 6
@@ -27,7 +28,7 @@ function statusOf(job: PetroecuadorJob, now: number | null): Status {
   return now <= Date.parse(job.closesAt) ? "Abierta" : "Cerrada"
 }
 
-export function PetroecuadorJobs() {
+export function PetroecuadorJobs({ onlyOpen, showHistoric, onShowHistoric }: EmploymentFilters) {
   const [now, setNow] = useState<number | null>(null)
   const [onlyIT, setOnlyIT] = useState(false)
   const [showAll, setShowAll] = useState(false)
@@ -37,7 +38,10 @@ export function PetroecuadorJobs() {
     .map((job) => ({ ...job, status: statusOf(job, now) }))
     .sort((a, b) => Number(b.status !== "Cerrada") - Number(a.status !== "Cerrada") || Number(b.isIT) - Number(a.isIT) || (b.opensAt ?? "").localeCompare(a.opensAt ?? "")), [now])
 
-  const filtered = jobs.filter((job) => !onlyIT || job.isIT)
+  const currentYear = now == null ? null : new Date(now).getFullYear().toString()
+  const isPastYear = (job: PetroecuadorJob) => currentYear != null && (job.opensAt ?? job.firstSeen).slice(0, 4) < currentYear
+  const filtered = jobs.filter((job) => (!onlyIT || job.isIT) && (!onlyOpen || job.status === "Abierta") && (showHistoric || !isPastYear(job)))
+  const hiddenHistoric = showHistoric ? 0 : jobs.filter((job) => isPastYear(job) && (!onlyOpen || job.status === "Abierta")).length
   const visible = showAll ? filtered : filtered.slice(0, PREVIEW)
   const openCount = jobs.filter((job) => job.status === "Abierta").length
   const itCount = jobs.filter((job) => job.isIT).length
@@ -53,7 +57,7 @@ export function PetroecuadorJobs() {
       <Button asChild size="sm" variant="ghost" className="text-primary"><a href={data.source} target="_blank" rel="noreferrer">Postular en el sitio oficial <ArrowUpRight data-icon="inline-end" /></a></Button>
     </div>
 
-    {filtered.length === 0 ? <div className="rounded-2xl border border-dashed border-border bg-card p-8 text-center text-sm text-muted-foreground">{onlyIT ? "Todavía no hemos registrado convocatorias de TI en Petroecuador. Cuando aparezca una, se resaltará aquí." : "Todavía no hay convocatorias registradas."}</div> : <>
+    {filtered.length === 0 ? <div className="rounded-2xl border border-dashed border-border bg-card p-8 text-center text-sm text-muted-foreground">{onlyIT ? "Todavía no hemos registrado convocatorias de TI en Petroecuador. Cuando aparezca una, se resaltará aquí." : onlyOpen ? "Petroecuador no tiene convocatorias abiertas en este momento." : "Todavía no hay convocatorias registradas."}{hiddenHistoric > 0 && <> <button type="button" onClick={onShowHistoric} className="font-semibold text-primary hover:underline">Ver {hiddenHistoric} de años anteriores</button></>}</div> : <>
       <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">{visible.map((job) => <div key={job.code} className={`flex flex-col gap-2 rounded-xl border border-l-4 p-4 ${job.isIT ? "border-l-sky-600 bg-sky-50/70 ring-1 ring-sky-600/30 dark:bg-sky-950/30" : "border-l-primary bg-card"}`}>
         <div className="flex flex-wrap gap-1.5">{job.isIT && <Badge className="gap-1 bg-sky-600 text-white hover:bg-sky-600"><Laptop className="size-3" />Rol de TI</Badge>}<Badge className={statusStyles[job.status]}>{job.status}</Badge></div>
         <h3 className="font-heading text-base font-bold leading-snug text-foreground">{job.role}</h3>

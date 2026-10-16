@@ -31,7 +31,15 @@ function FilterSelect({ label, value, options, onChange }: { label: string; valu
   return <label className="flex min-w-0 flex-col gap-1.5"><span className="text-xs font-semibold text-muted-foreground">{label}</span><select aria-label={label} value={value} onChange={(event) => onChange(event.target.value)} className="h-10 w-full rounded-lg border border-input bg-background px-3 text-sm outline-none transition-colors focus:border-primary focus:ring-2 focus:ring-primary/20">{options.map((item) => <option key={item}>{item}</option>)}</select></label>
 }
 
-export function CelecJobs() {
+export type EmploymentFilters = {
+  /** Muestra solo convocatorias abiertas. */
+  onlyOpen: boolean
+  /** Incluye ofertas publicadas en años anteriores. */
+  showHistoric: boolean
+  onShowHistoric: () => void
+}
+
+export function CelecJobs({ onlyOpen, showHistoric, onShowHistoric }: EmploymentFilters) {
   const [query, setQuery] = useState("")
   const [filters, setFilters] = useState(initialFilters)
   const [filtersOpen, setFiltersOpen] = useState(false)
@@ -39,6 +47,7 @@ export function CelecJobs() {
   // La fecha se fija al montar para no desajustar el HTML generado en el build
   const [today, setToday] = useState<string | null>(null)
   useEffect(() => { setToday(new Date().toISOString().slice(0, 10)) }, [])
+  const currentYear = today?.slice(0, 4) ?? null
 
   const updateFilter = (key: FilterKey, value: string) => setFilters((current) => ({ ...current, [key]: value }))
   const activeCount = Object.values(filters).filter((value) => value !== "Todos" && value !== "Todas").length + Number(onlyIT)
@@ -64,7 +73,11 @@ export function CelecJobs() {
       && (filters.status === "Todos" || job.status === filters.status)
       && (filters.year === "Todos" || job.publishedAt.startsWith(filters.year))
       && (filters.experience === "Todas" || (job.minExperienceMonths != null && job.minExperienceMonths <= experienceOptions[filters.experience]))
-  }), [jobs, filters, query, onlyIT])
+      && (!onlyOpen || job.status === "Abierta")
+      && (showHistoric || currentYear == null || job.publishedAt.slice(0, 4) >= currentYear)
+  }), [jobs, filters, query, onlyIT, onlyOpen, showHistoric, currentYear])
+  // Ofertas que solo se ocultan por ser de años anteriores
+  const hiddenHistoric = showHistoric || currentYear == null ? 0 : jobs.filter((job) => job.publishedAt.slice(0, 4) < currentYear && (!onlyOpen || job.status === "Abierta")).length
 
   return <div>
     <div className="mb-8">
@@ -95,7 +108,7 @@ export function CelecJobs() {
       </div>}
     </div>
 
-    <div className="mb-5 flex flex-wrap items-center justify-between gap-2"><p className="text-sm text-muted-foreground"><span className="font-bold text-foreground">{filtered.length}</span> ofertas encontradas</p><p className="text-xs text-muted-foreground">Fuente: sitios oficiales de CELEC EP · publicadas hasta el {formatDate(celecLatestPublished)} · <span className="font-mono">scripts/scrape_celec.py</span></p></div>
+    <div className="mb-5 flex flex-wrap items-center justify-between gap-2"><p className="text-sm text-muted-foreground"><span className="font-bold text-foreground">{filtered.length}</span> ofertas encontradas{hiddenHistoric > 0 && <> · {hiddenHistoric} de años anteriores ocultas <button type="button" onClick={onShowHistoric} className="font-semibold text-primary hover:underline">Ver históricos</button></>}</p><p className="text-xs text-muted-foreground">Fuente: sitios oficiales de CELEC EP · publicadas hasta el {formatDate(celecLatestPublished)} · <span className="font-mono">scripts/scrape_celec.py</span></p></div>
     <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">{filtered.map((job) => <Card key={job.id} className={`flex h-full flex-col gap-0 border-l-4 py-0 ${job.isIT ? "border-l-sky-600 bg-sky-50/70 ring-1 ring-sky-600/30 dark:bg-sky-950/30" : job.fit === "Directa" ? "border-l-primary" : "border-l-secondary"}`}>
       <CardHeader className="p-5 pb-3">
         <div className="mb-2 flex flex-wrap gap-1.5">{job.isIT && <Badge className="gap-1 bg-sky-600 text-white hover:bg-sky-600"><Laptop className="size-3" />{job.role.split(",").length > 2 ? "Incluye cargo de TI" : "Rol de TI"}</Badge>}<Badge className={statusStyles[job.status]}>{job.status}</Badge><Badge variant="outline">{job.fit === "Directa" ? "Afinidad directa" : "Afinidad posible"}</Badge></div>
@@ -115,6 +128,6 @@ export function CelecJobs() {
       </CardContent>
       {job.url && <CardFooter className="border-t border-border px-5 py-3"><Button asChild variant="ghost" size="sm" className="-ml-2 text-primary"><a href={job.url} target="_blank" rel="noreferrer"><FileText data-icon="inline-start" /> Ver convocatoria oficial <ArrowUpRight data-icon="inline-end" /></a></Button></CardFooter>}
     </Card>)}</div>
-    {filtered.length === 0 && <div className="rounded-2xl border border-dashed border-border bg-card p-12 text-center text-muted-foreground"><Check className="mx-auto mb-3 text-primary" />No encontramos ofertas con esos filtros.</div>}
+    {filtered.length === 0 && <div className="rounded-2xl border border-dashed border-border bg-card p-12 text-center text-muted-foreground"><Check className="mx-auto mb-3 text-primary" />{onlyOpen ? "CELEC no tiene ofertas abiertas en este momento." : "No encontramos ofertas con esos filtros."}{hiddenHistoric > 0 && <> <button type="button" onClick={onShowHistoric} className="font-semibold text-primary hover:underline">Ver {hiddenHistoric} de años anteriores</button></>}</div>}
   </div>
 }
