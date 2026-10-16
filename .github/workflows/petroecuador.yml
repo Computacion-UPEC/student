@@ -1,7 +1,8 @@
-# Recolecta las convocatorias de EP Petroecuador y guarda el historial en lib/data/petroecuador-jobs.json.
-# Algunas convocatorias duran solo 2 días, por eso corre dos veces al día. Solo hace commit si hay cambios,
-# y ese commit dispara el despliegue en Vercel.
-name: Convocatorias Petroecuador
+# Recolecta ofertas de empleo y guarda su historial:
+#   - EP Petroecuador -> lib/data/petroecuador-jobs.json (algunas convocatorias duran solo 2 días)
+#   - Bancos y cooperativas (Banco Pichincha, Cooperativa JEP, BanEcuador) -> lib/data/finance-jobs.json
+# Corre dos veces al día. Solo hace commit si hay cambios, y ese commit dispara el despliegue en Vercel.
+name: Recolectar convocatorias
 
 on:
   schedule:
@@ -19,7 +20,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
@@ -29,24 +30,30 @@ jobs:
           cache: npm
           cache-dependency-path: scripts/petroecuador/package-lock.json
 
-      - name: Instalar el recolector
+      - name: Instalar el recolector de Petroecuador
         working-directory: scripts/petroecuador
         run: |
           npm ci --no-audit --no-fund
           npx playwright-core install --with-deps chromium
 
-      - name: Recolectar convocatorias
+      # Si un recolector falla, el otro igual guarda sus datos
+      - name: Recolectar convocatorias de Petroecuador
+        continue-on-error: true
         working-directory: scripts/petroecuador
         run: node collect.mjs
 
+      - name: Recolectar ofertas de bancos y cooperativas
+        continue-on-error: true
+        run: node scripts/finance/collect.mjs
+
       - name: Guardar cambios
         run: |
-          if git diff --quiet -- lib/data/petroecuador-jobs.json; then
+          if git diff --quiet -- lib/data/petroecuador-jobs.json lib/data/finance-jobs.json; then
             echo "Sin cambios en las convocatorias."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add lib/data/petroecuador-jobs.json
-          git commit -m "Update Petroecuador job calls"
+          git add lib/data/petroecuador-jobs.json lib/data/finance-jobs.json
+          git commit -m "Update job offers"
           git push

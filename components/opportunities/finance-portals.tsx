@@ -8,7 +8,7 @@ export function FinancePortals() {
 
   return <div className="mb-12">
     <div className="mb-4 flex flex-wrap items-end justify-between gap-4">
-      <div><h2 className="font-heading text-2xl font-bold text-foreground md:text-3xl">Bancos y cooperativas</h2><p className="mt-1 max-w-2xl text-sm text-muted-foreground">Portales oficiales de empleo del sector financiero. Los bancos y cooperativas contratan perfiles de desarrollo, datos, soporte y ciberseguridad.</p></div>
+      <div><h2 className="font-heading text-2xl font-bold text-foreground md:text-3xl">Portales de bancos y cooperativas</h2><p className="mt-1 max-w-2xl text-sm text-muted-foreground">Portales oficiales de empleo del sector financiero. De los marcados como &ldquo;Ofertas recolectadas&rdquo; leemos las vacantes a diario; los demás no publican sus ofertas de forma legible, así que revísalos directamente.</p></div>
       <Badge variant="outline">{portals.length} portales</Badge>
     </div>
     <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">{portals.map((portal) => {
@@ -17,7 +17,7 @@ export function FinancePortals() {
         <span className="flex size-10 shrink-0 items-center justify-center rounded-lg bg-primary/10 text-primary"><Icon className="size-5" /></span>
         <span className="flex min-w-0 flex-1 flex-col gap-1">
           <span className="flex items-center gap-1 font-heading text-base font-bold text-foreground">{portal.name}<ArrowUpRight className="size-4 text-muted-foreground transition-colors group-hover:text-primary" /></span>
-          <span className="flex flex-wrap gap-1"><Badge variant="secondary" className="text-[11px]">{portal.kind}</Badge><Badge variant="outline" className="text-[11px]">{portal.ownership}</Badge>{portal.local && <Badge className="gap-1 bg-primary text-[11px] text-primary-foreground hover:bg-primary"><MapPin className="size-3" />Carchi</Badge>}</span>
+          <span className="flex flex-wrap gap-1"><Badge variant="secondary" className="text-[11px]">{portal.kind}</Badge><Badge variant="outline" className="text-[11px]">{portal.ownership}</Badge>{portal.local && <Badge className="gap-1 bg-primary text-[11px] text-primary-foreground hover:bg-primary"><MapPin className="size-3" />Carchi</Badge>}{portal.collected && <Badge className="bg-sky-600 text-[11px] text-white hover:bg-sky-600">Ofertas recolectadas</Badge>}</span>
           <span className="text-xs text-muted-foreground">{portal.note}</span>
         </span>
       </a>
