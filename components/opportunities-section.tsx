@@ -6,6 +6,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { CelecJobs } from "@/components/opportunities/celec-jobs"
 import { ProgramsList } from "@/components/opportunities/programs-list"
 import { PublicRoutes } from "@/components/opportunities/public-routes"
+import { FinancePortals } from "@/components/opportunities/finance-portals"
 import { EmploymentStageNotice, StagePicker } from "@/components/opportunities/stage-picker"
 import { programs } from "@/lib/scholarships-data"
 import { isStage, type Stage } from "@/lib/student-stages"
@@ -68,7 +69,7 @@ export function OpportunitiesSection() {
           <TabsTrigger value="empleo" className="flex-1 gap-2 rounded-lg px-4 py-2 text-sm sm:flex-none"><BriefcaseBusiness className="size-4" /> Empleo</TabsTrigger>
           <TabsTrigger value="becas" className="flex-1 gap-2 rounded-lg px-4 py-2 text-sm sm:flex-none"><GraduationCap className="size-4" /> Internships / Becas{matches != null && <span className="rounded-full bg-primary px-1.5 text-[11px] font-bold text-primary-foreground">{matches}</span>}</TabsTrigger>
         </TabsList>
-        <TabsContent value="empleo" className="mt-0"><EmploymentStageNotice stage={stage} /><PublicRoutes /><CelecJobs /></TabsContent>
+        <TabsContent value="empleo" className="mt-0"><EmploymentStageNotice stage={stage} /><PublicRoutes /><FinancePortals /><CelecJobs /></TabsContent>
         <TabsContent value="becas" className="mt-0"><ProgramsList stage={stage} onClearStage={() => changeStage(null)} /></TabsContent>
       </Tabs>
     </div>
