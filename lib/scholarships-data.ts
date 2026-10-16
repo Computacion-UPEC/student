@@ -5,6 +5,17 @@
 
 export type ProgramKind = "Beca" | "Internship"
 
+/**
+ * Ciclo de convocatoria: en qué meses se suele poder postular (1 = enero).
+ * "anual": una convocatoria por año. "varias": varias ventanas al año. "recurrente": se repite pero no todos los años.
+ * approx: los meses salen de ciclos anteriores o fuentes no oficiales; confirmar cada año.
+ */
+export type Cycle = {
+  frequency: "anual" | "varias" | "recurrente"
+  months: number[]
+  approx?: boolean
+}
+
 export type Program = {
   id: string
   kind: ProgramKind
@@ -18,10 +29,29 @@ export type Program = {
   url: string
   /** Advertencia visible en la tarjeta (requisitos poco comunes, disponibilidad incierta). */
   warning?: string
+  /** Sin ciclo: la fecha depende de cada programa o no se publica. */
+  cycle?: Cycle
   tags: string[]
 }
 
 export const programs: Program[] = [
+  // --- Becas del Ecuador
+  {
+    id: "becas-tic-ecuador",
+    kind: "Beca",
+    name: "Becas TIC para la Reducción de la Brecha Digital",
+    provider: "Gobierno del Ecuador (MINEDEC, antes SENESCYT, con fondos del MIT)",
+    place: "Ecuador",
+    level: "Tercer nivel técnico y tecnológico en carreras TIC",
+    funding: "2026: USD 825,17 una sola vez para manutención (866 becas). 2024: hasta USD 4.000 de matrícula",
+    eligibility: "Bachilleres matriculados en una carrera TIC técnica o tecnológica de una institución del país, sin título del mismo nivel ni otra beca vigente. Prioriza zonas rurales, urbano-marginales y de frontera.",
+    timing: "2026: del 14 al 24 de septiembre (cerrada). 2024: septiembre a octubre.",
+    url: "https://siau.senescyt.gob.ec/programa-de-becas-en-tecnologias-de-la-informacion-y-comunicacion-para-la-reduccion-de-la-brecha-digital-2026/",
+    warning: "Solo carreras técnicas y tecnológicas, no ingenierías de grado.",
+    cycle: { frequency: "recurrente", months: [9, 10] },
+    tags: ["Ecuador", "TIC"],
+  },
+
   // --- Becas (fuente: MultiAgentic-becas, verificadas en su sitio oficial)
   {
     id: "elap",
@@ -34,6 +64,7 @@ export const programs: Program[] = [
     eligibility: "Ecuador es país elegible. Debes estar matriculado en tu universidad y debe existir un convenio con una institución canadiense, que es quien postula.",
     timing: "Anual. La institución canadiense postula hasta ~marzo (2026: 31 de marzo).",
     url: "https://www.educanada.ca/scholarships-bourses/can/institutions/elap-pfla.aspx?lang=eng",
+    cycle: { frequency: "anual", months: [1, 2, 3] },
     tags: ["Intercambio", "Investigación"],
   },
   {
@@ -60,6 +91,7 @@ export const programs: Program[] = [
     eligibility: "Para estudiantes de fuera del Espacio Económico Europeo (Ecuador aplica) sin título previo de una institución neerlandesa.",
     timing: "Abre ~1 de noviembre; cada universidad fija su fecha de cierre.",
     url: "https://www.studyinnl.org/finances/nl-scholarship",
+    cycle: { frequency: "anual", months: [11, 12, 1, 2, 3, 4, 5], approx: true },
     tags: ["Pregrado", "Posgrado"],
   },
   {
@@ -73,6 +105,7 @@ export const programs: Program[] = [
     eligibility: "Estudiantes internacionales con excelente rendimiento académico.",
     timing: "Cierre 1 de enero de 2027 para iniciar en septiembre de 2027.",
     url: "https://www.tue.nl/en/education/become-a-tue-student/scholarships-and-grants/tue-scholarship-for-excellence-shaping-the-future-of-microchip-innovation",
+    cycle: { frequency: "anual", months: [10, 11, 12], approx: true },
     tags: ["Posgrado", "Semiconductores"],
   },
   {
@@ -99,6 +132,7 @@ export const programs: Program[] = [
     eligibility: "Estudiantes internacionales admitidos a una maestría de IA en Ontario; los nomina el programa, no se postula directamente.",
     timing: "Anual. Nominación hasta ~marzo (2026: 18 de marzo); los programas cierran antes.",
     url: "https://vectorinstitute.ai/research-talent/students/scholarships/",
+    cycle: { frequency: "anual", months: [1, 2, 3] },
     tags: ["Posgrado", "IA"],
   },
   {
@@ -112,6 +146,7 @@ export const programs: Program[] = [
     eligibility: "Estudiantes internacionales con permiso de estudio y admitidos a tiempo completo en un posgrado de Ontario. Cupos limitados.",
     timing: "Anual; cada universidad fija su cierre (normalmente entre enero y marzo).",
     url: "https://web.cs.toronto.edu/graduate/funding-tuition-awards",
+    cycle: { frequency: "anual", months: [1, 2, 3], approx: true },
     tags: ["Posgrado"],
   },
 
@@ -127,6 +162,7 @@ export const programs: Program[] = [
     eligibility: "Contribuyes a un proyecto open source con un mentor durante el verano.",
     timing: "Anual. Organizaciones en febrero; postulación ~mediados de marzo a inicios de abril.",
     url: "https://summerofcode.withgoogle.com/",
+    cycle: { frequency: "anual", months: [3, 4] },
     tags: ["Open source", "Remoto"],
   },
   {
@@ -140,6 +176,7 @@ export const programs: Program[] = [
     eligibility: "Internship pagado de 3 meses en proyectos open source.",
     timing: "Dos cohortes al año: mayo (postulación inicial ~febrero) y diciembre (postulación inicial ~agosto).",
     url: "https://www.outreachy.org/",
+    cycle: { frequency: "varias", months: [1, 2, 8, 9] },
     tags: ["Open source", "Remoto", "Diversidad"],
   },
   {
@@ -153,6 +190,7 @@ export const programs: Program[] = [
     eligibility: "Proyectos de la Linux Foundation y la CNCF (Kubernetes, cloud native, etc.).",
     timing: "Tres períodos: primavera (postulación ~enero–febrero), verano (~mayo) y otoño (~agosto).",
     url: "https://lfx.linuxfoundation.org/tools/mentorship/",
+    cycle: { frequency: "varias", months: [1, 2, 5, 8] },
     tags: ["Open source", "Remoto", "Cloud"],
   },
   {
@@ -166,6 +204,7 @@ export const programs: Program[] = [
     eligibility: "Trabajas en equipo con mentores sobre software real u open source.",
     timing: "Varios grupos al año (primavera, verano y otoño); cada uno cierra semanas antes de iniciar.",
     url: "https://fellowship.mlh.io/",
+    cycle: { frequency: "varias", months: [3, 4, 6, 7, 8, 11, 12], approx: true },
     tags: ["Open source", "Remoto"],
   },
   {
@@ -180,6 +219,7 @@ export const programs: Program[] = [
     timing: "Postulación habitual entre septiembre y diciembre para el año siguiente.",
     url: "https://buildyourfuture.withgoogle.com/programs/step",
     warning: "No siempre disponible para estudiantes en Ecuador.",
+    cycle: { frequency: "anual", months: [9, 10, 11, 12], approx: true },
     tags: ["Empresa"],
   },
 ]
