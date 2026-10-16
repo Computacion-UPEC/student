@@ -7,6 +7,7 @@ import { readdirSync, statSync, writeFileSync, mkdirSync } from "node:fs"
 import path from "node:path"
 import * as XLSX from "xlsx"
 import * as fs from "node:fs"
+import { IT_ROLE } from "./lib/it-roles.mjs"
 
 XLSX.set_fs(fs)
 
@@ -33,9 +34,6 @@ const toDate = (value) => {
 }
 const clean = (value) => (value == null ? "" : String(value).replace(/\s+/g, " ").trim())
 
-// Rol de TI según el título del cargo (no según la carrera aceptada: muchos cargos administrativos
-// aceptan "Sistemas" entre varias carreras sin ser de TI)
-const IT_ROLE = /tecnolog[ií]as? de (la )?informaci[oó]n|\bTICS?\b|inform[aá]tic|software|desarrollador|programador|ciberseguridad|base de datos|redes y comunicaciones|soporte t[eé]cnico/i
 
 // Sueldos que el scraper leyó mal, verificados contra la convocatoria oficial (enlace = clave)
 const SALARY_FIXES = {

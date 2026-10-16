@@ -75,3 +75,19 @@ export const publicOpportunities: PublicOpportunity[] = [
   { id: "sercop-consultoria", title: "Proveedor del Estado · SERCOP", platform: "portal.compraspublicas.gob.ec", url: "https://portal.compraspublicas.gob.ec/sercop/", description: "Oportunidades de consultoría, desarrollo, redes y soporte mediante contratación pública.", steps: ["Obtener RUP con RUC activo", "Seleccionar códigos CPC afines", "Filtrar necesidades por Carchi", "Enviar cotización y hoja técnica"], category: "Consultoría" },
   { id: "encuentra-empleo-publico", title: "Vacantes del Sector Público", platform: "encuentraempleo.trabajo.gob.ec", url: "https://encuentraempleo.trabajo.gob.ec", description: "Convocatorias LOSEP y servicios ocasionales para perfiles de Tecnologías de la Información.", steps: ["Completar la hoja de vida", "Entrar a Sector Público", "Filtrar por TIC y nivel jerárquico", "Postular a las convocatorias"], category: "Sector público" },
 ]
+
+// --- Convocatorias de EP Petroecuador (scripts/petroecuador/collect.mjs, a diario en GitHub Actions)
+
+export type PetroecuadorJob = {
+  code: string
+  type: string
+  role: string
+  city: string
+  /** Fecha y hora de Ecuador en ISO, p. ej. "2026-10-14T15:00:00-05:00". */
+  opensAt: string | null
+  closesAt: string | null
+  isIT: boolean
+  /** Primer y último día en que el recolector vio la convocatoria publicada. */
+  firstSeen: string
+  lastSeen: string
+}
