@@ -4,6 +4,7 @@ import { useState, type ReactNode } from "react"
 import { Building2, CircleDot, History, Landmark, Zap } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import { CelecJobs } from "@/components/opportunities/celec-jobs"
+import { FinanceJobs, financeITJobs } from "@/components/opportunities/finance-jobs"
 import { FinancePortals } from "@/components/opportunities/finance-portals"
 import { PetroecuadorJobs } from "@/components/opportunities/petroecuador-jobs"
 import { PublicRoutes } from "@/components/opportunities/public-routes"
@@ -17,7 +18,7 @@ type Sector = "energia" | "financiero" | "publico"
 
 const sectors: { id: Sector; label: string; icon: typeof Zap; ownership: string; count: number; unit: string; description: string }[] = [
   { id: "energia", label: "Energía", icon: Zap, ownership: "Empresas públicas", count: celecJobs.length + petroecuadorITJobs.length, unit: "ofertas", description: petroecuadorITJobs.length ? "Convocatorias reales de CELEC EP (electricidad) y cargos de TI de EP Petroecuador (petróleo)." : "Convocatorias reales de CELEC EP (electricidad). Los cargos de TI de Petroecuador aparecerán cuando publique alguno." },
-  { id: "financiero", label: "Financiero", icon: Landmark, ownership: "Públicos y privados", count: financePortals.length, unit: "portales", description: "Portales oficiales de empleo de bancos y cooperativas." },
+  { id: "financiero", label: "Financiero", icon: Landmark, ownership: "Públicos y privados", count: financePortals.length, unit: "portales", description: financeITJobs.length ? "Ofertas de TI de bancos y cooperativas, y sus portales oficiales de empleo." : "Portales oficiales de empleo de bancos y cooperativas." },
   { id: "publico", label: "Sector público", icon: Building2, ownership: "Público", count: publicOpportunities.length, unit: "rutas", description: "Plataformas del Estado para docencia, cargos públicos y consultoría." },
 ]
 
@@ -56,7 +57,7 @@ export function EmploymentTab({ stage }: { stage: Stage | null }) {
     </div>
 
     {visible("energia") && <SectorGroup sector={sectors[0]}><PetroecuadorJobs {...filters} /><CelecJobs {...filters} /></SectorGroup>}
-    {visible("financiero") && <SectorGroup sector={sectors[1]}><FinancePortals /></SectorGroup>}
+    {visible("financiero") && <SectorGroup sector={sectors[1]}><FinanceJobs {...filters} /><FinancePortals /></SectorGroup>}
     {visible("publico") && <SectorGroup sector={sectors[2]}><PublicRoutes /></SectorGroup>}
   </div>
 }
