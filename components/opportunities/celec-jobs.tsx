@@ -1,7 +1,7 @@
 "use client"
 
 import { useEffect, useMemo, useState } from "react"
-import { ArrowUpRight, BriefcaseBusiness, CalendarDays, Check, ChevronDown, FileText, Search, SlidersHorizontal, X } from "lucide-react"
+import { ArrowUpRight, BriefcaseBusiness, CalendarDays, Check, ChevronDown, FileText, Laptop, Search, SlidersHorizontal, X } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
@@ -33,43 +33,47 @@ export function CelecJobs() {
   const [query, setQuery] = useState("")
   const [filters, setFilters] = useState(initialFilters)
   const [filtersOpen, setFiltersOpen] = useState(false)
+  const [onlyIT, setOnlyIT] = useState(false)
   // La fecha se fija al montar para no desajustar el HTML generado en el build
   const [today, setToday] = useState<string | null>(null)
   useEffect(() => { setToday(new Date().toISOString().slice(0, 10)) }, [])
 
   const updateFilter = (key: FilterKey, value: string) => setFilters((current) => ({ ...current, [key]: value }))
-  const activeCount = Object.values(filters).filter((value) => value !== "Todos" && value !== "Todas").length
-  const resetFilters = () => { setQuery(""); setFilters(initialFilters) }
+  const activeCount = Object.values(filters).filter((value) => value !== "Todos" && value !== "Todas").length + Number(onlyIT)
+  const resetFilters = () => { setQuery(""); setFilters(initialFilters); setOnlyIT(false) }
 
   const jobs = useMemo(() => celecJobs
     .map((job) => ({ ...job, status: celecJobStatus(job, today) }))
-    .sort((a, b) => Number(b.status === "Abierta") - Number(a.status === "Abierta") || b.publishedAt.localeCompare(a.publishedAt)), [today])
+    .sort((a, b) => Number(b.status === "Abierta") - Number(a.status === "Abierta") || Number(b.isIT) - Number(a.isIT) || b.publishedAt.localeCompare(a.publishedAt)), [today])
 
   const units = useMemo(() => Object.entries(jobs.reduce<Record<string, number>>((acc, job) => ({ ...acc, [job.unit]: (acc[job.unit] ?? 0) + 1 }), {}))
     .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])), [jobs])
   const years = useMemo(() => [...new Set(jobs.map((job) => job.publishedAt.slice(0, 4)))].sort().reverse(), [jobs])
   const openCount = jobs.filter((job) => job.status === "Abierta").length
+  const itCount = jobs.filter((job) => job.isIT).length
+  const itByUnit = jobs.reduce<Record<string, number>>((acc, job) => (job.isIT ? { ...acc, [job.unit]: (acc[job.unit] ?? 0) + 1 } : acc), {})
 
   const filtered = useMemo(() => jobs.filter((job) => {
     const searchable = `${job.role} ${job.unit} ${job.education} ${job.code}`.toLowerCase()
     return searchable.includes(query.toLowerCase())
+      && (!onlyIT || job.isIT)
       && (filters.unit === "Todas" || job.unit === filters.unit)
       && (filters.fit === "Todas" || job.fit === filters.fit)
       && (filters.status === "Todos" || job.status === filters.status)
       && (filters.year === "Todos" || job.publishedAt.startsWith(filters.year))
-  }), [jobs, filters, query])
+  }), [jobs, filters, query, onlyIT])
 
   return <div>
     <div className="mb-8">
       <div className="mb-4 flex flex-wrap items-end justify-between gap-4">
         <div><h2 className="font-heading text-2xl font-bold text-foreground md:text-3xl">Ofertas de CELEC EP</h2><p className="mt-1 max-w-2xl text-sm text-muted-foreground">Convocatorias reales de la Corporación Eléctrica del Ecuador que piden o aceptan un perfil de Ingeniería en Computación. Úsalas para ver qué se pide y cuánto se paga.</p></div>
-        <div className="flex flex-wrap gap-2"><Badge variant="outline">{jobs.length} ofertas</Badge><Badge className={statusStyles.Abierta}>{openCount} {openCount === 1 ? "abierta" : "abiertas"}</Badge></div>
+        <div className="flex flex-wrap gap-2"><Badge variant="outline">{jobs.length} ofertas</Badge><Badge className="gap-1 bg-sky-600 text-white hover:bg-sky-600"><Laptop className="size-3" />{itCount} de TI</Badge><Badge className={statusStyles.Abierta}>{openCount} {openCount === 1 ? "abierta" : "abiertas"}</Badge></div>
       </div>
       <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
         {units.map(([unit, count]) => <div key={unit} className="flex flex-col gap-2 rounded-xl border border-border bg-card p-3 transition-all hover:-translate-y-0.5 hover:border-primary/50 hover:shadow-md">
           <button type="button" onClick={() => updateFilter("unit", unit)} className="flex items-center gap-3 text-left" aria-label={`Ver ofertas de ${unit}`}>
             <span className="flex size-10 shrink-0 items-center justify-center rounded-lg bg-primary/10 text-primary"><BriefcaseBusiness className="size-5" /></span>
-            <span className="min-w-0 flex-1"><span className="block truncate text-sm font-semibold text-foreground">{unit}</span><span className="text-xs text-muted-foreground">{count} {count === 1 ? "oferta" : "ofertas"}</span></span>
+            <span className="min-w-0 flex-1"><span className="block truncate text-sm font-semibold text-foreground">{unit}</span><span className="text-xs text-muted-foreground">{count} {count === 1 ? "oferta" : "ofertas"}{itByUnit[unit] ? <span className="font-semibold text-sky-700 dark:text-sky-400"> · {itByUnit[unit]} de TI</span> : null}</span></span>
             <span className="font-heading text-2xl font-bold text-primary">{count}</span>
           </button>
           {celecUnitUrls[unit] && <Button asChild size="sm" variant="outline" className="h-7 w-full text-xs"><a href={celecUnitUrls[unit]} target="_blank" rel="noreferrer">Bolsa de empleo <ArrowUpRight data-icon="inline-end" /></a></Button>}
@@ -78,7 +82,7 @@ export function CelecJobs() {
     </div>
 
     <div className="mb-6 rounded-2xl border border-border bg-card p-4 md:p-5">
-      <div className="flex flex-col gap-3 lg:flex-row"><label className="relative block flex-1"><span className="sr-only">Buscar ofertas</span><Search className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground" /><Input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Buscar cargo, unidad, carrera o código..." className="pl-10" /></label><Button type="button" variant="outline" onClick={() => setFiltersOpen((open) => !open)}><SlidersHorizontal data-icon="inline-start" /> Filtros {activeCount > 0 && <Badge variant="secondary">{activeCount}</Badge>}<ChevronDown className={filtersOpen ? "rotate-180 transition-transform" : "transition-transform"} /></Button>{(query || activeCount > 0) && <Button type="button" variant="ghost" onClick={resetFilters}><X data-icon="inline-start" /> Limpiar</Button>}</div>
+      <div className="flex flex-col gap-3 lg:flex-row"><label className="relative block flex-1"><span className="sr-only">Buscar ofertas</span><Search className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground" /><Input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Buscar cargo, unidad, carrera o código..." className="pl-10" /></label><Button type="button" variant={onlyIT ? "default" : "outline"} aria-pressed={onlyIT} onClick={() => setOnlyIT((value) => !value)} className={onlyIT ? "bg-sky-600 text-white hover:bg-sky-700" : "border-sky-600/40 text-sky-700 dark:text-sky-400"}><Laptop data-icon="inline-start" /> Solo TI ({itCount})</Button><Button type="button" variant="outline" onClick={() => setFiltersOpen((open) => !open)}><SlidersHorizontal data-icon="inline-start" /> Filtros {activeCount > 0 && <Badge variant="secondary">{activeCount}</Badge>}<ChevronDown className={filtersOpen ? "rotate-180 transition-transform" : "transition-transform"} /></Button>{(query || activeCount > 0) && <Button type="button" variant="ghost" onClick={resetFilters}><X data-icon="inline-start" /> Limpiar</Button>}</div>
       {filtersOpen && <div className="mt-5 grid gap-4 border-t border-border pt-5 sm:grid-cols-2 lg:grid-cols-4">
         <FilterSelect label="Unidad" value={filters.unit} options={["Todas", ...units.map(([unit]) => unit)]} onChange={(value) => updateFilter("unit", value)} />
         <FilterSelect label="Afinidad con Computación" value={filters.fit} options={["Todas", "Directa", "Posible"]} onChange={(value) => updateFilter("fit", value)} />
@@ -88,9 +92,9 @@ export function CelecJobs() {
     </div>
 
     <div className="mb-5 flex flex-wrap items-center justify-between gap-2"><p className="text-sm text-muted-foreground"><span className="font-bold text-foreground">{filtered.length}</span> ofertas encontradas</p><p className="text-xs text-muted-foreground">Fuente: sitios oficiales de CELEC EP · publicadas hasta el {formatDate(celecLatestPublished)} · <span className="font-mono">scripts/scrape_celec.py</span></p></div>
-    <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">{filtered.map((job) => <Card key={job.id} className={`flex h-full flex-col gap-0 border-l-4 py-0 ${job.fit === "Directa" ? "border-l-primary" : "border-l-secondary"}`}>
+    <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">{filtered.map((job) => <Card key={job.id} className={`flex h-full flex-col gap-0 border-l-4 py-0 ${job.isIT ? "border-l-sky-600 bg-sky-50/70 ring-1 ring-sky-600/30 dark:bg-sky-950/30" : job.fit === "Directa" ? "border-l-primary" : "border-l-secondary"}`}>
       <CardHeader className="p-5 pb-3">
-        <div className="mb-2 flex flex-wrap gap-1.5"><Badge className={statusStyles[job.status]}>{job.status}</Badge><Badge variant="outline">{job.fit === "Directa" ? "Afinidad directa" : "Afinidad posible"}</Badge></div>
+        <div className="mb-2 flex flex-wrap gap-1.5">{job.isIT && <Badge className="gap-1 bg-sky-600 text-white hover:bg-sky-600"><Laptop className="size-3" />{job.role.split(",").length > 2 ? "Incluye cargo de TI" : "Rol de TI"}</Badge>}<Badge className={statusStyles[job.status]}>{job.status}</Badge><Badge variant="outline">{job.fit === "Directa" ? "Afinidad directa" : "Afinidad posible"}</Badge></div>
         <h3 className="line-clamp-3 font-heading text-lg font-bold leading-snug text-foreground">{job.role}</h3>
         <p className="mt-1 text-sm font-medium text-primary">{job.unit}{job.code && <span className="text-muted-foreground"> · {job.code}</span>}</p>
       </CardHeader>

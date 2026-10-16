@@ -33,6 +33,10 @@ const toDate = (value) => {
 }
 const clean = (value) => (value == null ? "" : String(value).replace(/\s+/g, " ").trim())
 
+// Rol de TI según el título del cargo (no según la carrera aceptada: muchos cargos administrativos
+// aceptan "Sistemas" entre varias carreras sin ser de TI)
+const IT_ROLE = /tecnolog[ií]as? de (la )?informaci[oó]n|\bTICS?\b|inform[aá]tic|software|desarrollador|programador|ciberseguridad|base de datos|redes y comunicaciones|soporte t[eé]cnico/i
+
 const header = XLSX.utils.sheet_to_json(sheet, { header: 1 })[0]
 const col = (name) => header.indexOf(name)
 const range = XLSX.utils.decode_range(sheet["!ref"])
@@ -49,7 +53,9 @@ for (let r = range.s.r + 1; r <= range.e.r; r++) {
     id: `celec-${r}`,
     unit: clean(value("Unidad")),
     role: cargo,
-    fit: eligibility.startsWith("1") ? "Directa" : "Posible",
+    // Un cargo de TI es afinidad directa aunque la convocatoria no detalle la carrera
+    fit: eligibility.startsWith("1") || IT_ROLE.test(cargo) ? "Directa" : "Posible",
+    isIT: IT_ROLE.test(cargo),
     fitDetail: eligibility.replace(/^\d\.\s*/, ""),
     minExperienceMonths: typeof value("Experiencia mínima (meses)") === "number" ? value("Experiencia mínima (meses)") : null,
     experience: clean(value("Experiencia requerida")),

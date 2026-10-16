@@ -9,6 +9,8 @@ export type CelecJob = {
   /** "Directa": piden Computación/Sistemas/TI. "Posible": carrera afín o cargo TIC, revisar requisitos. */
   fit: "Directa" | "Posible"
   fitDetail: string
+  /** El título del cargo es de TI (TIC, informática, software, soporte...). */
+  isIT: boolean
   minExperienceMonths: number | null
   experience: string
   education: string
