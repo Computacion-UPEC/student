@@ -8,6 +8,12 @@ import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/componen
 import { Input } from "@/components/ui/input"
 import { communities } from "@/lib/communities-data"
 
+// Embajadores de la rama IEEE UPEC (tarjetas oficiales de IEEEXtreme)
+const branchAmbassadors = [
+  { name: "John Cortés Pozo", event: "IEEEXtreme 19.0", src: "/images/ambassadors/john-cortes-ieeextreme-19.jpg" },
+  { name: "Luis Valverde", event: "IEEEXtreme 20.0 · Sección Ecuador", src: "/images/ambassadors/luis-valverde-ieeextreme-20.jpg" },
+]
+
 // Fotos con licencia de Unsplash (uso libre); se cita al autor en cada una
 const ambassadorPhotos = [
   { src: "https://images.unsplash.com/photo-1704652329528-354ac651ed8f", alt: "Ingeniero trabajando en su portátil dentro de un avión", caption: "Viaja a eventos y programas", credit: { name: "Chase Chappell", url: "https://unsplash.com/photos/UKmDt6I1zyo" } },
@@ -32,6 +38,13 @@ export function CommunitiesSection() {
           </figure>)}
         </div>
       </CardContent></Card>
+      <div className="mb-8">
+        <div className="mb-4"><h2 className="font-heading text-xl font-bold text-foreground md:text-2xl">Embajadores de nuestra rama</h2><p className="mt-1 text-sm text-muted-foreground">Estudiantes de Computación UPEC que representan a la IEEE Student Branch en competencias internacionales.</p></div>
+        <div className="grid gap-4 sm:grid-cols-2 lg:max-w-3xl">{branchAmbassadors.map((ambassador) => <figure key={ambassador.src} className="overflow-hidden rounded-2xl border border-border bg-card shadow-sm">
+          <img src={ambassador.src} alt={`${ambassador.name}, Student Branch Ambassador de la Universidad Politécnica Estatal del Carchi en ${ambassador.event}`} loading="lazy" className="aspect-square w-full object-cover object-top" />
+          <figcaption className="p-4"><p className="font-heading text-base font-bold text-foreground">{ambassador.name}</p><p className="text-sm text-primary">Student Branch Ambassador · {ambassador.event}</p></figcaption>
+        </figure>)}</div>
+      </div>
       <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">{visible.map((community) => { const Icon = community.icon; return <Card key={community.id} className="flex h-full flex-col overflow-hidden border-border transition-transform hover:-translate-y-1 hover:border-primary/40 hover:shadow-lg"><div className="h-2" style={{ backgroundColor: community.color }} /><CardHeader><div className="flex items-start justify-between gap-4"><div className="flex items-center gap-3"><div className={`flex size-14 shrink-0 items-center justify-center rounded-2xl text-sm font-black text-white shadow-sm ${community.colorLogo ? "border bg-white" : ""}`} style={community.colorLogo ? undefined : { backgroundColor: community.color }}><img src={community.logoUrl} alt="" className={`size-8 object-contain ${community.colorLogo ? "" : "brightness-0 invert"}`} onError={(event) => { event.currentTarget.style.display = "none" }} /><Icon className="hidden size-7" aria-hidden="true" /></div><div><CardTitle className="font-heading text-xl leading-tight">{community.name}</CardTitle><Badge variant="secondary" className="mt-2">{community.category}</Badge></div></div><span className="rounded-full bg-muted px-2 py-1 text-xs font-bold text-primary">{community.initials}</span></div></CardHeader><CardContent className="flex-1"><p className="text-sm leading-relaxed text-muted-foreground">{community.description}</p><div className="mt-5 flex items-center gap-2 text-sm font-medium text-primary"><span className="size-2 rounded-full bg-secondary" /> Enfoque: {community.opportunities}</div></CardContent><CardFooter className="flex flex-wrap gap-2"><Button asChild size="sm"><a href={community.joinUrl} target="_blank" rel="noreferrer">Unirme <ArrowUpRight data-icon="inline-end" /></a></Button><Button asChild size="sm" variant="outline"><a href={community.ambassadorUrl} target="_blank" rel="noreferrer"><UsersRound data-icon="inline-start" /> Ser embajador</a></Button><Button asChild size="sm" variant="ghost"><a href={community.collaborateUrl} target="_blank" rel="noreferrer"><Handshake data-icon="inline-start" /> Colaborar</a></Button>{community.extraLinks.map((link) => <Button key={link.url} asChild size="sm" variant="ghost"><a href={link.url} target="_blank" rel="noreferrer"><ExternalLink data-icon="inline-start" /> {link.label}</a></Button>)}</CardFooter></Card>})}</div>
       {visible.length === 0 && <div className="rounded-2xl border border-dashed border-border bg-card p-12 text-center text-muted-foreground">No encontramos comunidades con esa búsqueda.</div>}
     </div>
