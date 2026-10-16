@@ -8,7 +8,9 @@ import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { celecJobs, celecJobStatus, celecLatestPublished, celecUnitUrls, type JobStatus } from "@/lib/opportunities-data"
 
-const initialFilters = { unit: "Todas", fit: "Todas", status: "Todos", year: "Todos" }
+const initialFilters = { unit: "Todas", fit: "Todas", status: "Todos", year: "Todos", experience: "Todas" }
+// Experiencia mínima que pide la oferta; las que no la indican solo aparecen con "Todas"
+const experienceOptions: Record<string, number> = { "Hasta 1 año": 12, "Hasta 2 años": 24 }
 type FilterKey = keyof typeof initialFilters
 
 const statusStyles: Record<JobStatus, string> = {
@@ -61,6 +63,7 @@ export function CelecJobs() {
       && (filters.fit === "Todas" || job.fit === filters.fit)
       && (filters.status === "Todos" || job.status === filters.status)
       && (filters.year === "Todos" || job.publishedAt.startsWith(filters.year))
+      && (filters.experience === "Todas" || (job.minExperienceMonths != null && job.minExperienceMonths <= experienceOptions[filters.experience]))
   }), [jobs, filters, query, onlyIT])
 
   return <div>
@@ -83,11 +86,12 @@ export function CelecJobs() {
 
     <div className="mb-6 rounded-2xl border border-border bg-card p-4 md:p-5">
       <div className="flex flex-col gap-3 lg:flex-row"><label className="relative block flex-1"><span className="sr-only">Buscar ofertas</span><Search className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground" /><Input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Buscar cargo, unidad, carrera o código..." className="pl-10" /></label><Button type="button" variant={onlyIT ? "default" : "outline"} aria-pressed={onlyIT} onClick={() => setOnlyIT((value) => !value)} className={onlyIT ? "bg-sky-600 text-white hover:bg-sky-700" : "border-sky-600/40 text-sky-700 dark:text-sky-400"}><Laptop data-icon="inline-start" /> Solo TI ({itCount})</Button><Button type="button" variant="outline" onClick={() => setFiltersOpen((open) => !open)}><SlidersHorizontal data-icon="inline-start" /> Filtros {activeCount > 0 && <Badge variant="secondary">{activeCount}</Badge>}<ChevronDown className={filtersOpen ? "rotate-180 transition-transform" : "transition-transform"} /></Button>{(query || activeCount > 0) && <Button type="button" variant="ghost" onClick={resetFilters}><X data-icon="inline-start" /> Limpiar</Button>}</div>
-      {filtersOpen && <div className="mt-5 grid gap-4 border-t border-border pt-5 sm:grid-cols-2 lg:grid-cols-4">
+      {filtersOpen && <div className="mt-5 grid gap-4 border-t border-border pt-5 sm:grid-cols-2 lg:grid-cols-5">
         <FilterSelect label="Unidad" value={filters.unit} options={["Todas", ...units.map(([unit]) => unit)]} onChange={(value) => updateFilter("unit", value)} />
         <FilterSelect label="Afinidad con Computación" value={filters.fit} options={["Todas", "Directa", "Posible"]} onChange={(value) => updateFilter("fit", value)} />
         <FilterSelect label="Estado" value={filters.status} options={["Todos", "Abierta", "Por confirmar", "Cerrada"]} onChange={(value) => updateFilter("status", value)} />
         <FilterSelect label="Año" value={filters.year} options={["Todos", ...years]} onChange={(value) => updateFilter("year", value)} />
+        <FilterSelect label="Experiencia que piden" value={filters.experience} options={["Todas", ...Object.keys(experienceOptions)]} onChange={(value) => updateFilter("experience", value)} />
       </div>}
     </div>
 

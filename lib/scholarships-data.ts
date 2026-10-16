@@ -3,6 +3,8 @@
 // Internships: programas recurrentes de open source y empresas, abiertos a estudiantes de cualquier país salvo que se indique.
 // Las fechas cambian cada año: el campo `timing` describe el ciclo habitual, no una fecha garantizada.
 
+import type { Stage } from "@/lib/student-stages"
+
 export type ProgramKind = "Beca" | "Internship"
 
 /**
@@ -37,6 +39,8 @@ export type Program = {
   closesAt?: string
   /** El programa es específico de TI o incluye campos de TI; el texto explica cuáles. */
   itFocus?: string
+  /** Etapas de la carrera en las que se puede postular. */
+  stages: Stage[]
   tags: string[]
 }
 
@@ -55,6 +59,7 @@ export const programs: Program[] = [
     url: "https://siau.senescyt.gob.ec/programa-de-becas-nacionales-de-posgrado-ecuador-productivo/",
     closesAt: "2026-10-25",
     itFocus: "Incluye Ciencias Computacionales, Desarrollo de Software y Redes y Bases de Datos",
+    stages: ["graduado"],
     tags: ["Ecuador", "Posgrado"],
   },
   {
@@ -71,6 +76,7 @@ export const programs: Program[] = [
     warning: "Solo carreras técnicas y tecnológicas, no ingenierías de grado.",
     itFocus: "Exclusiva para carreras TIC",
     cycle: { frequency: "recurrente", months: [9, 10] },
+    stages: ["inicio", "mitad"],
     tags: ["Ecuador", "TIC"],
   },
 
@@ -86,6 +92,7 @@ export const programs: Program[] = [
     timing: "La convocatoria 2026–2028 se publicó en diciembre de 2025; en 2023 cerró el 18 de abril.",
     url: "https://siau.senescyt.gob.ec/fulbright-senescyt-2026-2028/",
     cycle: { frequency: "recurrente", months: [12, 1, 2, 3, 4], approx: true },
+    stages: ["final", "graduado"],
     tags: ["Ecuador", "Posgrado"],
   },
   {
@@ -99,6 +106,7 @@ export const programs: Program[] = [
     eligibility: "Sin documentos que adjuntar. El inglés es clave para internships y empleos de TI.",
     timing: "2026: cerró el 27 de marzo. Ha tenido varias fases.",
     url: "https://siau.senescyt.gob.ec/programa-de-becas-para-educacion-continua-because-he-is-nice-2026/",
+    stages: ["inicio", "mitad", "final", "graduado"],
     tags: ["Ecuador", "Inglés"],
   },
 
@@ -115,6 +123,7 @@ export const programs: Program[] = [
     timing: "Cada maestría fija su fecha; la mayoría cierra entre diciembre y febrero para empezar en septiembre.",
     url: "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
     cycle: { frequency: "anual", months: [10, 11, 12, 1, 2], approx: true },
+    stages: ["final", "graduado"],
     tags: ["Erasmus", "Posgrado"],
   },
   {
@@ -129,6 +138,7 @@ export const programs: Program[] = [
     timing: "Depende de cada convenio y universidad.",
     url: "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/mobility-projects-for-higher-education-students-and-staff",
     warning: "Requiere un convenio vigente entre tu universidad y una universidad europea.",
+    stages: ["mitad", "final"],
     tags: ["Erasmus", "Intercambio"],
   },
   {
@@ -146,6 +156,7 @@ export const programs: Program[] = [
     opensAt: "2026-11-16",
     closesAt: "2027-01-04",
     itFocus: "Ciberseguridad",
+    stages: ["final", "graduado"],
     tags: ["Erasmus", "Posgrado"],
   },
   {
@@ -163,6 +174,7 @@ export const programs: Program[] = [
     opensAt: "2026-11-01",
     closesAt: "2027-02-02",
     itFocus: "Visión por computador e inteligencia artificial",
+    stages: ["final", "graduado"],
     tags: ["Erasmus", "Posgrado"],
   },
   {
@@ -180,6 +192,7 @@ export const programs: Program[] = [
     opensAt: "2026-12-01",
     closesAt: "2027-01-05",
     itFocus: "Ciencia de datos, comunicaciones e IA",
+    stages: ["final", "graduado"],
     tags: ["Erasmus", "Posgrado"],
   },
   {
@@ -197,6 +210,7 @@ export const programs: Program[] = [
     opensAt: "2026-12-02",
     closesAt: "2027-02-02",
     itFocus: "Tecnologías de la información",
+    stages: ["final", "graduado"],
     tags: ["Erasmus", "Posgrado"],
   },
   {
@@ -212,6 +226,7 @@ export const programs: Program[] = [
     url: "https://master-cyberus.eu/en/index.html",
     cycle: { frequency: "anual", months: [12, 1, 2], approx: true },
     itFocus: "Ciberseguridad",
+    stages: ["final", "graduado"],
     tags: ["Erasmus", "Posgrado"],
   },
   {
@@ -226,6 +241,7 @@ export const programs: Program[] = [
     timing: "Publicarán las fechas de 2027 a fines de noviembre de 2026.",
     url: "http://cybermacs.eu/",
     itFocus: "Ciberseguridad aplicada",
+    stages: ["final", "graduado"],
     tags: ["Erasmus", "Posgrado"],
   },
   {
@@ -240,6 +256,7 @@ export const programs: Program[] = [
     timing: "Anunciaron las rondas de postulación para la cohorte 2027 (inicio agosto 2027).",
     url: "https://www.master-ediss.eu/",
     itFocus: "Ingeniería de software, datos e IA",
+    stages: ["final", "graduado"],
     tags: ["Erasmus", "Posgrado"],
   },
   {
@@ -254,6 +271,7 @@ export const programs: Program[] = [
     timing: "Postulación en el portal del programa; primera cohorte becada en 2026.",
     url: "https://deai.ulb.be/",
     itFocus: "Ingeniería de datos e inteligencia artificial",
+    stages: ["final", "graduado"],
     tags: ["Erasmus", "Posgrado"],
   },
   {
@@ -268,6 +286,7 @@ export const programs: Program[] = [
     timing: "Revisa las fechas en el sitio oficial.",
     url: "https://www.upf.edu/web/emai/",
     itFocus: "Inteligencia artificial",
+    stages: ["final", "graduado"],
     tags: ["Erasmus", "Posgrado"],
   },
 
@@ -284,6 +303,7 @@ export const programs: Program[] = [
     timing: "Anual. La institución canadiense postula hasta ~marzo (2026: 31 de marzo).",
     url: "https://www.educanada.ca/scholarships-bourses/can/institutions/elap-pfla.aspx?lang=eng",
     cycle: { frequency: "anual", months: [1, 2, 3] },
+    stages: ["mitad", "final"],
     tags: ["Intercambio", "Investigación"],
   },
   {
@@ -297,6 +317,7 @@ export const programs: Program[] = [
     eligibility: "La elegibilidad depende de cada programa; varios están dirigidos a países en desarrollo y emergentes. Filtra por tu país en la base de datos.",
     timing: "Cada programa tiene su propio cierre; revisa la convocatoria en la base de datos.",
     url: "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/",
+    stages: ["final", "graduado"],
     tags: ["Posgrado", "Investigación"],
   },
   {
@@ -311,6 +332,7 @@ export const programs: Program[] = [
     timing: "Abre ~1 de noviembre; cada universidad fija su fecha de cierre.",
     url: "https://www.studyinnl.org/finances/nl-scholarship",
     cycle: { frequency: "anual", months: [11, 12, 1, 2, 3, 4, 5], approx: true },
+    stages: ["final", "graduado"],
     tags: ["Pregrado", "Posgrado"],
   },
   {
@@ -325,6 +347,7 @@ export const programs: Program[] = [
     timing: "Cierre 1 de enero de 2027 para iniciar en septiembre de 2027.",
     url: "https://www.tue.nl/en/education/become-a-tue-student/scholarships-and-grants/tue-scholarship-for-excellence-shaping-the-future-of-microchip-innovation",
     cycle: { frequency: "anual", months: [10, 11, 12], approx: true },
+    stages: ["final", "graduado"],
     tags: ["Posgrado", "Semiconductores"],
   },
   {
@@ -338,6 +361,7 @@ export const programs: Program[] = [
     eligibility: "Abierta a estudiantes de maestría de todo el mundo.",
     timing: "Revisa la fecha en el sitio de ASML.",
     url: "https://www.asml.com/en/careers/students-new-graduates/netherlands/scholarship",
+    stages: ["final", "graduado"],
     tags: ["Posgrado", "Semiconductores"],
   },
   {
@@ -353,6 +377,7 @@ export const programs: Program[] = [
     url: "https://vectorinstitute.ai/research-talent/students/scholarships/",
     cycle: { frequency: "anual", months: [1, 2, 3] },
     itFocus: "Maestrías en inteligencia artificial",
+    stages: ["final", "graduado"],
     tags: ["Posgrado", "IA"],
   },
   {
@@ -367,6 +392,7 @@ export const programs: Program[] = [
     timing: "Anual; cada universidad fija su cierre (normalmente entre enero y marzo).",
     url: "https://web.cs.toronto.edu/graduate/funding-tuition-awards",
     cycle: { frequency: "anual", months: [1, 2, 3], approx: true },
+    stages: ["final", "graduado"],
     tags: ["Posgrado"],
   },
 
@@ -383,6 +409,7 @@ export const programs: Program[] = [
     timing: "Anual. Organizaciones en febrero; postulación ~mediados de marzo a inicios de abril.",
     url: "https://summerofcode.withgoogle.com/",
     cycle: { frequency: "anual", months: [3, 4] },
+    stages: ["inicio", "mitad", "final", "graduado"],
     tags: ["Open source", "Remoto"],
   },
   {
@@ -397,6 +424,7 @@ export const programs: Program[] = [
     timing: "Dos cohortes al año: mayo (postulación inicial ~febrero) y diciembre (postulación inicial ~agosto).",
     url: "https://www.outreachy.org/",
     cycle: { frequency: "varias", months: [1, 2, 8, 9] },
+    stages: ["mitad", "final", "graduado"],
     tags: ["Open source", "Remoto", "Diversidad"],
   },
   {
@@ -411,6 +439,7 @@ export const programs: Program[] = [
     timing: "Tres períodos: primavera (postulación ~enero–febrero), verano (~mayo) y otoño (~agosto).",
     url: "https://lfx.linuxfoundation.org/tools/mentorship/",
     cycle: { frequency: "varias", months: [1, 2, 5, 8] },
+    stages: ["mitad", "final", "graduado"],
     tags: ["Open source", "Remoto", "Cloud"],
   },
   {
@@ -425,6 +454,7 @@ export const programs: Program[] = [
     timing: "Varios grupos al año (primavera, verano y otoño); cada uno cierra semanas antes de iniciar.",
     url: "https://fellowship.mlh.io/",
     cycle: { frequency: "varias", months: [3, 4, 6, 7, 8, 11, 12], approx: true },
+    stages: ["mitad", "final", "graduado"],
     tags: ["Open source", "Remoto"],
   },
   {
@@ -440,6 +470,7 @@ export const programs: Program[] = [
     url: "https://buildyourfuture.withgoogle.com/programs/step",
     warning: "No siempre disponible para estudiantes en Ecuador.",
     cycle: { frequency: "anual", months: [9, 10, 11, 12], approx: true },
+    stages: ["inicio"],
     tags: ["Empresa"],
   },
 ]
