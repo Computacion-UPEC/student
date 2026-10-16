@@ -1,6 +1,7 @@
 # Recolecta ofertas de empleo y guarda su historial:
 #   - EP Petroecuador -> lib/data/petroecuador-jobs.json (algunas convocatorias duran solo 2 días)
-#   - Bancos y cooperativas (Banco Pichincha, Cooperativa JEP, BanEcuador) -> lib/data/finance-jobs.json
+#   - Bancos y cooperativas (Banco Pichincha, Cooperativa JEP) -> lib/data/finance-jobs.json
+#   - Convocatoria mensual de Educa Empleo (docentes LOEI) -> lib/data/educa-empleo.json
 # Corre dos veces al día. Solo hace commit si hay cambios, y ese commit dispara el despliegue en Vercel.
 name: Recolectar convocatorias
 
@@ -46,14 +47,18 @@ jobs:
         continue-on-error: true
         run: node scripts/finance/collect.mjs
 
+      - name: Detectar convocatoria mensual de Educa Empleo
+        continue-on-error: true
+        run: node scripts/educa-empleo/collect.mjs
+
       - name: Guardar cambios
         run: |
-          if git diff --quiet -- lib/data/petroecuador-jobs.json lib/data/finance-jobs.json; then
+          if git diff --quiet -- lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json; then
             echo "Sin cambios en las convocatorias."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add lib/data/petroecuador-jobs.json lib/data/finance-jobs.json
+          git add lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json
           git commit -m "Update job offers"
           git push
