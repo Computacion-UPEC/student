@@ -1,12 +1,13 @@
 "use client"
 
 import { useEffect, useMemo, useState } from "react"
-import { AlertTriangle, ArrowUpRight, BellRing, CalendarDays, Check, CircleDot, Cpu, GraduationCap, Laptop, MapPin, Repeat, Search, Wallet } from "lucide-react"
+import { AlertTriangle, ArrowUpRight, BellRing, UserRound, X, CalendarDays, Check, CircleDot, Cpu, GraduationCap, Laptop, MapPin, Repeat, Search, Wallet } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { programs, type Cycle, type Program, type ProgramKind } from "@/lib/scholarships-data"
+import { stageById, type Stage } from "@/lib/student-stages"
 
 const kinds: ("Todos" | ProgramKind | "Erasmus")[] = ["Todos", "Internship", "Beca", "Erasmus"]
 const kindLabel = { Todos: "Todos", Internship: "Internships", Beca: "Becas", Erasmus: "Erasmus+" }
@@ -36,7 +37,7 @@ function CycleStrip({ cycle, month }: { cycle: Cycle; month: number | null }) {
   </div>
 }
 
-export function ProgramsList() {
+export function ProgramsList({ stage, onClearStage }: { stage: Stage | null; onClearStage: () => void }) {
   const [query, setQuery] = useState("")
   const [kind, setKind] = useState<(typeof kinds)[number]>("Todos")
   // El mes se fija al montar para no desajustar el HTML generado en el build
@@ -49,8 +50,8 @@ export function ProgramsList() {
 
   const filtered = useMemo(() => programs.filter((program) => {
     const searchable = `${program.name} ${program.provider} ${program.place} ${program.level} ${program.itFocus ?? ""} ${program.tags.join(" ")}`.toLowerCase()
-    return searchable.includes(query.toLowerCase()) && (kind === "Todos" || (kind === "Erasmus" ? program.tags.includes("Erasmus") : program.kind === kind))
-  }).sort((a, b) => Number(isOpen(b)) - Number(isOpen(a)) || Number(isUpcoming(b)) - Number(isUpcoming(a)) || (isUpcoming(a) && isUpcoming(b) ? a.opensAt!.localeCompare(b.opensAt!) : 0)), [query, kind, today])
+    return searchable.includes(query.toLowerCase()) && (!stage || program.stages.includes(stage)) && (kind === "Todos" || (kind === "Erasmus" ? program.tags.includes("Erasmus") : program.kind === kind))
+  }).sort((a, b) => Number(isOpen(b)) - Number(isOpen(a)) || Number(isUpcoming(b)) - Number(isUpcoming(a)) || (isUpcoming(a) && isUpcoming(b) ? a.opensAt!.localeCompare(b.opensAt!) : 0)), [query, kind, today, stage])
 
   return <div>
     <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
@@ -63,6 +64,7 @@ export function ProgramsList() {
       <div className="flex flex-wrap gap-1 rounded-lg bg-muted p-1" role="group" aria-label="Tipo de programa">{kinds.map((item) => <button key={item} type="button" onClick={() => setKind(item)} aria-pressed={kind === item} className={`rounded-md px-3 py-1.5 text-sm font-medium transition-colors ${kind === item ? "bg-background text-foreground shadow-sm" : "text-muted-foreground hover:text-foreground"}`}>{kindLabel[item]}</button>)}</div>
     </div>
 
+    {stage && <div className="mb-5 flex flex-wrap items-center gap-2 text-sm"><span className="inline-flex items-center gap-1.5 rounded-full bg-primary px-3 py-1 font-medium text-primary-foreground"><UserRound className="size-3.5" />Para: {stageById[stage].label} · {filtered.length} {filtered.length === 1 ? "programa" : "programas"}</span><button type="button" onClick={onClearStage} className="inline-flex items-center gap-1 rounded-full px-2 py-1 text-xs font-semibold text-primary hover:underline"><X className="size-3" />Ver todos</button></div>}
     <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">{filtered.map((program) => <Card key={program.id} className={`flex h-full flex-col gap-0 border-l-4 py-0 ${program.itFocus ? "border-l-sky-600 bg-sky-50/70 ring-1 ring-sky-600/30 dark:bg-sky-950/30" : program.kind === "Beca" ? "border-l-secondary" : "border-l-sky-500"}`}>
       <CardHeader className="p-5 pb-3">
         <div className="mb-2 flex flex-wrap gap-1.5"><Badge variant={program.kind === "Beca" ? "secondary" : "default"} className="gap-1">{program.kind === "Beca" ? <GraduationCap className="size-3" /> : <Laptop className="size-3" />}{program.kind}</Badge>{isOpen(program) && <Badge className="gap-1 bg-emerald-600 text-white hover:bg-emerald-600"><CircleDot className="size-3" />Abierta · cierra {shortDate(program.closesAt!)}</Badge>}{isUpcoming(program) && <Badge className="gap-1 bg-secondary text-secondary-foreground hover:bg-secondary"><BellRing className="size-3" />Abre {shortDate(program.opensAt!)}</Badge>}{program.itFocus && <Badge className="gap-1 bg-sky-600 text-white hover:bg-sky-600"><Cpu className="size-3" />TI</Badge>}{!program.opensAt && opensSoon(program.cycle, month) && <Badge className="gap-1 bg-secondary text-secondary-foreground hover:bg-secondary"><BellRing className="size-3" />Abre pronto</Badge>}{program.tags.map((tag) => <Badge key={tag} variant="outline">{tag}</Badge>)}</div>
