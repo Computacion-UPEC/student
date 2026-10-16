@@ -37,6 +37,42 @@ const clean = (value) => (value == null ? "" : String(value).replace(/\s+/g, " "
 // aceptan "Sistemas" entre varias carreras sin ser de TI)
 const IT_ROLE = /tecnolog[ií]as? de (la )?informaci[oó]n|\bTICS?\b|inform[aá]tic|software|desarrollador|programador|ciberseguridad|base de datos|redes y comunicaciones|soporte t[eé]cnico/i
 
+// Sueldos que el scraper leyó mal, verificados contra la convocatoria oficial (enlace = clave)
+const SALARY_FIXES = {
+  // El PDF dice "$ 1,170.00"; el scraper anterior lo cortó en "1,17"
+  "https://www.celec.gob.ec/celecsur/wp-content/uploads/2024/06/12.-CONVOCATORIA-ASIS-TIC.pdf": 1170,
+  "https://www.celec.gob.ec/celecsur/wp-content/uploads/2024/08/11.-CONVOCATORIA-ASIS-TIC-003.pdf": 1170,
+  // El PDF dice "$ 1,856.22"
+  "https://www.celec.gob.ec/celecsur/wp-content/uploads/2024/04/CONVOCATORIA-SELECCION-CONCURSO-CELEC-SUR-1.pdf": 1856.22,
+  // La página dice "$1.1170,00" (dígito de más); es un Asistente Adm. 7, que en el resto de ofertas gana $1.170,00
+  "https://www.celec.gob.ec/termopichincha/uncategorized/convocatoria-para-el-proceso-de-seleccion-simple-asistente-de-bodega-e-inventarios-central-puna-2/": 1170,
+  "https://www.celec.gob.ec/termopichincha/uncategorized/convocatoria-para-el-proceso-de-seleccion-simple-asistente-de-gestion-documentao-y-archivo-central-guangopolo/": 1170,
+}
+
+const usd = new Intl.NumberFormat("en-US", { style: "currency", currency: "USD", minimumFractionDigits: 2 })
+
+/** Convierte "1.170,00", "1,170.00", "1350.00" o "2025,00" a número; null si el formato no es confiable. */
+function parseAmount(token) {
+  const decimal = token.match(/[.,](\d{2})$/)
+  const integerPart = decimal ? token.slice(0, -3) : token
+  const groups = integerPart.split(/[.,]/)
+  // Separadores de miles: cada grupo después del primero debe tener 3 dígitos
+  if (groups.slice(1).some((group) => group.length !== 3)) return null
+  const amount = Number(groups.join("") + (decimal ? `.${decimal[1]}` : ""))
+  // Un sueldo mensual menor a USD 400 es un error de lectura (p. ej. "1,17")
+  return amount >= 400 ? amount : null
+}
+
+/** Sueldo en un solo formato ($1,170.00); varios montos se separan con " / ". */
+function formatSalary(raw, url) {
+  if (url && SALARY_FIXES[url]) return usd.format(SALARY_FIXES[url])
+  const tokens = raw.match(/\d[\d.,]*\d|\d/g)
+  if (!tokens) return ""
+  const amounts = tokens.map(parseAmount)
+  if (amounts.some((amount) => amount == null)) throw new Error(`Sueldo con formato desconocido: "${raw}" (${url}). Agrégalo a SALARY_FIXES.`)
+  return amounts.map((amount) => usd.format(amount)).join(" / ")
+}
+
 const header = XLSX.utils.sheet_to_json(sheet, { header: 1 })[0]
 const col = (name) => header.indexOf(name)
 const range = XLSX.utils.decode_range(sheet["!ref"])
@@ -60,7 +96,7 @@ for (let r = range.s.r + 1; r <= range.e.r; r++) {
     minExperienceMonths: typeof value("Experiencia mínima (meses)") === "number" ? value("Experiencia mínima (meses)") : null,
     experience: clean(value("Experiencia requerida")),
     education: clean(value("Formación requerida")),
-    salary: clean(value("Sueldo (RMU)")),
+    salary: formatSalary(clean(value("Sueldo (RMU)")), docCell?.l?.Target),
     openings: clean(value("Vacantes")),
     publishedAt: toDate(value("Fecha publicación")),
     closesAt: toDate(value("Fecha finalización")),
