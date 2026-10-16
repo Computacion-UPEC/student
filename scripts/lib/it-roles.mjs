@@ -17,8 +17,13 @@ const IT_TERMS = [
   String.raw`\bUX\b|experiencia de usuario|dise[nñ]ador de experiencia`,
   String.raw`inteligencia de negocios|business intelligence|technical owner`,
   String.raw`\bSMO\b`, // Service Management Office: gestión de servicios de TI
+  // Títulos en inglés o de empresas de software
+  String.raw`developer|engineer\b|full ?stack|front-?end|back-?end|scrum master`,
+  String.raw`seguridad aplicativa|t[eé]cnico de desarrollo|desarrollo de software`,
 ]
 
 export const IT_ROLE = new RegExp(IT_TERMS.join("|"), "i")
+// "IT Project Manager", "IT Delivery Manager": solo en mayúsculas, para no confundir con la palabra inglesa "it"
+const IT_UPPERCASE = /\bIT\b/
 
-export const isITRole = (title) => IT_ROLE.test(title)
+export const isITRole = (title) => IT_ROLE.test(title) || IT_UPPERCASE.test(title)
