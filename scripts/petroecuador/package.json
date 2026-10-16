@@ -1,0 +1,12 @@
+{
+  "name": "petroecuador-collector",
+  "private": true,
+  "description": "Recolecta las convocatorias publicadas por EP Petroecuador (se ejecuta en GitHub Actions).",
+  "type": "module",
+  "scripts": {
+    "collect": "node collect.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "1.48.2"
+  }
+}
