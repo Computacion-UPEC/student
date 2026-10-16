@@ -10,13 +10,13 @@ import { PublicRoutes } from "@/components/opportunities/public-routes"
 import { EmploymentStageNotice } from "@/components/opportunities/stage-picker"
 import { financePortals } from "@/lib/finance-portals"
 import { celecJobs, publicOpportunities } from "@/lib/opportunities-data"
-import petroecuadorData from "@/lib/data/petroecuador-jobs.json"
+import { itJobs as petroecuadorITJobs } from "@/components/opportunities/petroecuador-jobs"
 import type { Stage } from "@/lib/student-stages"
 
 type Sector = "energia" | "financiero" | "publico"
 
 const sectors: { id: Sector; label: string; icon: typeof Zap; ownership: string; count: number; unit: string; description: string }[] = [
-  { id: "energia", label: "Energía", icon: Zap, ownership: "Empresas públicas", count: celecJobs.length + petroecuadorData.jobs.length, unit: "ofertas", description: "Convocatorias reales de CELEC EP (electricidad) y EP Petroecuador (petróleo)." },
+  { id: "energia", label: "Energía", icon: Zap, ownership: "Empresas públicas", count: celecJobs.length + petroecuadorITJobs.length, unit: "ofertas", description: petroecuadorITJobs.length ? "Convocatorias reales de CELEC EP (electricidad) y cargos de TI de EP Petroecuador (petróleo)." : "Convocatorias reales de CELEC EP (electricidad). Los cargos de TI de Petroecuador aparecerán cuando publique alguno." },
   { id: "financiero", label: "Financiero", icon: Landmark, ownership: "Públicos y privados", count: financePortals.length, unit: "portales", description: "Portales oficiales de empleo de bancos y cooperativas." },
   { id: "publico", label: "Sector público", icon: Building2, ownership: "Público", count: publicOpportunities.length, unit: "rutas", description: "Plataformas del Estado para docencia, cargos públicos y consultoría." },
 ]
