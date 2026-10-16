@@ -539,18 +539,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337341462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES - GUAYAQUIL",
-      "province": "GUAYAS",
-      "city": "GUAYAQUIL",
-      "publishedAt": "2026-10-12",
-      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-EJECUTIVO-SERVICIOS-TRANSACCIONALES-GUAYAQUIL-GUAY-OPERACIONE/1337341462/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1337342962",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -981,6 +969,19 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-REDES-Y-COMUNICACIONES-QUIT-INFRAESTRU/1332558062/",
       "isIT": true,
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337341462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES - GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-10-12",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-EJECUTIVO-SERVICIOS-TRANSACCIONALES-GUAYAQUIL-GUAY-OPERACIONE/1337341462/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-16"
     }
   ]
 }
