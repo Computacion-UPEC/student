@@ -347,6 +347,18 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1337501462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "TRABAJADOR SOCIAL - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-16",
+      "url": "https://vacantes.pichincha.com/job/QUITO-TRABAJADOR-SOCIAL-QUITO-QUIT-BIENESTAR/1337501462/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "pichincha-1336150162",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -611,18 +623,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337299862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "SOPORTE ADMINISTRATIVO - EVENTUAL (UIO)",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-08",
-      "url": "https://vacantes.pichincha.com/job/QUITO-SOPORTE-ADMINISTRATIVO-EVENTUAL-%28UIO%29-QUIT-SERVICIO-A/1337299862/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1337304362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -752,18 +752,6 @@
       "publishedAt": "2026-10-06",
       "url": "https://vacantes.pichincha.com/job/QUITO-ARQUITECTO-INTEGRACION-QUITO-QUIT-ARQUITECTU/1336350162/",
       "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337205062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "GERENTE COMERCIAL MICROFINANZAS ZONAL - RIOBAMBA",
-      "province": "CHIMBORAZO",
-      "city": "RIOBAMBA",
-      "publishedAt": "2026-10-06",
-      "url": "https://vacantes.pichincha.com/job/RIOBAMBA-GERENTE-COMERCIAL-MICROFINANZAS-ZONAL-RIOBAMBA-RIOB-ZONA-SUR-O/1337205062/",
-      "isIT": false,
       "firstSeen": "2026-10-16"
     },
     {
@@ -979,6 +967,32 @@
       "city": "GUAYAQUIL",
       "publishedAt": "2026-10-12",
       "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-EJECUTIVO-SERVICIOS-TRANSACCIONALES-GUAYAQUIL-GUAY-OPERACIONE/1337341462/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337299862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "SOPORTE ADMINISTRATIVO - EVENTUAL (UIO)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-08",
+      "url": "https://vacantes.pichincha.com/job/QUITO-SOPORTE-ADMINISTRATIVO-EVENTUAL-%28UIO%29-QUIT-SERVICIO-A/1337299862/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337205062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "GERENTE COMERCIAL MICROFINANZAS ZONAL - RIOBAMBA",
+      "province": "CHIMBORAZO",
+      "city": "RIOBAMBA",
+      "publishedAt": "2026-10-06",
+      "url": "https://vacantes.pichincha.com/job/RIOBAMBA-GERENTE-COMERCIAL-MICROFINANZAS-ZONAL-RIOBAMBA-RIOB-ZONA-SUR-O/1337205062/",
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-16"
