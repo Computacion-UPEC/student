@@ -15,6 +15,8 @@ const IT_TERMS = [
   String.raw`soporte t[eé]cnico|servicios tecnol[oó]gicos|infraestructura tecnol[oó]gica|continuidad tecnol[oó]gica`,
   String.raw`analista de aplicaciones|\bcloud\b|\bnube\b`,
   String.raw`\bUX\b|experiencia de usuario|dise[nñ]ador de experiencia`,
+  String.raw`inteligencia de negocios|business intelligence|technical owner`,
+  String.raw`\bSMO\b`, // Service Management Office: gestión de servicios de TI
 ]
 
 export const IT_ROLE = new RegExp(IT_TERMS.join("|"), "i")

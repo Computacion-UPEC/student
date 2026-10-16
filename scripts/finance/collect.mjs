@@ -1,9 +1,10 @@
 // Recolecta ofertas de empleo de bancos y cooperativas que publican sus vacantes de forma legible:
 //   - Banco Pichincha: sitio de carreras (SAP SuccessFactors), páginas de resultados en HTML
 //   - Cooperativa JEP: ofertas escritas en su página "Ofertas laborales"
-//   - BanEcuador: convocatorias publicadas como entradas de WordPress (API pública)
-// Los demás portales (Produbanco, Banco Internacional, Alianza del Valle, Jardín Azuayo, CACPECO,
-// Cooperativa Tulcán) se quedan como enlace: ver lib/finance-portals.ts.
+// Los demás portales se quedan como enlace (ver lib/finance-portals.ts): Produbanco (publica en Multitrabajos),
+// Banco Internacional (solo formulario de búsqueda), BanEcuador (sin página de vacantes; sus entradas
+// "convocatoria" son llamados antiguos a secretarios de coactiva), Alianza del Valle, Jardín Azuayo, CACPECO
+// y Cooperativa Tulcán (formulario de hoja de vida, no vacantes).
 //
 // Guarda un historial en lib/data/finance-jobs.json: cada oferta tiene firstSeen y, cuando deja de
 // publicarse, closedOn. Solo escribe el archivo si algo cambió.
@@ -79,19 +80,9 @@ async function jep() {
   return jobs
 }
 
-async function banecuador() {
-  const api = "https://www.banecuador.fin.ec/wp-json/wp/v2/posts?search=convocatoria&per_page=30&_fields=id,date,link,title"
-  const posts = JSON.parse((await get(api)).trim())
-  return posts
-    .map((post) => ({ key: String(post.id), title: clean(post.title.rendered), publishedAt: post.date.slice(0, 10), url: post.link }))
-    // Solo procesos de selección de personal, no compras ni licitaciones
-    .filter((post) => /proceso de selecci[oó]n|banco de elegibles|vacante|contrataci[oó]n de (personal|profesionales)/i.test(post.title) && !/licitaci|subasta|cotizaci|proveedor/i.test(post.title))
-}
-
 const SOURCES = [
   { id: "pichincha", institution: "Banco Pichincha", collect: pichincha },
   { id: "jep", institution: "Cooperativa JEP", collect: jep },
-  { id: "banecuador", institution: "BanEcuador", collect: banecuador },
 ]
 
 const previous = existsSync(OUT) ? JSON.parse(readFileSync(OUT, "utf8")) : { jobs: [] }

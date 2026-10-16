@@ -475,7 +475,7 @@
       "city": "QUITO",
       "publishedAt": "2026-10-14",
       "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-SMO-QUITO-QUIT-SERVICIOS/1337422862/",
-      "isIT": false,
+      "isIT": true,
       "firstSeen": "2026-10-16"
     },
     {
@@ -619,7 +619,7 @@
       "city": "QUITO",
       "publishedAt": "2026-10-09",
       "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-INTELIGENCIA-DE-NEGOCIOS-QUITO-QUIT-INTELIGENC/1335624762/",
-      "isIT": false,
+      "isIT": true,
       "firstSeen": "2026-10-16"
     },
     {
@@ -679,7 +679,7 @@
       "city": "QUITO",
       "publishedAt": "2026-10-08",
       "url": "https://vacantes.pichincha.com/job/QUITO-TECHNICAL-OWNER-UIO-QUIT-TECNICO-TR/1337300662/",
-      "isIT": false,
+      "isIT": true,
       "firstSeen": "2026-10-16"
     },
     {
@@ -959,16 +959,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "banecuador-49585",
-      "source": "banecuador",
-      "institution": "BanEcuador",
-      "title": "CONVOCATORIA PARA EL PROCESO DE SELECCIÓN PARA LA CONFORMACIÓN DE BANCO DE ELEGIBLES Y CONTRATACIÓN DE SECRETARIOS DE COACTIVA EXTERNOS DE BANECUADOR B.P. – PROVINCIA DE PICHINCHA",
-      "publishedAt": "2026-09-23",
-      "url": "https://www.banecuador.fin.ec/2026/09/23/convocatoria-para-el-proceso-de-seleccion-para-la-conformacion-de-banco-de-elegibles-y-contratacion-de-secretarios-de-coactiva-externos-de-banecuador-b-p-provincia-de-pichincha/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1331808962",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -990,46 +980,6 @@
       "publishedAt": "2026-09-20",
       "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-REDES-Y-COMUNICACIONES-QUIT-INFRAESTRU/1332558062/",
       "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "banecuador-46385",
-      "source": "banecuador",
-      "institution": "BanEcuador",
-      "title": "CONVOCATORIA PARA EL PROCESO DE SELECCIÓN PARA LA CONFORMACIÓN DEL BANCO DE ELEGIBLES Y CONTRATACIÓN DE SECRETARIOS DE COACTIVA EXTERNOS DE BANECUADOR B.P.",
-      "publishedAt": "2025-09-16",
-      "url": "https://www.banecuador.fin.ec/2025/09/16/convocatoria-para-el-proceso-de-seleccion-para-la-conformacion-del-banco-de-elegibles-y-contratacion-de-secretarios-de-coactiva-externos-de-banecuador-b-p/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "banecuador-46286",
-      "source": "banecuador",
-      "institution": "BanEcuador",
-      "title": "Convocatoria para el proceso de selección para la conformación de banco de elegibles y contratación de Secretario de Coactiva externo de BanEcuador B.P.",
-      "publishedAt": "2025-08-28",
-      "url": "https://www.banecuador.fin.ec/2025/08/28/convocatoria-para-el-proceso-de-seleccion-para-la-conformacion-de-banco-de-elegibles-y-contratacion-de-secretario-de-coactiva-externo-de-banecuador-b-p-3/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "banecuador-46169",
-      "source": "banecuador",
-      "institution": "BanEcuador",
-      "title": "Convocatoria para el proceso de selección para la conformación de banco de elegibles y contratación de secretario de Coactiva externo de BanEcuador B.P.",
-      "publishedAt": "2025-08-18",
-      "url": "https://www.banecuador.fin.ec/2025/08/18/convocatoria-para-el-proceso-de-seleccion-para-la-conformacion-de-banco-de-elegibles-y-contratacion-de-secretario-de-coactiva-externo-de-banecuador-b-p-2/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "banecuador-45251",
-      "source": "banecuador",
-      "institution": "BanEcuador",
-      "title": "CONVOCATORIA PARA EL PROCESO DE SELECCIÓN PARA LA CONFORMACIÓN DE BANCO DE ELEGIBLES Y CONTRATACIÓN DE SECRETARIO DE COACTIVA EXTERNO DE BANECUADOR B.P",
-      "publishedAt": "2025-06-02",
-      "url": "https://www.banecuador.fin.ec/2025/06/02/convocatoria-para-el-proceso-de-seleccion-para-la-conformacion-de-banco-de-elegibles-y-contratacion-de-secretario-de-coactiva-externo-de-banecuador-b-p/",
-      "isIT": false,
       "firstSeen": "2026-10-16"
     }
   ]

@@ -15,7 +15,7 @@ const PREVIEW = 6
 
 const formatDay = (day: string) => new Date(`${day}T12:00:00`).toLocaleDateString("es-EC", { day: "numeric", month: "short", year: "numeric" })
 // "INGENIERO DE DATOS - QUITO" -> "Ingeniero de datos - Quito"
-const tidy = (title: string) => title === title.toUpperCase() ? title.toLowerCase().replace(/(^|[\s(-])(\p{L})/gu, (_, before, letter) => before + letter.toUpperCase()).replace(/\b(Ti|Ia|Ux|Qa)\b/g, (word) => word.toUpperCase()).replace(/\b(De|Del|La|Las|Los|Y|En|Con)\b/g, (word) => word.toLowerCase()) : title
+const tidy = (title: string) => title === title.toUpperCase() ? title.toLowerCase().replace(/(^|[\s(-])(\p{L})/gu, (_, before, letter) => before + letter.toUpperCase()).replace(/\b(Ti|Ia|Ux|Qa|Smo|Bi|Coe|Uio|Gye)\b/g, (word) => word.toUpperCase()).replace(/\b(De|Del|La|Las|Los|Y|En|Con)\b/g, (word) => word.toLowerCase()) : title
 
 export function FinanceJobs({ onlyOpen, showHistoric, onShowHistoric }: EmploymentFilters) {
   const [currentYear, setCurrentYear] = useState<string | null>(null)

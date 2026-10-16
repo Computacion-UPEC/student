@@ -1,5 +1,6 @@
 // Portales oficiales de empleo de bancos y cooperativas del Ecuador.
 // Cada enlace se verificó en octubre de 2026 (abre la sección de empleo de la institución, no su página de inicio).
+// Produbanco: su portal empleos.produbanco.com no resuelve (oct 2026); publica en Multitrabajos.
 // No incluidos: Banco Guayaquil (su portal de reclutamiento responde "503 No available server"),
 // y Banco del Pacífico, Bolivariano, del Austro y Pablo Muñoz Vega (no publican una sección de empleo en su sitio).
 
@@ -40,9 +41,9 @@ export type FinanceJob = {
 
 export const financePortals: JobPortal[] = [
   { id: "pichincha", name: "Banco Pichincha", kind: "Banco", sector: "Financiero", ownership: "Privado", url: "https://vacantes.pichincha.com/", note: "Portal “Talento Pichincha” con vacantes abiertas.", collected: true },
-  { id: "produbanco", name: "Produbanco", kind: "Banco", sector: "Financiero", ownership: "Privado", url: "https://empleos.produbanco.com/", note: "Portal de empleos con las vacantes del banco." },
+  { id: "produbanco", name: "Produbanco", kind: "Banco", sector: "Financiero", ownership: "Privado", url: "https://www.multitrabajos.com/empleos-busqueda-produbanco.html", note: "Produbanco publica sus vacantes en Multitrabajos." },
   { id: "internacional", name: "Banco Internacional", kind: "Banco", sector: "Financiero", ownership: "Privado", url: "https://www.bancointernacional.com.ec/trabaja-con-nosotros/", note: "Ofertas laborales y registro de hoja de vida." },
-  { id: "banecuador", name: "BanEcuador", kind: "Banco", sector: "Financiero", ownership: "Público", url: "https://www.banecuador.fin.ec/historia-banecuador/trabajacon-nosotros/", note: "Banco público: convocatorias y procesos de selección.", collected: true },
+  { id: "banecuador", name: "BanEcuador", kind: "Banco", sector: "Financiero", ownership: "Público", url: "https://www.banecuador.fin.ec/historia-banecuador/trabajacon-nosotros/", note: "Banco público: convocatorias y procesos de selección." },
   { id: "tulcan", name: "Cooperativa Tulcán", kind: "Cooperativa", sector: "Financiero", ownership: "Privado", url: "https://www.cooptulcan.fin.ec/bolsa-de-empleo/", note: "Bolsa de empleo de la cooperativa con sede en Tulcán.", local: true },
   { id: "jep", name: "Cooperativa JEP", kind: "Cooperativa", sector: "Financiero", ownership: "Privado", url: "https://www.jep.coop/informate/ofertas-laborables", note: "Ofertas laborales y postulación en línea.", collected: true },
   { id: "alianza", name: "Alianza del Valle", kind: "Cooperativa", sector: "Financiero", ownership: "Privado", url: "https://alianzaapps.alianzadelvalle.fin.ec:44144/vacantes", note: "Portal de vacantes de la cooperativa." },
