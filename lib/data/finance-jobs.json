@@ -359,6 +359,54 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1337516162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO BACK Y SERVICIOS - PORTUGAL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-16",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-BACK-Y-SERVICIOS-PORTUGAL-QUIT-ZONA-METRO/1337516162/",
+      "isIT": false,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "pichincha-1337515662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DISENADOR DE EXPERIENCIA - UIO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-16",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-UIO-QUIT-DISENO-DE/1337515662/",
+      "isIT": true,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "pichincha-1337518462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO B - AG. 24 DE MAYO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-16",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-DE-CREDITO-B-AG_-24-DE-MAYO-QUIT-ZONA-QUITO/1337518462/",
+      "isIT": false,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "pichincha-1337515962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DISENADOR DE EXPERIENCIA EVENTUAL - UIO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-16",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-EVENTUAL-UIO-QUIT-DISENO-DE/1337515962/",
+      "isIT": true,
+      "firstSeen": "2026-10-17"
+    },
+    {
       "id": "pichincha-1336150162",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -499,18 +547,6 @@
       "city": "QUITO",
       "publishedAt": "2026-10-13",
       "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28SEGUIMIENTO-CREDITO-Y-RECUPERACION%29-QUITO-QUIT-SEGUIMIENT/1337396062/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337397762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "SOPORTE ADMINISTRATIVO - CASH MANAGEMENT - GUAYAQUIL",
-      "province": "GUAYAS",
-      "city": "GUAYAQUIL",
-      "publishedAt": "2026-10-13",
-      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-SOPORTE-ADMINISTRATIVO-CASH-MANAGEMENT-GUAYAQUIL-GUAY-REGION-NOR/1337397762/",
       "isIT": false,
       "firstSeen": "2026-10-16"
     },
@@ -815,6 +851,18 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1337144262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - HUAQUILLAS",
+      "province": "EL ORO",
+      "city": "MACHALA",
+      "publishedAt": "2026-10-02",
+      "url": "https://vacantes.pichincha.com/job/MACHALA-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-HUAQUILLAS-MACH-ZONA-COSTA/1337144262/",
+      "isIT": false,
+      "firstSeen": "2026-10-17"
+    },
+    {
       "id": "pichincha-1337081062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -957,6 +1005,19 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-REDES-Y-COMUNICACIONES-QUIT-INFRAESTRU/1332558062/",
       "isIT": true,
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337397762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "SOPORTE ADMINISTRATIVO - CASH MANAGEMENT - GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-10-13",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-SOPORTE-ADMINISTRATIVO-CASH-MANAGEMENT-GUAYAQUIL-GUAY-REGION-NOR/1337397762/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-17"
     },
     {
       "id": "pichincha-1337341462",
