@@ -3,6 +3,7 @@
 #   - Bancos y cooperativas (Banco Pichincha, Cooperativa JEP) -> lib/data/finance-jobs.json
 #   - Convocatoria mensual de Educa Empleo (docentes LOEI) -> lib/data/educa-empleo.json
 #   - Empresas de software con vacantes en Ecuador (Devsu, Stack Builders, vía Workable) -> lib/data/tech-jobs.json
+#   - INEC, Trabaja con nosotros (postulaciones de 1 a 3 días) -> lib/data/inec-jobs.json
 # Corre dos veces al día. Solo hace commit si hay cambios, y ese commit dispara el despliegue en Vercel.
 name: Recolectar convocatorias
 
@@ -56,14 +57,18 @@ jobs:
         continue-on-error: true
         run: node scripts/tech/collect.mjs
 
+      - name: Recolectar convocatorias del INEC
+        continue-on-error: true
+        run: node scripts/inec/collect.mjs
+
       - name: Guardar cambios
         run: |
-          if git diff --quiet -- lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json; then
+          if git diff --quiet -- lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json lib/data/inec-jobs.json; then
             echo "Sin cambios en las convocatorias."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json
+          git add lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json lib/data/inec-jobs.json
           git commit -m "Update job offers"
           git push
