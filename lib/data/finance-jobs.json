@@ -2,6 +2,54 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1332558062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "LIDER REDES Y COMUNICACIONES",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-19",
+      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-REDES-Y-COMUNICACIONES-QUIT-INFRAESTRU/1332558062/",
+      "isIT": true,
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337525362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA SEGUIMIENTO Y REFINANCIACION COBRANZA - DURAN",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-10-19",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-ESPECIALISTA-SEGUIMIENTO-Y-REFINANCIACION-COBRANZA-DURAN-GUAY-SEGUIMIENT/1337525362/",
+      "isIT": false,
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "pichincha-1337548462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL RIESGO CIBERSEGURIDAD - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-19",
+      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-RIESGO-CIBERSEGURIDAD-QUITO-QUIT-RIESGO-TEC/1337548462/",
+      "isIT": true,
+      "firstSeen": "2026-10-19"
+    },
+    {
+      "id": "pichincha-1337533762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL INMOBILIARIO A - CUENCA",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-10-19",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-INMOBILIARIO-A-CUENCA-CUEN-REGION-SUR/1337533762/",
+      "isIT": false,
+      "firstSeen": "2026-10-19"
+    },
+    {
       "id": "pichincha-1336680662",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -895,18 +943,6 @@
       "city": "QUITO",
       "publishedAt": "2026-09-21",
       "url": "https://vacantes.pichincha.com/job/QUITO-CHAPTER-LEAD-DESARROLLO-TI-MOBILE-%28QUITO%29-QUIT-DESARROLLO/1331808962/",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1332558062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "LIDER REDES Y COMUNICACIONES",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-09-20",
-      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-REDES-Y-COMUNICACIONES-QUIT-INFRAESTRU/1332558062/",
       "isIT": true,
       "firstSeen": "2026-10-16"
     },
