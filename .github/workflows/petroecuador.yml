@@ -59,7 +59,10 @@ jobs:
 
       - name: Recolectar convocatorias del INEC
         continue-on-error: true
-        run: node scripts/inec/collect.mjs
+        run: |
+          # pdftotext saca el enlace de postulación de cada PDF de bases
+          command -v pdftotext || (sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends poppler-utils)
+          node scripts/inec/collect.mjs
 
       - name: Guardar cambios
         run: |

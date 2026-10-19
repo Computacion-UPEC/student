@@ -9,11 +9,14 @@
 // No incluidos: EPMAPS (aguaquito.gob.ec bloquea las consultas automáticas y no se pudo verificar su sección de
 // empleo) y el Banco Central del Ecuador (no publica una sección de empleo ni se hallaron convocatorias recientes).
 
+export type PortalLink = { label: string; url: string }
+
 export type PublicPortal = {
   id: string
   name: string
   kind: "Empresa pública" | "Instituto" | "Agencia de regulación"
-  url: string
+  /** Enlaces directos: ver vacantes, crear la cuenta o registrar la hoja de vida (el primero es el principal). */
+  links: PortalLink[]
   /** Lo que el estudiante encuentra al abrir el enlace. */
   note: string
   /** Sus convocatorias se recolectan a diario (scripts/inec/collect.mjs); si no, solo hay enlace. */
@@ -21,14 +24,18 @@ export type PublicPortal = {
 }
 
 export const publicPortals: PublicPortal[] = [
-  { id: "inec", name: "INEC", kind: "Instituto", url: "https://www.ecuadorencifras.gob.ec/institucional/trabaja-con-nosotros/", note: "Convocatorias casi semanales para encuestas y proyectos: analistas de datos, bases de datos y aplicaciones. Cada una abre de 1 a 3 días.", collected: true },
-  { id: "cnt", name: "CNT EP", kind: "Empresa pública", url: "https://empleo.cnt.gob.ec/", note: "Portal CNT Empleo: procesos de selección y concursos de méritos y oposición. Pide crear una cuenta para postular." },
-  { id: "arcotel", name: "ARCOTEL", kind: "Agencia de regulación", url: "https://www.arcotel.gob.ec/bolsa-de-empleo/", note: "Bolsa de empleo: registro de hoja de vida. Sus concursos se publican en Encuentra Empleo." },
+  { id: "inec", name: "INEC", kind: "Instituto", links: [{ label: "Ver convocatorias", url: "https://www.ecuadorencifras.gob.ec/institucional/trabaja-con-nosotros/" }], note: "Convocatorias casi semanales para encuestas y proyectos: analistas de datos, bases de datos y aplicaciones. Cada una abre de 1 a 3 días; las de TI aparecen arriba con su botón Postular.", collected: true },
+  { id: "cnt", name: "CNT EP", kind: "Empresa pública", links: [{ label: "Procesos de selección", url: "https://empleo.cnt.gob.ec/procesos/" }, { label: "Concursos", url: "https://empleo.cnt.gob.ec/concursos/" }, { label: "Crear cuenta", url: "https://empleo.cnt.gob.ec/user-login/" }], note: "Portal CNT Empleo. Se postula con una cuenta propia en el mismo portal." },
+  // El formulario es de Google y pide iniciar sesión con una cuenta de Google
+  { id: "arcotel", name: "ARCOTEL", kind: "Agencia de regulación", links: [{ label: "Registrar hoja de vida", url: "https://docs.google.com/forms/d/e/1FAIpQLSe82Pp63of_-KZJvFgGekcZ3VE0jP6pyJUv086_eDcIIu2ceQ/viewform" }], note: "Bolsa de empleo: formulario oficial para dejar tus datos; te consideran cuando abren una vacante. Sus concursos van por Encuentra Empleo." },
 ]
 
 /** Instituciones que publican sus concursos en Encuentra Empleo (sector público, LOSEP). */
 export const encuentraEmpleoInstitutions = ["SRI", "ECU 911", "Registro Civil", "IGM", "INAMHI", "INOCAR"]
-export const ENCUENTRA_EMPLEO_URL = "https://encuentraempleo.trabajo.gob.ec"
+export const encuentraEmpleoLinks: PortalLink[] = [
+  { label: "Buscar concursos", url: "https://encuentraempleo.trabajo.gob.ec" },
+  { label: "Crear cuenta", url: "https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/registro/aspirante/registroAspiranteCompromiso.jsf" },
+]
 
 /** Convocatoria del INEC (lib/data/inec-jobs.json). */
 export type InecJob = {
@@ -42,8 +49,10 @@ export type InecJob = {
   deadlineText: string
   /** Fecha y hora de cierre en ISO de Ecuador, o null si el texto no trae fecha. */
   closesAt: string | null
-  /** Bases de la convocatoria (PDF) con el enlace de postulación. */
+  /** Bases de la convocatoria (PDF). */
   url: string
+  /** Formulario oficial de postulación (sacado del PDF); null si el PDF no lo trae. */
+  applyUrl: string | null
   isIT: boolean
   firstSeen: string
 }
