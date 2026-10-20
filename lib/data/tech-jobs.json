@@ -101,17 +101,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "devsu-56D7514D0E",
-      "company": "Devsu",
-      "title": "IT Project Manager - Sector Financiero/Bancario",
-      "city": "Quito",
-      "remote": false,
-      "publishedAt": "2026-09-28",
-      "url": "https://apply.workable.com/j/56D7514D0E",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "devsu-690DEBD7C0",
       "company": "Devsu",
       "title": "Ingeniero de Seguridad Aplicativa - Sector Financiero/Bancario",
@@ -297,6 +286,18 @@
       "url": "https://apply.workable.com/j/FCE05F5D8B",
       "isIT": true,
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "devsu-56D7514D0E",
+      "company": "Devsu",
+      "title": "IT Project Manager - Sector Financiero/Bancario",
+      "city": "Quito",
+      "remote": false,
+      "publishedAt": "2026-09-28",
+      "url": "https://apply.workable.com/j/56D7514D0E",
+      "isIT": true,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-20"
     },
     {
       "id": "devsu-E2DF095E86",

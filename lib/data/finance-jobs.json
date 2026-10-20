@@ -2,6 +2,30 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1331808962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "CHAPTER LEAD DESARROLLO TI - MOBILE (QUITO)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-20",
+      "url": "https://vacantes.pichincha.com/job/QUITO-CHAPTER-LEAD-DESARROLLO-TI-MOBILE-%28QUITO%29-QUIT-DESARROLLO/1331808962/",
+      "isIT": true,
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337582162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES - SANTO DOMINGO (EVENTUAL)",
+      "province": "SANTO DOMINGO DE LOS TSACHILAS",
+      "city": "SANTO DOMINGO",
+      "publishedAt": "2026-10-20",
+      "url": "https://vacantes.pichincha.com/job/SANTO-DOMINGO-EJECUTIVO-SERVICIOS-TRANSACCIONALES-SANTO-DOMINGO-%28EVENTUAL%29-SANT-ZONA-ESMER/1337582162/",
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
       "id": "pichincha-1332558062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -503,18 +527,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337456962",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-15",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-COMERCIAL/1337456962/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1337457362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -815,18 +827,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1336350162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ARQUITECTO INTEGRACION - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-06",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ARQUITECTO-INTEGRACION-QUITO-QUIT-ARQUITECTU/1336350162/",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1337208362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -911,18 +911,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337055562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "TEAM COACH - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-09-30",
-      "url": "https://vacantes.pichincha.com/job/QUITO-TEAM-COACH-QUITO-QUIT-COE-LEAN-A/1337055562/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1337041662",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -931,54 +919,6 @@
       "city": "QUITO",
       "publishedAt": "2026-09-30",
       "url": "https://vacantes.pichincha.com/job/QUITO-INGENIERO-DE-DATOS-QUITO-QUIT-INGENIERIA/1337041662/",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337024662",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE LEGAL - GUAYAQUIL",
-      "province": "GUAYAS",
-      "city": "GUAYAQUIL",
-      "publishedAt": "2026-09-29",
-      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-PASANTE-LEGAL-GUAYAQUIL-GUAY-LEGAL-NEGO/1337024662/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337025062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE AUDITORIA - GUAYAQUIL",
-      "province": "GUAYAS",
-      "city": "GUAYAQUIL",
-      "publishedAt": "2026-09-29",
-      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-PASANTE-AUDITORIA-GUAYAQUIL-GUAY-AUDITORIA/1337025062/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337007962",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "TEAM COACH - EVENTUAL (COE DATOS )",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-09-29",
-      "url": "https://vacantes.pichincha.com/job/QUITO-TEAM-COACH-EVENTUAL-%28COE-DATOS-%29-QUIT-COE-LEAN-A/1337007962/",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1331808962",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "CHAPTER LEAD DESARROLLO TI - MOBILE (QUITO)",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-09-21",
-      "url": "https://vacantes.pichincha.com/job/QUITO-CHAPTER-LEAD-DESARROLLO-TI-MOBILE-%28QUITO%29-QUIT-DESARROLLO/1331808962/",
       "isIT": true,
       "firstSeen": "2026-10-16"
     },
@@ -993,6 +933,19 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-BACK-Y-SERVICIOS-PORTUGAL-QUIT-ZONA-METRO/1337516162/",
       "isIT": false,
       "firstSeen": "2026-10-17",
+      "closedOn": "2026-10-20"
+    },
+    {
+      "id": "pichincha-1337456962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-15",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-COMERCIAL/1337456962/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
       "closedOn": "2026-10-20"
     },
     {
@@ -1087,6 +1040,19 @@
       "closedOn": "2026-10-16"
     },
     {
+      "id": "pichincha-1336350162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ARQUITECTO INTEGRACION - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-06",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ARQUITECTO-INTEGRACION-QUITO-QUIT-ARQUITECTU/1336350162/",
+      "isIT": true,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-20"
+    },
+    {
       "id": "pichincha-1337205062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1137,6 +1103,58 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-17"
+    },
+    {
+      "id": "pichincha-1337055562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "TEAM COACH - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-09-30",
+      "url": "https://vacantes.pichincha.com/job/QUITO-TEAM-COACH-QUITO-QUIT-COE-LEAN-A/1337055562/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-20"
+    },
+    {
+      "id": "pichincha-1337024662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE LEGAL - GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-09-29",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-PASANTE-LEGAL-GUAYAQUIL-GUAY-LEGAL-NEGO/1337024662/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-20"
+    },
+    {
+      "id": "pichincha-1337025062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE AUDITORIA - GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-09-29",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-PASANTE-AUDITORIA-GUAYAQUIL-GUAY-AUDITORIA/1337025062/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-20"
+    },
+    {
+      "id": "pichincha-1337007962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "TEAM COACH - EVENTUAL (COE DATOS )",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-09-29",
+      "url": "https://vacantes.pichincha.com/job/QUITO-TEAM-COACH-EVENTUAL-%28COE-DATOS-%29-QUIT-COE-LEAN-A/1337007962/",
+      "isIT": true,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-20"
     },
     {
       "id": "pichincha-1336902062",

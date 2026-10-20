@@ -2,8 +2,23 @@
   "source": "https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/procesos/busquedaOfertaPublica.jsf",
   "lastRun": {
     "date": "2026-10-20",
-    "institutions": 3,
-    "vacancies": 24
+    "institutions": 4,
+    "vacancies": 25
   },
-  "jobs": []
+  "jobs": [
+    {
+      "id": "340247",
+      "institution": "GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL INTERCULTURAL DE SARAGURO",
+      "title": "TÉCNICO/A 1 DE TECNOLOGÍAS DE LA INFORMACIÓN",
+      "vacancies": 1,
+      "salary": 1086,
+      "city": "SARAGURO",
+      "stage": "POSTULACIÓN",
+      "opensAt": "2026-10-20T00:30:00-05:00",
+      "closesAt": "2026-10-22T23:59:00-05:00",
+      "isIT": true,
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20"
+    }
+  ]
 }
