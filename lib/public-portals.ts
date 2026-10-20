@@ -4,7 +4,9 @@
 //   - Empresas públicas (LOEP) y algunos institutos tienen portal propio (CNT Empleo, INEC, EP Petroecuador).
 //   - Las instituciones regidas por la LOSEP publican sus concursos de méritos y oposición en Encuentra Empleo, del
 //     Ministerio del Trabajo (Acuerdo MDT-2022-180). La prensa lo confirma para el SRI (feb y may 2026) y el IGM
-//     (jun 2026). La página de concursos del ECU 911 existe pero está vacía.
+//     (jun 2026). La página de concursos del ECU 911 existe pero está vacía. Sus cargos de TI se recolectan a diario
+//     (scripts/encuentra-empleo/collect.mjs).
+// CNT Empleo no se recolecta: su portal rechaza las conexiones desde GitHub Actions (servidores fuera de Ecuador).
 // EP Petroecuador está en el sector Energía (sus cargos de TI se recolectan a diario).
 // No incluidos: EPMAPS (aguaquito.gob.ec bloquea las consultas automáticas y no se pudo verificar su sección de
 // empleo) y el Banco Central del Ecuador (no publica una sección de empleo ni se hallaron convocatorias recientes).
@@ -53,18 +55,6 @@ export type InecJob = {
   url: string
   /** Formulario oficial de postulación (sacado del PDF); null si el PDF no lo trae. */
   applyUrl: string | null
-  isIT: boolean
-  firstSeen: string
-}
-
-/** Vacante de CNT EP (lib/data/cnt-jobs.json). Se postula en su página ("Aplicar al trabajo"). */
-export type CntJob = {
-  id: string
-  title: string
-  url: string
-  publishedOn: string | null
-  /** Último día de publicación; null si la vacante ya venció (el portal deja de mostrar sus fechas). */
-  closesOn: string | null
   isIT: boolean
   firstSeen: string
 }

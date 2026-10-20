@@ -26,7 +26,7 @@ export function PublicPortals() {
     <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
       {publicPortals.map((portal) => <PortalCard key={portal.id} icon={icons[portal.kind]} name={portal.name} note={portal.note} links={portal.links}
         badges={<><Badge variant="secondary" className="text-[11px]">{portal.kind}</Badge>{portal.collected && <Badge className="bg-sky-600 text-[11px] text-white hover:bg-sky-600">Ofertas recolectadas</Badge>}</>} />)}
-      <PortalCard icon={Search} name="Vía Encuentra Empleo" links={encuentraEmpleoLinks} note="Sus concursos solo se postulan ahí: crea tu cuenta, completa la hoja de vida y busca la institución en “Sector público”."
+      <PortalCard icon={Search} name="Vía Encuentra Empleo" links={encuentraEmpleoLinks} note="Sus concursos solo se postulan ahí. Los revisamos dos veces al día: los de TI aparecen arriba con su código. Crea tu cuenta y completa la hoja de vida antes de que abran."
         badges={encuentraEmpleoInstitutions.map((name) => <Badge key={name} variant="outline" className="text-[11px]">{name}</Badge>)} />
     </div>
     <p className="mt-4 flex items-start gap-2 text-xs text-muted-foreground"><Lightbulb className="mt-0.5 size-3.5 shrink-0 text-secondary" /><span>Las convocatorias públicas suelen abrir solo unos días. Ten lista tu hoja de vida en Encuentra Empleo y tu título registrado en la SENESCYT antes de que salgan.</span></p>
