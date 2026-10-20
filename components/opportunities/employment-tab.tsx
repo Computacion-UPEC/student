@@ -8,6 +8,7 @@ import { FinanceJobs, financeITJobs } from "@/components/opportunities/finance-j
 import { FinancePortals } from "@/components/opportunities/finance-portals"
 import { PetroecuadorJobs } from "@/components/opportunities/petroecuador-jobs"
 import { InecJobs, inecITJobs } from "@/components/opportunities/inec-jobs"
+import { InstitutionSocials } from "@/components/opportunities/institution-socials"
 import { PublicITJobs, publicITJobs } from "@/components/opportunities/public-it-jobs"
 import { PublicPortals } from "@/components/opportunities/public-portals"
 import { PublicRoutes } from "@/components/opportunities/public-routes"
@@ -70,5 +71,6 @@ export function EmploymentTab({ stage }: { stage: Stage | null }) {
     {visible("energia") && <SectorGroup sector={sectors.find((item) => item.id === "energia")!}><PetroecuadorJobs {...filters} /><CelecJobs {...filters} /></SectorGroup>}
     {visible("financiero") && <SectorGroup sector={sectors.find((item) => item.id === "financiero")!}><FinanceJobs {...filters} /><FinancePortals /></SectorGroup>}
     {visible("publico") && <SectorGroup sector={sectors.find((item) => item.id === "publico")!}><InecJobs {...filters} /><PublicITJobs {...filters} /><PublicPortals /><PublicRoutes /></SectorGroup>}
+    <InstitutionSocials />
   </div>
 }
