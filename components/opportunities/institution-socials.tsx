@@ -14,7 +14,7 @@ const networks: { id: SocialNetwork; icon: typeof Globe }[] = [
 export function InstitutionSocials() {
   return <section aria-labelledby="institution-socials" className="mb-6">
     <div className="mb-4 flex flex-wrap items-end justify-between gap-4">
-      <div><h2 id="institution-socials" className="font-heading text-2xl font-bold text-foreground md:text-3xl">Sigue a las instituciones</h2><p className="mt-1 max-w-2xl text-sm text-muted-foreground">Sus cuentas oficiales anuncian convocatorias, proyectos y cambios de autoridades antes que nadie. En LinkedIn, la pestaña &ldquo;Personas&rdquo; de cada empresa te muestra a su equipo y a sus directivos.</p></div>
+      <div><h2 id="institution-socials" className="font-heading text-2xl font-bold text-foreground md:text-3xl">Sigue a las instituciones</h2><p className="mt-1 max-w-2xl text-sm text-muted-foreground">Sus cuentas oficiales anuncian convocatorias, proyectos y cambios de autoridades antes que nadie. En LinkedIn, la pestaña &ldquo;Personas&rdquo; de cada empresa te muestra a su equipo y a sus directivos. Facebook, Instagram y LinkedIn pueden pedirte iniciar sesión para ver la página completa.</p></div>
       <Badge variant="outline">{institutionSocials.length} instituciones</Badge>
     </div>
     <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">{institutionSocials.map((institution) => <div key={institution.id} className="flex flex-col gap-2 rounded-xl border border-border bg-card p-4">
