@@ -56,3 +56,33 @@ export type InecJob = {
   isIT: boolean
   firstSeen: string
 }
+
+/** Vacante de CNT EP (lib/data/cnt-jobs.json). Se postula en su página ("Aplicar al trabajo"). */
+export type CntJob = {
+  id: string
+  title: string
+  url: string
+  publishedOn: string | null
+  /** Último día de publicación; null si la vacante ya venció (el portal deja de mostrar sus fechas). */
+  closesOn: string | null
+  isIT: boolean
+  firstSeen: string
+}
+
+/** Cargo de TI en concurso de méritos y oposición, publicado en Encuentra Empleo (lib/data/public-jobs.json). */
+export type PublicContestJob = {
+  /** Código del puesto en Encuentra Empleo. */
+  id: string
+  institution: string
+  title: string
+  vacancies: number
+  /** Remuneración mensual unificada (USD). */
+  salary: number | null
+  city: string
+  stage: string
+  opensAt: string | null
+  closesAt: string | null
+  isIT: boolean
+  firstSeen: string
+  lastSeen: string
+}

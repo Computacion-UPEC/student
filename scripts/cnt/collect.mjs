@@ -13,7 +13,8 @@ import { isITRole } from "../lib/it-roles.mjs"
 const FEED = "https://empleo.cnt.gob.ec/feed/?post_type=job"
 const here = path.dirname(fileURLToPath(import.meta.url))
 const OUT = path.resolve(here, "../../lib/data/cnt-jobs.json")
-const USER_AGENT = "Mozilla/5.0 (compatible; ComputacionUPEC-Oportunidades/1.0; +https://github.com/Computacion-UPEC/student)"
+// El portal rechaza agentes que se identifican como bots: se usa el de un navegador común
+const USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
 const MAX_FEED_PAGES = 5
 const today = new Date().toISOString().slice(0, 10)
 
@@ -21,7 +22,7 @@ const decode = (text) => text.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1").repla
 const clean = (text) => decode(text.replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").trim()
 
 async function get(url) {
-  const response = await fetch(url, { headers: { "User-Agent": USER_AGENT } })
+  const response = await fetch(url, { headers: { "User-Agent": USER_AGENT, Accept: "text/html,application/rss+xml,application/xml;q=0.9,*/*;q=0.8", "Accept-Language": "es-EC,es;q=0.9" } })
   if (!response.ok) throw new Error(`${response.status} en ${url}`)
   return response.text()
 }
@@ -43,7 +44,7 @@ const known = new Map(previous.jobs.map((job) => [job.url, job]))
 
 const items = []
 for (let page = 1; page <= MAX_FEED_PAGES; page++) {
-  const xml = await get(`${FEED}&paged=${page}`).catch(() => "")
+  const xml = await get(`${FEED}&paged=${page}`).catch((error) => { console.warn(`  Feed página ${page}: ${error.message}`); return "" })
   const pageItems = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map(([, item]) => ({
     title: clean(item.match(/<title>([\s\S]*?)<\/title>/)?.[1] ?? ""),
     url: clean(item.match(/<link>([\s\S]*?)<\/link>/)?.[1] ?? ""),

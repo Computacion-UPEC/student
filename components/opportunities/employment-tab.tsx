@@ -8,6 +8,7 @@ import { FinanceJobs, financeITJobs } from "@/components/opportunities/finance-j
 import { FinancePortals } from "@/components/opportunities/finance-portals"
 import { PetroecuadorJobs } from "@/components/opportunities/petroecuador-jobs"
 import { InecJobs, inecITJobs } from "@/components/opportunities/inec-jobs"
+import { PublicITJobs, publicITJobs } from "@/components/opportunities/public-it-jobs"
 import { PublicPortals } from "@/components/opportunities/public-portals"
 import { PublicRoutes } from "@/components/opportunities/public-routes"
 import { TechJobs, countRecentTechITJobs } from "@/components/opportunities/tech-jobs"
@@ -24,7 +25,7 @@ const sectors: { id: Sector; label: string; icon: typeof Zap; ownership: string;
   { id: "tecnologia", label: "Tecnología / Software", icon: Code2, ownership: "Privado", count: countRecentTechITJobs(null), unit: "vacantes", description: "Vacantes de TI en Ecuador de empresas de desarrollo de software (Devsu, Stack Builders)." },
   { id: "energia", label: "Energía", icon: Zap, ownership: "Empresas públicas", count: celecJobs.length + petroecuadorITJobs.length, unit: "ofertas", description: petroecuadorITJobs.length ? "Convocatorias reales de CELEC EP (electricidad) y cargos de TI de EP Petroecuador (petróleo)." : "Convocatorias reales de CELEC EP (electricidad). Los cargos de TI de Petroecuador aparecerán cuando publique alguno." },
   { id: "financiero", label: "Financiero", icon: Landmark, ownership: "Públicos y privados", count: financePortals.length, unit: "portales", description: financeITJobs.length ? "Ofertas de TI de bancos y cooperativas, y sus portales oficiales de empleo." : "Portales oficiales de empleo de bancos y cooperativas." },
-  { id: "publico", label: "Sector público", icon: Building2, ownership: "Público", count: publicOpportunities.length + publicPortals.length + encuentraEmpleoInstitutions.length, unit: "rutas", description: inecITJobs.length ? "Cargos de TI del INEC, dónde publica cada institución pública y plataformas del Estado para docencia y consultoría." : "Dónde publica cada institución pública y plataformas del Estado para docencia, cargos públicos y consultoría." },
+  { id: "publico", label: "Sector público", icon: Building2, ownership: "Público", count: publicOpportunities.length + publicPortals.length + encuentraEmpleoInstitutions.length, unit: "rutas", description: inecITJobs.length || publicITJobs.length ? "Cargos de TI del INEC, CNT y concursos públicos de Encuentra Empleo, dónde publica cada institución y plataformas del Estado para docencia y consultoría." : "Dónde publica cada institución pública y plataformas del Estado para docencia, cargos públicos y consultoría." },
 ]
 
 function SectorGroup({ sector, children }: { sector: (typeof sectors)[number]; children: ReactNode }) {
@@ -68,6 +69,6 @@ export function EmploymentTab({ stage }: { stage: Stage | null }) {
     {visible("tecnologia") && <SectorGroup sector={sectors.find((item) => item.id === "tecnologia")!}><TechJobs {...filters} /></SectorGroup>}
     {visible("energia") && <SectorGroup sector={sectors.find((item) => item.id === "energia")!}><PetroecuadorJobs {...filters} /><CelecJobs {...filters} /></SectorGroup>}
     {visible("financiero") && <SectorGroup sector={sectors.find((item) => item.id === "financiero")!}><FinanceJobs {...filters} /><FinancePortals /></SectorGroup>}
-    {visible("publico") && <SectorGroup sector={sectors.find((item) => item.id === "publico")!}><InecJobs {...filters} /><PublicPortals /><PublicRoutes /></SectorGroup>}
+    {visible("publico") && <SectorGroup sector={sectors.find((item) => item.id === "publico")!}><InecJobs {...filters} /><PublicITJobs {...filters} /><PublicPortals /><PublicRoutes /></SectorGroup>}
   </div>
 }

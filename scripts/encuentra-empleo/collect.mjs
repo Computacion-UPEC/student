@@ -28,10 +28,13 @@ const clean = (text) => (text ?? "").replace(/\s+/g, " ").trim()
 /** "2026-10-21 23:59" (hora de Ecuador) -> "2026-10-21T23:59:00-05:00" */
 const toIso = (text) => text?.match(/(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2})/)?.slice(1).join("T").concat(":00-05:00") ?? null
 
+/** Clic por JavaScript: la página abre al cargar un aviso modal cuya máscara tapa los botones. */
+const jsClick = (locator) => locator.evaluate((element) => element.click())
+
 /** Espera a que una tabla cambie de contenido después de un clic (PrimeFaces actualiza por AJAX). */
 async function clickAndWait(page, locator, tableSelector) {
   const before = await page.locator(tableSelector).first().innerText().catch(() => "")
-  await locator.click()
+  await jsClick(locator)
   await page.waitForFunction(({ selector, previous }) => (document.querySelector(selector)?.innerText ?? "") !== previous, { selector: tableSelector, previous: before }, { timeout: 30_000 })
 }
 
@@ -93,7 +96,7 @@ async function scrape() {
         // La tabla ordena primero a las instituciones con vacantes nuevas: al llegar a 0 ya no hay más
         if (!newVacancies) { reachedZero = true; break }
         institutionsWithVacancies++
-        await row.locator("td").nth(1).locator("a").first().click()
+        await jsClick(row.locator("td").nth(1).locator("a").first())
         try {
           vacancies.push(...await readVacancies(page, institution))
         } catch (error) {
