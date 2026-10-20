@@ -6,7 +6,8 @@
 //     Ministerio del Trabajo (Acuerdo MDT-2022-180). La prensa lo confirma para el SRI (feb y may 2026) y el IGM
 //     (jun 2026). La página de concursos del ECU 911 existe pero está vacía. Sus cargos de TI se recolectan a diario
 //     (scripts/encuentra-empleo/collect.mjs).
-// CNT Empleo no se recolecta: su portal rechaza las conexiones desde GitHub Actions (servidores fuera de Ecuador).
+// CNT Empleo rechaza las conexiones desde GitHub Actions (servidores fuera de Ecuador): su recolector corre cada
+// noche en un computador en Ecuador y publica los cambios con un PR (scripts/cnt/publicar.sh).
 // EP Petroecuador está en el sector Energía (sus cargos de TI se recolectan a diario).
 // No incluidos: EPMAPS (aguaquito.gob.ec bloquea las consultas automáticas y no se pudo verificar su sección de
 // empleo) y el Banco Central del Ecuador (no publica una sección de empleo ni se hallaron convocatorias recientes).
@@ -27,7 +28,7 @@ export type PublicPortal = {
 
 export const publicPortals: PublicPortal[] = [
   { id: "inec", name: "INEC", kind: "Instituto", links: [{ label: "Ver convocatorias", url: "https://www.ecuadorencifras.gob.ec/institucional/trabaja-con-nosotros/" }], note: "Convocatorias casi semanales para encuestas y proyectos: analistas de datos, bases de datos y aplicaciones. Cada una abre de 1 a 3 días; las de TI aparecen arriba con su botón Postular.", collected: true },
-  { id: "cnt", name: "CNT EP", kind: "Empresa pública", links: [{ label: "Procesos de selección", url: "https://empleo.cnt.gob.ec/procesos/" }, { label: "Concursos", url: "https://empleo.cnt.gob.ec/concursos/" }, { label: "Crear cuenta", url: "https://empleo.cnt.gob.ec/user-login/" }], note: "Portal CNT Empleo. Se postula con una cuenta propia en el mismo portal." },
+  { id: "cnt", name: "CNT EP", kind: "Empresa pública", links: [{ label: "Procesos de selección", url: "https://empleo.cnt.gob.ec/procesos/" }, { label: "Concursos", url: "https://empleo.cnt.gob.ec/concursos/" }, { label: "Crear cuenta", url: "https://empleo.cnt.gob.ec/user-login/" }], note: "Portal CNT Empleo. Revisamos sus vacantes cada noche: las de TI aparecen arriba. Se postula con una cuenta propia en el mismo portal.", collected: true },
   // El formulario es de Google y pide iniciar sesión con una cuenta de Google
   { id: "arcotel", name: "ARCOTEL", kind: "Agencia de regulación", links: [{ label: "Registrar hoja de vida", url: "https://docs.google.com/forms/d/e/1FAIpQLSe82Pp63of_-KZJvFgGekcZ3VE0jP6pyJUv086_eDcIIu2ceQ/viewform" }], note: "Bolsa de empleo: formulario oficial para dejar tus datos; te consideran cuando abren una vacante. Sus concursos van por Encuentra Empleo." },
 ]
@@ -55,6 +56,18 @@ export type InecJob = {
   url: string
   /** Formulario oficial de postulación (sacado del PDF); null si el PDF no lo trae. */
   applyUrl: string | null
+  isIT: boolean
+  firstSeen: string
+}
+
+/** Vacante de CNT EP (lib/data/cnt-jobs.json). Se postula en su página ("Aplicar al trabajo"). */
+export type CntJob = {
+  id: string
+  title: string
+  url: string
+  publishedOn: string | null
+  /** Último día de publicación; null si la vacante ya venció (el portal deja de mostrar sus fechas). */
+  closesOn: string | null
   isIT: boolean
   firstSeen: string
 }

@@ -4,20 +4,26 @@ import { useEffect, useMemo, useState } from "react"
 import { ArrowUpRight, Building, CalendarClock, ChevronDown, CircleDot, DollarSign, Laptop, MapPin, Send } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
+import cntData from "@/lib/data/cnt-jobs.json"
 import publicData from "@/lib/data/public-jobs.json"
-import { encuentraEmpleoLinks, type PublicContestJob } from "@/lib/public-portals"
+import { encuentraEmpleoLinks, type CntJob, type PublicContestJob } from "@/lib/public-portals"
 import type { EmploymentFilters } from "@/components/opportunities/celec-jobs"
 
 const PREVIEW = 6
 
-/** Cargo de TI en concurso de una institución pública, con su enlace para postular. */
-type PublicITJob = { id: string; institution: string; title: string; city?: string; salary?: number | null; vacancies?: number; closesAt: string | null; applyUrl: string; applyNote?: string; source: "Encuentra Empleo" }
+/** Cargo de TI de una institución pública, de CNT Empleo o de Encuentra Empleo, con su enlace para postular. */
+type PublicITJob = { id: string; institution: string; title: string; city?: string; salary?: number | null; vacancies?: number; closesAt: string | null; applyUrl: string; applyNote?: string; source: "CNT Empleo" | "Encuentra Empleo" }
 
+const cntJobs: PublicITJob[] = (cntData.jobs as CntJob[]).filter((job) => job.isIT).map((job) => ({
+  id: `cnt-${job.id}`, institution: "CNT EP", title: job.title,
+  // El portal publica el último día de publicación: se toma hasta el fin de ese día
+  closesAt: job.closesOn ? `${job.closesOn}T23:59:00-05:00` : null, applyUrl: job.url, source: "CNT Empleo",
+}))
 const contestJobs: PublicITJob[] = ((publicData as { jobs: PublicContestJob[] }).jobs).map((job) => ({
   id: `mdt-${job.id}`, institution: job.institution, title: job.title, city: job.city, salary: job.salary, vacancies: job.vacancies,
   closesAt: job.closesAt, applyUrl: encuentraEmpleoLinks[0].url, applyNote: `Código ${job.id}: ingresa a Encuentra Empleo y búscalo en Sector público.`, source: "Encuentra Empleo",
 }))
-export const publicITJobs = contestJobs
+export const publicITJobs = [...cntJobs, ...contestJobs]
 
 const formatDateTime = (iso: string) => new Date(iso).toLocaleString("es-EC", { timeZone: "America/Guayaquil", day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit" })
 const titleCase = (text: string) => text.toLowerCase().replace(/(^|\s)\p{L}/gu, (letter) => letter.toUpperCase())
@@ -45,7 +51,7 @@ export function PublicITJobs({ onlyOpen, showHistoric, onShowHistoric }: Employm
 
   return <div className="mb-12">
     <div className="mb-4 flex flex-wrap items-end justify-between gap-4">
-      <div><h2 className="font-heading text-2xl font-bold text-foreground md:text-3xl">Cargos de TI en instituciones públicas</h2><p className="mt-1 max-w-2xl text-sm text-muted-foreground">Revisamos dos veces al día los concursos de méritos y oposición de todas las instituciones en Encuentra Empleo (SRI, ECU 911, Registro Civil, municipios y más), y aquí mostramos solo los cargos de TI. La postulación dura pocos días.</p></div>
+      <div><h2 className="font-heading text-2xl font-bold text-foreground md:text-3xl">Cargos de TI en instituciones públicas</h2><p className="mt-1 max-w-2xl text-sm text-muted-foreground">Revisamos los concursos de méritos y oposición de todas las instituciones en Encuentra Empleo (SRI, ECU 911, Registro Civil, municipios y más) dos veces al día, y el portal CNT Empleo cada noche, y aquí mostramos solo los cargos de TI. La postulación dura pocos días.</p></div>
       <div className="flex flex-wrap gap-2"><Badge className="gap-1 bg-sky-600 text-white hover:bg-sky-600"><Laptop className="size-3" />{jobs.length} de TI</Badge>{now != null && <Badge className="gap-1 bg-emerald-600 text-white hover:bg-emerald-600"><CircleDot className="size-3" />{openCount} {openCount === 1 ? "abierta" : "abiertas"}</Badge>}</div>
     </div>
 
