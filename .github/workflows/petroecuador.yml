@@ -4,6 +4,8 @@
 #   - Convocatoria mensual de Educa Empleo (docentes LOEI) -> lib/data/educa-empleo.json
 #   - Empresas de software con vacantes en Ecuador (Devsu, Stack Builders, vía Workable) -> lib/data/tech-jobs.json
 #   - INEC, Trabaja con nosotros (postulaciones de 1 a 3 días) -> lib/data/inec-jobs.json
+#   - CNT EP, portal CNT Empleo -> lib/data/cnt-jobs.json
+#   - Concursos del sector público (LOSEP) en Encuentra Empleo, solo cargos de TI -> lib/data/public-jobs.json
 # Corre dos veces al día. Solo hace commit si hay cambios, y ese commit dispara el despliegue en Vercel.
 name: Recolectar convocatorias
 
@@ -23,7 +25,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
 
@@ -64,14 +66,23 @@ jobs:
           command -v pdftotext || (sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends poppler-utils)
           node scripts/inec/collect.mjs
 
+      - name: Recolectar vacantes de CNT EP
+        continue-on-error: true
+        run: node scripts/cnt/collect.mjs
+
+      # Usa el navegador sin interfaz instalado para Petroecuador
+      - name: Recolectar concursos del sector público (Encuentra Empleo)
+        continue-on-error: true
+        run: node scripts/encuentra-empleo/collect.mjs
+
       - name: Guardar cambios
         run: |
-          if git diff --quiet -- lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json lib/data/inec-jobs.json; then
+          if git diff --quiet -- lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json lib/data/inec-jobs.json lib/data/cnt-jobs.json lib/data/public-jobs.json; then
             echo "Sin cambios en las convocatorias."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json lib/data/inec-jobs.json
+          git add lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json lib/data/inec-jobs.json lib/data/cnt-jobs.json lib/data/public-jobs.json
           git commit -m "Update job offers"
           git push

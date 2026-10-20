@@ -1,0 +1,455 @@
+{
+  "source": "https://empleo.cnt.gob.ec/procesos/",
+  "jobs": [
+    {
+      "id": "analista-de-planificacion-de-accesos-2",
+      "title": "ANALISTA DE PLANIFICACION DE ACCESOS",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-planificacion-de-accesos-2/",
+      "publishedOn": "2026-10-19",
+      "closesOn": "2026-10-20",
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-negociacion-temporal-quito",
+      "title": "ANALISTA DE NEGOCIACION – TEMPORAL – QUITO",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-negociacion-temporal-quito/",
+      "publishedOn": "2026-10-14",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-productos",
+      "title": "ANALISTA DE PRODUCTOS",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-productos/",
+      "publishedOn": "2026-10-13",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "tecnico-integral-cotopaxi-2",
+      "title": "TECNICO INTEGRAL (COTOPAXI)",
+      "url": "https://empleo.cnt.gob.ec/job/tecnico-integral-cotopaxi-2/",
+      "publishedOn": "2026-10-12",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-publicidad-temporal-quito",
+      "title": "ANALISTA DE PUBLICIDAD – TEMPORAL – QUITO",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-publicidad-temporal-quito/",
+      "publishedOn": "2026-10-07",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "monitor-de-calidad-3",
+      "title": "MONITOR DE CALIDAD",
+      "url": "https://empleo.cnt.gob.ec/job/monitor-de-calidad-3/",
+      "publishedOn": "2026-10-07",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-relaciones-laborales-y-bienestar-laboral-temporal-quito-2",
+      "title": "ANALISTA DE RELACIONES LABORALES Y BIENESTAR LABORAL -TEMPORAL-QUITO",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-relaciones-laborales-y-bienestar-laboral-temporal-quito-2/",
+      "publishedOn": "2026-10-07",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-procedimientos-judiciales-temporal-quito-2",
+      "title": "ANALISTA DE PROCEDIMIENTOS JUDICIALES – TEMPORAL – QUITO",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-procedimientos-judiciales-temporal-quito-2/",
+      "publishedOn": "2026-10-05",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "asistente-de-servicio-al-cliente-temporal-4",
+      "title": "ASISTENTE DE SERVICIO AL CLIENTE – TEMPORAL",
+      "url": "https://empleo.cnt.gob.ec/job/asistente-de-servicio-al-cliente-temporal-4/",
+      "publishedOn": "2026-10-02",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-publicidad-temporal",
+      "title": "ANALISTA DE PUBLICIDAD – TEMPORAL",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-publicidad-temporal/",
+      "publishedOn": "2026-10-02",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "asistente-de-documentacion-y-archivo-4",
+      "title": "ASISTENTE DE DOCUMENTACIÓN Y ARCHIVO",
+      "url": "https://empleo.cnt.gob.ec/job/asistente-de-documentacion-y-archivo-4/",
+      "publishedOn": "2026-10-02",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "supervisor-de-operacion-outsourcing-3",
+      "title": "SUPERVISOR DE OPERACION OUTSOURCING",
+      "url": "https://empleo.cnt.gob.ec/job/supervisor-de-operacion-outsourcing-3/",
+      "publishedOn": "2026-09-29",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "convocatoria-al-proceso-de-seleccion-para-ocupar-el-cargo-de-asistente-de-servicio-al-cliente-cotopaxi",
+      "title": "CONVOCATORIA AL PROCESO DE SELECCIÓN PARA OCUPAR EL CARGO DE ASISTENTE DE SERVICIO AL CLIENTE (COTOPAXI)",
+      "url": "https://empleo.cnt.gob.ec/job/convocatoria-al-proceso-de-seleccion-para-ocupar-el-cargo-de-asistente-de-servicio-al-cliente-cotopaxi/",
+      "publishedOn": "2026-09-29",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "tecnico-integral-la-troncal",
+      "title": "TÉCNICO INTEGRAL / LA TRONCAL",
+      "url": "https://empleo.cnt.gob.ec/job/tecnico-integral-la-troncal/",
+      "publishedOn": "2026-09-22",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-secretaria-general-quito-temporal",
+      "title": "ANALISTA DE SECRETARÍA GENERAL (QUITO – TEMPORAL)",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-secretaria-general-quito-temporal/",
+      "publishedOn": "2026-09-21",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "responsable-de-operacion-iess-temporal-quito",
+      "title": "RESPONSABLE DE OPERACION IESS – TEMPORAL – QUITO",
+      "url": "https://empleo.cnt.gob.ec/job/responsable-de-operacion-iess-temporal-quito/",
+      "publishedOn": "2026-09-18",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "operacion-outsourcing-temporal-quito",
+      "title": "OPERACIÓN OUTSOURCING – TEMPORAL – QUITO",
+      "url": "https://empleo.cnt.gob.ec/job/operacion-outsourcing-temporal-quito/",
+      "publishedOn": "2026-09-18",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-tesoreria-temporal",
+      "title": "ANALISTA DE TESORERÍA (TEMPORAL)",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-tesoreria-temporal/",
+      "publishedOn": "2026-09-17",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-seguros-temporal",
+      "title": "ANALISTA DE SEGUROS (TEMPORAL)",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-seguros-temporal/",
+      "publishedOn": "2026-09-15",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-servicios-generales-y-transporte-temporal-2",
+      "title": "ANALISTA DE SERVICIOS GENERALES Y TRANSPORTE (TEMPORAL)",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-servicios-generales-y-transporte-temporal-2/",
+      "publishedOn": "2026-09-15",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-seguros-4",
+      "title": "ANALISTA DE SEGUROS",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-seguros-4/",
+      "publishedOn": "2026-09-08",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "asistente-de-documentacion-y-archivo-loja",
+      "title": "ASISTENTE DE DOCUMENTACIÓN Y ARCHIVO / LOJA",
+      "url": "https://empleo.cnt.gob.ec/job/asistente-de-documentacion-y-archivo-loja/",
+      "publishedOn": "2026-09-08",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-procedimientos-judiciales-quito-2",
+      "title": "ANALISTA DE PROCEDIMIENTOS JUDICIALES – QUITO",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-procedimientos-judiciales-quito-2/",
+      "publishedOn": "2026-09-08",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "asistente-de-servicio-al-cliente-8",
+      "title": "ASISTENTE DE SERVICIO AL CLIENTE",
+      "url": "https://empleo.cnt.gob.ec/job/asistente-de-servicio-al-cliente-8/",
+      "publishedOn": "2026-09-07",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "operador-de-operacion-outsourcing-biess",
+      "title": "OPERADOR DE OPERACIÓN OUTSOURCING BIESS",
+      "url": "https://empleo.cnt.gob.ec/job/operador-de-operacion-outsourcing-biess/",
+      "publishedOn": "2026-09-04",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "responsable-de-operacion-biess",
+      "title": "RESPONSABLE DE OPERACIÓN BIESS",
+      "url": "https://empleo.cnt.gob.ec/job/responsable-de-operacion-biess/",
+      "publishedOn": "2026-09-04",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "administrador-de-contrato-outsourcing-2",
+      "title": "ADMINISTRADOR DE CONTRATO OUTSOURCING",
+      "url": "https://empleo.cnt.gob.ec/job/administrador-de-contrato-outsourcing-2/",
+      "publishedOn": "2026-09-04",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-relaciones-laborales-y-bienestar-laboral-temporal-2",
+      "title": "ANALISTA DE RELACIONES LABORALES Y BIENESTAR LABORAL – TEMPORAL",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-relaciones-laborales-y-bienestar-laboral-temporal-2/",
+      "publishedOn": "2026-09-02",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-comercial-corporativo-guayaquil-2",
+      "title": "ANALISTA COMERCIAL CORPORATIVO (GUAYAQUIL)",
+      "url": "https://empleo.cnt.gob.ec/job/analista-comercial-corporativo-guayaquil-2/",
+      "publishedOn": "2026-08-31",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-gestion-de-gerencia-nacional-temporal-quito",
+      "title": "ANALISTA DE GESTIÓN DE GERENCIA NACIONAL – TEMPORAL (QUITO)",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-gestion-de-gerencia-nacional-temporal-quito/",
+      "publishedOn": "2026-08-24",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-microinformatica-5",
+      "title": "ANALISTA DE MICROINFORMÁTICA",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-microinformatica-5/",
+      "publishedOn": "2026-08-17",
+      "closesOn": null,
+      "isIT": true,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-proyectos-de-bi",
+      "title": "ANALISTA DE PROYECTOS DE BI",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-proyectos-de-bi/",
+      "publishedOn": "2026-08-12",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-compras-nacionales-proveedores",
+      "title": "ANALISTA COMPRAS NACIONALES PROVEEDORES",
+      "url": "https://empleo.cnt.gob.ec/job/analista-compras-nacionales-proveedores/",
+      "publishedOn": "2026-08-11",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-soporte-de-gerencia-nacional-quito-4",
+      "title": "ANALISTA DE SOPORTE DE GERENCIA NACIONAL TEMPORAL (QUITO)",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-soporte-de-gerencia-nacional-quito-4/",
+      "publishedOn": "2026-08-11",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "operador-de-operacion-outsourcing-temporal-guayaquil-2",
+      "title": "OPERADOR DE OPERACION OUTSOURCING TEMPORAL – GUAYAQUIL",
+      "url": "https://empleo.cnt.gob.ec/job/operador-de-operacion-outsourcing-temporal-guayaquil-2/",
+      "publishedOn": "2026-08-06",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "operador-de-operacion-outsourcing-temporal-quito",
+      "title": "OPERADOR DE OPERACION OUTSOURCING TEMPORAL – QUITO",
+      "url": "https://empleo.cnt.gob.ec/job/operador-de-operacion-outsourcing-temporal-quito/",
+      "publishedOn": "2026-08-06",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-liquidacion",
+      "title": "ANALISTA DE LIQUIDACIÓN",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-liquidacion/",
+      "publishedOn": "2026-08-05",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "jefe-financiero-y-soporte-provincial-imbabura",
+      "title": "JEFE FINANCIERO Y SOPORTE PROVINCIAL – IMBABURA",
+      "url": "https://empleo.cnt.gob.ec/job/jefe-financiero-y-soporte-provincial-imbabura/",
+      "publishedOn": "2026-07-20",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-procedimientos-judiciales-temporal-quito",
+      "title": "ANALISTA DE PROCEDIMIENTOS JUDICIALES – TEMPORAL – QUITO",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-procedimientos-judiciales-temporal-quito/",
+      "publishedOn": "2026-07-20",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "supervisor-de-operacion-outsourcing-nac-gye",
+      "title": "SUPERVISOR DE OPERACION OUTSOURCING / NAC GYE",
+      "url": "https://empleo.cnt.gob.ec/job/supervisor-de-operacion-outsourcing-nac-gye/",
+      "publishedOn": "2026-07-15",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "supervisor-de-operacion-outsourcing-2",
+      "title": "SUPERVISOR DE OPERACIÓN OUTSOURCING",
+      "url": "https://empleo.cnt.gob.ec/job/supervisor-de-operacion-outsourcing-2/",
+      "publishedOn": "2026-07-15",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "supervisor-controller",
+      "title": "SUPERVISOR CONTROLLER",
+      "url": "https://empleo.cnt.gob.ec/job/supervisor-controller/",
+      "publishedOn": "2026-07-15",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-mejoramiento-y-suministro-de-informes",
+      "title": "ANALISTA DE MEJORAMIENTO Y SUMINISTRO DE INFORMES",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-mejoramiento-y-suministro-de-informes/",
+      "publishedOn": "2026-07-15",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "agente-de-mesa-de-ayuda-gye",
+      "title": "AGENTE DE MESA DE AYUDA GYE",
+      "url": "https://empleo.cnt.gob.ec/job/agente-de-mesa-de-ayuda-gye/",
+      "publishedOn": "2026-07-15",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "agente-de-mesa-de-ayuda-quito",
+      "title": "AGENTE DE MESA DE AYUDA QUITO",
+      "url": "https://empleo.cnt.gob.ec/job/agente-de-mesa-de-ayuda-quito/",
+      "publishedOn": "2026-07-15",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "operador-de-operacion-outsourcing-guayaquil-5",
+      "title": "OPERADOR DE OPERACIÓN OUTSOURCING – GUAYAQUIL",
+      "url": "https://empleo.cnt.gob.ec/job/operador-de-operacion-outsourcing-guayaquil-5/",
+      "publishedOn": "2026-07-15",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "operador-de-operacion-outsourcing-quito-2",
+      "title": "OPERADOR DE OPERACIÓN OUTSOURCING – QUITO",
+      "url": "https://empleo.cnt.gob.ec/job/operador-de-operacion-outsourcing-quito-2/",
+      "publishedOn": "2026-07-15",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-gestion-de-cambios-y-proyectos-2",
+      "title": "ANALISTA DE GESTION DE CAMBIOS Y PROYECTOS",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-gestion-de-cambios-y-proyectos-2/",
+      "publishedOn": "2026-07-15",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "responsable-de-operacion-iess-3",
+      "title": "RESPONSABLE DE OPERACIÓN IESS",
+      "url": "https://empleo.cnt.gob.ec/job/responsable-de-operacion-iess-3/",
+      "publishedOn": "2026-07-15",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "analista-de-calidad-e-inteligencia-de-datos-2",
+      "title": "ANALISTA DE CALIDAD E INTELIGENCIA DE DATOS",
+      "url": "https://empleo.cnt.gob.ec/job/analista-de-calidad-e-inteligencia-de-datos-2/",
+      "publishedOn": "2026-07-15",
+      "closesOn": null,
+      "isIT": true,
+      "firstSeen": "2026-10-20"
+    }
+  ]
+}
