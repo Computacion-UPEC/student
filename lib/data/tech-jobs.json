@@ -112,17 +112,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "devsu-E2DF095E86",
-      "company": "Devsu",
-      "title": "Senior Desarrollador Java (Spring) - Sector Financiero/Bancario",
-      "city": "Quito",
-      "remote": false,
-      "publishedAt": "2026-09-28",
-      "url": "https://apply.workable.com/j/E2DF095E86",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "devsu-690DEBD7C0",
       "company": "Devsu",
       "title": "Ingeniero de Seguridad Aplicativa - Sector Financiero/Bancario",
@@ -202,12 +191,12 @@
     {
       "id": "devsu-F7CD1DC5B6",
       "company": "Devsu",
-      "title": "Senior Scrum Master - Sector Fintech",
+      "title": "Senior Facilitador Agile - Sector Fintech",
       "city": "Quito",
       "remote": false,
       "publishedAt": "2026-08-14",
       "url": "https://apply.workable.com/j/F7CD1DC5B6",
-      "isIT": true,
+      "isIT": false,
       "firstSeen": "2026-10-16"
     },
     {
@@ -308,6 +297,18 @@
       "url": "https://apply.workable.com/j/FCE05F5D8B",
       "isIT": true,
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "devsu-E2DF095E86",
+      "company": "Devsu",
+      "title": "Senior Desarrollador Java (Spring) - Sector Financiero/Bancario",
+      "city": "Quito",
+      "remote": false,
+      "publishedAt": "2026-09-28",
+      "url": "https://apply.workable.com/j/E2DF095E86",
+      "isIT": true,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-20"
     }
   ]
 }

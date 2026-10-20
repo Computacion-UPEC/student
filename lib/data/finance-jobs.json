@@ -50,6 +50,54 @@
       "firstSeen": "2026-10-19"
     },
     {
+      "id": "pichincha-1337555062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-19",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-CELULA-TAR/1337555062/",
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "pichincha-1337555962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - CAÑAR",
+      "province": "CAÑAR",
+      "city": "CAÑAR",
+      "publishedAt": "2026-10-19",
+      "url": "https://vacantes.pichincha.com/job/CA%C3%91AR-OFICIAL-COMERCIAL-Y-SERVICIOS-CA%C3%91AR-AZOG-ZONA-AUSTR/1337555962/",
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "pichincha-1337555862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - AZOGUES",
+      "province": "CAÑAR",
+      "city": "AZOGUES",
+      "publishedAt": "2026-10-19",
+      "url": "https://vacantes.pichincha.com/job/AZOGUES-OFICIAL-COMERCIAL-Y-SERVICIOS-AZOGUES-AZOG-ZONA-AUSTR/1337555862/",
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
+      "id": "pichincha-1337556262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - HUAYNA CAPAC",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-10-19",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-Y-SERVICIOS-HUAYNA-CAPAC-CUEN-ZONA-AUSTR/1337556262/",
+      "isIT": false,
+      "firstSeen": "2026-10-20"
+    },
+    {
       "id": "pichincha-1336680662",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -405,18 +453,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-TRABAJADOR-SOCIAL-QUITO-QUIT-BIENESTAR/1337501462/",
       "isIT": false,
       "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337516162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO BACK Y SERVICIOS - PORTUGAL",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-16",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-BACK-Y-SERVICIOS-PORTUGAL-QUIT-ZONA-METRO/1337516162/",
-      "isIT": false,
-      "firstSeen": "2026-10-17"
     },
     {
       "id": "pichincha-1337515662",
@@ -945,6 +981,19 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-CHAPTER-LEAD-DESARROLLO-TI-MOBILE-%28QUITO%29-QUIT-DESARROLLO/1331808962/",
       "isIT": true,
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337516162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO BACK Y SERVICIOS - PORTUGAL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-16",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-BACK-Y-SERVICIOS-PORTUGAL-QUIT-ZONA-METRO/1337516162/",
+      "isIT": false,
+      "firstSeen": "2026-10-17",
+      "closedOn": "2026-10-20"
     },
     {
       "id": "pichincha-1336434462",
