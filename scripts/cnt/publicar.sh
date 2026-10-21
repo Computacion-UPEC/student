@@ -34,8 +34,8 @@ gh pr create --base main --head "$branch" --title "Update CNT jobs ($stamp)" \
   --body "Vacantes de CNT Empleo recolectadas en un computador en Ecuador con \`scripts/cnt/publicar.sh\` (el portal rechaza las conexiones desde GitHub Actions)."
 
 # Se fusiona solo si el despliegue de Vercel pasa; si falla, el PR queda abierto para revisarlo
-# Vercel tarda en registrar su check: se espera a que aparezca (hasta ~5 min) antes de vigilarlo
-for _ in $(seq 1 20); do
+# Vercel encola sus builds y tarda en registrar su check: se espera a que aparezca (hasta ~15 min)
+for _ in $(seq 1 60); do
   sleep 15
   gh pr checks "$branch" 2>&1 | grep -q "no checks reported" || break
 done
