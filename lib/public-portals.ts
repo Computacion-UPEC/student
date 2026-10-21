@@ -4,7 +4,8 @@
 //   - Empresas públicas (LOEP) y algunos institutos tienen portal propio (CNT Empleo, INEC, EP Petroecuador).
 //   - Las instituciones regidas por la LOSEP publican sus concursos de méritos y oposición en Encuentra Empleo, del
 //     Ministerio del Trabajo (Acuerdo MDT-2022-180). La prensa lo confirma para el SRI (feb y may 2026) y el IGM
-//     (jun 2026). La página de concursos del ECU 911 existe pero está vacía. Sus cargos de TI se recolectan a diario
+//     (jun 2026). Las superintendencias de Bancos y de Economía Popular y Solidaria (SEPS) también son LOSEP.
+//     La página de concursos del ECU 911 existe pero está vacía. Sus cargos de TI se recolectan a diario
 //     (scripts/encuentra-empleo/collect.mjs).
 // CNT Empleo rechaza las conexiones desde GitHub Actions (servidores fuera de Ecuador): su recolector corre cada
 // noche en un computador en Ecuador y publica los cambios con un PR (scripts/cnt/publicar.sh).
@@ -34,7 +35,7 @@ export const publicPortals: PublicPortal[] = [
 ]
 
 /** Instituciones que publican sus concursos en Encuentra Empleo (sector público, LOSEP). */
-export const encuentraEmpleoInstitutions = ["SRI", "ECU 911", "Registro Civil", "IGM", "INAMHI", "INOCAR"]
+export const encuentraEmpleoInstitutions = ["SRI", "Superintendencia de Bancos", "SEPS", "ECU 911", "Registro Civil", "IGM", "INAMHI", "INOCAR"]
 export const encuentraEmpleoLinks: PortalLink[] = [
   { label: "Buscar concursos", url: "https://encuentraempleo.trabajo.gob.ec" },
   { label: "Crear cuenta", url: "https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/registro/aspirante/registroAspiranteCompromiso.jsf" },
