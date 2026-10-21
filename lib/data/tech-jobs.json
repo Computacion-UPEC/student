@@ -2,6 +2,17 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "devsu-3897A7A71E",
+      "company": "Devsu",
+      "title": "UX Designer - Sector Financiero / Bancario",
+      "city": "Quito",
+      "remote": false,
+      "publishedAt": "2026-10-21",
+      "url": "https://apply.workable.com/j/3897A7A71E",
+      "isIT": true,
+      "firstSeen": "2026-10-21"
+    },
+    {
       "id": "devsu-05AEF8D958",
       "company": "Devsu",
       "title": "Senior Ingeniero Cloud (AWS, Terraform & Kubernetes ) - Sector Fintech",

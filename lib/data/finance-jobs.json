@@ -2,6 +2,78 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1335783562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DUENO DE PRODUCTO - COMEX",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-21",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-COMEX-QUIT-CELULA-COM/1335783562/",
+      "isIT": false,
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "pichincha-1337614362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - CENTRO GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-10-21",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-CENTRO-GUAYAQUIL-GUAY-ZONA-COSTA/1337614362/",
+      "isIT": false,
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "pichincha-1337614262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - MILAGRO",
+      "province": "GUAYAS",
+      "city": "MILAGRO",
+      "publishedAt": "2026-10-21",
+      "url": "https://vacantes.pichincha.com/job/MILAGRO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-MILAGRO-GUAY-ZONA-COSTA/1337614262/",
+      "isIT": false,
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "pichincha-1337614062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "SOPORTE ADMINISTRATIVO CON DISCAPACIDAD - GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-10-21",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-SOPORTE-ADMINISTRATIVO-CON-DISCAPACIDAD-GUAYAQUIL-GUAY-REGION-NOR/1337614062/",
+      "isIT": false,
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "pichincha-1337621062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "TRAINEE (RIESGO OPERATIVO) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-21",
+      "url": "https://vacantes.pichincha.com/job/QUITO-TRAINEE-%28RIESGO-OPERATIVO%29-QUITO-QUIT-RIESGO-OPE/1337621062/",
+      "isIT": false,
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "pichincha-1337622562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - AG. CUMBAYA",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-21",
+      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-COMERCIAL-Y-SERVICIOS-AG_-CUMBAYA-QUIT-ZONA-ORIEN/1337622562/",
+      "isIT": false,
+      "firstSeen": "2026-10-21"
+    },
+    {
       "id": "pichincha-1331808962",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -587,18 +659,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337461862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES",
-      "province": "GUAYAS",
-      "city": "SAMBORONDON",
-      "publishedAt": "2026-10-15",
-      "url": "https://vacantes.pichincha.com/job/SAMBORONDON-EJECUTIVO-SERVICIOS-TRANSACCIONALES-GUAY-OPERACIONE/1337461862/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1337474462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -827,18 +887,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337268562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "GERENTE COMERCIAL Y SERVICIOS AGENCIA VIRTUAL - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-07",
-      "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-COMERCIAL-Y-SERVICIOS-AGENCIA-VIRTUAL-QUITO-QUIT-OFICINA-VI/1337268562/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1337265062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -911,6 +959,18 @@
       "firstSeen": "2026-10-17"
     },
     {
+      "id": "pichincha-1337081062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE OPERACIONES DE TALENTO HUMANO - CUENCA",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-10-01",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-PASANTE-OPERACIONES-DE-TALENTO-HUMANO-CUENCA-CUEN-SERVICIOS/1337081062/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "pichincha-1332901862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -919,18 +979,6 @@
       "city": "GUAYAQUIL",
       "publishedAt": "2026-09-30",
       "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-OFICIAL-COMERCIAL-ALMACENAMIENTO-GUAYAQUIL-GUAY-COMERCIAL/1332901862/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337043062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL COMPRA DE CARTERA - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-09-30",
-      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-COMERCIAL-COMPRA-DE-CARTERA-QUITO-QUIT-NEGOCIOS-E/1337043062/",
       "isIT": false,
       "firstSeen": "2026-10-16"
     },
@@ -995,18 +1043,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "pichincha-1335783562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DUENO DE PRODUCTO - COMEX",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-08-18",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-COMEX-QUIT-CELULA-COM/1335783562/",
-      "isIT": false,
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "pichincha-1337516162",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1018,6 +1054,19 @@
       "isIT": false,
       "firstSeen": "2026-10-17",
       "closedOn": "2026-10-20"
+    },
+    {
+      "id": "pichincha-1337461862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES",
+      "province": "GUAYAS",
+      "city": "SAMBORONDON",
+      "publishedAt": "2026-10-15",
+      "url": "https://vacantes.pichincha.com/job/SAMBORONDON-EJECUTIVO-SERVICIOS-TRANSACCIONALES-GUAY-OPERACIONE/1337461862/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-21"
     },
     {
       "id": "pichincha-1337456962",
@@ -1124,6 +1173,19 @@
       "closedOn": "2026-10-16"
     },
     {
+      "id": "pichincha-1337268562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "GERENTE COMERCIAL Y SERVICIOS AGENCIA VIRTUAL - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-07",
+      "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-COMERCIAL-Y-SERVICIOS-AGENCIA-VIRTUAL-QUITO-QUIT-OFICINA-VI/1337268562/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-21"
+    },
+    {
       "id": "pichincha-1336350162",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1176,17 +1238,17 @@
       "closedOn": "2026-10-17"
     },
     {
-      "id": "pichincha-1337081062",
+      "id": "pichincha-1337043062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
-      "title": "PASANTE OPERACIONES DE TALENTO HUMANO - CUENCA",
-      "province": "AZUAY",
-      "city": "CUENCA",
-      "publishedAt": "2026-10-01",
-      "url": "https://vacantes.pichincha.com/job/CUENCA-PASANTE-OPERACIONES-DE-TALENTO-HUMANO-CUENCA-CUEN-SERVICIOS/1337081062/",
+      "title": "OFICIAL COMERCIAL COMPRA DE CARTERA - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-09-30",
+      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-COMERCIAL-COMPRA-DE-CARTERA-QUITO-QUIT-NEGOCIOS-E/1337043062/",
       "isIT": false,
       "firstSeen": "2026-10-16",
-      "closedOn": "2026-10-17"
+      "closedOn": "2026-10-21"
     },
     {
       "id": "pichincha-1337055562",
