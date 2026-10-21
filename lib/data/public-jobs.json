@@ -1,7 +1,7 @@
 {
   "source": "https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/procesos/busquedaOfertaPublica.jsf",
   "lastRun": {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "institutions": 4,
     "vacancies": 25
   },
@@ -18,7 +18,7 @@
       "closesAt": "2026-10-22T23:59:00-05:00",
       "isIT": true,
       "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-20"
+      "lastSeen": "2026-10-21"
     }
   ]
 }
