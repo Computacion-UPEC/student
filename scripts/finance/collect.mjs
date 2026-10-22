@@ -3,8 +3,9 @@
 //   - Cooperativa JEP: ofertas escritas en su página "Ofertas laborales"
 //   - Pague Ya (cobranzas del Grupo Pichincha, razón social Pichincha Sistemas ACOVI): portal de HiringRoom,
 //     enlazado desde "Trabaja con nosotros" de pichinchasistemas.com
-// Otras filiales del Grupo Pichincha no tienen portal propio: Credife publica en el de Banco Pichincha
-// (cargos de microfinanzas) y Amerafin y Vaserum no tienen una sección de empleo verificable.
+// Otras empresas del Grupo Pichincha no tienen portal propio: Credife y Amerafin fueron absorbidas por el banco en
+// 2024 (BankWatch Ratings, calificación de papel comercial 2026) y sus cargos salen en el portal de Banco Pichincha;
+// Vaserum (transporte de valores) no tiene sitio ni sección de empleo verificable.
 // Los demás portales se quedan como enlace (ver lib/finance-portals.ts): Produbanco (publica en Multitrabajos),
 // Banco Internacional (solo formulario de búsqueda), BanEcuador (sin página de vacantes; sus entradas
 // "convocatoria" son llamados antiguos a secretarios de coactiva), Alianza del Valle, Jardín Azuayo, CACPECO
