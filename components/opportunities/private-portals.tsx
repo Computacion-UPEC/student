@@ -2,6 +2,7 @@ import { ArrowUpRight, Building, Laptop, Lightbulb, Pill, Radio, ShoppingCart, U
 import { Badge } from "@/components/ui/badge"
 import privateData from "@/lib/data/private-jobs.json"
 import { Collapsible } from "@/components/opportunities/collapsible"
+import { ITJobLinks } from "@/components/opportunities/it-job-links"
 import { privatePortals, type PrivateJob, type PrivatePortal } from "@/lib/private-portals"
 
 const icons: Record<PrivatePortal["sector"], typeof Building> = {
@@ -15,8 +16,6 @@ for (const job of openJobs) {
   const count = counts.get(job.source) ?? { total: 0, it: 0, itJobs: [] }
   counts.set(job.source, { total: count.total + 1, it: count.it + Number(job.isIT), itJobs: job.isIT ? [...count.itJobs, job] : count.itJobs })
 }
-// "ANALISTA DE BI COMERCIAL" -> "Analista de BI comercial"
-const tidy = (text: string) => text === text.toUpperCase() ? text.toLowerCase().replace(/(^|[\s(-])(\p{L})/gu, (_, before, letter) => before + letter.toUpperCase()).replace(/\b(Ti|Ia|Ux|Qa|Bi)\b/g, (word) => word.toUpperCase()).replace(/\b(De|Del|La|Las|Los|Y|En|Con)\b/g, (word) => word.toLowerCase()) : text
 
 function PortalCard({ portal, compact = false }: { portal: PrivatePortal; compact?: boolean }) {
   const Icon = icons[portal.sector]
@@ -28,7 +27,7 @@ function PortalCard({ portal, compact = false }: { portal: PrivatePortal; compac
       {portal.brands && <span className="text-xs text-muted-foreground">{portal.brands}</span>}
       {count && <span className="flex flex-wrap gap-1"><Badge className="bg-emerald-600 text-[11px] text-white hover:bg-emerald-600">{count.total} {count.total === 1 ? "vacante abierta" : "vacantes abiertas"}</Badge>{count.it > 0 && <Badge className="gap-1 bg-sky-600 text-[11px] text-white hover:bg-sky-600"><Laptop className="size-3" />{count.it} de TI</Badge>}</span>}
       <span className="flex flex-wrap gap-1"><Badge variant="secondary" className="text-[11px]">{portal.sector}</Badge><Badge variant="outline" className="text-[11px]">{portal.platform}</Badge>{portal.rank && portal.rank <= 100 && <Badge variant="outline" className="text-[11px]">#{portal.rank} en ingresos</Badge>}{compact && portal.collected && <Badge variant="outline" className="text-[11px]">Sin vacantes hoy</Badge>}</span>
-      {count && count.itJobs.length > 0 && <ul className="mt-1 flex flex-col gap-1 rounded-lg bg-sky-50/70 p-2 dark:bg-sky-950/30">{count.itJobs.map((job) => <li key={job.id}><a href={job.url} target="_blank" rel="noreferrer" className="flex items-start gap-1.5 text-sm font-semibold text-sky-800 hover:underline dark:text-sky-300"><Laptop className="mt-0.5 size-3.5 shrink-0" /><span>{tidy(job.title)}{job.city && <span className="font-normal text-muted-foreground"> · {tidy(job.city)}</span>}</span><ArrowUpRight className="mt-0.5 size-3.5 shrink-0" /></a></li>)}</ul>}
+      {count && <ITJobLinks jobs={count.itJobs} />}
       {!compact && <span className="text-xs text-muted-foreground">{portal.note}</span>}
       {count && <a href={portal.url} target="_blank" rel="noreferrer" className="inline-flex items-center gap-0.5 text-xs font-semibold text-primary hover:underline">Ver las {count.total} en su portal<ArrowUpRight className="size-3" /></a>}
     </span>
