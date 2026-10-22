@@ -1,7 +1,7 @@
 "use client"
 
 import { useEffect, useState, type ReactNode } from "react"
-import { Building2, CircleDot, Code2, History, Landmark, Zap } from "lucide-react"
+import { Building2, CircleDot, Code2, Factory, History, Landmark, Zap } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import { CelecJobs } from "@/components/opportunities/celec-jobs"
 import { FinanceJobs, financeITJobs } from "@/components/opportunities/finance-jobs"
@@ -9,6 +9,8 @@ import { FinancePortals } from "@/components/opportunities/finance-portals"
 import { PetroecuadorJobs } from "@/components/opportunities/petroecuador-jobs"
 import { InecJobs, inecITJobs } from "@/components/opportunities/inec-jobs"
 import { InstitutionSocials } from "@/components/opportunities/institution-socials"
+import { PrivateJobs, privateITJobs } from "@/components/opportunities/private-jobs"
+import { PrivatePortals } from "@/components/opportunities/private-portals"
 import { PublicITJobs, publicITJobs } from "@/components/opportunities/public-it-jobs"
 import { PublicPortals } from "@/components/opportunities/public-portals"
 import { PublicRoutes } from "@/components/opportunities/public-routes"
@@ -17,15 +19,17 @@ import { EncuentraEmpleoJobs, countOpenEncuentraEmpleoJobs } from "@/components/
 import { EmploymentStageNotice } from "@/components/opportunities/stage-picker"
 import { UpdateOffers } from "@/components/opportunities/update-offers"
 import { financePortals } from "@/lib/finance-portals"
+import { privatePortals } from "@/lib/private-portals"
 import { encuentraEmpleoInstitutions, publicPortals } from "@/lib/public-portals"
 import { celecJobs, publicOpportunities } from "@/lib/opportunities-data"
 import { itJobs as petroecuadorITJobs } from "@/components/opportunities/petroecuador-jobs"
 import type { Stage } from "@/lib/student-stages"
 
-type Sector = "tecnologia" | "energia" | "financiero" | "publico"
+type Sector = "tecnologia" | "privado" | "energia" | "financiero" | "publico"
 
 const sectors: { id: Sector; label: string; icon: typeof Zap; ownership: string; count: number; unit: string; description: string }[] = [
   { id: "tecnologia", label: "Tecnología / Software", icon: Code2, ownership: "Privado", count: countRecentTechITJobs(null), unit: "vacantes", description: "Vacantes de TI en Ecuador de empresas de software (Devsu, Stack Builders) y ofertas de TI de todo el país en Encuentra Empleo." },
+  { id: "privado", label: "Empresas privadas", icon: Factory, ownership: "Privado", count: privatePortals.length, unit: "empresas", description: privateITJobs.length ? "Ofertas de TI y portales oficiales de las empresas privadas más grandes del país (retail, telecomunicaciones, consumo, industria)." : "Portales oficiales de las empresas privadas más grandes del país: retail, telecomunicaciones, consumo e industria." },
   { id: "energia", label: "Energía", icon: Zap, ownership: "Empresas públicas", count: celecJobs.length + petroecuadorITJobs.length, unit: "ofertas", description: petroecuadorITJobs.length ? "Convocatorias reales de CELEC EP (electricidad) y cargos de TI de EP Petroecuador (petróleo)." : "Convocatorias reales de CELEC EP (electricidad). Los cargos de TI de Petroecuador aparecerán cuando publique alguno." },
   { id: "financiero", label: "Financiero", icon: Landmark, ownership: "Públicos y privados", count: financePortals.length, unit: "portales", description: financeITJobs.length ? "Ofertas de TI de bancos y cooperativas, y sus portales oficiales de empleo." : "Portales oficiales de empleo de bancos y cooperativas." },
   { id: "publico", label: "Sector público", icon: Building2, ownership: "Público", count: publicOpportunities.length + publicPortals.length + encuentraEmpleoInstitutions.length, unit: "rutas", description: inecITJobs.length || publicITJobs.length ? "Cargos de TI del INEC, de CNT y de los concursos públicos de Encuentra Empleo, dónde publica cada institución y plataformas del Estado para docencia y consultoría." : "Dónde publica cada institución pública y plataformas del Estado para docencia, cargos públicos y consultoría." },
@@ -71,6 +75,7 @@ export function EmploymentTab({ stage }: { stage: Stage | null }) {
     </div>
 
     {visible("tecnologia") && <SectorGroup sector={sectors.find((item) => item.id === "tecnologia")!}><TechJobs {...filters} /><EncuentraEmpleoJobs {...filters} /></SectorGroup>}
+    {visible("privado") && <SectorGroup sector={sectors.find((item) => item.id === "privado")!}><PrivateJobs {...filters} /><PrivatePortals /></SectorGroup>}
     {visible("energia") && <SectorGroup sector={sectors.find((item) => item.id === "energia")!}><PetroecuadorJobs {...filters} /><CelecJobs {...filters} /></SectorGroup>}
     {visible("financiero") && <SectorGroup sector={sectors.find((item) => item.id === "financiero")!}><FinanceJobs {...filters} /><FinancePortals /></SectorGroup>}
     {visible("publico") && <SectorGroup sector={sectors.find((item) => item.id === "publico")!}><InecJobs {...filters} /><PublicITJobs {...filters} /><PublicPortals /><PublicRoutes /></SectorGroup>}
