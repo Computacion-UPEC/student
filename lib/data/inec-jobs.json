@@ -2,6 +2,20 @@
   "source": "https://www.ecuadorencifras.gob.ec/institucional/trabaja-con-nosotros/",
   "jobs": [
     {
+      "id": "1.CONVOCATORIA_espac_cz8_22_oct.pdf#Revisor Digitador",
+      "title": "Revisor Digitador",
+      "group": "Civil",
+      "contract": "Civil Técnico Especializado",
+      "project": "Encuesta de Superficie y Producción Agropecuaria Continua – ESPAC",
+      "place": "Provincias: Guayas, Los Ríos, Santa Elena, Santo Domingo, Manabí y El Oro",
+      "deadlineText": "Hasta el 22 de octubre de 2026",
+      "closesAt": "2026-10-22T23:59:00-05:00",
+      "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Trabaja_con_Nosotros/2026/1.CONVOCATORIA_espac_cz8_22_oct.pdf",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "applyUrl": "https://aplicaciones2.ecuadorencifras.gob.ec/encuestas/index.php/922928?lang=es"
+    },
+    {
       "id": "CONVOCATORIA_ADM_CENTRAL_C6_16_oct.pdf#Especialista Senior de Base de Datos",
       "title": "Especialista Senior de Base de Datos",
       "group": "Civil",

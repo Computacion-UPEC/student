@@ -2,6 +2,30 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1336004062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA MARKETING PERFORMANCE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-MARKETING-PERFORMANCE-QUIT-MARKETING/1336004062/",
+      "isIT": false,
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "pichincha-1337659362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE (GESTION PRESUPUESTARIO CIBERSEGURIDAD) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28GESTION-PRESUPUESTARIO-CIBERSEGURIDAD%29-QUITO-QUIT-GOBIERNO-Y/1337659362/",
+      "isIT": true,
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "pichincha-1335783562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -899,18 +923,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1336381162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL Y SERVICIOS PYMES - PUYO CIRCUNVALACION",
-      "province": "PASTAZA",
-      "city": "PASTAZA",
-      "publishedAt": "2026-10-07",
-      "url": "https://vacantes.pichincha.com/job/PASTAZA-OFICIAL-COMERCIAL-Y-SERVICIOS-PYMES-PUYO-CIRCUNVALACION-PUYO-REGION-CEN/1336381162/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1336376562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -931,18 +943,6 @@
       "city": "SAN MIGUEL",
       "publishedAt": "2026-10-07",
       "url": "https://vacantes.pichincha.com/job/SAN-MIGUEL-EJECUTIVO-DE-CREDITO-C-SAN-MIGUEL-%28GUARANDA%29-GUAR-ZONA-SUR-O/1337245962/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337265062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO DESARROLLO ESTRATEGIA NEGOCIO - EMPRESAS",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-07",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-DESARROLLO-ESTRATEGIA-NEGOCIO-EMPRESAS-QUIT-SEGMENTO-E/1337265062/",
       "isIT": false,
       "firstSeen": "2026-10-16"
     },
@@ -1091,18 +1091,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "pichincha-1336004062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ESPECIALISTA MARKETING PERFORMANCE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-09-23",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-MARKETING-PERFORMANCE-QUIT-MARKETING/1336004062/",
-      "isIT": false,
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "pichincha-1337516162",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1231,6 +1219,32 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1336381162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS PYMES - PUYO CIRCUNVALACION",
+      "province": "PASTAZA",
+      "city": "PASTAZA",
+      "publishedAt": "2026-10-07",
+      "url": "https://vacantes.pichincha.com/job/PASTAZA-OFICIAL-COMERCIAL-Y-SERVICIOS-PYMES-PUYO-CIRCUNVALACION-PUYO-REGION-CEN/1336381162/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-22"
+    },
+    {
+      "id": "pichincha-1337265062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO DESARROLLO ESTRATEGIA NEGOCIO - EMPRESAS",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-07",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-DESARROLLO-ESTRATEGIA-NEGOCIO-EMPRESAS-QUIT-SEGMENTO-E/1337265062/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-22"
     },
     {
       "id": "pichincha-1337268562",
