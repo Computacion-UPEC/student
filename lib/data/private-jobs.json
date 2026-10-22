@@ -288,17 +288,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "farmaenlace-1337602762",
-      "source": "farmaenlace",
-      "company": "Farmaenlace",
-      "title": "COSMETOLOGA",
-      "city": "Riobamba",
-      "publishedAt": null,
-      "url": "https://trabajaconnosotros.farmaenlace.com/job/Riobamba-COSMETOLOGA/1337602762/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "farmaenlace-1337562062",
       "source": "farmaenlace",
       "company": "Farmaenlace",
@@ -2552,6 +2541,18 @@
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AYUDANTE-DE-PRODUCCION-PLANTA-GUAYAQUIL-60000/1276630900/",
       "isIT": false,
       "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "farmaenlace-1337602762",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "COSMETOLOGA",
+      "city": "Riobamba",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Riobamba-COSMETOLOGA/1337602762/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-22"
     }
   ]
 }
