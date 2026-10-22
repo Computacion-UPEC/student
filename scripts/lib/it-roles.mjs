@@ -23,6 +23,8 @@ const IT_TERMS = [
   // Títulos del sector público: "Analista de Sistemas", "Técnico de Redes" (no "Sistemas de Gestión", "redes sociales")
   String.raw`\b(analista|asistente|t[eé]cnic[oa]|especialista|ingenier[oa]|jefe|director[a]?|coordinador[a]?|administrador[a]?) (de )?(sistemas|redes)\b(?! (de gesti[oó]n|integrados?|sociales))`,
   String.raw`desarrollo de sistemas|arquitectura de ti\b`,
+  // "Trainee Tecnología Arquitectura", "Pasante de Tecnología"
+  String.raw`\b(trainee|pasante|practicante)s? (de )?tecnolog[ií]a\b`,
 ]
 
 export const IT_ROLE = new RegExp(IT_TERMS.join("|"), "i")

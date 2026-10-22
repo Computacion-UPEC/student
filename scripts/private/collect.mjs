@@ -2,8 +2,7 @@
 //   - Holcim Ecuador, Arca Continental (Coca-Cola, Tonicorp, Inalecsa) y Farmaenlace: sitios de empleo de
 //     SAP SuccessFactors, igual que Banco Pichincha (páginas de resultados en HTML con startrow)
 //   - Tiendas Tuti: vacantes publicadas en su propia página "Trabaja con nosotros"
-//   - FEMSA Salud (GPF: Fybeca, SanaSana) y Novacero: portales de HiringRoom (lista en HTML, 20 por página en
-//     /jobs/index/N; ?page=N devuelve siempre la primera)
+//   - FEMSA Salud (GPF: Fybeca, SanaSana) y Novacero: portales de HiringRoom (scripts/lib/hiringroom.mjs)
 //   - Difare: portal de Evaluar.com (WP Job Manager), enlazado desde "Trabaja con nosotros" de difare.com.ec
 // Las demás empresas investigadas quedan como enlace (ver lib/private-portals.ts): sus portales cargan las
 // vacantes con JavaScript (SuccessFactors clásico), tienen protección contra bots o reciben solo hojas de vida.
@@ -14,6 +13,7 @@
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
+import { hiringRoom } from "../lib/hiringroom.mjs"
 import { isITRole } from "../lib/it-roles.mjs"
 
 const here = path.dirname(fileURLToPath(import.meta.url))
@@ -91,26 +91,6 @@ async function tuti() {
     const page = await get(url).catch(() => "")
     const title = clean(page.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? "") || slug.replace(/-/g, " ")
     jobs.set(slug, { key: slug, title, city: null, publishedAt: null, url })
-  }
-  return [...jobs.values()]
-}
-
-/** Portal de HiringRoom: /jobs/index/N, 20 vacantes por página; título en <h4> y ciudad junto al ícono de ubicación. */
-async function hiringRoom(sub) {
-  const base = `https://${sub}.hiringroom.com`
-  const jobs = new Map()
-  for (let page = 1; page <= 50; page++) {
-    const html = await get(`${base}/jobs/index/${page}`)
-    const cards = [...html.matchAll(/<a href="(\/jobs\/get_vacancy\/([0-9a-f]{24}))"[^>]*>([\s\S]*?)<\/a>/g)]
-    const nuevas = cards.filter(([, , id]) => !jobs.has(id))
-    if (!nuevas.length) break
-    for (const [, href, id, card] of nuevas) {
-      const title = clean(card.match(/<h4[^>]*>([\s\S]*?)<\/h4>/)?.[1] ?? "")
-      if (!title) continue
-      // "Quito, Pichincha, Ecuador" -> "Quito"
-      const city = clean(card.match(/hr-Location-pin[^>]*><\/i>([\s\S]*?)<\/span>/)?.[1] ?? "").split(",")[0].trim()
-      jobs.set(id, { key: id, title, city: city || null, publishedAt: null, url: base + href })
-    }
   }
   return [...jobs.values()]
 }

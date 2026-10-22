@@ -1,6 +1,10 @@
 // Recolecta ofertas de empleo de bancos y cooperativas que publican sus vacantes de forma legible:
 //   - Banco Pichincha: sitio de carreras (SAP SuccessFactors), páginas de resultados en HTML
 //   - Cooperativa JEP: ofertas escritas en su página "Ofertas laborales"
+//   - Pague Ya (cobranzas del Grupo Pichincha, razón social Pichincha Sistemas ACOVI): portal de HiringRoom,
+//     enlazado desde "Trabaja con nosotros" de pichinchasistemas.com
+// Otras filiales del Grupo Pichincha no tienen portal propio: Credife publica en el de Banco Pichincha
+// (cargos de microfinanzas) y Amerafin y Vaserum no tienen una sección de empleo verificable.
 // Los demás portales se quedan como enlace (ver lib/finance-portals.ts): Produbanco (publica en Multitrabajos),
 // Banco Internacional (solo formulario de búsqueda), BanEcuador (sin página de vacantes; sus entradas
 // "convocatoria" son llamados antiguos a secretarios de coactiva), Alianza del Valle, Jardín Azuayo, CACPECO
@@ -12,6 +16,7 @@
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
+import { hiringRoom } from "../lib/hiringroom.mjs"
 import { isITRole } from "../lib/it-roles.mjs"
 
 const here = path.dirname(fileURLToPath(import.meta.url))
@@ -83,6 +88,7 @@ async function jep() {
 const SOURCES = [
   { id: "pichincha", institution: "Banco Pichincha", collect: pichincha },
   { id: "jep", institution: "Cooperativa JEP", collect: jep },
+  { id: "pagueya", institution: "Pague Ya (Grupo Pichincha)", collect: () => hiringRoom("pagueya") },
 ]
 
 const previous = existsSync(OUT) ? JSON.parse(readFileSync(OUT, "utf8")) : { jobs: [] }
