@@ -15,7 +15,7 @@ const IT_TERMS = [
   String.raw`soporte t[eé]cnico|servicios tecnol[oó]gicos|infraestructura tecnol[oó]gica|continuidad tecnol[oó]gica`,
   String.raw`analista de aplicaciones|\bcloud\b|\bnube\b`,
   String.raw`\bUX\b|experiencia de usuario|dise[nñ]ador de experiencia`,
-  String.raw`inteligencia de negocios|business intelligence|technical owner`,
+  String.raw`inteligencia de negocios|business intelligence|\bBI\b|technical owner`,
   String.raw`\bSMO\b`, // Service Management Office: gestión de servicios de TI
   // Títulos en inglés o de empresas de software
   String.raw`developer|engineer\b|full ?stack|front-?end|back-?end|scrum master`,
@@ -29,4 +29,7 @@ export const IT_ROLE = new RegExp(IT_TERMS.join("|"), "i")
 // "IT Project Manager", "IT Delivery Manager": solo en mayúsculas, para no confundir con la palabra inglesa "it"
 const IT_UPPERCASE = /\bIT\b/
 
-export const isITRole = (title) => IT_ROLE.test(title) || IT_UPPERCASE.test(title)
+// Bolsas de hojas de vida que las empresas privadas publican como vacante: "Base de Datos de Talento", "Base de datos – Feria laboral"
+const TALENT_POOL = /base de datos (de (talento|candidatos|postulantes|hojas de vida)|\s*[–-])|postulaci[oó]n abierta|feria laboral/i
+
+export const isITRole = (title) => !TALENT_POOL.test(title) && (IT_ROLE.test(title) || IT_UPPERCASE.test(title))
