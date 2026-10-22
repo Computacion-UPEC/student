@@ -3,6 +3,7 @@
 //     SAP SuccessFactors, igual que Banco Pichincha (páginas de resultados en HTML con startrow)
 //   - Tiendas Tuti: vacantes publicadas en su propia página "Trabaja con nosotros"
 //   - FEMSA Salud (GPF: Fybeca, SanaSana) y Novacero: portales de HiringRoom (scripts/lib/hiringroom.mjs)
+//   - Teuno (TI del Grupo Pichincha): sitio de Genoma enlazado desde "Bolsa de Empleo" de teuno.com
 //   - Difare: portal de Evaluar.com (WP Job Manager), enlazado desde "Trabaja con nosotros" de difare.com.ec
 // Las demás empresas investigadas quedan como enlace (ver lib/private-portals.ts): sus portales cargan las
 // vacantes con JavaScript (SuccessFactors clásico), tienen protección contra bots o reciben solo hojas de vida.
@@ -13,6 +14,7 @@
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
+import { genoma } from "../lib/genoma.mjs"
 import { hiringRoom } from "../lib/hiringroom.mjs"
 import { isITRole } from "../lib/it-roles.mjs"
 
@@ -124,6 +126,7 @@ const SOURCES = [
   { id: "gpf", company: "FEMSA Salud (GPF)", collect: () => hiringRoom("corporaciongpf") },
   { id: "novacero", company: "Novacero", collect: () => hiringRoom("novaceroseleccion") },
   { id: "difare", company: "Difare", collect: () => evaluar("difare") },
+  { id: "teuno", company: "Teuno (Grupo Pichincha)", collect: () => genoma("teuno") },
 ]
 
 const previous = existsSync(OUT) ? JSON.parse(readFileSync(OUT, "utf8")) : { jobs: [] }

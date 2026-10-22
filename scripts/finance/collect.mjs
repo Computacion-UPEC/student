@@ -3,9 +3,11 @@
 //   - Cooperativa JEP: ofertas escritas en su página "Ofertas laborales"
 //   - Pague Ya (cobranzas del Grupo Pichincha, razón social Pichincha Sistemas ACOVI): portal de HiringRoom,
 //     enlazado desde "Trabaja con nosotros" de pichinchasistemas.com
+//   - Banco de Loja: portal de HiringRoom, enlazado desde "Trabaja con nosotros" de bancodeloja.fin.ec
 // Otras empresas del Grupo Pichincha no tienen portal propio: Credife y Amerafin fueron absorbidas por el banco en
 // 2024 (BankWatch Ratings, calificación de papel comercial 2026) y sus cargos salen en el portal de Banco Pichincha;
-// Vaserum (transporte de valores) no tiene sitio ni sección de empleo verificable.
+// Vaserum (transporte de valores), Almesa (almacenera) y Deuna (billetera) no tienen sitio de empleo verificable.
+// Los bancos del grupo en el exterior quedan como enlace: Perú (Bumeran) y España (InfoJobs).
 // Los demás portales se quedan como enlace (ver lib/finance-portals.ts): Produbanco (publica en Multitrabajos),
 // Banco Internacional (solo formulario de búsqueda), BanEcuador (sin página de vacantes; sus entradas
 // "convocatoria" son llamados antiguos a secretarios de coactiva), Alianza del Valle, Jardín Azuayo, CACPECO
@@ -90,6 +92,7 @@ const SOURCES = [
   { id: "pichincha", institution: "Banco Pichincha", collect: pichincha },
   { id: "jep", institution: "Cooperativa JEP", collect: jep },
   { id: "pagueya", institution: "Pague Ya (Grupo Pichincha)", collect: () => hiringRoom("pagueya") },
+  { id: "bancoloja", institution: "Banco de Loja", collect: () => hiringRoom("bancoloja") },
 ]
 
 const previous = existsSync(OUT) ? JSON.parse(readFileSync(OUT, "utf8")) : { jobs: [] }

@@ -114,6 +114,39 @@
       "firstSeen": "2026-10-22"
     },
     {
+      "id": "bancoloja-6ad2a6408e0b7d70dc0f0918",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Gerente de Negocios",
+      "city": "Loja",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ad2a6408e0b7d70dc0f0918",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "bancoloja-6ad273a36118d36ade436997",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Gerente de Marketing y Experiencia",
+      "city": "Loja",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ad273a36118d36ade436997",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "bancoloja-6acd60067f8ffcdf39e03daf",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Asesor Pymes",
+      "city": "Loja",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6acd60067f8ffcdf39e03daf",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "pichincha-1335783562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1047,6 +1080,18 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1337265062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO DESARROLLO ESTRATEGIA NEGOCIO - EMPRESAS",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-07",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-DESARROLLO-ESTRATEGIA-NEGOCIO-EMPRESAS-QUIT-SEGMENTO-E/1337265062/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "pichincha-1337208362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1317,19 +1362,6 @@
       "city": "PASTAZA",
       "publishedAt": "2026-10-07",
       "url": "https://vacantes.pichincha.com/job/PASTAZA-OFICIAL-COMERCIAL-Y-SERVICIOS-PYMES-PUYO-CIRCUNVALACION-PUYO-REGION-CEN/1336381162/",
-      "isIT": false,
-      "firstSeen": "2026-10-16",
-      "closedOn": "2026-10-22"
-    },
-    {
-      "id": "pichincha-1337265062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO DESARROLLO ESTRATEGIA NEGOCIO - EMPRESAS",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-07",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-DESARROLLO-ESTRATEGIA-NEGOCIO-EMPRESAS-QUIT-SEGMENTO-E/1337265062/",
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-22"
