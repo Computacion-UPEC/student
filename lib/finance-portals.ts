@@ -41,7 +41,7 @@ export type FinanceJob = {
 }
 
 export const financePortals: JobPortal[] = [
-  { id: "pichincha", name: "Banco Pichincha", kind: "Banco", sector: "Financiero", ownership: "Privado", url: "https://vacantes.pichincha.com/", note: "Portal “Talento Pichincha” con vacantes abiertas. Incluye los cargos de microfinanzas de Credife, su filial de microcrédito.", collected: true },
+  { id: "pichincha", name: "Banco Pichincha", kind: "Banco", sector: "Financiero", ownership: "Privado", url: "https://vacantes.pichincha.com/", note: "Portal “Talento Pichincha” con vacantes abiertas. Desde 2024 incluye a Credife (microfinanzas) y Amerafin (crédito automotriz), absorbidas por el banco: sus cargos se publican aquí.", collected: true },
   { id: "pagueya", name: "Pague Ya", kind: "Filial", sector: "Financiero", ownership: "Privado", url: "https://pagueya.hiringroom.com/jobs", note: "Empresa de cobranzas del Grupo Pichincha (Pichincha Sistemas ACOVI). Su sitio oficial enlaza este portal; tiene programa de trainees y pasantías.", collected: true },
   { id: "produbanco", name: "Produbanco", kind: "Banco", sector: "Financiero", ownership: "Privado", url: "https://www.multitrabajos.com/empleos-busqueda-produbanco.html", note: "Produbanco publica sus vacantes en Multitrabajos." },
   { id: "internacional", name: "Banco Internacional", kind: "Banco", sector: "Financiero", ownership: "Privado", url: "https://www.bancointernacional.com.ec/trabaja-con-nosotros/", note: "Ofertas laborales y registro de hoja de vida." },
