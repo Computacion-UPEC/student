@@ -2,6 +2,118 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1336004062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA MARKETING PERFORMANCE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-MARKETING-PERFORMANCE-QUIT-MARKETING/1336004062/",
+      "isIT": false,
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "pichincha-1337659362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE (GESTION PRESUPUESTARIO CIBERSEGURIDAD) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28GESTION-PRESUPUESTARIO-CIBERSEGURIDAD%29-QUITO-QUIT-GOBIERNO-Y/1337659362/",
+      "isIT": true,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "pagueya-6ad27e72e8eca271255a745c",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "TRAINEE TECNOLOGIA ARQUITECTURA",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ad27e72e8eca271255a745c",
+      "isIT": true,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "pagueya-6acd7c05bb9d54db293385c4",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "PASANTE CUMPLIMIENTO",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6acd7c05bb9d54db293385c4",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "pagueya-6ac6b60b65c496d89447922a",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "PASANTE RIESGO",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac6b60b65c496d89447922a",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "pagueya-6ac56bb70ba3c4c66e7b725c",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "PASANTE LEGAL - GUAYAQUIL",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac56bb70ba3c4c66e7b725c",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "pagueya-6ac569aff89824fde814a923",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "EJECUTIVO COBRANZA GESTION TELEFONICA",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac569aff89824fde814a923",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "pagueya-6ac566e50ba3c4c66e7b651e",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "EJECUTIVO COBRANZA GESTION ESPECIALIZADA - MANTA",
+      "city": "Manta",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac566e50ba3c4c66e7b651e",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "pagueya-6aa477183245d2d903b44f67",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "PASANTE SOLUCIONES TI",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6aa477183245d2d903b44f67",
+      "isIT": true,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "pagueya-6aa302897cddc35f18e263e7",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "JEFE FINANCIERO",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6aa302897cddc35f18e263e7",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "pichincha-1335783562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -899,18 +1011,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1336381162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL Y SERVICIOS PYMES - PUYO CIRCUNVALACION",
-      "province": "PASTAZA",
-      "city": "PASTAZA",
-      "publishedAt": "2026-10-07",
-      "url": "https://vacantes.pichincha.com/job/PASTAZA-OFICIAL-COMERCIAL-Y-SERVICIOS-PYMES-PUYO-CIRCUNVALACION-PUYO-REGION-CEN/1336381162/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1336376562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -931,18 +1031,6 @@
       "city": "SAN MIGUEL",
       "publishedAt": "2026-10-07",
       "url": "https://vacantes.pichincha.com/job/SAN-MIGUEL-EJECUTIVO-DE-CREDITO-C-SAN-MIGUEL-%28GUARANDA%29-GUAR-ZONA-SUR-O/1337245962/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337265062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO DESARROLLO ESTRATEGIA NEGOCIO - EMPRESAS",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-07",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-DESARROLLO-ESTRATEGIA-NEGOCIO-EMPRESAS-QUIT-SEGMENTO-E/1337265062/",
       "isIT": false,
       "firstSeen": "2026-10-16"
     },
@@ -1091,18 +1179,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "pichincha-1336004062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ESPECIALISTA MARKETING PERFORMANCE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-09-23",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-MARKETING-PERFORMANCE-QUIT-MARKETING/1336004062/",
-      "isIT": false,
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "pichincha-1337516162",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1231,6 +1307,32 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1336381162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS PYMES - PUYO CIRCUNVALACION",
+      "province": "PASTAZA",
+      "city": "PASTAZA",
+      "publishedAt": "2026-10-07",
+      "url": "https://vacantes.pichincha.com/job/PASTAZA-OFICIAL-COMERCIAL-Y-SERVICIOS-PYMES-PUYO-CIRCUNVALACION-PUYO-REGION-CEN/1336381162/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-22"
+    },
+    {
+      "id": "pichincha-1337265062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO DESARROLLO ESTRATEGIA NEGOCIO - EMPRESAS",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-07",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-DESARROLLO-ESTRATEGIA-NEGOCIO-EMPRESAS-QUIT-SEGMENTO-E/1337265062/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-22"
     },
     {
       "id": "pichincha-1337268562",
