@@ -2,6 +2,17 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pagueya-6adb733bec92bbdc1eb7dd74",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "FERIA MULTITRABAJOS",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6adb733bec92bbdc1eb7dd74",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
+    },
+    {
       "id": "pichincha-1336004062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -433,42 +444,6 @@
       "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-INMOBILIARIO-A-CUENCA-CUEN-REGION-SUR/1337533762/",
       "isIT": false,
       "firstSeen": "2026-10-19"
-    },
-    {
-      "id": "pichincha-1337555962",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL Y SERVICIOS - CAÑAR",
-      "province": "CAÑAR",
-      "city": "CAÑAR",
-      "publishedAt": "2026-10-19",
-      "url": "https://vacantes.pichincha.com/job/CA%C3%91AR-OFICIAL-COMERCIAL-Y-SERVICIOS-CA%C3%91AR-AZOG-ZONA-AUSTR/1337555962/",
-      "isIT": false,
-      "firstSeen": "2026-10-20"
-    },
-    {
-      "id": "pichincha-1337555862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL Y SERVICIOS - AZOGUES",
-      "province": "CAÑAR",
-      "city": "AZOGUES",
-      "publishedAt": "2026-10-19",
-      "url": "https://vacantes.pichincha.com/job/AZOGUES-OFICIAL-COMERCIAL-Y-SERVICIOS-AZOGUES-AZOG-ZONA-AUSTR/1337555862/",
-      "isIT": false,
-      "firstSeen": "2026-10-20"
-    },
-    {
-      "id": "pichincha-1337556262",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL Y SERVICIOS - HUAYNA CAPAC",
-      "province": "AZUAY",
-      "city": "CUENCA",
-      "publishedAt": "2026-10-19",
-      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-Y-SERVICIOS-HUAYNA-CAPAC-CUEN-ZONA-AUSTR/1337556262/",
-      "isIT": false,
-      "firstSeen": "2026-10-20"
     },
     {
       "id": "pichincha-1336680662",
@@ -1056,18 +1031,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337272562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO DE CREDITO C - HUAYNA CAPAC",
-      "province": "AZUAY",
-      "city": "CUENCA",
-      "publishedAt": "2026-10-08",
-      "url": "https://vacantes.pichincha.com/job/CUENCA-EJECUTIVO-DE-CREDITO-C-HUAYNA-CAPAC-CUEN-ZONA-AUSTR/1337272562/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1337300662",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1100,18 +1063,6 @@
       "city": "SAN MIGUEL",
       "publishedAt": "2026-10-07",
       "url": "https://vacantes.pichincha.com/job/SAN-MIGUEL-EJECUTIVO-DE-CREDITO-C-SAN-MIGUEL-%28GUARANDA%29-GUAR-ZONA-SUR-O/1337245962/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337267262",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO DE CREDITO C - AG. PEDRO VICENTE MALDONADO",
-      "province": "PICHINCHA",
-      "city": "PEDRO VICENTE MALDONADO",
-      "publishedAt": "2026-10-07",
-      "url": "https://vacantes.pichincha.com/job/PEDRO-VICENTE-MALDONADO-EJECUTIVO-DE-CREDITO-C-AG_-PEDRO-VICENTE-MALDONADO-QUIT-ZONA-QUITO/1337267262/",
       "isIT": false,
       "firstSeen": "2026-10-16"
     },
@@ -1236,16 +1187,43 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "pichincha-1336926362",
+      "id": "pichincha-1337555962",
       "source": "pichincha",
       "institution": "Banco Pichincha",
-      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES EVENTUAL - ESMERALDAS",
-      "province": "ESMERALDAS",
-      "city": "QUININDE",
-      "publishedAt": "2026-09-25",
-      "url": "https://vacantes.pichincha.com/job/QUININDE-EJECUTIVO-SERVICIOS-TRANSACCIONALES-EVENTUAL-ESMERALDAS-ESME-ZONA-ESMER/1336926362/",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - CAÑAR",
+      "province": "CAÑAR",
+      "city": "CAÑAR",
+      "publishedAt": "2026-10-19",
+      "url": "https://vacantes.pichincha.com/job/CA%C3%91AR-OFICIAL-COMERCIAL-Y-SERVICIOS-CA%C3%91AR-AZOG-ZONA-AUSTR/1337555962/",
       "isIT": false,
-      "firstSeen": "2026-10-21"
+      "firstSeen": "2026-10-20",
+      "closedOn": "2026-10-23"
+    },
+    {
+      "id": "pichincha-1337555862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - AZOGUES",
+      "province": "CAÑAR",
+      "city": "AZOGUES",
+      "publishedAt": "2026-10-19",
+      "url": "https://vacantes.pichincha.com/job/AZOGUES-OFICIAL-COMERCIAL-Y-SERVICIOS-AZOGUES-AZOG-ZONA-AUSTR/1337555862/",
+      "isIT": false,
+      "firstSeen": "2026-10-20",
+      "closedOn": "2026-10-23"
+    },
+    {
+      "id": "pichincha-1337556262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - HUAYNA CAPAC",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-10-19",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-Y-SERVICIOS-HUAYNA-CAPAC-CUEN-ZONA-AUSTR/1337556262/",
+      "isIT": false,
+      "firstSeen": "2026-10-20",
+      "closedOn": "2026-10-23"
     },
     {
       "id": "pichincha-1337555062",
@@ -1378,6 +1356,19 @@
       "closedOn": "2026-10-17"
     },
     {
+      "id": "pichincha-1337272562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO C - HUAYNA CAPAC",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-10-08",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-EJECUTIVO-DE-CREDITO-C-HUAYNA-CAPAC-CUEN-ZONA-AUSTR/1337272562/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-23"
+    },
+    {
       "id": "pichincha-1337304362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1402,6 +1393,19 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337267262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO C - AG. PEDRO VICENTE MALDONADO",
+      "province": "PICHINCHA",
+      "city": "PEDRO VICENTE MALDONADO",
+      "publishedAt": "2026-10-07",
+      "url": "https://vacantes.pichincha.com/job/PEDRO-VICENTE-MALDONADO-EJECUTIVO-DE-CREDITO-C-AG_-PEDRO-VICENTE-MALDONADO-QUIT-ZONA-QUITO/1337267262/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-23"
     },
     {
       "id": "pichincha-1336381162",
@@ -1558,6 +1562,19 @@
       "isIT": true,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-20"
+    },
+    {
+      "id": "pichincha-1336926362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES EVENTUAL - ESMERALDAS",
+      "province": "ESMERALDAS",
+      "city": "QUININDE",
+      "publishedAt": "2026-09-25",
+      "url": "https://vacantes.pichincha.com/job/QUININDE-EJECUTIVO-SERVICIOS-TRANSACCIONALES-EVENTUAL-ESMERALDAS-ESME-ZONA-ESMER/1336926362/",
+      "isIT": false,
+      "firstSeen": "2026-10-21",
+      "closedOn": "2026-10-23"
     },
     {
       "id": "pichincha-1336902062",

@@ -2,6 +2,20 @@
   "source": "https://www.ecuadorencifras.gob.ec/institucional/trabaja-con-nosotros/",
   "jobs": [
     {
+      "id": "CONVOCATORIA_ADM_CENTRAL_especialistac5.pdf#Especialista en el diseño e implementación de sistemas informáticos",
+      "title": "Especialista en el diseño e implementación de sistemas informáticos",
+      "group": "Civil",
+      "contract": "Servicios Profesionales",
+      "project": "Robustecimiento de la Producción Estadística del Ecuador – C5 – Incorporación de Módulos Rotativos a la Encuesta de Superficie y Producción Agrícola",
+      "place": "Administración Central",
+      "deadlineText": "Hasta las 10h00 del 27 de octubre de 2026",
+      "closesAt": "2026-10-27T10:00:00-05:00",
+      "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Trabaja_con_Nosotros/2026/CONVOCATORIA_ADM_CENTRAL_especialistac5.pdf",
+      "isIT": true,
+      "firstSeen": "2026-10-23",
+      "applyUrl": "https://aplicaciones2.ecuadorencifras.gob.ec/encuestas/index.php/172416?lang=es"
+    },
+    {
       "id": "1.CONVOCATORIA_espac_cz8_22_oct.pdf#Revisor Digitador",
       "title": "Revisor Digitador",
       "group": "Civil",
