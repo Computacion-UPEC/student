@@ -2,6 +2,39 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "holcim-1375648757",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Pasante Comercial - Machala",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-Comercial-Machala/1375648757/",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "novacero-6ada9fdd7d48613d076a665a",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "COORDINADOR/A DE VENTAS",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6ada9fdd7d48613d076a665a",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "novacero-6ada9d0df95e7de05867342d",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "ANALISTA DE INFRAESTRUCTURA",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6ada9d0df95e7de05867342d",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
+    },
+    {
       "id": "holcim-1372996257",
       "source": "holcim",
       "company": "Holcim Ecuador",
@@ -20,17 +53,6 @@
       "city": "Duran",
       "publishedAt": null,
       "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Duran-Operadora-de-Mixer-Piady-G-92405/1370271657/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "holcim-1375282757",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Analista de Categorías - Persona con Discapacidad",
-      "city": "EC",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Analista-de-Categor%C3%ADas-Persona-con-Discapacidad/1375282757/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -1861,17 +1883,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "difare-analista-de-atraccion-de-clientes-y-experiencia",
-      "source": "difare",
-      "company": "Difare",
-      "title": "ANALISTA DE ATRACCION DE CLIENTES Y EXPERIENCIA",
-      "city": "PORTOVIEJO",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/analista-de-atraccion-de-clientes-y-experiencia/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "difare-analista-de-jefatura-de-producto",
       "source": "difare",
       "company": "Difare",
@@ -2026,15 +2037,37 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1442369200",
+      "id": "arca-1442990900",
       "source": "arca",
       "company": "Arca Continental",
-      "title": "JUNIO | CEDI PUYO",
+      "title": "VENDEDOR | GUAYAQUIL SUR",
       "city": null,
-      "publishedAt": "2026-10-21",
-      "url": "https://careers.arcacontal.com/job/JUNIO-CEDI-PUYO/1442369200/",
+      "publishedAt": "2026-10-22",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-GUAYAQUIL-SUR/1442990900/",
       "isIT": false,
-      "firstSeen": "2026-10-22"
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "arca-1442991400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-22",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-GUAYAQUIL-SUR/1442991400/",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "arca-1442984000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ASISTENTE DE LOGISTICA | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-22",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-ASISTENTE-DE-LOGISTICA-CEDI-GUAYAQUIL-Dip-Guay/1442984000/",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
     },
     {
       "id": "arca-1442335800",
@@ -2123,6 +2156,17 @@
       "url": "https://careers.arcacontal.com/job/PIC-Quito-COORDINADOR-T%C3%89CNICO-REGIONAL-PLANTA-QUITO-1/1441406200/",
       "isIT": false,
       "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "arca-1441337200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ANALISTA DE NÓMINA | CEDI VALLE",
+      "city": null,
+      "publishedAt": "2026-10-19",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-ANALISTA-DE-N%C3%93MINA-CEDI-VALLE-Dip-Quit/1441337200/",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
     },
     {
       "id": "arca-1431593400",
@@ -2257,6 +2301,17 @@
       "firstSeen": "2026-10-22"
     },
     {
+      "id": "arca-1440441800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "TECNICO EQUIPOS DE VENTA | PLANTA SANTO DOMINGO",
+      "city": null,
+      "publishedAt": "2026-10-15",
+      "url": "https://careers.arcacontal.com/job/SDO-Santo-Domingo-TECNICO-EQUIPOS-DE-VENTA-PLANTA-SANTO-DOMINGO-230101/1440441800/",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
+    },
+    {
       "id": "arca-1440047100",
       "source": "arca",
       "company": "Arca Continental",
@@ -2310,6 +2365,17 @@
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-ASISTENTE-DE-BODEGA-CEDI-CALDER%C3%93N-00000/1439662600/",
       "isIT": false,
       "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "arca-1439652200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PASANTE | PLANTA SANTO DOMINGO",
+      "city": null,
+      "publishedAt": "2026-10-13",
+      "url": "https://careers.arcacontal.com/job/SDO-Santo-Domingo-PASANTE-PLANTA-SANTO-DOMINGO-230101/1439652200/",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
     },
     {
       "id": "arca-1439350900",
@@ -2543,6 +2609,30 @@
       "firstSeen": "2026-10-22"
     },
     {
+      "id": "holcim-1375282757",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Analista de Categorías - Persona con Discapacidad",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Analista-de-Categor%C3%ADas-Persona-con-Discapacidad/1375282757/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-23"
+    },
+    {
+      "id": "difare-analista-de-atraccion-de-clientes-y-experiencia",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ANALISTA DE ATRACCION DE CLIENTES Y EXPERIENCIA",
+      "city": "PORTOVIEJO",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/analista-de-atraccion-de-clientes-y-experiencia/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-23"
+    },
+    {
       "id": "farmaenlace-1337602762",
       "source": "farmaenlace",
       "company": "Farmaenlace",
@@ -2553,6 +2643,18 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-22"
+    },
+    {
+      "id": "arca-1442369200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "JUNIO | CEDI PUYO",
+      "city": null,
+      "publishedAt": "2026-10-21",
+      "url": "https://careers.arcacontal.com/job/JUNIO-CEDI-PUYO/1442369200/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-23"
     }
   ]
 }

@@ -57,17 +57,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "devsu-68FF129F01",
-      "company": "Devsu",
-      "title": "Arquitecto Empresarial de Software - Sector Financiero/Bancario",
-      "city": "Quito",
-      "remote": false,
-      "publishedAt": "2026-10-13",
-      "url": "https://apply.workable.com/j/68FF129F01",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "devsu-B335EA9E34",
       "company": "Devsu",
       "title": "Senior Team Coach - Sector Financiero/Bancario",
@@ -297,6 +286,18 @@
       "url": "https://apply.workable.com/j/FCE05F5D8B",
       "isIT": true,
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "devsu-68FF129F01",
+      "company": "Devsu",
+      "title": "Arquitecto Empresarial de Software - Sector Financiero/Bancario",
+      "city": "Quito",
+      "remote": false,
+      "publishedAt": "2026-10-13",
+      "url": "https://apply.workable.com/j/68FF129F01",
+      "isIT": true,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-23"
     },
     {
       "id": "devsu-56D7514D0E",

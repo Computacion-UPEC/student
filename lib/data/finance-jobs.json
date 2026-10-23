@@ -147,6 +147,66 @@
       "firstSeen": "2026-10-22"
     },
     {
+      "id": "pichincha-1337683162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DUENO DE PRODUCTO - COMPRA DE CARTERA",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-COMPRA-DE-CARTERA-QUIT-CELULA-MAN/1337683162/",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "pichincha-1337683362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL CASH MANAGEMENT B - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-COMERCIAL-CASH-MANAGEMENT-B-QUITO-QUIT-REGION-NOR/1337683362/",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "pichincha-1337683762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "INGENIERO INTELIGENCIA ARTIFICIAL - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-INGENIERO-INTELIGENCIA-ARTIFICIAL-QUITO-QUIT-DESARROLLO/1337683762/",
+      "isIT": true,
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "pichincha-1337683862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO PRODUCTO MEDIOS DE PAGO - EVENTUAL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PRODUCTO-MEDIOS-DE-PAGO-EVENTUAL-QUIT-TRIBU-MEDI/1337683862/",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "pichincha-1337683662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE (CREDIO AUTOMOTRIZ) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28CREDIO-AUTOMOTRIZ%29-QUITO-QUIT-CREDITO-PE/1337683662/",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
+    },
+    {
       "id": "pichincha-1335783562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -373,18 +433,6 @@
       "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-INMOBILIARIO-A-CUENCA-CUEN-REGION-SUR/1337533762/",
       "isIT": false,
       "firstSeen": "2026-10-19"
-    },
-    {
-      "id": "pichincha-1337555062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-19",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-CELULA-TAR/1337555062/",
-      "isIT": false,
-      "firstSeen": "2026-10-20"
     },
     {
       "id": "pichincha-1337555962",
@@ -996,18 +1044,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337304362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DISENADOR DE EXPERIENCIA - IA",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-08",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-IA-QUIT-DISENO-DE/1337304362/",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1337283362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1116,18 +1152,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337124462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE LEGAL - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-02",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-LEGAL-QUITO-QUIT-LEGAL-NEGO/1337124462/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1337144262",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1222,6 +1246,19 @@
       "url": "https://vacantes.pichincha.com/job/QUININDE-EJECUTIVO-SERVICIOS-TRANSACCIONALES-EVENTUAL-ESMERALDAS-ESME-ZONA-ESMER/1336926362/",
       "isIT": false,
       "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "pichincha-1337555062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-19",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-CELULA-TAR/1337555062/",
+      "isIT": false,
+      "firstSeen": "2026-10-20",
+      "closedOn": "2026-10-23"
     },
     {
       "id": "pichincha-1337516162",
@@ -1341,6 +1378,19 @@
       "closedOn": "2026-10-17"
     },
     {
+      "id": "pichincha-1337304362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DISENADOR DE EXPERIENCIA - IA",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-08",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-IA-QUIT-DISENO-DE/1337304362/",
+      "isIT": true,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-23"
+    },
+    {
       "id": "pichincha-1337299862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1404,6 +1454,19 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337124462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE LEGAL - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-02",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-LEGAL-QUITO-QUIT-LEGAL-NEGO/1337124462/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-23"
     },
     {
       "id": "pichincha-1337143562",
