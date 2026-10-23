@@ -14,7 +14,7 @@ import { PrivatePortals } from "@/components/opportunities/private-portals"
 import { PublicITJobs, publicITJobs } from "@/components/opportunities/public-it-jobs"
 import { PublicPortals } from "@/components/opportunities/public-portals"
 import { PublicRoutes } from "@/components/opportunities/public-routes"
-import { TechJobs, countRecentTechITJobs } from "@/components/opportunities/tech-jobs"
+import { TechJobs, countOpenTechITJobs } from "@/components/opportunities/tech-jobs"
 import { EncuentraEmpleoJobs, countOpenEncuentraEmpleoJobs } from "@/components/opportunities/encuentra-empleo-jobs"
 import { EmploymentStageNotice } from "@/components/opportunities/stage-picker"
 import { UpdateOffers } from "@/components/opportunities/update-offers"
@@ -28,7 +28,7 @@ import type { Stage } from "@/lib/student-stages"
 type Sector = "tecnologia" | "privado" | "energia" | "financiero" | "publico"
 
 const sectors: { id: Sector; label: string; icon: typeof Zap; ownership: string; count: number; unit: string; description: string }[] = [
-  { id: "tecnologia", label: "Tecnología / Software", icon: Code2, ownership: "Privado", count: countRecentTechITJobs(null), unit: "vacantes", description: "Vacantes de TI en Ecuador de empresas de software (Devsu, Stack Builders) y ofertas de TI de todo el país en Encuentra Empleo." },
+  { id: "tecnologia", label: "Tecnología / Software", icon: Code2, ownership: "Privado", count: countOpenTechITJobs(), unit: "vacantes", description: "Vacantes de TI en Ecuador de empresas de software (Devsu, Stack Builders) y ofertas de TI de todo el país en Encuentra Empleo." },
   { id: "privado", label: "Empresas privadas", icon: Factory, ownership: "Privado", count: privatePortals.length, unit: "empresas", description: privateITJobs.length ? "Ofertas de TI y portales oficiales de las empresas privadas más grandes del país (retail, telecomunicaciones, consumo, industria)." : "Portales oficiales de las empresas privadas más grandes del país: retail, telecomunicaciones, consumo e industria." },
   { id: "energia", label: "Energía", icon: Zap, ownership: "Empresas públicas", count: celecJobs.length + petroecuadorITJobs.length, unit: "ofertas", description: petroecuadorITJobs.length ? "Convocatorias reales de CELEC EP (electricidad) y cargos de TI de EP Petroecuador (petróleo)." : "Convocatorias reales de CELEC EP (electricidad). Los cargos de TI de Petroecuador aparecerán cuando publique alguno." },
   { id: "financiero", label: "Financiero", icon: Landmark, ownership: "Públicos y privados", count: financePortals.length, unit: "portales", description: financeITJobs.length ? "Ofertas de TI de bancos y cooperativas, y sus portales oficiales de empleo." : "Portales oficiales de empleo de bancos y cooperativas." },
@@ -53,10 +53,10 @@ export function EmploymentTab({ stage }: { stage: Stage | null }) {
   const [showHistoric, setShowHistoric] = useState(false)
   const filters = { onlyOpen, showHistoric, onShowHistoric: () => setShowHistoric(true) }
   const visible = (id: Sector) => sector === "todos" || sector === id
-  // El conteo de Tecnología depende de la fecha (últimos 60 días): se calcula al montar
+  // El conteo de Tecnología incluye Encuentra Empleo, que depende de la fecha: se calcula al montar
   const [now, setNow] = useState<number | null>(null)
   useEffect(() => { setNow(Date.now()) }, [])
-  const countFor = (item: (typeof sectors)[number]) => item.id === "tecnologia" ? countRecentTechITJobs(now) + countOpenEncuentraEmpleoJobs(now) : item.count
+  const countFor = (item: (typeof sectors)[number]) => item.id === "tecnologia" ? countOpenTechITJobs() + countOpenEncuentraEmpleoJobs(now) : item.count
 
   const toggleClass = (active: boolean) => `inline-flex items-center gap-1.5 rounded-lg border px-3 py-1.5 text-sm font-medium transition-colors ${active ? "border-primary bg-primary text-primary-foreground" : "border-border bg-background text-foreground hover:border-primary/50"}`
 
