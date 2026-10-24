@@ -3,6 +3,72 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "code": "CVIN-0553",
+      "type": "CAMO - Concurso Abierto de Méritos y Oposición",
+      "role": "ANALISTA DE DATOS Y CÁLCULO DE PRECIOS",
+      "city": "QUITO",
+      "opensAt": "2026-10-23T15:00:00-05:00",
+      "closesAt": "2026-10-25T15:01:00-05:00",
+      "isIT": true,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24"
+    },
+    {
+      "code": "CVIN-0552",
+      "type": "CAMO - Concurso Abierto de Méritos y Oposición",
+      "role": "ANALISTA DE PROYECTOS",
+      "city": "QUITO",
+      "opensAt": "2026-10-23T15:00:00-05:00",
+      "closesAt": "2026-10-25T15:01:00-05:00",
+      "isIT": false,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24"
+    },
+    {
+      "code": "CVIN-0551",
+      "type": "CAMO - Concurso Abierto de Méritos y Oposición",
+      "role": "ANALISTA DE MERCADEO Y MARCA",
+      "city": "QUITO",
+      "opensAt": "2026-10-23T15:00:00-05:00",
+      "closesAt": "2026-10-25T15:01:00-05:00",
+      "isIT": false,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24"
+    },
+    {
+      "code": "CVIN-0501",
+      "type": "CAMO - Concurso Abierto de Méritos y Oposición",
+      "role": "TÉCNICO LÍDER DE INSTRUMENTACIÓN Y CONTROL",
+      "city": "TRONCAL",
+      "opensAt": "2026-10-23T15:00:00-05:00",
+      "closesAt": "2026-10-25T15:01:00-05:00",
+      "isIT": false,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24"
+    },
+    {
+      "code": "CVIN-0499",
+      "type": "CAMO - Concurso Abierto de Méritos y Oposición",
+      "role": "TÉCNICO DE OPERACIONES",
+      "city": "QUININDE",
+      "opensAt": "2026-10-23T15:00:00-05:00",
+      "closesAt": "2026-10-25T15:01:00-05:00",
+      "isIT": false,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24"
+    },
+    {
+      "code": "CVIN-0498",
+      "type": "CAMO - Concurso Abierto de Méritos y Oposición",
+      "role": "TÉCNICO DE OPERACIONES",
+      "city": "RIOBAMBA",
+      "opensAt": "2026-10-23T15:00:00-05:00",
+      "closesAt": "2026-10-25T15:01:00-05:00",
+      "isIT": false,
+      "firstSeen": "2026-10-24",
+      "lastSeen": "2026-10-24"
+    },
+    {
       "code": "CVIN-0550",
       "type": "CAMO - Concurso Abierto de Méritos y Oposición",
       "role": "MÉDICO ESPECIALISTA",

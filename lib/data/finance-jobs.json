@@ -2,6 +2,17 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pagueya-6ac565cf2ee2123a2d066740",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "COORDINADOR COBRANZA GESTIÓN LEGAL REMEDIAL",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac565cf2ee2123a2d066740",
+      "isIT": false,
+      "firstSeen": "2026-10-24"
+    },
+    {
       "id": "pagueya-6adb733bec92bbdc1eb7dd74",
       "source": "pagueya",
       "institution": "Pague Ya (Grupo Pichincha)",
@@ -11,6 +22,18 @@
       "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6adb733bec92bbdc1eb7dd74",
       "isIT": false,
       "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "pichincha-1337704562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS PREFERENCIAL - PLAZA LAGOS",
+      "province": "GUAYAS",
+      "city": "SAMBORONDON",
+      "publishedAt": "2026-10-23",
+      "url": "https://vacantes.pichincha.com/job/SAMBORONDON-OFICIAL-COMERCIAL-Y-SERVICIOS-PREFERENCIAL-PLAZA-LAGOS-GUAY-ZONA-COSTA/1337704562/",
+      "isIT": false,
+      "firstSeen": "2026-10-24"
     },
     {
       "id": "pichincha-1336004062",
@@ -40,7 +63,7 @@
       "id": "pagueya-6ad27e72e8eca271255a745c",
       "source": "pagueya",
       "institution": "Pague Ya (Grupo Pichincha)",
-      "title": "TRAINEE TECNOLOGIA ARQUITECTURA",
+      "title": "TRAINEE TECNOLOGIA",
       "city": "Quito",
       "publishedAt": null,
       "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ad27e72e8eca271255a745c",
@@ -89,28 +112,6 @@
       "publishedAt": null,
       "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac569aff89824fde814a923",
       "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "pagueya-6ac566e50ba3c4c66e7b651e",
-      "source": "pagueya",
-      "institution": "Pague Ya (Grupo Pichincha)",
-      "title": "EJECUTIVO COBRANZA GESTION ESPECIALIZADA - MANTA",
-      "city": "Manta",
-      "publishedAt": null,
-      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac566e50ba3c4c66e7b651e",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "pagueya-6aa477183245d2d903b44f67",
-      "source": "pagueya",
-      "institution": "Pague Ya (Grupo Pichincha)",
-      "title": "PASANTE SOLUCIONES TI",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6aa477183245d2d903b44f67",
-      "isIT": true,
       "firstSeen": "2026-10-22"
     },
     {
@@ -815,18 +816,6 @@
       "firstSeen": "2026-10-17"
     },
     {
-      "id": "pichincha-1337518462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO DE CREDITO B - AG. 24 DE MAYO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-16",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-DE-CREDITO-B-AG_-24-DE-MAYO-QUIT-ZONA-QUITO/1337518462/",
-      "isIT": false,
-      "firstSeen": "2026-10-17"
-    },
-    {
       "id": "pichincha-1337515962",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1091,18 +1080,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337185762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "JEFE COMERCIAL Y SERVICIOS - RIOBAMBA",
-      "province": "CHIMBORAZO",
-      "city": "RIOBAMBA",
-      "publishedAt": "2026-10-05",
-      "url": "https://vacantes.pichincha.com/job/RIOBAMBA-JEFE-COMERCIAL-Y-SERVICIOS-RIOBAMBA-RIOB-ZONA-SUR-O/1337185762/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1337144262",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1187,6 +1164,30 @@
       "firstSeen": "2026-10-21"
     },
     {
+      "id": "pagueya-6ac566e50ba3c4c66e7b651e",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "EJECUTIVO COBRANZA GESTION ESPECIALIZADA - MANTA",
+      "city": "Manta",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac566e50ba3c4c66e7b651e",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-24"
+    },
+    {
+      "id": "pagueya-6aa477183245d2d903b44f67",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "PASANTE SOLUCIONES TI",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6aa477183245d2d903b44f67",
+      "isIT": true,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-24"
+    },
+    {
       "id": "pichincha-1337555962",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1237,6 +1238,19 @@
       "isIT": false,
       "firstSeen": "2026-10-20",
       "closedOn": "2026-10-23"
+    },
+    {
+      "id": "pichincha-1337518462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO B - AG. 24 DE MAYO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-16",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-DE-CREDITO-B-AG_-24-DE-MAYO-QUIT-ZONA-QUITO/1337518462/",
+      "isIT": false,
+      "firstSeen": "2026-10-17",
+      "closedOn": "2026-10-24"
     },
     {
       "id": "pichincha-1337516162",
@@ -1458,6 +1472,19 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337185762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "JEFE COMERCIAL Y SERVICIOS - RIOBAMBA",
+      "province": "CHIMBORAZO",
+      "city": "RIOBAMBA",
+      "publishedAt": "2026-10-05",
+      "url": "https://vacantes.pichincha.com/job/RIOBAMBA-JEFE-COMERCIAL-Y-SERVICIOS-RIOBAMBA-RIOB-ZONA-SUR-O/1337185762/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-24"
     },
     {
       "id": "pichincha-1337124462",

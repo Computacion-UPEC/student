@@ -2,6 +2,17 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "difare-auxiliar-de-punto-de-venta-2026-sierra-centro-y-oriente",
+      "source": "difare",
+      "company": "Difare",
+      "title": "AUXILIAR DE PUNTO DE VENTA 2026 SIERRA CENTRO Y ORIENTE",
+      "city": "AMBATO",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/auxiliar-de-punto-de-venta-2026-sierra-centro-y-oriente/",
+      "isIT": false,
+      "firstSeen": "2026-10-24"
+    },
+    {
       "id": "holcim-1375648757",
       "source": "holcim",
       "company": "Holcim Ecuador",
@@ -35,17 +46,6 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "arca-1443223800",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR A. UNIVERSAL | CEDI AMBATO",
-      "city": null,
-      "publishedAt": "2026-10-23",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-AMBATO/1443223800/",
-      "isIT": false,
-      "firstSeen": "2026-10-23"
-    },
-    {
       "id": "arca-1443141500",
       "source": "arca",
       "company": "Arca Continental",
@@ -55,6 +55,17 @@
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-QUITO-CALDER%C3%93N-00000/1443141500/",
       "isIT": false,
       "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "arca-1443371300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | PLAYAS",
+      "city": null,
+      "publishedAt": "2026-10-23",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-PLAYAS/1443371300/",
+      "isIT": false,
+      "firstSeen": "2026-10-24"
     },
     {
       "id": "holcim-1372996257",
@@ -1905,17 +1916,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "difare-auxiliar-de-punto-de-venta-sierra-y-oriente",
-      "source": "difare",
-      "company": "Difare",
-      "title": "AUXILIAR DE PUNTO DE VENTA SIERRA Y ORIENTE",
-      "city": "AMBATO",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/auxiliar-de-punto-de-venta-sierra-y-oriente/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "difare-auxiliar-de-punto-de-venta-2026-sto-domingo-esmeraldas-sierra-norte-2",
       "source": "difare",
       "company": "Difare",
@@ -2046,28 +2046,6 @@
       "url": "https://difare.evaluar.com/trabajo/gerente-de-asuntos-medicos-y-cientificos/",
       "isIT": false,
       "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1442990900",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-10-22",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-GUAYAQUIL-SUR/1442990900/",
-      "isIT": false,
-      "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "arca-1442991400",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-10-22",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-GUAYAQUIL-SUR/1442991400/",
-      "isIT": false,
-      "firstSeen": "2026-10-23"
     },
     {
       "id": "arca-1442984000",
@@ -2378,15 +2356,15 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "arca-1439350900",
+      "id": "arca-1439349900",
       "source": "arca",
       "company": "Arca Continental",
-      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI GUAYAQUIL SUR",
+      "title": "AUXILIAR ADMINISTRATIVO (D) | CEDI LA LIBERTAD",
       "city": null,
       "publishedAt": "2026-10-12",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-GUAYAQUIL-SUR/1439350900/",
+      "url": "https://careers.arcacontal.com/job/AUXILIAR-ADMINISTRATIVO-%28D%29-CEDI-LA-LIBERTAD/1439349900/",
       "isIT": false,
-      "firstSeen": "2026-10-22"
+      "firstSeen": "2026-10-24"
     },
     {
       "id": "arca-1419793800",
@@ -2464,17 +2442,6 @@
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-BASE-CEDI-LAGO-AGRIO-Dip-Lago/1437391500/",
       "isIT": false,
       "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1436849300",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR A. UNIVERSAL | CEDI AMBATO",
-      "city": null,
-      "publishedAt": "2026-10-05",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-AMBATO/1436849300/",
-      "isIT": false,
-      "firstSeen": "2026-10-23"
     },
     {
       "id": "arca-1417243400",
@@ -2587,6 +2554,54 @@
       "firstSeen": "2026-10-22"
     },
     {
+      "id": "arca-1443223800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR A. UNIVERSAL | CEDI AMBATO",
+      "city": null,
+      "publishedAt": "2026-10-23",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-AMBATO/1443223800/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-10-24"
+    },
+    {
+      "id": "difare-auxiliar-de-punto-de-venta-sierra-y-oriente",
+      "source": "difare",
+      "company": "Difare",
+      "title": "AUXILIAR DE PUNTO DE VENTA SIERRA Y ORIENTE",
+      "city": "AMBATO",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/auxiliar-de-punto-de-venta-sierra-y-oriente/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-24"
+    },
+    {
+      "id": "arca-1442990900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-22",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-GUAYAQUIL-SUR/1442990900/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-10-24"
+    },
+    {
+      "id": "arca-1442991400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-22",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-GUAYAQUIL-SUR/1442991400/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-10-24"
+    },
+    {
       "id": "farmaenlace-1337477962",
       "source": "farmaenlace",
       "company": "Farmaenlace",
@@ -2659,6 +2674,18 @@
       "closedOn": "2026-10-23"
     },
     {
+      "id": "arca-1439350900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-12",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-GUAYAQUIL-SUR/1439350900/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-24"
+    },
+    {
       "id": "arca-1439225500",
       "source": "arca",
       "company": "Arca Continental",
@@ -2681,6 +2708,18 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-23"
+    },
+    {
+      "id": "arca-1436849300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR A. UNIVERSAL | CEDI AMBATO",
+      "city": null,
+      "publishedAt": "2026-10-05",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-AMBATO/1436849300/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-10-24"
     },
     {
       "id": "arca-1434979200",
