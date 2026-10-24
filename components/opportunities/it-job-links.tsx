@@ -7,7 +7,7 @@ export type ITJobLink = { id: string; title: string; city: string | null; url: s
 const PREVIEW = 5
 
 // "INGENIERO DE DATOS - QUITO" -> "Ingeniero de datos - Quito"
-export const tidyTitle = (text: string) => text === text.toUpperCase() ? text.toLowerCase().replace(/(^|[\s(-])(\p{L})/gu, (_, before, letter) => before + letter.toUpperCase()).replace(/\b(Ti|Ia|Ux|Qa|Smo|Bi|Coe|Uio|Gye)\b/g, (word) => word.toUpperCase()).replace(/\b(De|Del|La|Las|Los|Y|En|Con)\b/g, (word) => word.toLowerCase()) : text
+export const tidyTitle = (text: string) => text === text.toUpperCase() ? text.toLowerCase().replace(/(^|[\s(-])(\p{L})/gu, (_, before, letter) => before + letter.toUpperCase()).replace(/\bb(Ti|It|Ia|Ux|Qa|Smo|Bi|Coe|Uio|Gye)\b/g, (word) => word.toUpperCase()).replace(/\b(De|Del|La|Las|Los|Y|En|Con)\b/g, (word) => word.toLowerCase()) : text
 
 function JobLink({ job }: { job: ITJobLink }) {
   // La ciudad solo si el título no la nombra ya ("Ingeniero de datos - Quito")
