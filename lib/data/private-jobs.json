@@ -2378,17 +2378,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1437866700",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | CEDI SANTO DOMINGO",
-      "city": null,
-      "publishedAt": "2026-10-07",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-SANTO-DOMINGO/1437866700/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "arca-1438000900",
       "source": "arca",
       "company": "Arca Continental",
@@ -2429,17 +2418,6 @@
       "city": null,
       "publishedAt": "2026-10-06",
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-DESARROLLO-CEDI-LAGO-AGRIO-Dip-Lago/1437391900/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1437391500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR BASE | CEDI LAGO AGRIO",
-      "city": null,
-      "publishedAt": "2026-10-06",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-BASE-CEDI-LAGO-AGRIO-Dip-Lago/1437391500/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -2696,6 +2674,30 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-23"
+    },
+    {
+      "id": "arca-1437866700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI SANTO DOMINGO",
+      "city": null,
+      "publishedAt": "2026-10-07",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-SANTO-DOMINGO/1437866700/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-24"
+    },
+    {
+      "id": "arca-1437391500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR BASE | CEDI LAGO AGRIO",
+      "city": null,
+      "publishedAt": "2026-10-06",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-BASE-CEDI-LAGO-AGRIO-Dip-Lago/1437391500/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-24"
     },
     {
       "id": "arca-1437401500",
