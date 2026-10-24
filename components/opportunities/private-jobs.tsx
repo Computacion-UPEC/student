@@ -15,7 +15,7 @@ const data = privateData as { collectedSince: string; jobs: PrivateJob[] }
 export const privateITJobs = data.jobs.filter((job) => job.isIT)
 
 const formatDay = (day: string) => new Date(`${day}T12:00:00`).toLocaleDateString("es-EC", { day: "numeric", month: "short", year: "numeric" })
-const tidy = (text: string) => text === text.toUpperCase() ? text.toLowerCase().replace(/(^|[\s(-])(\p{L})/gu, (_, before, letter) => before + letter.toUpperCase()).replace(/\bb(Ti|It|Ia|Ux|Qa|Bi)\b/g, (word) => word.toUpperCase()).replace(/\b(De|Del|La|Las|Los|Y|En|Con)\b/g, (word) => word.toLowerCase()) : text
+const tidy = (text: string) => text === text.toUpperCase() ? text.toLowerCase().replace(/(^|[\s(-])(\p{L})/gu, (_, before, letter) => before + letter.toUpperCase()).replace(/\b(Ti|It|Ia|Ux|Qa|Bi)\b/g, (word) => word.toUpperCase()).replace(/\b(De|Del|La|Las|Los|Y|En|Con)\b/g, (word) => word.toLowerCase()) : text
 
 export function PrivateJobs({ onlyOpen, showHistoric, onShowHistoric }: EmploymentFilters) {
   const [currentYear, setCurrentYear] = useState<string | null>(null)
