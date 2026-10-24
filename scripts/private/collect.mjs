@@ -3,6 +3,9 @@
 //     SAP SuccessFactors, igual que Banco Pichincha (páginas de resultados en HTML con startrow)
 //   - Tiendas Tuti: vacantes publicadas en su propia página "Trabaja con nosotros"
 //   - FEMSA Salud (GPF: Fybeca, SanaSana) y Novacero: portales de HiringRoom (scripts/lib/hiringroom.mjs)
+//   - Claro Ecuador: SuccessFactors clásico, leído desde su feed XML público
+// Quedan como enlace: Netlife (TalentRoom, que cifra sus respuestas), Telconet (solo LinkedIn) y PuntoNet (su sitio
+// enlaza puntonet.hiringroom.com, pero ese portal respondía 404 en octubre de 2026).
 //   - Teuno (TI del Grupo Pichincha): sitio de Genoma enlazado desde "Bolsa de Empleo" de teuno.com
 //   - Difare: portal de Evaluar.com (WP Job Manager), enlazado desde "Trabaja con nosotros" de difare.com.ec
 // Las demás empresas investigadas quedan como enlace (ver lib/private-portals.ts): sus portales cargan las
@@ -97,6 +100,25 @@ async function tuti() {
   return [...jobs.values()]
 }
 
+/**
+ * SuccessFactors clásico (career?company=...): la página arma la lista con JavaScript, pero el mismo sitio publica
+ * un feed XML con todas las vacantes (resultType=XML). Cada vacante se abre con su career_job_req_id.
+ */
+async function successFactorsXml(host, company, site) {
+  const base = `https://${host}/career?company=${company}&site=${site}&lang=es_ES`
+  const xml = await get(`${base}&career_ns=job_listing_summary&resultType=XML`)
+  const tag = (job, name) => decode(job.match(new RegExp(`<${name}>(?:<!\\[CDATA\\[)?([\\s\\S]*?)(?:\\]\\]>)?</${name}>`))?.[1] ?? "").trim()
+  const jobs = []
+  for (const [, job] of xml.matchAll(/<Job>([\s\S]*?)<\/Job>/g)) {
+    const id = tag(job, "ReqId"), title = tag(job, "JobTitle")
+    if (!id || !title) continue
+    // "13/10/2026" -> "2026-10-13"
+    const [d, m, y] = tag(job, "Posted-Date").split("/")
+    jobs.push({ key: id, title, city: null, publishedAt: y ? `${y}-${m.padStart(2, "0")}-${d.padStart(2, "0")}` : null, url: `${base}&career_ns=job_listing&career_job_req_id=${id}` })
+  }
+  return jobs
+}
+
 /** Portal de Evaluar.com (WP Job Manager): la lista completa sale de su endpoint jm-ajax. */
 async function evaluar(sub) {
   const base = `https://${sub}.evaluar.com`
@@ -127,6 +149,7 @@ const SOURCES = [
   { id: "novacero", company: "Novacero", collect: () => hiringRoom("novaceroseleccion") },
   { id: "difare", company: "Difare", collect: () => evaluar("difare") },
   { id: "teuno", company: "Teuno (Grupo Pichincha)", collect: () => genoma("teuno") },
+  { id: "claro", company: "Claro Ecuador", collect: () => successFactorsXml("career19.sapsf.com", "consorcioe", "VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09") },
 ]
 
 const previous = existsSync(OUT) ? JSON.parse(readFileSync(OUT, "utf8")) : { jobs: [] }
