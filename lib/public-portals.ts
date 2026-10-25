@@ -18,7 +18,7 @@ export type PortalLink = { label: string; url: string }
 export type PublicPortal = {
   id: string
   name: string
-  kind: "Empresa pública" | "Instituto" | "Agencia de regulación"
+  kind: "Empresa pública" | "Instituto" | "Agencia de regulación" | "Función Judicial"
   /** Enlaces directos: ver vacantes, crear la cuenta o registrar la hoja de vida (el primero es el principal). */
   links: PortalLink[]
   /** Lo que el estudiante encuentra al abrir el enlace. */
@@ -32,10 +32,12 @@ export const publicPortals: PublicPortal[] = [
   { id: "cnt", name: "CNT EP", kind: "Empresa pública", links: [{ label: "Procesos de selección", url: "https://empleo.cnt.gob.ec/procesos/" }, { label: "Concursos", url: "https://empleo.cnt.gob.ec/concursos/" }, { label: "Crear cuenta", url: "https://empleo.cnt.gob.ec/user-login/" }], note: "Portal CNT Empleo. Revisamos sus vacantes cada noche: las de TI aparecen arriba. Se postula con una cuenta propia en el mismo portal.", collected: true },
   // El formulario es de Google y pide iniciar sesión con una cuenta de Google
   { id: "arcotel", name: "ARCOTEL", kind: "Agencia de regulación", links: [{ label: "Registrar hoja de vida", url: "https://docs.google.com/forms/d/e/1FAIpQLSe82Pp63of_-KZJvFgGekcZ3VE0jP6pyJUv086_eDcIIu2ceQ/viewform" }], note: "Bolsa de empleo: formulario oficial para dejar tus datos; te consideran cuando abren una vacante. Sus concursos van por Encuentra Empleo." },
+  // Jueces, notarios y servidores judiciales: concursos propios del Consejo de la Judicatura (no van por Encuentra Empleo)
+  { id: "funcion-judicial", name: "Función Judicial (Consejo de la Judicatura)", kind: "Función Judicial", links: [{ label: "Concursos", url: "https://www.funcionjudicial.gob.ec/historico-concursos/" }], note: "Concursos propios para jueces (incluida la Corte Nacional), notarios y servidores judiciales; se anuncian en su sitio oficial." },
 ]
 
 /** Instituciones que publican sus concursos en Encuentra Empleo (sector público, LOSEP). */
-export const encuentraEmpleoInstitutions = ["SRI", "Superintendencia de Bancos", "SEPS", "ECU 911", "Registro Civil", "IGM", "INAMHI", "INOCAR"]
+export const encuentraEmpleoInstitutions = ["Ministerio de Economía y Finanzas", "SENAE (Aduana)", "ANT", "Ministerio del Trabajo", "SRI", "Superintendencia de Bancos", "SEPS", "ECU 911", "Registro Civil", "IGM", "INAMHI", "INOCAR", "y demás ministerios"]
 export const encuentraEmpleoLinks: PortalLink[] = [
   { label: "Buscar concursos", url: "https://encuentraempleo.trabajo.gob.ec" },
   { label: "Crear cuenta", url: "https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/registro/aspirante/registroAspiranteCompromiso.jsf" },
