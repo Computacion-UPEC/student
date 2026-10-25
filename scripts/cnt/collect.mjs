@@ -45,8 +45,9 @@ const previous = existsSync(OUT) ? JSON.parse(readFileSync(OUT, "utf8")) : { job
 const known = new Map(previous.jobs.map((job) => [job.url, job]))
 
 const items = []
+let feedError = null
 for (let page = 1; page <= MAX_FEED_PAGES; page++) {
-  const xml = await get(`${FEED}&paged=${page}`).catch((error) => { console.warn(`  Feed página ${page}: ${error.message}`); return "" })
+  const xml = await get(`${FEED}&paged=${page}`).catch((error) => { console.warn(`  Feed página ${page}: ${error.message}`); feedError ??= error; return "" })
   const pageItems = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map(([, item]) => ({
     title: clean(item.match(/<title>([\s\S]*?)<\/title>/)?.[1] ?? ""),
     url: clean(item.match(/<link>([\s\S]*?)<\/link>/)?.[1] ?? ""),
@@ -57,6 +58,8 @@ for (let page = 1; page <= MAX_FEED_PAGES; page++) {
   // Las páginas siguientes son más antiguas: basta con lo que ya conocemos
   if (pageItems.every((item) => known.has(item.url))) break
 }
+// Sin respuesta del portal es una caída (no se cierra ninguna vacante); con respuesta pero sin vacantes, cambió el formato
+if (!items.length && feedError) throw new Error(`CNT Empleo no responde (${feedError.cause?.code ?? feedError.message}): se reintenta en la próxima corrida.`)
 if (!items.length) throw new Error("El feed de CNT Empleo no trajo vacantes: revisa el formato.")
 
 const jobs = new Map(previous.jobs.map((job) => [job.url, job]))

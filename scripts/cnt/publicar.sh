@@ -2,7 +2,7 @@
 # Recolecta las vacantes de CNT EP y publica los cambios con un PR (que se fusiona cuando pasa el check de Vercel).
 #
 # CNT Empleo rechaza las conexiones desde GitHub Actions, así que este script corre en un computador en Ecuador
-# (la tarea programada nocturna). No toca nada si el repositorio tiene cambios sin guardar, y al terminar vuelve a
+# (tarea-windows.cmd en el Programador de tareas, o la tarea nocturna de BecasChamba). No toca nada si el repositorio tiene cambios sin guardar, y al terminar vuelve a
 # la rama en la que estaba.
 # Uso (Git Bash, desde cualquier carpeta):  bash scripts/cnt/publicar.sh
 set -euo pipefail

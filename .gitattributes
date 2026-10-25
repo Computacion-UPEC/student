@@ -1,0 +1,2 @@
+﻿# Los .cmd de Windows necesitan CRLF
+*.cmd text eol=crlf
