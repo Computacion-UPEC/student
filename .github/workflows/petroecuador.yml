@@ -17,6 +17,7 @@ on:
 
 permissions:
   contents: write
+  issues: write # aviso de recolectores con fallas
 
 concurrency:
   group: petroecuador-collector
@@ -26,6 +27,10 @@ jobs:
   collect:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    # bash con pipefail: si un recolector falla, el `| tee` no oculta el error
+    defaults:
+      run:
+        shell: bash
     steps:
       - uses: actions/checkout@v4
 
@@ -43,37 +48,44 @@ jobs:
 
       # Si un recolector falla, el otro igual guarda sus datos
       - name: Recolectar convocatorias de Petroecuador
+        id: petroecuador
         continue-on-error: true
         working-directory: scripts/petroecuador
-        run: node collect.mjs
+        run: node collect.mjs 2>&1 | tee -a "$RUNNER_TEMP/recolectores.log"
 
       - name: Recolectar ofertas de bancos y cooperativas
+        id: finanzas
         continue-on-error: true
-        run: node scripts/finance/collect.mjs
+        run: node scripts/finance/collect.mjs 2>&1 | tee -a "$RUNNER_TEMP/recolectores.log"
 
       - name: Detectar convocatoria mensual de Educa Empleo
+        id: educa
         continue-on-error: true
-        run: node scripts/educa-empleo/collect.mjs
+        run: node scripts/educa-empleo/collect.mjs 2>&1 | tee -a "$RUNNER_TEMP/recolectores.log"
 
       - name: Recolectar ofertas de empresas de software
+        id: software
         continue-on-error: true
-        run: node scripts/tech/collect.mjs
+        run: node scripts/tech/collect.mjs 2>&1 | tee -a "$RUNNER_TEMP/recolectores.log"
 
       - name: Recolectar ofertas de empresas privadas grandes
+        id: privadas
         continue-on-error: true
-        run: node scripts/private/collect.mjs
+        run: node scripts/private/collect.mjs 2>&1 | tee -a "$RUNNER_TEMP/recolectores.log"
 
       - name: Recolectar convocatorias del INEC
+        id: inec
         continue-on-error: true
         run: |
           # pdftotext saca el enlace de postulación de cada PDF de bases
           command -v pdftotext || (sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends poppler-utils)
-          node scripts/inec/collect.mjs
+          node scripts/inec/collect.mjs 2>&1 | tee -a "$RUNNER_TEMP/recolectores.log"
 
       # Usa el navegador sin interfaz instalado para Petroecuador
       - name: Recolectar concursos del sector público (Encuentra Empleo)
+        id: concursos
         continue-on-error: true
-        run: node scripts/encuentra-empleo/collect.mjs
+        run: node scripts/encuentra-empleo/collect.mjs 2>&1 | tee -a "$RUNNER_TEMP/recolectores.log"
 
       - name: Guardar cambios
         run: |
@@ -91,3 +103,34 @@ jobs:
             sleep $((intento * 10))
           done
           exit 1
+
+      # Abre (o actualiza) un issue si un recolector falló o una fuente avisó un error, y lo cierra cuando todo vuelve
+      # a funcionar: así se nota cuando un portal cambia o se cae (p. ej. una página que empieza a responder 404)
+      - name: Avisar recolectores con fallas
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RESULTADOS: >-
+            Petroecuador=${{ steps.petroecuador.outcome }}
+            Bancos=${{ steps.finanzas.outcome }}
+            Educa-Empleo=${{ steps.educa.outcome }}
+            Software=${{ steps.software.outcome }}
+            Privadas=${{ steps.privadas.outcome }}
+            INEC=${{ steps.inec.outcome }}
+            Concursos=${{ steps.concursos.outcome }}
+          CORRIDA: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          TITULO="Recolectores de ofertas con fallas"
+          fallidos=$(for r in $RESULTADOS; do [ "${r#*=}" = failure ] && echo "- ${r%%=*}: el recolector falló"; done || true)
+          avisos=$(grep -h '^::warning::' "$RUNNER_TEMP/recolectores.log" 2>/dev/null | sed 's/^::warning::/- /' | sort -u || true)
+          abierto=$(gh issue list --state open --search "in:title \"$TITULO\"" --json number -q '.[0].number' || true)
+          if [ -z "$fallidos$avisos" ]; then
+            [ -n "$abierto" ] && gh issue close "$abierto" --comment "Todas las fuentes respondieron bien en $CORRIDA."
+            exit 0
+          fi
+          cuerpo=$(printf 'Corrida: %s\n\n%s\n%s\n\nRevisa el registro de la corrida; si el portal cambió, ajusta su recolector en scripts/.' "$CORRIDA" "$fallidos" "$avisos")
+          if [ -n "$abierto" ]; then
+            gh issue comment "$abierto" --body "$cuerpo"
+          else
+            gh issue create --title "$TITULO" --body "$cuerpo"
+          fi
