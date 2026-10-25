@@ -363,18 +363,6 @@
       "firstSeen": "2026-10-19"
     },
     {
-      "id": "pichincha-1337533762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL INMOBILIARIO A - CUENCA",
-      "province": "AZUAY",
-      "city": "CUENCA",
-      "publishedAt": "2026-10-19",
-      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-INMOBILIARIO-A-CUENCA-CUEN-REGION-SUR/1337533762/",
-      "isIT": false,
-      "firstSeen": "2026-10-19"
-    },
-    {
       "id": "pichincha-1336680662",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1144,6 +1132,19 @@
       "isIT": false,
       "firstSeen": "2026-10-21",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "pichincha-1337533762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL INMOBILIARIO A - CUENCA",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-10-19",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-INMOBILIARIO-A-CUENCA-CUEN-REGION-SUR/1337533762/",
+      "isIT": false,
+      "firstSeen": "2026-10-19",
+      "closedOn": "2026-10-25"
     },
     {
       "id": "pichincha-1337525362",

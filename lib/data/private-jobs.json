@@ -266,17 +266,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "holcim-1374004457",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Supervisor/a de Distribución - Quito",
-      "city": "Quito • Quito • Quito",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Quito-Supervisora-de-Distribuci%C3%B3n-Quito-P-170175/1374004457/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "holcim-1371372757",
       "source": "holcim",
       "company": "Holcim Ecuador",
@@ -2641,6 +2630,18 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "holcim-1374004457",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Supervisor/a de Distribución - Quito",
+      "city": "Quito • Quito • Quito",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Quito-Supervisora-de-Distribuci%C3%B3n-Quito-P-170175/1374004457/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-25"
     },
     {
       "id": "difare-auxiliar-de-punto-de-venta-sierra-y-oriente",
