@@ -1,7 +1,7 @@
 "use client"
 
 import { useEffect, useState, type ReactNode } from "react"
-import { ArrowUpRight, BarChart3, Building, Laptop, Lightbulb, RadioTower, Search } from "lucide-react"
+import { ArrowUpRight, BarChart3, Building, Laptop, Lightbulb, RadioTower, Scale, Search } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import cntData from "@/lib/data/cnt-jobs.json"
 import inecData from "@/lib/data/inec-jobs.json"
@@ -9,7 +9,7 @@ import publicData from "@/lib/data/public-jobs.json"
 import { Collapsible } from "@/components/opportunities/collapsible"
 import { encuentraEmpleoInstitutions, encuentraEmpleoLinks, publicPortals, type CntJob, type InecJob, type PortalLink, type PublicContestJob, type PublicPortal } from "@/lib/public-portals"
 
-const icons: Record<PublicPortal["kind"], typeof Building> = { Instituto: BarChart3, "Empresa pública": Building, "Agencia de regulación": RadioTower }
+const icons: Record<PublicPortal["kind"], typeof Building> = { Instituto: BarChart3, "Empresa pública": Building, "Agencia de regulación": RadioTower, "Función Judicial": Scale }
 type Count = { total: number; it: number }
 
 /** Convocatorias abiertas ahora por portal; antes de montar no se conoce la hora y todas cuentan como cerradas. */
