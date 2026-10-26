@@ -2,6 +2,34 @@
   "source": "https://www.ecuadorencifras.gob.ec/institucional/trabaja-con-nosotros/",
   "jobs": [
     {
+      "id": "convo_inpp_pluri_cz6_26_oct.pdf#Servicio de transporte de camionetas",
+      "title": "Servicio de transporte de camionetas",
+      "group": "Servicio de transporte",
+      "contract": "Contratación pública",
+      "project": "Índice Nacional de Precios Productor (INPP)",
+      "place": "Provincias: Azuay, Cañar, Morona Santiago, Loja, Zamora Chinchipe",
+      "deadlineText": "Hasta las 16h00 del 05 de noviembre de 2026",
+      "closesAt": "2026-11-05T16:00:00-05:00",
+      "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Trabaja_con_Nosotros/2026/convo_inpp_pluri_cz6_26_oct.pdf",
+      "isIT": false,
+      "firstSeen": "2026-10-26",
+      "applyUrl": null
+    },
+    {
+      "id": "CONVOCATORIA_SUPERVISOR_IPCO_cz6_26_oct.pdf#Supervisor de operativo de campo",
+      "title": "Supervisor de operativo de campo",
+      "group": "Civil",
+      "contract": "Civil Técnico Especializado",
+      "project": "Índice de Precios de la Construcción – IPCO",
+      "place": "Provincias: Azuay, Cañar, Morona Santiago, Loja, Zamora Chinchipe",
+      "deadlineText": "Hasta las 23h59 del 27 de octubre de 2026",
+      "closesAt": "2026-10-27T23:59:00-05:00",
+      "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Trabaja_con_Nosotros/2026/CONVOCATORIA_SUPERVISOR_IPCO_cz6_26_oct.pdf",
+      "isIT": false,
+      "firstSeen": "2026-10-26",
+      "applyUrl": "https://forms.gle/8h5QyXhGP39eX2hY7"
+    },
+    {
       "id": "CONVOCATORIA_ADM_CENTRAL_especialistac5.pdf#Especialista en el diseño e implementación de sistemas informáticos",
       "title": "Especialista en el diseño e implementación de sistemas informáticos",
       "group": "Civil",

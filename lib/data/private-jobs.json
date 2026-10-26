@@ -2,6 +2,83 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "arca-1443691500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI MANTA",
+      "city": null,
+      "publishedAt": "2026-10-26",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-MANTA/1443691500/",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "arca-1443673500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AUXILIAR ADMINISTRATIVO | CUENCA",
+      "city": null,
+      "publishedAt": "2026-10-26",
+      "url": "https://careers.arcacontal.com/job/AUXILIAR-ADMINISTRATIVO-CUENCA/1443673500/",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "arca-1443738100",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI PORTOVIEJO",
+      "city": null,
+      "publishedAt": "2026-10-26",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-PORTOVIEJO/1443738100/",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "arca-1443634500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI SALINAS",
+      "city": null,
+      "publishedAt": "2026-10-26",
+      "url": "https://careers.arcacontal.com/job/SEL-Salinas-VENDEDOR-CEDI-SALINAS-Dip-Sali/1443634500/",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "arca-1443632800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR UNIVERSAL | CEDI SALINAS",
+      "city": null,
+      "publishedAt": "2026-10-26",
+      "url": "https://careers.arcacontal.com/job/SEL-Salinas-VENDEDOR-UNIVERSAL-CEDI-SALINAS-Dip-Sali/1443632800/",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "farmaenlace-1337730362",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "EJECUTIVO JUNIOR DE CONVENIOS",
+      "city": "Cuenca",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Cuenca-EJECUTIVO-JUNIOR-DE-CONVENIOS-AZUA/1337730362/",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "claro-1510",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ASESOR SOLUCIONES ESPECIALIZADAS",
+      "city": null,
+      "publishedAt": "2026-10-26",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1510",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
+    },
+    {
       "id": "difare-auxiliar-de-punto-de-venta-2026-sierra-centro-y-oriente",
       "source": "difare",
       "company": "Difare",
@@ -317,28 +394,6 @@
       "city": null,
       "publishedAt": "2026-10-22",
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-ASESOR-MEDICO-PLANTA-GUAYAQUIL-60000/1422820300/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "farmaenlace-1337572062",
-      "source": "farmaenlace",
-      "company": "Farmaenlace",
-      "title": "DEPENDIENTE JUNIOR",
-      "city": "CUENCA",
-      "publishedAt": null,
-      "url": "https://trabajaconnosotros.farmaenlace.com/job/CUENCA-DEPENDIENTE-JUNIOR/1337572062/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "farmaenlace-1337562062",
-      "source": "farmaenlace",
-      "company": "Farmaenlace",
-      "title": "ASISTENTE SENIOR",
-      "city": "TUMBACO",
-      "publishedAt": null,
-      "url": "https://trabajaconnosotros.farmaenlace.com/job/TUMBACO-ASISTENTE-SENIOR/1337562062/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -2048,6 +2103,17 @@
       "firstSeen": "2026-10-23"
     },
     {
+      "id": "holcim-1374004457",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Supervisor/a de Distribución - Quito",
+      "city": "Quito • Quito • Quito",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Quito-Supervisora-de-Distribuci%C3%B3n-Quito-P-170175/1374004457/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "arca-1442335800",
       "source": "arca",
       "company": "Arca Continental",
@@ -2125,28 +2191,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1441406200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "COORDINADOR TÉCNICO REGIONAL | PLANTA QUITO",
-      "city": null,
-      "publishedAt": "2026-10-19",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-COORDINADOR-T%C3%89CNICO-REGIONAL-PLANTA-QUITO-1/1441406200/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1441337200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "ANALISTA DE NÓMINA | CEDI VALLE",
-      "city": null,
-      "publishedAt": "2026-10-19",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-ANALISTA-DE-N%C3%93MINA-CEDI-VALLE-Dip-Quit/1441337200/",
-      "isIT": false,
-      "firstSeen": "2026-10-23"
-    },
-    {
       "id": "claro-1574",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -2154,28 +2198,6 @@
       "city": null,
       "publishedAt": "2026-10-19",
       "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1574",
-      "isIT": false,
-      "firstSeen": "2026-10-24"
-    },
-    {
-      "id": "claro-1809",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "CONSULTOR CORPORATIVO DE SOLUCIONES DIGITALES",
-      "city": null,
-      "publishedAt": "2026-10-19",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1809",
-      "isIT": false,
-      "firstSeen": "2026-10-24"
-    },
-    {
-      "id": "claro-1691",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "PASANTE",
-      "city": null,
-      "publishedAt": "2026-10-19",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1691",
       "isIT": false,
       "firstSeen": "2026-10-24"
     },
@@ -2235,15 +2257,15 @@
       "firstSeen": "2026-10-24"
     },
     {
-      "id": "arca-1440655500",
+      "id": "arca-1440848400",
       "source": "arca",
       "company": "Arca Continental",
-      "title": "PASANTE | GUAYAQUIL SUR",
+      "title": "VENDEDOR | CEDI SALINAS",
       "city": null,
-      "publishedAt": "2026-10-15",
-      "url": "https://careers.arcacontal.com/job/PASANTE-GUAYAQUIL-SUR/1440655500/",
+      "publishedAt": "2026-10-16",
+      "url": "https://careers.arcacontal.com/job/SEL-Salinas-VENDEDOR-CEDI-SALINAS-Dip-Sali/1440848400/",
       "isIT": false,
-      "firstSeen": "2026-10-22"
+      "firstSeen": "2026-10-26"
     },
     {
       "id": "arca-1440512000",
@@ -2332,17 +2354,6 @@
       "url": "https://careers.arcacontal.com/job/SDO-Santo-Domingo-TECNICO-EQUIPOS-DE-VENTA-PLANTA-SANTO-DOMINGO-230101/1440441800/",
       "isIT": false,
       "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "arca-1440047100",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "AYUDANTE MIR | CEDI QUEVEDO",
-      "city": null,
-      "publishedAt": "2026-10-14",
-      "url": "https://careers.arcacontal.com/job/AYUDANTE-MIR-CEDI-QUEVEDO/1440047100/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
     },
     {
       "id": "arca-1440144400",
@@ -2499,6 +2510,17 @@
       "firstSeen": "2026-10-22"
     },
     {
+      "id": "arca-1437391500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR BASE | CEDI LAGO AGRIO",
+      "city": null,
+      "publishedAt": "2026-10-06",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-BASE-CEDI-LAGO-AGRIO-Dip-Lago/1437391500/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "arca-1417243400",
       "source": "arca",
       "company": "Arca Continental",
@@ -2541,6 +2563,17 @@
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-T%C3%89CNICO-DE-MANTENIMIENTO-EL%C3%89CTRICO-PLANTA-GUAYAQUIL-00000/1436001200/",
       "isIT": false,
       "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "arca-1435619400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "CAPACITADOR DE EQUIPOS COMERCIALES | CEDI CUENCA",
+      "city": null,
+      "publishedAt": "2026-10-01",
+      "url": "https://careers.arcacontal.com/job/CAPACITADOR-DE-EQUIPOS-COMERCIALES-CEDI-CUENCA/1435619400/",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
     },
     {
       "id": "arca-1435540300",
@@ -2632,16 +2665,28 @@
       "closedOn": "2026-10-24"
     },
     {
-      "id": "holcim-1374004457",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Supervisor/a de Distribución - Quito",
-      "city": "Quito • Quito • Quito",
+      "id": "farmaenlace-1337572062",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "DEPENDIENTE JUNIOR",
+      "city": "CUENCA",
       "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Quito-Supervisora-de-Distribuci%C3%B3n-Quito-P-170175/1374004457/",
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/CUENCA-DEPENDIENTE-JUNIOR/1337572062/",
       "isIT": false,
       "firstSeen": "2026-10-22",
-      "closedOn": "2026-10-25"
+      "closedOn": "2026-10-26"
+    },
+    {
+      "id": "farmaenlace-1337562062",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "ASISTENTE SENIOR",
+      "city": "TUMBACO",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/TUMBACO-ASISTENTE-SENIOR/1337562062/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-26"
     },
     {
       "id": "difare-auxiliar-de-punto-de-venta-sierra-y-oriente",
@@ -2752,6 +2797,78 @@
       "closedOn": "2026-10-23"
     },
     {
+      "id": "arca-1441406200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "COORDINADOR TÉCNICO REGIONAL | PLANTA QUITO",
+      "city": null,
+      "publishedAt": "2026-10-19",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-COORDINADOR-T%C3%89CNICO-REGIONAL-PLANTA-QUITO-1/1441406200/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-26"
+    },
+    {
+      "id": "arca-1441337200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ANALISTA DE NÓMINA | CEDI VALLE",
+      "city": null,
+      "publishedAt": "2026-10-19",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-ANALISTA-DE-N%C3%93MINA-CEDI-VALLE-Dip-Quit/1441337200/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-10-26"
+    },
+    {
+      "id": "claro-1809",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "CONSULTOR CORPORATIVO DE SOLUCIONES DIGITALES",
+      "city": null,
+      "publishedAt": "2026-10-19",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1809",
+      "isIT": false,
+      "firstSeen": "2026-10-24",
+      "closedOn": "2026-10-26"
+    },
+    {
+      "id": "claro-1691",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "PASANTE",
+      "city": null,
+      "publishedAt": "2026-10-19",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1691",
+      "isIT": false,
+      "firstSeen": "2026-10-24",
+      "closedOn": "2026-10-26"
+    },
+    {
+      "id": "arca-1440655500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PASANTE | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-15",
+      "url": "https://careers.arcacontal.com/job/PASANTE-GUAYAQUIL-SUR/1440655500/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-26"
+    },
+    {
+      "id": "arca-1440047100",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AYUDANTE MIR | CEDI QUEVEDO",
+      "city": null,
+      "publishedAt": "2026-10-14",
+      "url": "https://careers.arcacontal.com/job/AYUDANTE-MIR-CEDI-QUEVEDO/1440047100/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-26"
+    },
+    {
       "id": "arca-1439350900",
       "source": "arca",
       "company": "Arca Continental",
@@ -2783,18 +2900,6 @@
       "city": null,
       "publishedAt": "2026-10-07",
       "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-SANTO-DOMINGO/1437866700/",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-10-24"
-    },
-    {
-      "id": "arca-1437391500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR BASE | CEDI LAGO AGRIO",
-      "city": null,
-      "publishedAt": "2026-10-06",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-BASE-CEDI-LAGO-AGRIO-Dip-Lago/1437391500/",
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-24"

@@ -2,6 +2,75 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1337734562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-26",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-SERVICIOS-TRANSACCIONALES-QUIT-ZONA-METRO/1337734562/",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "pichincha-1337737262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-26",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-GOBIERNO-R/1337737262/",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "pichincha-1337737862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE (CREDITO PERSONAS) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-26",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28CREDITO-PERSONAS%29-QUITO-QUIT-GESTION-Y/1337737862/",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "pagueya-6adf733ff42c7d19476c1683",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "INGENIERO DE SOLUCIONES TI",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6adf733ff42c7d19476c1683",
+      "isIT": true,
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "pagueya-6adf733ab288b080c0b34efa",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "INGENIERO DE SOLUCIONES TI",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6adf733ab288b080c0b34efa",
+      "isIT": true,
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "bancoloja-6ac7daeef7d65014043aa02a",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Jefe de Segmentos y Oferta de Valor",
+      "city": "Loja",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ac7daeef7d65014043aa02a",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
+    },
+    {
       "id": "pagueya-6ac565cf2ee2123a2d066740",
       "source": "pagueya",
       "institution": "Pague Ya (Grupo Pichincha)",
@@ -912,6 +981,18 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1335641962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "LIDER TECNICO DE TRIBU- Administración de Crédito (Quito)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-09",
+      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-TECNICO-DE-TRIBU-Administraci%C3%B3n-de-Cr%C3%A9dito-%28Quito%29-QUIT-TECNICO-TR/1335641962/",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
+    },
+    {
       "id": "pichincha-1337283362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1030,6 +1111,18 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-INGENIERO-DE-DATOS-QUITO-QUIT-INGENIERIA/1337041662/",
       "isIT": true,
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1335668362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "LIDER TECNICO DE TRIBU / FINANZAS (QUITO)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-09-11",
+      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-TECNICO-DE-TRIBU-FINANZAS-%28QUITO%29-QUIT-TRIBU-AREA/1335668362/",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
     },
     {
       "id": "pagueya-6ac566e50ba3c4c66e7b651e",
