@@ -2,6 +2,17 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "novacero-6adfbe9210f80e9c370a3b33",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "PLANIFICADOR DE PRODUCCIÓN",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6adfbe9210f80e9c370a3b33",
+      "isIT": false,
+      "firstSeen": "2026-10-27"
+    },
+    {
       "id": "arca-1443691500",
       "source": "arca",
       "company": "Arca Continental",
@@ -9,17 +20,6 @@
       "city": null,
       "publishedAt": "2026-10-26",
       "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-MANTA/1443691500/",
-      "isIT": false,
-      "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "arca-1443673500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "AUXILIAR ADMINISTRATIVO | CUENCA",
-      "city": null,
-      "publishedAt": "2026-10-26",
-      "url": "https://careers.arcacontal.com/job/AUXILIAR-ADMINISTRATIVO-CUENCA/1443673500/",
       "isIT": false,
       "firstSeen": "2026-10-26"
     },
@@ -77,6 +77,17 @@
       "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1510",
       "isIT": false,
       "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "arca-1443783000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ESTIBADOR | CEDI CHONE",
+      "city": null,
+      "publishedAt": "2026-10-26",
+      "url": "https://careers.arcacontal.com/job/ESTIBADOR-CEDI-CHONE/1443783000/",
+      "isIT": false,
+      "firstSeen": "2026-10-27"
     },
     {
       "id": "difare-auxiliar-de-punto-de-venta-2026-sierra-centro-y-oriente",
@@ -1102,17 +1113,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "novacero-6a98762fe6fb28a679aa14c0",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "JEFE DE INSTALACIONES",
-      "city": "Guayaquil",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a98762fe6fb28a679aa14c0",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "novacero-6a976f183ca95ac64c216c41",
       "source": "novacero",
       "company": "Novacero",
@@ -1153,17 +1153,6 @@
       "city": "Quito",
       "publishedAt": null,
       "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a918fd63438bf0a348490c7",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6a918bbd2297cd60a9af5749",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Asistente de Investigación y Desarrollo",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a918bbd2297cd60a9af5749",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -1230,17 +1219,6 @@
       "city": "Latacunga",
       "publishedAt": null,
       "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a7b598af6391a66a55e3381",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6a7637572be1d57b632a7cf8",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "ANALISTA DE COMPRAS INDUSTRIALES (TEMPORAL)",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a7637572be1d57b632a7cf8",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -1439,17 +1417,6 @@
       "city": "Guayaquil",
       "publishedAt": null,
       "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a0b725f94124766e842c395",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-69dcf3cf383be3707dac8558",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "ANALISTA DE AMBIENTE",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69dcf3cf383be3707dac8558",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -2653,6 +2620,18 @@
       "firstSeen": "2026-10-24"
     },
     {
+      "id": "arca-1443673500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AUXILIAR ADMINISTRATIVO | CUENCA",
+      "city": null,
+      "publishedAt": "2026-10-26",
+      "url": "https://careers.arcacontal.com/job/AUXILIAR-ADMINISTRATIVO-CUENCA/1443673500/",
+      "isIT": false,
+      "firstSeen": "2026-10-26",
+      "closedOn": "2026-10-27"
+    },
+    {
       "id": "arca-1443223800",
       "source": "arca",
       "company": "Arca Continental",
@@ -2663,6 +2642,54 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "novacero-6a98762fe6fb28a679aa14c0",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "JEFE DE INSTALACIONES",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a98762fe6fb28a679aa14c0",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-27"
+    },
+    {
+      "id": "novacero-6a918bbd2297cd60a9af5749",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Asistente de Investigación y Desarrollo",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a918bbd2297cd60a9af5749",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-27"
+    },
+    {
+      "id": "novacero-6a7637572be1d57b632a7cf8",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "ANALISTA DE COMPRAS INDUSTRIALES (TEMPORAL)",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a7637572be1d57b632a7cf8",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-27"
+    },
+    {
+      "id": "novacero-69dcf3cf383be3707dac8558",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "ANALISTA DE AMBIENTE",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69dcf3cf383be3707dac8558",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-27"
     },
     {
       "id": "farmaenlace-1337572062",

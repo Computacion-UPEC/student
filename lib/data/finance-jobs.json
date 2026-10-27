@@ -2,6 +2,18 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1337753562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - AG. PUNTO PAGO SUR",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-27",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-AG_-PUNTO-PAGO-SUR-QUIT-ZONA-QUITO/1337753562/",
+      "isIT": false,
+      "firstSeen": "2026-10-27"
+    },
+    {
       "id": "pichincha-1337734562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -69,6 +81,66 @@
       "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ac7daeef7d65014043aa02a",
       "isIT": false,
       "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "pichincha-1337740962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES - BUCAY",
+      "province": "GUAYAS",
+      "city": "GENERAL ANTONIO ELIZALDE (BUCA",
+      "publishedAt": "2026-10-26",
+      "url": "https://vacantes.pichincha.com/job/GENERAL-ANTONIO-ELIZALDE-%28BUCA-EJECUTIVO-SERVICIOS-TRANSACCIONALES-BUCAY-GUAY-ZONA-COSTA/1337740962/",
+      "isIT": false,
+      "firstSeen": "2026-10-27"
+    },
+    {
+      "id": "pichincha-1337744262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-26",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-AUDITORIA/1337744262/",
+      "isIT": false,
+      "firstSeen": "2026-10-27"
+    },
+    {
+      "id": "pichincha-1337742862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES - MILAGRO",
+      "province": "GUAYAS",
+      "city": "MILAGRO",
+      "publishedAt": "2026-10-26",
+      "url": "https://vacantes.pichincha.com/job/MILAGRO-EJECUTIVO-SERVICIOS-TRANSACCIONALES-MILAGRO-GUAY-REGION-COS/1337742862/",
+      "isIT": false,
+      "firstSeen": "2026-10-27"
+    },
+    {
+      "id": "pichincha-1337747462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - LIBERTAD",
+      "province": "SANTA ELENA",
+      "city": "LA LIBERTAD",
+      "publishedAt": "2026-10-26",
+      "url": "https://vacantes.pichincha.com/job/LA-LIBERTAD-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-LIBERTAD-SANT-ZONA-COSTA/1337747462/",
+      "isIT": false,
+      "firstSeen": "2026-10-27"
+    },
+    {
+      "id": "pichincha-1337753162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO C - AG. EL ANGEL",
+      "province": "CARCHI",
+      "city": "ESPEJO",
+      "publishedAt": "2026-10-26",
+      "url": "https://vacantes.pichincha.com/job/ESPEJO-EJECUTIVO-DE-CREDITO-C-AG_-EL-ANGEL-TULC-ZONA-SIERR/1337753162/",
+      "isIT": false,
+      "firstSeen": "2026-10-27"
     },
     {
       "id": "pagueya-6ac565cf2ee2123a2d066740",
@@ -1123,6 +1195,18 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-TECNICO-DE-TRIBU-FINANZAS-%28QUITO%29-QUIT-TRIBU-AREA/1335668362/",
       "isIT": false,
       "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "pichincha-1335195462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO INGENIERIA SEGURIDAD TECNOLOGICA - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-08-27",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-INGENIERIA-SEGURIDAD-TECNOLOGICA-QUITO-QUIT-INGENIERIA/1335195462/",
+      "isIT": false,
+      "firstSeen": "2026-10-27"
     },
     {
       "id": "pagueya-6ac566e50ba3c4c66e7b651e",

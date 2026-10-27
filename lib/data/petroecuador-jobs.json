@@ -3,6 +3,28 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "code": "CVIN-0500",
+      "type": "CAMO - Concurso Abierto de Méritos y Oposición",
+      "role": "TÉCNICO DE OPERACIONES",
+      "city": "PAPALLACTA",
+      "opensAt": "2026-10-26T15:00:00-05:00",
+      "closesAt": "2026-10-28T15:01:00-05:00",
+      "isIT": false,
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
+    {
+      "code": "CVIN-0477",
+      "type": "CAMO - Concurso Abierto de Méritos y Oposición",
+      "role": "TÉCNICO LÍDER DE INSTRUMENTACIÓN Y CONTROL",
+      "city": "LAGO AGRIO",
+      "opensAt": "2026-10-26T15:00:00-05:00",
+      "closesAt": "2026-10-28T15:01:00-05:00",
+      "isIT": false,
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
+    {
       "code": "CVIN-0553",
       "type": "CAMO - Concurso Abierto de Méritos y Oposición",
       "role": "ANALISTA DE DATOS Y CÁLCULO DE PRECIOS",
