@@ -1,11 +1,53 @@
 {
   "source": "https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/procesos/busquedaOfertaPublica.jsf",
   "lastRun": {
-    "date": "2026-10-26",
-    "institutions": 5,
-    "vacancies": 67
+    "date": "2026-10-27",
+    "institutions": 7,
+    "vacancies": 82
   },
   "jobs": [
+    {
+      "id": "340363",
+      "institution": "REGISTRO DE LA PROPIEDAD DEL CANTON CUENCA",
+      "title": "RESPONSABLE DE TECNOLOGIAS DE LA INFORMACIÓN Y COMUNICACIÓN",
+      "vacancies": 1,
+      "salary": 1676,
+      "city": "CUENCA",
+      "stage": "POSTULACIÓN",
+      "opensAt": "2026-10-27T00:30:00-05:00",
+      "closesAt": "2026-10-29T23:59:00-05:00",
+      "isIT": true,
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
+    {
+      "id": "342338",
+      "institution": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DEL CANTON PAUTE",
+      "title": "TÉCNICO DE DESARROLLO DE SOFTWARE",
+      "vacancies": 1,
+      "salary": 1086,
+      "city": "PAUTÉ",
+      "stage": "POSTULACIÓN",
+      "opensAt": "2026-10-27T00:30:00-05:00",
+      "closesAt": "2026-10-29T23:59:00-05:00",
+      "isIT": true,
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
+    {
+      "id": "330772",
+      "institution": "UNIVERSIDAD DE INVESTIGACIÓN DE TECNOLOGÍA EXPERIMENTAL YACHAY",
+      "title": "TÉCNICO/A DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES 2",
+      "vacancies": 1,
+      "salary": 986,
+      "city": "SAN MIGUEL DE URCUQUI",
+      "stage": "POSTULACIÓN",
+      "opensAt": "2026-10-27T00:30:00-05:00",
+      "closesAt": "2026-10-29T23:59:00-05:00",
+      "isIT": true,
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
     {
       "id": "340247",
       "institution": "GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL INTERCULTURAL DE SARAGURO",

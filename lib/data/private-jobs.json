@@ -13,6 +13,83 @@
       "firstSeen": "2026-10-27"
     },
     {
+      "id": "arca-1434465500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "JEFE DE MANTENIMIENTO | PLANTA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-JEFE-DE-MANTENIMIENTO-PLANTA-GUAYAQUIL-60000/1434465500/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "arca-1434395600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PASANTE DE CLIMA Y CULTURA | PLANTA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-PASANTE-DE-CLIMA-Y-CULTURA-PLANTA-GUAYAQUIL-60000/1434395600/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "arca-1276630900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AYUDANTE DE PRODUCCION | PLANTA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AYUDANTE-DE-PRODUCCION-PLANTA-GUAYAQUIL-60000/1276630900/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "arca-1444000300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR AVANCE | CEDI BABAHOYO",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-AVANCE-CEDI-BABAHOYO/1444000300/",
+      "isIT": false,
+      "firstSeen": "2026-10-27"
+    },
+    {
+      "id": "arca-1444124400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI IMBABURA",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-IMBABURA/1444124400/",
+      "isIT": false,
+      "firstSeen": "2026-10-27"
+    },
+    {
+      "id": "arca-1443929800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | PLANTA INALECSA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-JUNIOR-PLANTA-INALECSA-GUAYAQUIL-6601/1443929800/",
+      "isIT": false,
+      "firstSeen": "2026-10-27"
+    },
+    {
+      "id": "arca-1444179700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "JEFE DE COMPRAS ESTRATEGICAS | PLANTA QUITO",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-JEFE-DE-COMPRAS-ESTRATEGICAS-PLANTA-QUITO-1/1444179700/",
+      "isIT": false,
+      "firstSeen": "2026-10-27"
+    },
+    {
       "id": "arca-1443691500",
       "source": "arca",
       "company": "Arca Continental",
@@ -132,28 +209,6 @@
       "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6ada9d0df95e7de05867342d",
       "isIT": false,
       "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "arca-1443141500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI QUITO CALDERÓN",
-      "city": null,
-      "publishedAt": "2026-10-23",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-QUITO-CALDER%C3%93N-00000/1443141500/",
-      "isIT": false,
-      "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "arca-1443371300",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | PLAYAS",
-      "city": null,
-      "publishedAt": "2026-10-23",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-PLAYAS/1443371300/",
-      "isIT": false,
-      "firstSeen": "2026-10-24"
     },
     {
       "id": "holcim-1372996257",
@@ -405,17 +460,6 @@
       "city": null,
       "publishedAt": "2026-10-22",
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-ASESOR-MEDICO-PLANTA-GUAYAQUIL-60000/1422820300/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "farmaenlace-1337562162",
-      "source": "farmaenlace",
-      "company": "Farmaenlace",
-      "title": "DEPENDIENTE SENIOR",
-      "city": "DISTRITO",
-      "publishedAt": null,
-      "url": "https://trabajaconnosotros.farmaenlace.com/job/DISTRITO-METROPOLITANO-DE-QUIT-DEPENDIENTE-SENIOR/1337562162/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -860,17 +904,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "novacero-6ace8b7f0645bcdce7a9b476",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "PASANTE DE MARKETING",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6ace8b7f0645bcdce7a9b476",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "novacero-6ac67b02611d42fe97cd6af8",
       "source": "novacero",
       "company": "Novacero",
@@ -1003,17 +1036,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "novacero-6ab5e72b86a95ae1ced1fa1e",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "COORDINADOR DE OPTIMIZACIÓN",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6ab5e72b86a95ae1ced1fa1e",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "novacero-6ab408120e617586df0f58d3",
       "source": "novacero",
       "company": "Novacero",
@@ -1142,17 +1164,6 @@
       "city": "Latacunga",
       "publishedAt": null,
       "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a95e431e3c6e2d83cf0a609",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6a918fd63438bf0a348490c7",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Analista de Calidad",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a918fd63438bf0a348490c7",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -2026,28 +2037,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1442879800",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR ASESOR UNIVESAL | GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-10-22",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVESAL-GUAYAQUIL-SUR/1442879800/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1442876500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "SUPERVISOR DE VENTAS | GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-10-22",
-      "url": "https://careers.arcacontal.com/job/SUPERVISOR-DE-VENTAS-GUAYAQUIL-SUR/1442876500/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "difare-gerente-de-asuntos-medicos-y-cientificos",
       "source": "difare",
       "company": "Difare",
@@ -2077,17 +2066,6 @@
       "city": "Quito • Quito • Quito",
       "publishedAt": null,
       "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Quito-Supervisora-de-Distribuci%C3%B3n-Quito-P-170175/1374004457/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1442335800",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "TECNICO DE MANTENIMIENTO | PLANTA SANTO DOMINGO",
-      "city": null,
-      "publishedAt": "2026-10-21",
-      "url": "https://careers.arcacontal.com/job/SDO-Santo-Domingo-TECNICO-DE-MANTENIMIENTO-PLANTA-SANTO-DOMINGO-230101/1442335800/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -2136,28 +2114,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1441461300",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI QUITO SUR",
-      "city": null,
-      "publishedAt": "2026-10-19",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-QUITO-SUR/1441461300/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1441466600",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "LIQUIDADOR | CEDI AMAGUAÑA",
-      "city": null,
-      "publishedAt": "2026-10-19",
-      "url": "https://careers.arcacontal.com/job/LIQUIDADOR-CEDI-AMAGUA%C3%91A/1441466600/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "claro-1574",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -2187,17 +2143,6 @@
       "city": null,
       "publishedAt": "2026-10-16",
       "url": "https://careers.arcacontal.com/job/COORDINADOR-REGIONAL-DE-LOGISTICA-CEDI-AMBATO/1431318700/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1440843700",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR COMER & BEBER | GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-10-16",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-COMER-&amp;-BEBER-GUAYAQUIL-SUR/1440843700/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -2367,13 +2312,13 @@
       "firstSeen": "2026-10-24"
     },
     {
-      "id": "arca-1439662600",
+      "id": "arca-1440047100",
       "source": "arca",
       "company": "Arca Continental",
-      "title": "ASISTENTE DE BODEGA | CEDI CALDERÓN",
+      "title": "AYUDANTE MIR | CEDI QUEVEDO",
       "city": null,
-      "publishedAt": "2026-10-13",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-ASISTENTE-DE-BODEGA-CEDI-CALDER%C3%93N-00000/1439662600/",
+      "publishedAt": "2026-10-14",
+      "url": "https://careers.arcacontal.com/job/AYUDANTE-MIR-CEDI-QUEVEDO/1440047100/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -2387,17 +2332,6 @@
       "url": "https://careers.arcacontal.com/job/SDO-Santo-Domingo-PASANTE-PLANTA-SANTO-DOMINGO-230101/1439652200/",
       "isIT": false,
       "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "claro-1721",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "ARQUITECTO SOLUCIONES IT",
-      "city": null,
-      "publishedAt": "2026-10-13",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1721",
-      "isIT": true,
-      "firstSeen": "2026-10-24"
     },
     {
       "id": "claro-1776",
@@ -2420,6 +2354,17 @@
       "url": "https://careers.arcacontal.com/job/AUXILIAR-ADMINISTRATIVO-%28D%29-CEDI-LA-LIBERTAD/1439349900/",
       "isIT": false,
       "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "arca-1439225500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI PORTOVIEJO",
+      "city": null,
+      "publishedAt": "2026-10-12",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-PORTOVIEJO/1439225500/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
     },
     {
       "id": "arca-1419793800",
@@ -2451,17 +2396,6 @@
       "city": null,
       "publishedAt": "2026-10-06",
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-TECNICO-MECANICO-PLANTA-GUAYAQUIL-60000/1427282000/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1437392700",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR RELEVO | CEDI IBARRA",
-      "city": null,
-      "publishedAt": "2026-10-06",
-      "url": "https://careers.arcacontal.com/job/IMB-Ibarra-VENDEDOR-RELEVO-CEDI-IBARRA-Dip-Ibar/1437392700/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -2565,39 +2499,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1434465500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "JEFE DE MANTENIMIENTO | PLANTA GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-09-28",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-JEFE-DE-MANTENIMIENTO-PLANTA-GUAYAQUIL-60000/1434465500/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1434395600",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PASANTE DE CLIMA Y CULTURA | PLANTA GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-09-28",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-PASANTE-DE-CLIMA-Y-CULTURA-PLANTA-GUAYAQUIL-60000/1434395600/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1276630900",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "AYUDANTE DE PRODUCCION | PLANTA GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-09-28",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AYUDANTE-DE-PRODUCCION-PLANTA-GUAYAQUIL-60000/1276630900/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "claro-1759",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -2632,6 +2533,30 @@
       "closedOn": "2026-10-27"
     },
     {
+      "id": "arca-1443141500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI QUITO CALDERÓN",
+      "city": null,
+      "publishedAt": "2026-10-23",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-QUITO-CALDER%C3%93N-00000/1443141500/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-10-27"
+    },
+    {
+      "id": "arca-1443371300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | PLAYAS",
+      "city": null,
+      "publishedAt": "2026-10-23",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-PLAYAS/1443371300/",
+      "isIT": false,
+      "firstSeen": "2026-10-24",
+      "closedOn": "2026-10-27"
+    },
+    {
       "id": "arca-1443223800",
       "source": "arca",
       "company": "Arca Continental",
@@ -2642,6 +2567,78 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "farmaenlace-1337562162",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "DEPENDIENTE SENIOR",
+      "city": "DISTRITO",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/DISTRITO-METROPOLITANO-DE-QUIT-DEPENDIENTE-SENIOR/1337562162/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-27"
+    },
+    {
+      "id": "novacero-6ace8b7f0645bcdce7a9b476",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "PASANTE DE MARKETING",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6ace8b7f0645bcdce7a9b476",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-27"
+    },
+    {
+      "id": "novacero-6ab5e72b86a95ae1ced1fa1e",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "COORDINADOR DE OPTIMIZACIÓN",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6ab5e72b86a95ae1ced1fa1e",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-27"
+    },
+    {
+      "id": "novacero-6a918fd63438bf0a348490c7",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Analista de Calidad",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a918fd63438bf0a348490c7",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-27"
+    },
+    {
+      "id": "arca-1442879800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR ASESOR UNIVESAL | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-22",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVESAL-GUAYAQUIL-SUR/1442879800/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-27"
+    },
+    {
+      "id": "arca-1442876500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "SUPERVISOR DE VENTAS | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-22",
+      "url": "https://careers.arcacontal.com/job/SUPERVISOR-DE-VENTAS-GUAYAQUIL-SUR/1442876500/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-27"
     },
     {
       "id": "novacero-6a98762fe6fb28a679aa14c0",
@@ -2800,6 +2797,18 @@
       "closedOn": "2026-10-22"
     },
     {
+      "id": "arca-1442335800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "TECNICO DE MANTENIMIENTO | PLANTA SANTO DOMINGO",
+      "city": null,
+      "publishedAt": "2026-10-21",
+      "url": "https://careers.arcacontal.com/job/SDO-Santo-Domingo-TECNICO-DE-MANTENIMIENTO-PLANTA-SANTO-DOMINGO-230101/1442335800/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-27"
+    },
+    {
       "id": "arca-1442369200",
       "source": "arca",
       "company": "Arca Continental",
@@ -2822,6 +2831,30 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-23"
+    },
+    {
+      "id": "arca-1441461300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI QUITO SUR",
+      "city": null,
+      "publishedAt": "2026-10-19",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-QUITO-SUR/1441461300/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-27"
+    },
+    {
+      "id": "arca-1441466600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "LIQUIDADOR | CEDI AMAGUAÑA",
+      "city": null,
+      "publishedAt": "2026-10-19",
+      "url": "https://careers.arcacontal.com/job/LIQUIDADOR-CEDI-AMAGUA%C3%91A/1441466600/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-27"
     },
     {
       "id": "arca-1441406200",
@@ -2872,6 +2905,18 @@
       "closedOn": "2026-10-26"
     },
     {
+      "id": "arca-1440843700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR COMER & BEBER | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-16",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-COMER-&amp;-BEBER-GUAYAQUIL-SUR/1440843700/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-27"
+    },
+    {
       "id": "arca-1440655500",
       "source": "arca",
       "company": "Arca Continental",
@@ -2884,16 +2929,28 @@
       "closedOn": "2026-10-26"
     },
     {
-      "id": "arca-1440047100",
+      "id": "arca-1439662600",
       "source": "arca",
       "company": "Arca Continental",
-      "title": "AYUDANTE MIR | CEDI QUEVEDO",
+      "title": "ASISTENTE DE BODEGA | CEDI CALDERÓN",
       "city": null,
-      "publishedAt": "2026-10-14",
-      "url": "https://careers.arcacontal.com/job/AYUDANTE-MIR-CEDI-QUEVEDO/1440047100/",
+      "publishedAt": "2026-10-13",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-ASISTENTE-DE-BODEGA-CEDI-CALDER%C3%93N-00000/1439662600/",
       "isIT": false,
       "firstSeen": "2026-10-22",
-      "closedOn": "2026-10-26"
+      "closedOn": "2026-10-27"
+    },
+    {
+      "id": "claro-1721",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ARQUITECTO SOLUCIONES IT",
+      "city": null,
+      "publishedAt": "2026-10-13",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1721",
+      "isIT": true,
+      "firstSeen": "2026-10-24",
+      "closedOn": "2026-10-27"
     },
     {
       "id": "arca-1439350900",
@@ -2908,18 +2965,6 @@
       "closedOn": "2026-10-24"
     },
     {
-      "id": "arca-1439225500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI PORTOVIEJO",
-      "city": null,
-      "publishedAt": "2026-10-12",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-PORTOVIEJO/1439225500/",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-10-23"
-    },
-    {
       "id": "arca-1437866700",
       "source": "arca",
       "company": "Arca Continental",
@@ -2930,6 +2975,18 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "arca-1437392700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR RELEVO | CEDI IBARRA",
+      "city": null,
+      "publishedAt": "2026-10-06",
+      "url": "https://careers.arcacontal.com/job/IMB-Ibarra-VENDEDOR-RELEVO-CEDI-IBARRA-Dip-Ibar/1437392700/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-27"
     },
     {
       "id": "arca-1437401500",
