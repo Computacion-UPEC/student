@@ -2,6 +2,18 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1337789362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES - AG. BANOS",
+      "province": "TUNGURAHUA",
+      "city": "BAÑOS DE AGUA SANTA",
+      "publishedAt": "2026-10-28",
+      "url": "https://vacantes.pichincha.com/job/BA%C3%91OS-DE-AGUA-SANTA-EJECUTIVO-SERVICIOS-TRANSACCIONALES-AG_-BANOS-AMBA-REGION-CEN/1337789362/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
       "id": "pichincha-1337753562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -71,6 +83,18 @@
       "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ae0c9e4a2045997eaee439c",
       "isIT": false,
       "firstSeen": "2026-10-27"
+    },
+    {
+      "id": "pichincha-1337777462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE ADMINISTRATIVO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-27",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-ADMINISTRATIVO-QUIT-TRIBU-CANA/1337777462/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
     },
     {
       "id": "pichincha-1337734562",
@@ -198,18 +222,6 @@
       "city": "Quito",
       "publishedAt": null,
       "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac565cf2ee2123a2d066740",
-      "isIT": false,
-      "firstSeen": "2026-10-24"
-    },
-    {
-      "id": "pichincha-1337720062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-24",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-ATRACCION/1337720062/",
       "isIT": false,
       "firstSeen": "2026-10-24"
     },
@@ -1125,6 +1137,18 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1337143562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - VENTANAS",
+      "province": "LOS RIOS",
+      "city": "BABAHOYO",
+      "publishedAt": "2026-10-02",
+      "url": "https://vacantes.pichincha.com/job/BABAHOYO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-VENTANAS-BABA-ZONA-COSTA/1337143562/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "pichincha-1332901862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1147,6 +1171,19 @@
       "isIT": true,
       "firstSeen": "2026-10-26",
       "closedOn": "2026-10-27"
+    },
+    {
+      "id": "pichincha-1337720062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-24",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-ATRACCION/1337720062/",
+      "isIT": false,
+      "firstSeen": "2026-10-24",
+      "closedOn": "2026-10-28"
     },
     {
       "id": "pichincha-1337659362",
@@ -1691,19 +1728,6 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-23"
-    },
-    {
-      "id": "pichincha-1337143562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - VENTANAS",
-      "province": "LOS RIOS",
-      "city": "BABAHOYO",
-      "publishedAt": "2026-10-02",
-      "url": "https://vacantes.pichincha.com/job/BABAHOYO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-VENTANAS-BABA-ZONA-COSTA/1337143562/",
-      "isIT": false,
-      "firstSeen": "2026-10-16",
-      "closedOn": "2026-10-17"
     },
     {
       "id": "pichincha-1337142862",

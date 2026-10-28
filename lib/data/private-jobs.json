@@ -2,6 +2,17 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "difare-sub-gerente-de-producto-dyvenpro",
+      "source": "difare",
+      "company": "Difare",
+      "title": "SUB GERENTE DE PRODUCTO – DYVENPRO",
+      "city": "PICHINCHA",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/sub-gerente-de-producto-dyvenpro/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
       "id": "novacero-6adfbe9210f80e9c370a3b33",
       "source": "novacero",
       "company": "Novacero",
@@ -88,6 +99,83 @@
       "url": "https://careers.arcacontal.com/job/PIC-Quito-JEFE-DE-COMPRAS-ESTRATEGICAS-PLANTA-QUITO-1/1444179700/",
       "isIT": false,
       "firstSeen": "2026-10-27"
+    },
+    {
+      "id": "arca-1444328500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AYUDANTE DE DESPACHO | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AYUDANTE-DE-DESPACHO-CEDI-GUAYAQUIL-Dip-Guay/1444328500/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "arca-1444330100",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AYUDANTE DE DESPACHO | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AYUDANTE-DE-DESPACHO-CEDI-GUAYAQUIL-Dip-Guay/1444330100/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "arca-1444380700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "CHOFER DE TRAILER | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-CHOFER-DE-TRAILER-CEDI-GUAYAQUIL-Dip-Guay/1444380700/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "arca-1444355200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-GUAYAQUIL-Dip-Guay/1444355200/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "arca-1444357200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-GUAYAQUIL-Dip-Guay/1444357200/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "arca-1444357000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-GUAYAQUIL-Dip-Guay/1444357000/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "claro-1812",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "LÍDER DE PROYECTOS",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1812",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
     },
     {
       "id": "arca-1443691500",
@@ -2015,17 +2103,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1442785300",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR RELEVO | CEDI IBARRA",
-      "city": null,
-      "publishedAt": "2026-10-22",
-      "url": "https://careers.arcacontal.com/job/IMB-Ibarra-VENDEDOR-RELEVO-CEDI-IBARRA-Dip-Ibar/1442785300/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "arca-1442781200",
       "source": "arca",
       "company": "Arca Continental",
@@ -2202,17 +2279,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1440614800",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PASANTE ADMINISTRATIVO | PLANTA GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-10-15",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-PASANTE-ADMINISTRATIVO-PLANTA-GUAYAQUIL-00000/1440614800/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "arca-1440630100",
       "source": "arca",
       "company": "Arca Continental",
@@ -2323,17 +2389,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1439652200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PASANTE | PLANTA SANTO DOMINGO",
-      "city": null,
-      "publishedAt": "2026-10-13",
-      "url": "https://careers.arcacontal.com/job/SDO-Santo-Domingo-PASANTE-PLANTA-SANTO-DOMINGO-230101/1439652200/",
-      "isIT": false,
-      "firstSeen": "2026-10-23"
-    },
-    {
       "id": "claro-1776",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -2396,28 +2451,6 @@
       "city": null,
       "publishedAt": "2026-10-06",
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-TECNICO-MECANICO-PLANTA-GUAYAQUIL-60000/1427282000/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1437391900",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR DESARROLLO | CEDI LAGO AGRIO",
-      "city": null,
-      "publishedAt": "2026-10-06",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-DESARROLLO-CEDI-LAGO-AGRIO-Dip-Lago/1437391900/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1437391500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR BASE | CEDI LAGO AGRIO",
-      "city": null,
-      "publishedAt": "2026-10-06",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-BASE-CEDI-LAGO-AGRIO-Dip-Lago/1437391500/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -2567,6 +2600,18 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "arca-1442785300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR RELEVO | CEDI IBARRA",
+      "city": null,
+      "publishedAt": "2026-10-22",
+      "url": "https://careers.arcacontal.com/job/IMB-Ibarra-VENDEDOR-RELEVO-CEDI-IBARRA-Dip-Ibar/1442785300/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-28"
     },
     {
       "id": "farmaenlace-1337562162",
@@ -2917,6 +2962,18 @@
       "closedOn": "2026-10-27"
     },
     {
+      "id": "arca-1440614800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PASANTE ADMINISTRATIVO | PLANTA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-15",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-PASANTE-ADMINISTRATIVO-PLANTA-GUAYAQUIL-00000/1440614800/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-28"
+    },
+    {
       "id": "arca-1440655500",
       "source": "arca",
       "company": "Arca Continental",
@@ -2927,6 +2984,18 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-26"
+    },
+    {
+      "id": "arca-1439652200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PASANTE | PLANTA SANTO DOMINGO",
+      "city": null,
+      "publishedAt": "2026-10-13",
+      "url": "https://careers.arcacontal.com/job/SDO-Santo-Domingo-PASANTE-PLANTA-SANTO-DOMINGO-230101/1439652200/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-10-28"
     },
     {
       "id": "arca-1439662600",
@@ -2975,6 +3044,30 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "arca-1437391900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR DESARROLLO | CEDI LAGO AGRIO",
+      "city": null,
+      "publishedAt": "2026-10-06",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-DESARROLLO-CEDI-LAGO-AGRIO-Dip-Lago/1437391900/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-28"
+    },
+    {
+      "id": "arca-1437391500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR BASE | CEDI LAGO AGRIO",
+      "city": null,
+      "publishedAt": "2026-10-06",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-BASE-CEDI-LAGO-AGRIO-Dip-Lago/1437391500/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-28"
     },
     {
       "id": "arca-1437392700",
