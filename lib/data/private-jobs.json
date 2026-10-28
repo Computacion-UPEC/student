@@ -13,6 +13,83 @@
       "firstSeen": "2026-10-28"
     },
     {
+      "id": "arca-1425192200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ESTIBADOR | CEDI PORTOVIEJO",
+      "city": null,
+      "publishedAt": "2026-10-28",
+      "url": "https://careers.arcacontal.com/job/ESTIBADOR-CEDI-PORTOVIEJO/1425192200/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "holcim-1376073157",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Base de talento - Ingenieros/as Civiles",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Base-de-talento-Ingenierosas-Civiles/1376073157/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "holcim-1376086457",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Base de datos - Operado de Equipo Pesado - Guayaquil",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Base-de-datos-Operado-de-Equipo-Pesado-Guayaquil/1376086457/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "holcim-1376096057",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Operador/a de Mantenimiento - Manabí",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Operadora-de-Mantenimiento-Manab%C3%AD/1376096057/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "arca-1444649600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI ESMERALDAS",
+      "city": null,
+      "publishedAt": "2026-10-28",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-ESMERALDAS/1444649600/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "arca-1444654800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR A. UNIVERSAL | CEDI SANTO DOMINGO",
+      "city": null,
+      "publishedAt": "2026-10-28",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-SANTO-DOMINGO/1444654800/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "claro-1813",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ANALISTA DATA MINING",
+      "city": null,
+      "publishedAt": "2026-10-28",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1813",
+      "isIT": true,
+      "firstSeen": "2026-10-28"
+    },
+    {
       "id": "novacero-6adfbe9210f80e9c370a3b33",
       "source": "novacero",
       "company": "Novacero",
@@ -497,28 +574,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "holcim-1371372757",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Pasante de Excelencia Comercial - Guayaquil",
-      "city": "EC",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-de-Excelencia-Comercial-Guayaquil/1371372757/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "holcim-1371162257",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Técnico/a de Mantenimiento Eléctrico - Guayaquil",
-      "city": "Guayaquil",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Guayaquil-T%C3%A9cnicoa-de-Mantenimiento-El%C3%A9ctrico-Guayaquil-G-90902/1371162257/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "holcim-1373386557",
       "source": "holcim",
       "company": "Holcim Ecuador",
@@ -548,17 +603,6 @@
       "city": null,
       "publishedAt": "2026-10-22",
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-ASESOR-MEDICO-PLANTA-GUAYAQUIL-60000/1422820300/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "farmaenlace-1337372562",
-      "source": "farmaenlace",
-      "company": "Farmaenlace",
-      "title": "DEPENDIENTE",
-      "city": "DISTRITO",
-      "publishedAt": null,
-      "url": "https://trabajaconnosotros.farmaenlace.com/job/DISTRITO-METROPOLITANO-DE-QUIT-DEPENDIENTE/1337372562/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -2158,17 +2202,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1442131500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "GERENTE DE PLANEACIÓN ESTRATÉGICA | QUITO CALDERÓN",
-      "city": null,
-      "publishedAt": "2026-10-21",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-GERENTE-DE-PLANEACI%C3%93N-ESTRAT%C3%89GICA-QUITO-CALDER%C3%93N-Ton-Quit/1442131500/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "claro-1803",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -2378,17 +2411,6 @@
       "firstSeen": "2026-10-24"
     },
     {
-      "id": "arca-1440047100",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "AYUDANTE MIR | CEDI QUEVEDO",
-      "city": null,
-      "publishedAt": "2026-10-14",
-      "url": "https://careers.arcacontal.com/job/AYUDANTE-MIR-CEDI-QUEVEDO/1440047100/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "claro-1776",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -2521,17 +2543,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1425192200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "ESTIBADOR | CEDI PORTOVIEJO",
-      "city": null,
-      "publishedAt": "2026-09-29",
-      "url": "https://careers.arcacontal.com/job/ESTIBADOR-CEDI-PORTOVIEJO/1425192200/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "claro-1759",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -2600,6 +2611,42 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "holcim-1371372757",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Pasante de Excelencia Comercial - Guayaquil",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-de-Excelencia-Comercial-Guayaquil/1371372757/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-28"
+    },
+    {
+      "id": "holcim-1371162257",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Técnico/a de Mantenimiento Eléctrico - Guayaquil",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Guayaquil-T%C3%A9cnicoa-de-Mantenimiento-El%C3%A9ctrico-Guayaquil-G-90902/1371162257/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-28"
+    },
+    {
+      "id": "farmaenlace-1337372562",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "DEPENDIENTE",
+      "city": "DISTRITO",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/DISTRITO-METROPOLITANO-DE-QUIT-DEPENDIENTE/1337372562/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-28"
     },
     {
       "id": "arca-1442785300",
@@ -2842,6 +2889,18 @@
       "closedOn": "2026-10-22"
     },
     {
+      "id": "arca-1442131500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "GERENTE DE PLANEACIÓN ESTRATÉGICA | QUITO CALDERÓN",
+      "city": null,
+      "publishedAt": "2026-10-21",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-GERENTE-DE-PLANEACI%C3%93N-ESTRAT%C3%89GICA-QUITO-CALDER%C3%93N-Ton-Quit/1442131500/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-28"
+    },
+    {
       "id": "arca-1442335800",
       "source": "arca",
       "company": "Arca Continental",
@@ -2984,6 +3043,18 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-26"
+    },
+    {
+      "id": "arca-1440047100",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AYUDANTE MIR | CEDI QUEVEDO",
+      "city": null,
+      "publishedAt": "2026-10-14",
+      "url": "https://careers.arcacontal.com/job/AYUDANTE-MIR-CEDI-QUEVEDO/1440047100/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-28"
     },
     {
       "id": "arca-1439652200",

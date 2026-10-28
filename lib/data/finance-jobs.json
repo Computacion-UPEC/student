@@ -14,6 +14,54 @@
       "firstSeen": "2026-10-28"
     },
     {
+      "id": "pichincha-1337805362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL RIESGO TECNOLOGICO - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-28",
+      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-RIESGO-TECNOLOGICO-QUITO-QUIT-RIESGO-TEC/1337805362/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "pichincha-1337799362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASISTENTE CREDITO EMPRESAS - GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-10-28",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-ASISTENTE-CREDITO-EMPRESAS-GUAYAQUIL-GUAY-CREDITO-EM/1337799362/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "pichincha-1337801462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO MARCO NORMATIVO CIBERSEGURIDAD - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-28",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-MARCO-NORMATIVO-CIBERSEGURIDAD-QUITO-QUIT-MARCO-NORM/1337801462/",
+      "isIT": true,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "pichincha-1337799462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS AGENCIA VIRTUAL - GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-10-28",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-OFICIAL-COMERCIAL-Y-SERVICIOS-AGENCIA-VIRTUAL-GUAYAQUIL-GUAY-OFICINA-VI/1337799462/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
       "id": "pichincha-1337753562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -235,18 +283,6 @@
       "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6adb733bec92bbdc1eb7dd74",
       "isIT": false,
       "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "pichincha-1337704562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL Y SERVICIOS PREFERENCIAL - PLAZA LAGOS",
-      "province": "GUAYAS",
-      "city": "SAMBORONDON",
-      "publishedAt": "2026-10-23",
-      "url": "https://vacantes.pichincha.com/job/SAMBORONDON-OFICIAL-COMERCIAL-Y-SERVICIOS-PREFERENCIAL-PLAZA-LAGOS-GUAY-ZONA-COSTA/1337704562/",
-      "isIT": false,
-      "firstSeen": "2026-10-24"
     },
     {
       "id": "pichincha-1336004062",
@@ -1053,18 +1089,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337359262",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL OPERACIONES EMPRESAS - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-12",
-      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-OPERACIONES-EMPRESAS-QUITO-QUIT-OPERACIONE/1337359262/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1335624762",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1181,6 +1205,19 @@
       "city": "QUITO",
       "publishedAt": "2026-10-24",
       "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-ATRACCION/1337720062/",
+      "isIT": false,
+      "firstSeen": "2026-10-24",
+      "closedOn": "2026-10-28"
+    },
+    {
+      "id": "pichincha-1337704562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS PREFERENCIAL - PLAZA LAGOS",
+      "province": "GUAYAS",
+      "city": "SAMBORONDON",
+      "publishedAt": "2026-10-23",
+      "url": "https://vacantes.pichincha.com/job/SAMBORONDON-OFICIAL-COMERCIAL-Y-SERVICIOS-PREFERENCIAL-PLAZA-LAGOS-GUAY-ZONA-COSTA/1337704562/",
       "isIT": false,
       "firstSeen": "2026-10-24",
       "closedOn": "2026-10-28"
@@ -1494,6 +1531,19 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-17"
+    },
+    {
+      "id": "pichincha-1337359262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL OPERACIONES EMPRESAS - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-12",
+      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-OPERACIONES-EMPRESAS-QUITO-QUIT-OPERACIONE/1337359262/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-28"
     },
     {
       "id": "pichincha-1337350862",
