@@ -2,6 +2,17 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "difare-trabajador-social",
+      "source": "difare",
+      "company": "Difare",
+      "title": "TRABAJADOR SOCIAL",
+      "city": "PICHINCHA",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/trabajador-social/",
+      "isIT": false,
+      "firstSeen": "2026-10-29"
+    },
+    {
       "id": "difare-sub-gerente-de-producto-dyvenpro",
       "source": "difare",
       "company": "Difare",
@@ -88,6 +99,28 @@
       "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1813",
       "isIT": true,
       "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "claro-1806",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ANALISTA DE INFORMACIÓN",
+      "city": null,
+      "publishedAt": "2026-10-28",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1806",
+      "isIT": false,
+      "firstSeen": "2026-10-29"
+    },
+    {
+      "id": "claro-1766",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ASESOR CENTRO DE ATENCIÓN AL CLIENTE",
+      "city": null,
+      "publishedAt": "2026-10-28",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1766",
+      "isIT": false,
+      "firstSeen": "2026-10-29"
     },
     {
       "id": "novacero-6adfbe9210f80e9c370a3b33",
@@ -493,17 +526,6 @@
       "city": "Guayaquil",
       "publishedAt": null,
       "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Guayaquil-Pasante-CIH-Planta-San-Eduardo-G-90616/1371900057/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "holcim-1366636057",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Analista de Topografía",
-      "city": "EC",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Analista-de-Topograf%C3%ADa/1366636057/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -1127,7 +1149,7 @@
       "id": "novacero-6abb0f3a00906d1943de37d9",
       "source": "novacero",
       "company": "Novacero",
-      "title": "ASESOR TÉCNICO COMERCIAL",
+      "title": "ASESOR TÉCNICO COMERCIAL ( PROYECTOS DE CONTRUCCIÓN)",
       "city": "Quito",
       "publishedAt": null,
       "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6abb0f3a00906d1943de37d9",
@@ -1949,17 +1971,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "difare-trabajadora-social-quto",
-      "source": "difare",
-      "company": "Difare",
-      "title": "TRABAJADORA SOCIAL QUTO",
-      "city": "PICHINCHA",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/trabajadora-social-quto/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "difare-parqueadero-auxiliar-de-punto-de-venta-2026-sierra-2",
       "source": "difare",
       "company": "Difare",
@@ -2187,6 +2198,17 @@
       "city": "Quito • Quito • Quito",
       "publishedAt": null,
       "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Quito-Supervisora-de-Distribuci%C3%B3n-Quito-P-170175/1374004457/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "holcim-1371372757",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Pasante de Excelencia Comercial - Guayaquil",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-de-Excelencia-Comercial-Guayaquil/1371372757/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -2433,17 +2455,6 @@
       "firstSeen": "2026-10-24"
     },
     {
-      "id": "arca-1439225500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI PORTOVIEJO",
-      "city": null,
-      "publishedAt": "2026-10-12",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-PORTOVIEJO/1439225500/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "arca-1419793800",
       "source": "arca",
       "company": "Arca Continental",
@@ -2613,16 +2624,28 @@
       "closedOn": "2026-10-24"
     },
     {
-      "id": "holcim-1371372757",
+      "id": "holcim-1366636057",
       "source": "holcim",
       "company": "Holcim Ecuador",
-      "title": "Pasante de Excelencia Comercial - Guayaquil",
+      "title": "Analista de Topografía",
       "city": "EC",
       "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-de-Excelencia-Comercial-Guayaquil/1371372757/",
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Analista-de-Topograf%C3%ADa/1366636057/",
       "isIT": false,
       "firstSeen": "2026-10-22",
-      "closedOn": "2026-10-28"
+      "closedOn": "2026-10-29"
+    },
+    {
+      "id": "difare-trabajadora-social-quto",
+      "source": "difare",
+      "company": "Difare",
+      "title": "TRABAJADORA SOCIAL QUTO",
+      "city": "PICHINCHA",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/trabajadora-social-quto/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-29"
     },
     {
       "id": "holcim-1371162257",
@@ -3091,6 +3114,18 @@
       "isIT": true,
       "firstSeen": "2026-10-24",
       "closedOn": "2026-10-27"
+    },
+    {
+      "id": "arca-1439225500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI PORTOVIEJO",
+      "city": null,
+      "publishedAt": "2026-10-12",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-PORTOVIEJO/1439225500/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-29"
     },
     {
       "id": "arca-1439350900",

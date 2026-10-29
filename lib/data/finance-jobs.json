@@ -2,6 +2,42 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1332901862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL ALMACENAMIENTO - GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-10-29",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-OFICIAL-COMERCIAL-ALMACENAMIENTO-GUAYAQUIL-GUAY-COMERCIAL/1332901862/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1336926362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES EVENTUAL - QUININDÉ",
+      "province": "ESMERALDAS",
+      "city": "QUININDE",
+      "publishedAt": "2026-10-29",
+      "url": "https://vacantes.pichincha.com/job/QUININDE-EJECUTIVO-SERVICIOS-TRANSACCIONALES-EVENTUAL-QUININD%C3%89-ESME-ZONA-ESMER/1336926362/",
+      "isIT": false,
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "pichincha-1337044862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ANALISTA UNIDAD ATENCION AL CLIENTE - EVENTUAL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-29",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ANALISTA-UNIDAD-ATENCION-AL-CLIENTE-EVENTUAL-QUIT-SERVICIO-A/1337044862/",
+      "isIT": false,
+      "firstSeen": "2026-10-29"
+    },
+    {
       "id": "pichincha-1337789362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -22,18 +58,6 @@
       "city": "QUITO",
       "publishedAt": "2026-10-28",
       "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-RIESGO-TECNOLOGICO-QUITO-QUIT-RIESGO-TEC/1337805362/",
-      "isIT": false,
-      "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "pichincha-1337799362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ASISTENTE CREDITO EMPRESAS - GUAYAQUIL",
-      "province": "GUAYAS",
-      "city": "GUAYAQUIL",
-      "publishedAt": "2026-10-28",
-      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-ASISTENTE-CREDITO-EMPRESAS-GUAYAQUIL-GUAY-CREDITO-EM/1337799362/",
       "isIT": false,
       "firstSeen": "2026-10-28"
     },
@@ -430,42 +454,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-INGENIERO-INTELIGENCIA-ARTIFICIAL-QUITO-QUIT-DESARROLLO/1337683762/",
       "isIT": true,
       "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "pichincha-1337683862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO PRODUCTO MEDIOS DE PAGO - EVENTUAL",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-22",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PRODUCTO-MEDIOS-DE-PAGO-EVENTUAL-QUIT-TRIBU-MEDI/1337683862/",
-      "isIT": false,
-      "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "pichincha-1337683662",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE (CREDIO AUTOMOTRIZ) - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-22",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28CREDIO-AUTOMOTRIZ%29-QUITO-QUIT-CREDITO-PE/1337683662/",
-      "isIT": false,
-      "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "pichincha-1335783562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DUENO DE PRODUCTO - COMEX",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-21",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-COMEX-QUIT-CELULA-COM/1335783562/",
-      "isIT": false,
-      "firstSeen": "2026-10-21"
     },
     {
       "id": "pichincha-1337621062",
@@ -1017,6 +1005,18 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1337483862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "INGENIERO INTELIGENCIA ARTIFICIAL - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-15",
+      "url": "https://vacantes.pichincha.com/job/QUITO-INGENIERO-INTELIGENCIA-ARTIFICIAL-QUITO-QUIT-DESARROLLO/1337483862/",
+      "isIT": true,
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "pichincha-1337418062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1161,6 +1161,18 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1335907362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO PROCESOS IA",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-03",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PROCESOS-IA-QUIT-TRANSFORMA/1335907362/",
+      "isIT": true,
+      "firstSeen": "2026-10-29"
+    },
+    {
       "id": "pichincha-1337143562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1173,16 +1185,29 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1332901862",
+      "id": "pichincha-1337144262",
       "source": "pichincha",
       "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL ALMACENAMIENTO - GUAYAQUIL",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - HUAQUILLAS",
+      "province": "EL ORO",
+      "city": "MACHALA",
+      "publishedAt": "2026-10-02",
+      "url": "https://vacantes.pichincha.com/job/MACHALA-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-HUAQUILLAS-MACH-ZONA-COSTA/1337144262/",
+      "isIT": false,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "pichincha-1337799362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASISTENTE CREDITO EMPRESAS - GUAYAQUIL",
       "province": "GUAYAS",
       "city": "GUAYAQUIL",
-      "publishedAt": "2026-09-30",
-      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-OFICIAL-COMERCIAL-ALMACENAMIENTO-GUAYAQUIL-GUAY-COMERCIAL/1332901862/",
+      "publishedAt": "2026-10-28",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-ASISTENTE-CREDITO-EMPRESAS-GUAYAQUIL-GUAY-CREDITO-EM/1337799362/",
       "isIT": false,
-      "firstSeen": "2026-10-16"
+      "firstSeen": "2026-10-28",
+      "closedOn": "2026-10-29"
     },
     {
       "id": "pagueya-6adf733ab288b080c0b34efa",
@@ -1223,6 +1248,32 @@
       "closedOn": "2026-10-28"
     },
     {
+      "id": "pichincha-1337683862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO PRODUCTO MEDIOS DE PAGO - EVENTUAL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PRODUCTO-MEDIOS-DE-PAGO-EVENTUAL-QUIT-TRIBU-MEDI/1337683862/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-10-29"
+    },
+    {
+      "id": "pichincha-1337683662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE (CREDIO AUTOMOTRIZ) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28CREDIO-AUTOMOTRIZ%29-QUITO-QUIT-CREDITO-PE/1337683662/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-10-29"
+    },
+    {
       "id": "pichincha-1337659362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1258,6 +1309,19 @@
       "isIT": true,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "pichincha-1335783562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DUENO DE PRODUCTO - COMEX",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-21",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-COMEX-QUIT-CELULA-COM/1335783562/",
+      "isIT": false,
+      "firstSeen": "2026-10-21",
+      "closedOn": "2026-10-29"
     },
     {
       "id": "pichincha-1337614362",
@@ -1440,19 +1504,6 @@
       "isIT": false,
       "firstSeen": "2026-10-17",
       "closedOn": "2026-10-20"
-    },
-    {
-      "id": "pichincha-1337483862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "INGENIERO INTELIGENCIA ARTIFICIAL - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-15",
-      "url": "https://vacantes.pichincha.com/job/QUITO-INGENIERO-INTELIGENCIA-ARTIFICIAL-QUITO-QUIT-DESARROLLO/1337483862/",
-      "isIT": true,
-      "firstSeen": "2026-10-16",
-      "closedOn": "2026-10-27"
     },
     {
       "id": "pichincha-1337461862",
@@ -1741,19 +1792,6 @@
       "closedOn": "2026-10-24"
     },
     {
-      "id": "pichincha-1337144262",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - HUAQUILLAS",
-      "province": "EL ORO",
-      "city": "MACHALA",
-      "publishedAt": "2026-10-02",
-      "url": "https://vacantes.pichincha.com/job/MACHALA-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-HUAQUILLAS-MACH-ZONA-COSTA/1337144262/",
-      "isIT": false,
-      "firstSeen": "2026-10-17",
-      "closedOn": "2026-10-27"
-    },
-    {
       "id": "pichincha-1337144362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1908,19 +1946,6 @@
       "isIT": true,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-20"
-    },
-    {
-      "id": "pichincha-1336926362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES EVENTUAL - ESMERALDAS",
-      "province": "ESMERALDAS",
-      "city": "QUININDE",
-      "publishedAt": "2026-09-25",
-      "url": "https://vacantes.pichincha.com/job/QUININDE-EJECUTIVO-SERVICIOS-TRANSACCIONALES-EVENTUAL-ESMERALDAS-ESME-ZONA-ESMER/1336926362/",
-      "isIT": false,
-      "firstSeen": "2026-10-21",
-      "closedOn": "2026-10-23"
     },
     {
       "id": "pichincha-1336902062",
