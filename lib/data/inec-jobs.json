@@ -2,6 +2,20 @@
   "source": "https://www.ecuadorencifras.gob.ec/institucional/trabaja-con-nosotros/",
   "jobs": [
     {
+      "id": "CONVO_VEHI_IPC_IPCO_PLURI_cz6_29_oct.PDF#Servicio de transporte de camionetas",
+      "title": "Servicio de transporte de camionetas",
+      "group": "Servicio de transporte",
+      "contract": "Contratación pública",
+      "project": "Índice de Precios al Consumidor (IPC) e Índice de Precios de la Construcción – IPCO",
+      "place": "Provincias: Azuay, Cañar, Morona Santiago, Loja, Zamora Chinchipe",
+      "deadlineText": "Hasta las 16h00 del 10 de noviembre de 2026",
+      "closesAt": "2026-11-10T16:00:00-05:00",
+      "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Trabaja_con_Nosotros/2026/CONVO_VEHI_IPC_IPCO_PLURI_cz6_29_oct.PDF",
+      "isIT": false,
+      "firstSeen": "2026-10-29",
+      "applyUrl": null
+    },
+    {
       "id": "convo_inpp_pluri_cz6_26_oct.pdf#Servicio de transporte de camionetas",
       "title": "Servicio de transporte de camionetas",
       "group": "Servicio de transporte",

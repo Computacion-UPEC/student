@@ -13,6 +13,94 @@
       "firstSeen": "2026-10-29"
     },
     {
+      "id": "arca-1435540300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI TENA",
+      "city": null,
+      "publishedAt": "2026-10-29",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-TENA/1435540300/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "holcim-1358229557",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Base de datos - Operadora de Equipo Pesado - Guayaquil",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Base-de-datos-Operadora-de-Equipo-Pesado-Guayaquil/1358229557/",
+      "isIT": false,
+      "firstSeen": "2026-10-29"
+    },
+    {
+      "id": "arca-1445052900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR UNIVERSAL | CEDI IBARRA",
+      "city": null,
+      "publishedAt": "2026-10-29",
+      "url": "https://careers.arcacontal.com/job/IMB-Ibarra-VENDEDOR-UNIVERSAL-CEDI-IBARRA-Dip-Ibar/1445052900/",
+      "isIT": false,
+      "firstSeen": "2026-10-29"
+    },
+    {
+      "id": "arca-1445054500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI QUITO NORTE",
+      "city": null,
+      "publishedAt": "2026-10-29",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-VENDEDOR-CEDI-QUITO-NORTE-Dip-Quit/1445054500/",
+      "isIT": false,
+      "firstSeen": "2026-10-29"
+    },
+    {
+      "id": "arca-1445055000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI LAGO AGRIO",
+      "city": null,
+      "publishedAt": "2026-10-29",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-LAGO-AGRIO-Dip-Lago/1445055000/",
+      "isIT": false,
+      "firstSeen": "2026-10-29"
+    },
+    {
+      "id": "farmaenlace-1337840062",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "ANALISTA DE INVENTARIOS",
+      "city": "Distrito",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-ANALISTA-DE-INVENTARIOS-PICH/1337840062/",
+      "isIT": false,
+      "firstSeen": "2026-10-29"
+    },
+    {
+      "id": "difare-asistente-de-gente-y-cultura-2",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ASISTENTE DE GENTE Y CULTURA",
+      "city": "PICHINCHA",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/asistente-de-gente-y-cultura-2/",
+      "isIT": false,
+      "firstSeen": "2026-10-29"
+    },
+    {
+      "id": "difare-analista-de-producto-abastecimiento-cuenca",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ANALISTA DE PRODUCTO – ABASTECIMIENTO CUENCA",
+      "city": "CUENCA",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/analista-de-producto-abastecimiento-cuenca/",
+      "isIT": false,
+      "firstSeen": "2026-10-29"
+    },
+    {
       "id": "difare-sub-gerente-de-producto-dyvenpro",
       "source": "difare",
       "company": "Difare",
@@ -2202,17 +2290,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "holcim-1371372757",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Pasante de Excelencia Comercial - Guayaquil",
-      "city": "EC",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-de-Excelencia-Comercial-Guayaquil/1371372757/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "arca-1442520200",
       "source": "arca",
       "company": "Arca Continental",
@@ -2244,17 +2321,6 @@
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AUXILIAR-ADMINISTRATIVA-PLANTA-GUAYAQUIL-60000/1442052200/",
       "isIT": false,
       "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "claro-1574",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "ASESOR CORPORATIVO TELCO",
-      "city": null,
-      "publishedAt": "2026-10-19",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1574",
-      "isIT": false,
-      "firstSeen": "2026-10-24"
     },
     {
       "id": "arca-1431593400",
@@ -2543,17 +2609,6 @@
       "firstSeen": "2026-10-26"
     },
     {
-      "id": "arca-1435540300",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI TENA",
-      "city": null,
-      "publishedAt": "2026-09-30",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-TENA/1435540300/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "claro-1759",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -2622,6 +2677,18 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "holcim-1371372757",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Pasante de Excelencia Comercial - Guayaquil",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-de-Excelencia-Comercial-Guayaquil/1371372757/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-29"
     },
     {
       "id": "holcim-1366636057",
@@ -2958,6 +3025,18 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-23"
+    },
+    {
+      "id": "claro-1574",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ASESOR CORPORATIVO TELCO",
+      "city": null,
+      "publishedAt": "2026-10-19",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1574",
+      "isIT": false,
+      "firstSeen": "2026-10-24",
+      "closedOn": "2026-10-29"
     },
     {
       "id": "arca-1441461300",

@@ -2,6 +2,28 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "devsu-ED9697D299",
+      "company": "Devsu",
+      "title": "Semi-Senior/Senior Angular Front-End Developer - Sector Financiero/Bancario",
+      "city": "Quito",
+      "remote": false,
+      "publishedAt": "2026-10-29",
+      "url": "https://apply.workable.com/j/ED9697D299",
+      "isIT": true,
+      "firstSeen": "2026-10-29"
+    },
+    {
+      "id": "devsu-FA056D61D9",
+      "company": "Devsu",
+      "title": "Senior Business Analyst - Banking Channels (Business Banking)",
+      "city": "Quito",
+      "remote": false,
+      "publishedAt": "2026-10-29",
+      "url": "https://apply.workable.com/j/FA056D61D9",
+      "isIT": false,
+      "firstSeen": "2026-10-29"
+    },
+    {
       "id": "devsu-3897A7A71E",
       "company": "Devsu",
       "title": "UX Designer - Sector Financiero / Bancario",
@@ -33,17 +55,6 @@
       "url": "https://apply.workable.com/j/968C5C2495",
       "isIT": true,
       "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "devsu-54E5B4AEDB",
-      "company": "Devsu",
-      "title": "Senior AI Engineer (GenAI, Python, LLMs) - Sector Bancario",
-      "city": "Quito",
-      "remote": false,
-      "publishedAt": "2026-10-15",
-      "url": "https://apply.workable.com/j/54E5B4AEDB",
-      "isIT": true,
-      "firstSeen": "2026-10-17"
     },
     {
       "id": "devsu-C4FAD20C79",
@@ -286,6 +297,18 @@
       "url": "https://apply.workable.com/j/FCE05F5D8B",
       "isIT": true,
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "devsu-54E5B4AEDB",
+      "company": "Devsu",
+      "title": "Senior AI Engineer (GenAI, Python, LLMs) - Sector Bancario",
+      "city": "Quito",
+      "remote": false,
+      "publishedAt": "2026-10-15",
+      "url": "https://apply.workable.com/j/54E5B4AEDB",
+      "isIT": true,
+      "firstSeen": "2026-10-17",
+      "closedOn": "2026-10-29"
     },
     {
       "id": "devsu-68FF129F01",

@@ -38,6 +38,30 @@
       "firstSeen": "2026-10-29"
     },
     {
+      "id": "pichincha-1337849062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO FUNCIONAL DE CREDITO (AVALUOS Y GARANTIAS)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-29",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-FUNCIONAL-DE-CREDITO-%28AVALUOS-Y-GARANTIAS%29-QUIT-CELULA-ADM/1337849062/",
+      "isIT": false,
+      "firstSeen": "2026-10-29"
+    },
+    {
+      "id": "pichincha-1337846462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "SOPORTE ADMINISTRATIVO TEMPORAL ( RECUPERACION Y COBRANZA )",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-29",
+      "url": "https://vacantes.pichincha.com/job/QUITO-SOPORTE-ADMINISTRATIVO-TEMPORAL-%28-RECUPERACION-Y-COBRANZA-%29-QUIT-SEGUIMIENT/1337846462/",
+      "isIT": false,
+      "firstSeen": "2026-10-29"
+    },
+    {
       "id": "pichincha-1337789362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -456,6 +480,30 @@
       "firstSeen": "2026-10-23"
     },
     {
+      "id": "pichincha-1337683862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO PRODUCTO MEDIOS DE PAGO - EVENTUAL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PRODUCTO-MEDIOS-DE-PAGO-EVENTUAL-QUIT-TRIBU-MEDI/1337683862/",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "pichincha-1337683662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE (CREDIO AUTOMOTRIZ) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28CREDIO-AUTOMOTRIZ%29-QUITO-QUIT-CREDITO-PE/1337683662/",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
+    },
+    {
       "id": "pichincha-1337621062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -524,6 +572,18 @@
       "city": "GUAYAQUIL",
       "publishedAt": "2026-10-21",
       "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-SOPORTE-ADMINISTRATIVO-CON-DISCAPACIDAD-GUAYAQUIL-GUAY-REGION-NOR/1337614062/",
+      "isIT": false,
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "pichincha-1335783562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DUENO DE PRODUCTO - COMEX",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-21",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-COMEX-QUIT-CELULA-COM/1335783562/",
       "isIT": false,
       "firstSeen": "2026-10-21"
     },
@@ -1176,11 +1236,11 @@
       "id": "pichincha-1337143562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
-      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - VENTANAS",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - LOS RIOS",
       "province": "LOS RIOS",
       "city": "BABAHOYO",
       "publishedAt": "2026-10-02",
-      "url": "https://vacantes.pichincha.com/job/BABAHOYO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-VENTANAS-BABA-ZONA-COSTA/1337143562/",
+      "url": "https://vacantes.pichincha.com/job/BABAHOYO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-LOS-RIOS-BABA-ZONA-COSTA/1337143562/",
       "isIT": false,
       "firstSeen": "2026-10-16"
     },
@@ -1248,32 +1308,6 @@
       "closedOn": "2026-10-28"
     },
     {
-      "id": "pichincha-1337683862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO PRODUCTO MEDIOS DE PAGO - EVENTUAL",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-22",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PRODUCTO-MEDIOS-DE-PAGO-EVENTUAL-QUIT-TRIBU-MEDI/1337683862/",
-      "isIT": false,
-      "firstSeen": "2026-10-23",
-      "closedOn": "2026-10-29"
-    },
-    {
-      "id": "pichincha-1337683662",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE (CREDIO AUTOMOTRIZ) - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-22",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28CREDIO-AUTOMOTRIZ%29-QUITO-QUIT-CREDITO-PE/1337683662/",
-      "isIT": false,
-      "firstSeen": "2026-10-23",
-      "closedOn": "2026-10-29"
-    },
-    {
       "id": "pichincha-1337659362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1309,19 +1343,6 @@
       "isIT": true,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-24"
-    },
-    {
-      "id": "pichincha-1335783562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DUENO DE PRODUCTO - COMEX",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-21",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-COMEX-QUIT-CELULA-COM/1335783562/",
-      "isIT": false,
-      "firstSeen": "2026-10-21",
-      "closedOn": "2026-10-29"
     },
     {
       "id": "pichincha-1337614362",
