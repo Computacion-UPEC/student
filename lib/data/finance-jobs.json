@@ -38,6 +38,18 @@
       "firstSeen": "2026-10-30"
     },
     {
+      "id": "pichincha-1337888662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE - SOSTENIBILIDAD",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-30",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-SOSTENIBILIDAD-QUIT-SOSTENIBIL/1337888662/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
+    },
+    {
       "id": "pichincha-1332901862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -218,18 +230,6 @@
       "firstSeen": "2026-10-27"
     },
     {
-      "id": "pichincha-1337765062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ASISTENTE SEGURIDAD SALUD Y AMBIENTE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-27",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ASISTENTE-SEGURIDAD-SALUD-Y-AMBIENTE-QUIT-ADMINISTRA/1337765062/",
-      "isIT": false,
-      "firstSeen": "2026-10-27"
-    },
-    {
       "id": "pagueya-6ae0c9e4a2045997eaee439c",
       "source": "pagueya",
       "institution": "Pague Ya (Grupo Pichincha)",
@@ -343,18 +343,6 @@
       "city": "MILAGRO",
       "publishedAt": "2026-10-26",
       "url": "https://vacantes.pichincha.com/job/MILAGRO-EJECUTIVO-SERVICIOS-TRANSACCIONALES-MILAGRO-GUAY-REGION-COS/1337742862/",
-      "isIT": false,
-      "firstSeen": "2026-10-27"
-    },
-    {
-      "id": "pichincha-1337747462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - LIBERTAD",
-      "province": "SANTA ELENA",
-      "city": "LA LIBERTAD",
-      "publishedAt": "2026-10-26",
-      "url": "https://vacantes.pichincha.com/job/LA-LIBERTAD-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-LIBERTAD-SANT-ZONA-COSTA/1337747462/",
       "isIT": false,
       "firstSeen": "2026-10-27"
     },
@@ -1053,18 +1041,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337515662",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DISENADOR DE EXPERIENCIA - UIO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-16",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-UIO-QUIT-DISENO-DE/1337515662/",
-      "isIT": true,
-      "firstSeen": "2026-10-17"
-    },
-    {
       "id": "pichincha-1337515962",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1086,18 +1062,6 @@
       "publishedAt": "2026-10-15",
       "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PLANIFICACION-CIBERSEGURIDAD-QUITO-QUIT-PROYECTOS/1336150162/",
       "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337457362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-15",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-OPERACIONE/1337457362/",
-      "isIT": false,
       "firstSeen": "2026-10-16"
     },
     {
@@ -1330,6 +1294,32 @@
       "closedOn": "2026-10-29"
     },
     {
+      "id": "pichincha-1337765062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASISTENTE SEGURIDAD SALUD Y AMBIENTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-27",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ASISTENTE-SEGURIDAD-SALUD-Y-AMBIENTE-QUIT-ADMINISTRA/1337765062/",
+      "isIT": false,
+      "firstSeen": "2026-10-27",
+      "closedOn": "2026-10-30"
+    },
+    {
+      "id": "pichincha-1337747462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - LIBERTAD",
+      "province": "SANTA ELENA",
+      "city": "LA LIBERTAD",
+      "publishedAt": "2026-10-26",
+      "url": "https://vacantes.pichincha.com/job/LA-LIBERTAD-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-LIBERTAD-SANT-ZONA-COSTA/1337747462/",
+      "isIT": false,
+      "firstSeen": "2026-10-27",
+      "closedOn": "2026-10-30"
+    },
+    {
       "id": "pagueya-6adf733ab288b080c0b34efa",
       "source": "pagueya",
       "institution": "Pague Ya (Grupo Pichincha)",
@@ -1548,6 +1538,19 @@
       "closedOn": "2026-10-23"
     },
     {
+      "id": "pichincha-1337515662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DISENADOR DE EXPERIENCIA - UIO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-16",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-UIO-QUIT-DISENO-DE/1337515662/",
+      "isIT": true,
+      "firstSeen": "2026-10-17",
+      "closedOn": "2026-10-30"
+    },
+    {
       "id": "pichincha-1336675962",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1585,6 +1588,19 @@
       "isIT": false,
       "firstSeen": "2026-10-17",
       "closedOn": "2026-10-20"
+    },
+    {
+      "id": "pichincha-1337457362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-15",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-OPERACIONE/1337457362/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-30"
     },
     {
       "id": "pichincha-1337461862",

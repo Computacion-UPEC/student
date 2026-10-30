@@ -13,6 +13,94 @@
       "firstSeen": "2026-10-30"
     },
     {
+      "id": "arca-1435618500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ENTRENADOR COMERCIAL | CEDI PORTOVIEJO",
+      "city": null,
+      "publishedAt": "2026-10-30",
+      "url": "https://careers.arcacontal.com/job/ENTRENADOR-COMERCIAL-CEDI-PORTOVIEJO/1435618500/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "arca-1436001200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "TÉCNICO DE MANTENIMIENTO ELÉCTRICO | PLANTA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-30",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-T%C3%89CNICO-DE-MANTENIMIENTO-EL%C3%89CTRICO-PLANTA-GUAYAQUIL-00000/1436001200/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "arca-1435619400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "CAPACITADOR DE EQUIPOS COMERCIALES | CEDI CUENCA",
+      "city": null,
+      "publishedAt": "2026-10-30",
+      "url": "https://careers.arcacontal.com/job/CAPACITADOR-DE-EQUIPOS-COMERCIALES-CEDI-CUENCA/1435619400/",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "arca-1435621600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ENTRENADOR COMERCIAL | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-30",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-ENTRENADOR-COMERCIAL-CEDI-GUAYAQUIL-Dip-Guay/1435621600/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "id": "arca-1446305700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI LATACUNGA",
+      "city": null,
+      "publishedAt": "2026-10-30",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LATACUNGA/1446305700/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "id": "arca-1446293000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR | CEDI RIOBAMBA",
+      "city": null,
+      "publishedAt": "2026-10-30",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-CEDI-RIOBAMBA/1446293000/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "id": "arca-1446352400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AUDITOR DE CALIDAD HIGIENE| PLANTA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-30",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AUDITOR-DE-CALIDAD-HIGIENE-PLANTA-GUAYAQUIL-60000/1446352400/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "id": "farmaenlace-1337880662",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "PASANTE",
+      "city": "Distrito",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-PASANTE-PICH/1337880662/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
+    },
+    {
       "id": "difare-trabajador-social",
       "source": "difare",
       "company": "Difare",
@@ -178,17 +266,6 @@
       "firstSeen": "2026-10-28"
     },
     {
-      "id": "holcim-1376086457",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Base de datos - Operado de Equipo Pesado - Guayaquil",
-      "city": "EC",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Base-de-datos-Operado-de-Equipo-Pesado-Guayaquil/1376086457/",
-      "isIT": false,
-      "firstSeen": "2026-10-28"
-    },
-    {
       "id": "holcim-1376096057",
       "source": "holcim",
       "company": "Holcim Ecuador",
@@ -231,17 +308,6 @@
       "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1813",
       "isIT": true,
       "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "claro-1806",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "ANALISTA DE INFORMACIÓN",
-      "city": null,
-      "publishedAt": "2026-10-28",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1806",
-      "isIT": false,
-      "firstSeen": "2026-10-29"
     },
     {
       "id": "claro-1766",
@@ -317,17 +383,6 @@
       "city": null,
       "publishedAt": "2026-10-27",
       "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-IMBABURA/1444124400/",
-      "isIT": false,
-      "firstSeen": "2026-10-27"
-    },
-    {
-      "id": "arca-1443929800",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | PLANTA INALECSA GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-10-27",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-JUNIOR-PLANTA-INALECSA-GUAYAQUIL-6601/1443929800/",
       "isIT": false,
       "firstSeen": "2026-10-27"
     },
@@ -2334,6 +2389,17 @@
       "firstSeen": "2026-10-22"
     },
     {
+      "id": "holcim-1371372757",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Pasante de Excelencia Comercial - Guayaquil",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-de-Excelencia-Comercial-Guayaquil/1371372757/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "arca-1442520200",
       "source": "arca",
       "company": "Arca Continental",
@@ -2488,17 +2554,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1440441800",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "TECNICO EQUIPOS DE VENTA | PLANTA SANTO DOMINGO",
-      "city": null,
-      "publishedAt": "2026-10-15",
-      "url": "https://careers.arcacontal.com/job/SDO-Santo-Domingo-TECNICO-EQUIPOS-DE-VENTA-PLANTA-SANTO-DOMINGO-230101/1440441800/",
-      "isIT": false,
-      "firstSeen": "2026-10-23"
-    },
-    {
       "id": "arca-1440655500",
       "source": "arca",
       "company": "Arca Continental",
@@ -2508,6 +2563,17 @@
       "url": "https://careers.arcacontal.com/job/PASANTE-GUAYAQUIL-SUR/1440655500/",
       "isIT": false,
       "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "arca-1440678400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "SUPERVISOR DE VENTAS L. COMERCIAL / QUEVEDO",
+      "city": null,
+      "publishedAt": "2026-10-15",
+      "url": "https://careers.arcacontal.com/job/SUPERVISOR-DE-VENTAS-L_-COMERCIAL-QUEVEDO/1440678400/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
     },
     {
       "id": "arca-1440144400",
@@ -2550,17 +2616,6 @@
       "city": null,
       "publishedAt": "2026-10-14",
       "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1801",
-      "isIT": false,
-      "firstSeen": "2026-10-24"
-    },
-    {
-      "id": "claro-1776",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "ASESOR SOLUCIONES ESPECIALIZADAS",
-      "city": null,
-      "publishedAt": "2026-10-13",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1776",
       "isIT": false,
       "firstSeen": "2026-10-24"
     },
@@ -2631,46 +2686,13 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1435618500",
+      "id": "arca-1435618900",
       "source": "arca",
       "company": "Arca Continental",
-      "title": "ENTRENADOR COMERCIAL | CEDI PORTOVIEJO",
+      "title": "ENTRENADOR COMERCIAL | CEDI GUAYAQUIL SUR",
       "city": null,
       "publishedAt": "2026-10-01",
-      "url": "https://careers.arcacontal.com/job/ENTRENADOR-COMERCIAL-CEDI-PORTOVIEJO/1435618500/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1436001200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "TÉCNICO DE MANTENIMIENTO ELÉCTRICO | PLANTA GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-10-01",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-T%C3%89CNICO-DE-MANTENIMIENTO-EL%C3%89CTRICO-PLANTA-GUAYAQUIL-00000/1436001200/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1435619400",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "CAPACITADOR DE EQUIPOS COMERCIALES | CEDI CUENCA",
-      "city": null,
-      "publishedAt": "2026-10-01",
-      "url": "https://careers.arcacontal.com/job/CAPACITADOR-DE-EQUIPOS-COMERCIALES-CEDI-CUENCA/1435619400/",
-      "isIT": false,
-      "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "arca-1435621600",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "ENTRENADOR COMERCIAL | CEDI GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-10-01",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-ENTRENADOR-COMERCIAL-CEDI-GUAYAQUIL-Dip-Guay/1435621600/",
+      "url": "https://careers.arcacontal.com/job/ENTRENADOR-COMERCIAL-CEDI-GUAYAQUIL-SUR/1435618900/",
       "isIT": false,
       "firstSeen": "2026-10-30"
     },
@@ -2695,6 +2717,42 @@
       "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1483",
       "isIT": false,
       "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "holcim-1376086457",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Base de datos - Operado de Equipo Pesado - Guayaquil",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Base-de-datos-Operado-de-Equipo-Pesado-Guayaquil/1376086457/",
+      "isIT": false,
+      "firstSeen": "2026-10-28",
+      "closedOn": "2026-10-30"
+    },
+    {
+      "id": "claro-1806",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ANALISTA DE INFORMACIÓN",
+      "city": null,
+      "publishedAt": "2026-10-28",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1806",
+      "isIT": false,
+      "firstSeen": "2026-10-29",
+      "closedOn": "2026-10-30"
+    },
+    {
+      "id": "arca-1443929800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | PLANTA INALECSA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-JUNIOR-PLANTA-INALECSA-GUAYAQUIL-6601/1443929800/",
+      "isIT": false,
+      "firstSeen": "2026-10-27",
+      "closedOn": "2026-10-30"
     },
     {
       "id": "arca-1443673500",
@@ -2743,18 +2801,6 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
-    },
-    {
-      "id": "holcim-1371372757",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Pasante de Excelencia Comercial - Guayaquil",
-      "city": "EC",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-de-Excelencia-Comercial-Guayaquil/1371372757/",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-10-29"
     },
     {
       "id": "holcim-1366636057",
@@ -3189,6 +3235,18 @@
       "closedOn": "2026-10-27"
     },
     {
+      "id": "arca-1440441800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "TECNICO EQUIPOS DE VENTA | PLANTA SANTO DOMINGO",
+      "city": null,
+      "publishedAt": "2026-10-15",
+      "url": "https://careers.arcacontal.com/job/SDO-Santo-Domingo-TECNICO-EQUIPOS-DE-VENTA-PLANTA-SANTO-DOMINGO-230101/1440441800/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-10-30"
+    },
+    {
       "id": "arca-1440614800",
       "source": "arca",
       "company": "Arca Continental",
@@ -3211,6 +3269,18 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-28"
+    },
+    {
+      "id": "claro-1776",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ASESOR SOLUCIONES ESPECIALIZADAS",
+      "city": null,
+      "publishedAt": "2026-10-13",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1776",
+      "isIT": false,
+      "firstSeen": "2026-10-24",
+      "closedOn": "2026-10-30"
     },
     {
       "id": "arca-1439652200",
