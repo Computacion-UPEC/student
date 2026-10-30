@@ -2,6 +2,17 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "difare-analista-de-producto-3",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ANALISTA DE PRODUCTO",
+      "city": "CUENCA",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/analista-de-producto-3/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
+    },
+    {
       "id": "difare-trabajador-social",
       "source": "difare",
       "company": "Difare",
@@ -99,6 +110,39 @@
       "url": "https://difare.evaluar.com/trabajo/analista-de-producto-abastecimiento-cuenca/",
       "isIT": false,
       "firstSeen": "2026-10-29"
+    },
+    {
+      "id": "arca-1445140400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "SUPERVISOR DE BODEGA | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-29",
+      "url": "https://careers.arcacontal.com/job/SUPERVISOR-DE-BODEGA-GUAYAQUIL-SUR/1445140400/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "id": "arca-1445179900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR AVANCE | CEDI GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-29",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-AVANCE-CEDI-GUAYAQUIL-SUR/1445179900/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "id": "arca-1445167300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AYUDANTE DE DESPACHO | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-29",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AYUDANTE-DE-DESPACHO-CEDI-GUAYAQUIL-Dip-Guay/1445167300/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
     },
     {
       "id": "difare-sub-gerente-de-producto-dyvenpro",
@@ -2455,6 +2499,17 @@
       "firstSeen": "2026-10-23"
     },
     {
+      "id": "arca-1440655500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PASANTE | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-15",
+      "url": "https://careers.arcacontal.com/job/PASANTE-GUAYAQUIL-SUR/1440655500/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "arca-1440144400",
       "source": "arca",
       "company": "Arca Continental",
@@ -2607,6 +2662,17 @@
       "url": "https://careers.arcacontal.com/job/CAPACITADOR-DE-EQUIPOS-COMERCIALES-CEDI-CUENCA/1435619400/",
       "isIT": false,
       "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "arca-1435621600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ENTRENADOR COMERCIAL | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-01",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-ENTRENADOR-COMERCIAL-CEDI-GUAYAQUIL-Dip-Guay/1435621600/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
     },
     {
       "id": "claro-1759",
@@ -3133,18 +3199,6 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-28"
-    },
-    {
-      "id": "arca-1440655500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PASANTE | GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-10-15",
-      "url": "https://careers.arcacontal.com/job/PASANTE-GUAYAQUIL-SUR/1440655500/",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-10-26"
     },
     {
       "id": "arca-1440047100",

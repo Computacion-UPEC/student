@@ -2,6 +2,42 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1337081062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE OPERACIONES DE TALENTO HUMANO - CUENCA",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-10-30",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-PASANTE-OPERACIONES-DE-TALENTO-HUMANO-CUENCA-CUEN-SERVICIOS/1337081062/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1336197062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA OPERACIONES EMPRESAS - QUITO (PYMES)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-30",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-OPERACIONES-EMPRESAS-QUITO-%28PYMES%29-QUIT-OPERACIONE/1336197062/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "id": "pichincha-1337867062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL INMOBILIARIO A - CUENCA",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-10-30",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-INMOBILIARIO-A-CUENCA-CUEN-REGION-SUR/1337867062/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
+    },
+    {
       "id": "pichincha-1332901862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -60,6 +96,30 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-SOPORTE-ADMINISTRATIVO-TEMPORAL-%28-RECUPERACION-Y-COBRANZA-%29-QUIT-SEGUIMIENT/1337846462/",
       "isIT": false,
       "firstSeen": "2026-10-29"
+    },
+    {
+      "id": "pichincha-1337862862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-29",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-ANALITICA/1337862862/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
+    },
+    {
+      "id": "pichincha-1337859462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "GERENTE CUMPLIMIENTO NORMATIVO Y REGULATORIO - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-29",
+      "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-CUMPLIMIENTO-NORMATIVO-Y-REGULATORIO-QUITO-QUIT-CUMPLIMIEN/1337859462/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
     },
     {
       "id": "pichincha-1337789362",
@@ -1850,19 +1910,6 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-17"
-    },
-    {
-      "id": "pichincha-1337081062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE OPERACIONES DE TALENTO HUMANO - CUENCA",
-      "province": "AZUAY",
-      "city": "CUENCA",
-      "publishedAt": "2026-10-01",
-      "url": "https://vacantes.pichincha.com/job/CUENCA-PASANTE-OPERACIONES-DE-TALENTO-HUMANO-CUENCA-CUEN-SERVICIOS/1337081062/",
-      "isIT": false,
-      "firstSeen": "2026-10-16",
-      "closedOn": "2026-10-27"
     },
     {
       "id": "pichincha-1337041662",
