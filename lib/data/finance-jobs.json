@@ -79,6 +79,30 @@
       "firstSeen": "2026-10-31"
     },
     {
+      "id": "pichincha-1337144262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - HUAQUILLAS",
+      "province": "EL ORO",
+      "city": "MACHALA",
+      "publishedAt": "2026-10-31",
+      "url": "https://vacantes.pichincha.com/job/MACHALA-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-HUAQUILLAS-MACH-ZONA-COSTA/1337144262/",
+      "isIT": false,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "pichincha-1337905562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO C - Ag. ATAHUALPA IBARRA (EVENTUAL)",
+      "province": "IMBABURA",
+      "city": "IBARRA",
+      "publishedAt": "2026-10-31",
+      "url": "https://vacantes.pichincha.com/job/IBARRA-EJECUTIVO-DE-CREDITO-C-Ag_-ATAHUALPA-IBARRA-%28EVENTUAL%29-IBAR-ZONA-SIERR/1337905562/",
+      "isIT": false,
+      "firstSeen": "2026-10-31"
+    },
+    {
       "id": "pichincha-1337081062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -211,18 +235,6 @@
       "firstSeen": "2026-10-30"
     },
     {
-      "id": "pichincha-1337789362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES - AG. BANOS",
-      "province": "TUNGURAHUA",
-      "city": "BAÑOS DE AGUA SANTA",
-      "publishedAt": "2026-10-28",
-      "url": "https://vacantes.pichincha.com/job/BA%C3%91OS-DE-AGUA-SANTA-EJECUTIVO-SERVICIOS-TRANSACCIONALES-AG_-BANOS-AMBA-REGION-CEN/1337789362/",
-      "isIT": false,
-      "firstSeen": "2026-10-28"
-    },
-    {
       "id": "pichincha-1337805362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -295,18 +307,6 @@
       "firstSeen": "2026-10-27"
     },
     {
-      "id": "pichincha-1337760262",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - SANTO DOMINGO (EVENTUAL)",
-      "province": "SANTO DOMINGO DE LOS TSACHILAS",
-      "city": "SANTO DOMINGO",
-      "publishedAt": "2026-10-27",
-      "url": "https://vacantes.pichincha.com/job/SANTO-DOMINGO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-SANTO-DOMINGO-%28EVENTUAL%29-SANT-ZONA-SANTO/1337760262/",
-      "isIT": false,
-      "firstSeen": "2026-10-27"
-    },
-    {
       "id": "pagueya-6ae0c9e4a2045997eaee439c",
       "source": "pagueya",
       "institution": "Pague Ya (Grupo Pichincha)",
@@ -328,18 +328,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-ADMINISTRATIVO-QUIT-TRIBU-CANA/1337777462/",
       "isIT": false,
       "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "pichincha-1337734562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-26",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-SERVICIOS-TRANSACCIONALES-QUIT-ZONA-METRO/1337734562/",
-      "isIT": false,
-      "firstSeen": "2026-10-26"
     },
     {
       "id": "pichincha-1337737262",
@@ -412,30 +400,6 @@
       "firstSeen": "2026-10-27"
     },
     {
-      "id": "pichincha-1337742862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES - MILAGRO",
-      "province": "GUAYAS",
-      "city": "MILAGRO",
-      "publishedAt": "2026-10-26",
-      "url": "https://vacantes.pichincha.com/job/MILAGRO-EJECUTIVO-SERVICIOS-TRANSACCIONALES-MILAGRO-GUAY-REGION-COS/1337742862/",
-      "isIT": false,
-      "firstSeen": "2026-10-27"
-    },
-    {
-      "id": "pichincha-1337753162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO DE CREDITO C - AG. EL ANGEL",
-      "province": "CARCHI",
-      "city": "ESPEJO",
-      "publishedAt": "2026-10-26",
-      "url": "https://vacantes.pichincha.com/job/ESPEJO-EJECUTIVO-DE-CREDITO-C-AG_-EL-ANGEL-TULC-ZONA-SIERR/1337753162/",
-      "isIT": false,
-      "firstSeen": "2026-10-27"
-    },
-    {
       "id": "pagueya-6ac565cf2ee2123a2d066740",
       "source": "pagueya",
       "institution": "Pague Ya (Grupo Pichincha)",
@@ -492,28 +456,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "pagueya-6ac6b60b65c496d89447922a",
-      "source": "pagueya",
-      "institution": "Pague Ya (Grupo Pichincha)",
-      "title": "PASANTE RIESGO",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac6b60b65c496d89447922a",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "pagueya-6ac56bb70ba3c4c66e7b725c",
-      "source": "pagueya",
-      "institution": "Pague Ya (Grupo Pichincha)",
-      "title": "PASANTE LEGAL - GUAYAQUIL",
-      "city": "Guayaquil",
-      "publishedAt": null,
-      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac56bb70ba3c4c66e7b725c",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "pagueya-6ac569aff89824fde814a923",
       "source": "pagueya",
       "institution": "Pague Ya (Grupo Pichincha)",
@@ -554,17 +496,6 @@
       "city": "Loja",
       "publishedAt": null,
       "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ad273a36118d36ade436997",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "bancoloja-6acd60067f8ffcdf39e03daf",
-      "source": "bancoloja",
-      "institution": "Banco de Loja",
-      "title": "Asesor Pymes",
-      "city": "Loja",
-      "publishedAt": null,
-      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6acd60067f8ffcdf39e03daf",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -689,18 +620,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "pichincha-1337614062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "SOPORTE ADMINISTRATIVO CON DISCAPACIDAD - GUAYAQUIL",
-      "province": "GUAYAS",
-      "city": "GUAYAQUIL",
-      "publishedAt": "2026-10-21",
-      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-SOPORTE-ADMINISTRATIVO-CON-DISCAPACIDAD-GUAYAQUIL-GUAY-REGION-NOR/1337614062/",
-      "isIT": false,
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "pichincha-1335783562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -771,18 +690,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-RIESGO-CIBERSEGURIDAD-QUITO-QUIT-RIESGO-TEC/1337548462/",
       "isIT": true,
       "firstSeen": "2026-10-19"
-    },
-    {
-      "id": "pichincha-1336680662",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ESPECIALISTA ASUNTOS PUBLICOS - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-16",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-ASUNTOS-PUBLICOS-QUITO-QUIT-ASUNTOS-PU/1336680662/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
     },
     {
       "id": "jep-gerente de agencia – la troncal",
@@ -1118,18 +1025,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337515962",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DISENADOR DE EXPERIENCIA EVENTUAL - UIO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-16",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-EVENTUAL-UIO-QUIT-DISENO-DE/1337515962/",
-      "isIT": true,
-      "firstSeen": "2026-10-17"
-    },
-    {
       "id": "pichincha-1336150162",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1138,18 +1033,6 @@
       "city": "QUITO",
       "publishedAt": "2026-10-15",
       "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PLANIFICACION-CIBERSEGURIDAD-QUITO-QUIT-PROYECTOS/1336150162/",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337457762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DATA STEWARD - QUITO (EVENTUAL)",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-15",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DATA-STEWARD-QUITO-%28EVENTUAL%29-QUIT-GOBIERNO-D/1337457762/",
       "isIT": true,
       "firstSeen": "2026-10-16"
     },
@@ -1274,18 +1157,6 @@
       "firstSeen": "2026-10-26"
     },
     {
-      "id": "pichincha-1337283362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ASISTENTE SERVICIOS COMPARTIDOS RRHH - EVENTUAL (UIO)",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-08",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ASISTENTE-SERVICIOS-COMPARTIDOS-RRHH-EVENTUAL-%28UIO%29-QUIT-SERVICIOS/1337283362/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1336376562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1294,18 +1165,6 @@
       "city": "QUITO",
       "publishedAt": "2026-10-07",
       "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-SERVICIOS-EMPRESARIALES-RECAUDACIONES-QUIT-CELULA-REC/1336376562/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337245962",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO DE CREDITO C - SAN MIGUEL (GUARANDA)",
-      "province": "BOLIVAR",
-      "city": "SAN MIGUEL",
-      "publishedAt": "2026-10-07",
-      "url": "https://vacantes.pichincha.com/job/SAN-MIGUEL-EJECUTIVO-DE-CREDITO-C-SAN-MIGUEL-%28GUARANDA%29-GUAR-ZONA-SUR-O/1337245962/",
       "isIT": false,
       "firstSeen": "2026-10-16"
     },
@@ -1334,28 +1193,17 @@
       "firstSeen": "2026-10-29"
     },
     {
-      "id": "pichincha-1337143562",
+      "id": "pichincha-1337789362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
-      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - LOS RIOS",
-      "province": "LOS RIOS",
-      "city": "BABAHOYO",
-      "publishedAt": "2026-10-02",
-      "url": "https://vacantes.pichincha.com/job/BABAHOYO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-LOS-RIOS-BABA-ZONA-COSTA/1337143562/",
+      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES - AG. BANOS",
+      "province": "TUNGURAHUA",
+      "city": "BAÑOS DE AGUA SANTA",
+      "publishedAt": "2026-10-28",
+      "url": "https://vacantes.pichincha.com/job/BA%C3%91OS-DE-AGUA-SANTA-EJECUTIVO-SERVICIOS-TRANSACCIONALES-AG_-BANOS-AMBA-REGION-CEN/1337789362/",
       "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337144262",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - HUAQUILLAS",
-      "province": "EL ORO",
-      "city": "MACHALA",
-      "publishedAt": "2026-10-02",
-      "url": "https://vacantes.pichincha.com/job/MACHALA-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-HUAQUILLAS-MACH-ZONA-COSTA/1337144262/",
-      "isIT": false,
-      "firstSeen": "2026-10-17"
+      "firstSeen": "2026-10-28",
+      "closedOn": "2026-10-31"
     },
     {
       "id": "pichincha-1337799362",
@@ -1371,6 +1219,19 @@
       "closedOn": "2026-10-29"
     },
     {
+      "id": "pichincha-1337760262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - SANTO DOMINGO (EVENTUAL)",
+      "province": "SANTO DOMINGO DE LOS TSACHILAS",
+      "city": "SANTO DOMINGO",
+      "publishedAt": "2026-10-27",
+      "url": "https://vacantes.pichincha.com/job/SANTO-DOMINGO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-SANTO-DOMINGO-%28EVENTUAL%29-SANT-ZONA-SANTO/1337760262/",
+      "isIT": false,
+      "firstSeen": "2026-10-27",
+      "closedOn": "2026-10-31"
+    },
+    {
       "id": "pichincha-1337765062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1382,6 +1243,45 @@
       "isIT": false,
       "firstSeen": "2026-10-27",
       "closedOn": "2026-10-30"
+    },
+    {
+      "id": "pichincha-1337734562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-26",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-SERVICIOS-TRANSACCIONALES-QUIT-ZONA-METRO/1337734562/",
+      "isIT": false,
+      "firstSeen": "2026-10-26",
+      "closedOn": "2026-10-31"
+    },
+    {
+      "id": "pichincha-1337742862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES - MILAGRO",
+      "province": "GUAYAS",
+      "city": "MILAGRO",
+      "publishedAt": "2026-10-26",
+      "url": "https://vacantes.pichincha.com/job/MILAGRO-EJECUTIVO-SERVICIOS-TRANSACCIONALES-MILAGRO-GUAY-REGION-COS/1337742862/",
+      "isIT": false,
+      "firstSeen": "2026-10-27",
+      "closedOn": "2026-10-31"
+    },
+    {
+      "id": "pichincha-1337753162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO C - AG. EL ANGEL",
+      "province": "CARCHI",
+      "city": "ESPEJO",
+      "publishedAt": "2026-10-26",
+      "url": "https://vacantes.pichincha.com/job/ESPEJO-EJECUTIVO-DE-CREDITO-C-AG_-EL-ANGEL-TULC-ZONA-SIERR/1337753162/",
+      "isIT": false,
+      "firstSeen": "2026-10-27",
+      "closedOn": "2026-10-31"
     },
     {
       "id": "pichincha-1337747462",
@@ -1435,6 +1335,42 @@
       "closedOn": "2026-10-28"
     },
     {
+      "id": "pagueya-6ac6b60b65c496d89447922a",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "PASANTE RIESGO",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac6b60b65c496d89447922a",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-31"
+    },
+    {
+      "id": "pagueya-6ac56bb70ba3c4c66e7b725c",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "PASANTE LEGAL - GUAYAQUIL",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac56bb70ba3c4c66e7b725c",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-31"
+    },
+    {
+      "id": "bancoloja-6acd60067f8ffcdf39e03daf",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Asesor Pymes",
+      "city": "Loja",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6acd60067f8ffcdf39e03daf",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-10-31"
+    },
+    {
       "id": "pichincha-1337659362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1470,6 +1406,19 @@
       "isIT": true,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "pichincha-1337614062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "SOPORTE ADMINISTRATIVO CON DISCAPACIDAD - GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-10-21",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-SOPORTE-ADMINISTRATIVO-CON-DISCAPACIDAD-GUAYAQUIL-GUAY-REGION-NOR/1337614062/",
+      "isIT": false,
+      "firstSeen": "2026-10-21",
+      "closedOn": "2026-10-31"
     },
     {
       "id": "pichincha-1337614362",
@@ -1615,6 +1564,32 @@
       "closedOn": "2026-10-23"
     },
     {
+      "id": "pichincha-1336680662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA ASUNTOS PUBLICOS - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-16",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-ASUNTOS-PUBLICOS-QUITO-QUIT-ASUNTOS-PU/1336680662/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-31"
+    },
+    {
+      "id": "pichincha-1337515962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DISENADOR DE EXPERIENCIA EVENTUAL - UIO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-16",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-EVENTUAL-UIO-QUIT-DISENO-DE/1337515962/",
+      "isIT": true,
+      "firstSeen": "2026-10-17",
+      "closedOn": "2026-10-31"
+    },
+    {
       "id": "pichincha-1337515662",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1665,6 +1640,19 @@
       "isIT": false,
       "firstSeen": "2026-10-17",
       "closedOn": "2026-10-20"
+    },
+    {
+      "id": "pichincha-1337457762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DATA STEWARD - QUITO (EVENTUAL)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-15",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DATA-STEWARD-QUITO-%28EVENTUAL%29-QUIT-GOBIERNO-D/1337457762/",
+      "isIT": true,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-31"
     },
     {
       "id": "pichincha-1337457362",
@@ -1823,6 +1811,19 @@
       "closedOn": "2026-10-17"
     },
     {
+      "id": "pichincha-1337283362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASISTENTE SERVICIOS COMPARTIDOS RRHH - EVENTUAL (UIO)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-08",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ASISTENTE-SERVICIOS-COMPARTIDOS-RRHH-EVENTUAL-%28UIO%29-QUIT-SERVICIOS/1337283362/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-31"
+    },
+    {
       "id": "pichincha-1337300662",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1873,6 +1874,19 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337245962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO C - SAN MIGUEL (GUARANDA)",
+      "province": "BOLIVAR",
+      "city": "SAN MIGUEL",
+      "publishedAt": "2026-10-07",
+      "url": "https://vacantes.pichincha.com/job/SAN-MIGUEL-EJECUTIVO-DE-CREDITO-C-SAN-MIGUEL-%28GUARANDA%29-GUAR-ZONA-SUR-O/1337245962/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-31"
     },
     {
       "id": "pichincha-1337267262",
@@ -1964,6 +1978,19 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "pichincha-1337143562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - LOS RIOS",
+      "province": "LOS RIOS",
+      "city": "BABAHOYO",
+      "publishedAt": "2026-10-02",
+      "url": "https://vacantes.pichincha.com/job/BABAHOYO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-LOS-RIOS-BABA-ZONA-COSTA/1337143562/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-10-31"
     },
     {
       "id": "pichincha-1337144362",
