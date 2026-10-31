@@ -2,6 +2,83 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "bancoloja-6ae50f88441151bb778e4def",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Relacionista Público/a",
+      "city": "Loja",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ae50f88441151bb778e4def",
+      "isIT": false,
+      "firstSeen": "2026-10-31"
+    },
+    {
+      "id": "bce-6ae51231a2e187baf106e30e",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Experto de Gobernanza de Datos",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae51231a2e187baf106e30e",
+      "isIT": true,
+      "firstSeen": "2026-10-31"
+    },
+    {
+      "id": "bce-6ae50f4de6091b63eb62c36d",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Arquitecto de Soluciones especializado en proyectos de interoperabilidad e Integración de Sistemas",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae50f4de6091b63eb62c36d",
+      "isIT": true,
+      "firstSeen": "2026-10-31"
+    },
+    {
+      "id": "bce-6ae50d99a2e187baf106db02",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Experto en Arquitectura Empresarial",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae50d99a2e187baf106db02",
+      "isIT": false,
+      "firstSeen": "2026-10-31"
+    },
+    {
+      "id": "bce-6ae50b00e6091b63eb62ba84",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Especialista de Seguridad de la Información",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae50b00e6091b63eb62ba84",
+      "isIT": true,
+      "firstSeen": "2026-10-31"
+    },
+    {
+      "id": "bce-6ae5075e9f81ca9adbd3f853",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Especialista de Procesos, Calidad e Innovación",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae5075e9f81ca9adbd3f853",
+      "isIT": false,
+      "firstSeen": "2026-10-31"
+    },
+    {
+      "id": "bce-6ae50435441151bb778e39bf",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Experto Funcional de Sistemas de Pago e Interoperabilidad 2",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae50435441151bb778e39bf",
+      "isIT": false,
+      "firstSeen": "2026-10-31"
+    },
+    {
       "id": "pichincha-1337081062",
       "source": "pichincha",
       "institution": "Banco Pichincha",

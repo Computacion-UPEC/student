@@ -101,6 +101,28 @@
       "firstSeen": "2026-10-30"
     },
     {
+      "id": "arca-1446571100",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-30",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-GUAYAQUIL-SUR/1446571100/",
+      "isIT": false,
+      "firstSeen": "2026-10-31"
+    },
+    {
+      "id": "arca-1446578700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-30",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-GUAYAQUIL-Dip-Guay/1446578700/",
+      "isIT": false,
+      "firstSeen": "2026-10-31"
+    },
+    {
       "id": "difare-trabajador-social",
       "source": "difare",
       "company": "Difare",
@@ -515,17 +537,6 @@
       "city": null,
       "publishedAt": "2026-10-26",
       "url": "https://careers.arcacontal.com/job/SEL-Salinas-VENDEDOR-UNIVERSAL-CEDI-SALINAS-Dip-Sali/1443632800/",
-      "isIT": false,
-      "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "farmaenlace-1337730362",
-      "source": "farmaenlace",
-      "company": "Farmaenlace",
-      "title": "EJECUTIVO JUNIOR DE CONVENIOS",
-      "city": "Cuenca",
-      "publishedAt": null,
-      "url": "https://trabajaconnosotros.farmaenlace.com/job/Cuenca-EJECUTIVO-JUNIOR-DE-CONVENIOS-AZUA/1337730362/",
       "isIT": false,
       "firstSeen": "2026-10-26"
     },
@@ -2753,6 +2764,18 @@
       "isIT": false,
       "firstSeen": "2026-10-27",
       "closedOn": "2026-10-30"
+    },
+    {
+      "id": "farmaenlace-1337730362",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "EJECUTIVO JUNIOR DE CONVENIOS",
+      "city": "Cuenca",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Cuenca-EJECUTIVO-JUNIOR-DE-CONVENIOS-AZUA/1337730362/",
+      "isIT": false,
+      "firstSeen": "2026-10-26",
+      "closedOn": "2026-10-31"
     },
     {
       "id": "arca-1443673500",
