@@ -2,6 +2,17 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "arca-1416828800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "JEFE DE SEGURIDAD INDUSTRIAL | PLANTA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-11-01",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-JEFE-DE-SEGURIDAD-INDUSTRIAL-PLANTA-GUAYAQUIL-60000/1416828800/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "arca-1435618900",
       "source": "arca",
       "company": "Arca Continental",
@@ -130,28 +141,6 @@
       "city": "PICHINCHA",
       "publishedAt": null,
       "url": "https://difare.evaluar.com/trabajo/trabajador-social/",
-      "isIT": false,
-      "firstSeen": "2026-10-29"
-    },
-    {
-      "id": "arca-1435540300",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI TENA",
-      "city": null,
-      "publishedAt": "2026-10-29",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-TENA/1435540300/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "holcim-1358229557",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Base de datos - Operadora de Equipo Pesado - Guayaquil",
-      "city": "EC",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Base-de-datos-Operadora-de-Equipo-Pesado-Guayaquil/1358229557/",
       "isIT": false,
       "firstSeen": "2026-10-29"
     },
@@ -394,28 +383,6 @@
       "city": null,
       "publishedAt": "2026-10-27",
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-CHOFER-DE-TRAILER-CEDI-GUAYAQUIL-Dip-Guay/1444380700/",
-      "isIT": false,
-      "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "arca-1444357200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-10-27",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-GUAYAQUIL-Dip-Guay/1444357200/",
-      "isIT": false,
-      "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "arca-1444357000",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-10-27",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-GUAYAQUIL-Dip-Guay/1444357000/",
       "isIT": false,
       "firstSeen": "2026-10-28"
     },
@@ -2312,17 +2279,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1442520200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "AYUDANTE DE BODEGA | CEDI VALLE",
-      "city": null,
-      "publishedAt": "2026-10-21",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-AYUDANTE-DE-BODEGA-CEDI-VALLE-Dip-Quit/1442520200/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "claro-1803",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -2341,17 +2297,6 @@
       "city": null,
       "publishedAt": "2026-10-20",
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AUXILIAR-ADMINISTRATIVA-PLANTA-GUAYAQUIL-60000/1442052200/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1431318700",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "COORDINADOR REGIONAL DE LOGISTICA | CEDI AMBATO",
-      "city": null,
-      "publishedAt": "2026-10-16",
-      "url": "https://careers.arcacontal.com/job/COORDINADOR-REGIONAL-DE-LOGISTICA-CEDI-AMBATO/1431318700/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -2422,39 +2367,6 @@
       "firstSeen": "2026-10-30"
     },
     {
-      "id": "arca-1440067800",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR UNIVERSAL | CEDI IBARRA",
-      "city": null,
-      "publishedAt": "2026-10-14",
-      "url": "https://careers.arcacontal.com/job/IMB-Ibarra-VENDEDOR-UNIVERSAL-CEDI-IBARRA-Dip-Ibar/1440067800/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1440068400",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR UNIVERSAL | CEDI IBARRA",
-      "city": null,
-      "publishedAt": "2026-10-14",
-      "url": "https://careers.arcacontal.com/job/IMB-Ibarra-VENDEDOR-UNIVERSAL-CEDI-IBARRA-Dip-Ibar/1440068400/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "claro-1801",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "ASESOR CORPORATIVO TELCO",
-      "city": null,
-      "publishedAt": "2026-10-14",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1801",
-      "isIT": false,
-      "firstSeen": "2026-10-24"
-    },
-    {
       "id": "arca-1439349900",
       "source": "arca",
       "company": "Arca Continental",
@@ -2510,28 +2422,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1416828800",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "JEFE DE SEGURIDAD INDUSTRIAL | PLANTA GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-10-03",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-JEFE-DE-SEGURIDAD-INDUSTRIAL-PLANTA-GUAYAQUIL-60000/1416828800/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "claro-1759",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "CONSULTOR CORPORATIVO DE SOLUCIONES DIGITALES",
-      "city": null,
-      "publishedAt": "2026-09-15",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1759",
-      "isIT": false,
-      "firstSeen": "2026-10-24"
-    },
-    {
       "id": "claro-1483",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -2553,6 +2443,30 @@
       "isIT": false,
       "firstSeen": "2026-10-26",
       "closedOn": "2026-10-31"
+    },
+    {
+      "id": "arca-1435540300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI TENA",
+      "city": null,
+      "publishedAt": "2026-10-29",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-TENA/1435540300/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-01"
+    },
+    {
+      "id": "holcim-1358229557",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Base de datos - Operadora de Equipo Pesado - Guayaquil",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Base-de-datos-Operadora-de-Equipo-Pesado-Guayaquil/1358229557/",
+      "isIT": false,
+      "firstSeen": "2026-10-29",
+      "closedOn": "2026-11-01"
     },
     {
       "id": "claro-1813",
@@ -2601,6 +2515,30 @@
       "isIT": false,
       "firstSeen": "2026-10-29",
       "closedOn": "2026-10-30"
+    },
+    {
+      "id": "arca-1444357200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-GUAYAQUIL-Dip-Guay/1444357200/",
+      "isIT": false,
+      "firstSeen": "2026-10-28",
+      "closedOn": "2026-11-01"
+    },
+    {
+      "id": "arca-1444357000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-GUAYAQUIL-Dip-Guay/1444357000/",
+      "isIT": false,
+      "firstSeen": "2026-10-28",
+      "closedOn": "2026-11-01"
     },
     {
       "id": "arca-1444124400",
@@ -3047,6 +2985,18 @@
       "closedOn": "2026-10-22"
     },
     {
+      "id": "arca-1442520200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AYUDANTE DE BODEGA | CEDI VALLE",
+      "city": null,
+      "publishedAt": "2026-10-21",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-AYUDANTE-DE-BODEGA-CEDI-VALLE-Dip-Quit/1442520200/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-01"
+    },
+    {
       "id": "arca-1442131500",
       "source": "arca",
       "company": "Arca Continental",
@@ -3191,6 +3141,18 @@
       "closedOn": "2026-10-31"
     },
     {
+      "id": "arca-1431318700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "COORDINADOR REGIONAL DE LOGISTICA | CEDI AMBATO",
+      "city": null,
+      "publishedAt": "2026-10-16",
+      "url": "https://careers.arcacontal.com/job/COORDINADOR-REGIONAL-DE-LOGISTICA-CEDI-AMBATO/1431318700/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-01"
+    },
+    {
       "id": "arca-1440781700",
       "source": "arca",
       "company": "Arca Continental",
@@ -3285,6 +3247,42 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-28"
+    },
+    {
+      "id": "arca-1440067800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR UNIVERSAL | CEDI IBARRA",
+      "city": null,
+      "publishedAt": "2026-10-14",
+      "url": "https://careers.arcacontal.com/job/IMB-Ibarra-VENDEDOR-UNIVERSAL-CEDI-IBARRA-Dip-Ibar/1440067800/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-01"
+    },
+    {
+      "id": "arca-1440068400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR UNIVERSAL | CEDI IBARRA",
+      "city": null,
+      "publishedAt": "2026-10-14",
+      "url": "https://careers.arcacontal.com/job/IMB-Ibarra-VENDEDOR-UNIVERSAL-CEDI-IBARRA-Dip-Ibar/1440068400/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-01"
+    },
+    {
+      "id": "claro-1801",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ASESOR CORPORATIVO TELCO",
+      "city": null,
+      "publishedAt": "2026-10-14",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1801",
+      "isIT": false,
+      "firstSeen": "2026-10-24",
+      "closedOn": "2026-11-01"
     },
     {
       "id": "arca-1440144400",
@@ -3477,6 +3475,18 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-23"
+    },
+    {
+      "id": "claro-1759",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "CONSULTOR CORPORATIVO DE SOLUCIONES DIGITALES",
+      "city": null,
+      "publishedAt": "2026-09-15",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1759",
+      "isIT": false,
+      "firstSeen": "2026-10-24",
+      "closedOn": "2026-11-01"
     }
   ]
 }

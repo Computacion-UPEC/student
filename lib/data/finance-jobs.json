@@ -2,6 +2,18 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1335907362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO PROCESOS IA",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-01",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PROCESOS-IA-QUIT-TRANSFORMA/1335907362/",
+      "isIT": true,
+      "firstSeen": "2026-10-29"
+    },
+    {
       "id": "bancoloja-6ae50f88441151bb778e4def",
       "source": "bancoloja",
       "institution": "Banco de Loja",
@@ -79,18 +91,6 @@
       "firstSeen": "2026-10-31"
     },
     {
-      "id": "pichincha-1337144262",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - HUAQUILLAS",
-      "province": "EL ORO",
-      "city": "MACHALA",
-      "publishedAt": "2026-10-31",
-      "url": "https://vacantes.pichincha.com/job/MACHALA-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-HUAQUILLAS-MACH-ZONA-COSTA/1337144262/",
-      "isIT": false,
-      "firstSeen": "2026-10-17"
-    },
-    {
       "id": "pichincha-1337905562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -149,30 +149,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-SOSTENIBILIDAD-QUIT-SOSTENIBIL/1337888662/",
       "isIT": false,
       "firstSeen": "2026-10-30"
-    },
-    {
-      "id": "pichincha-1332901862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL ALMACENAMIENTO - GUAYAQUIL",
-      "province": "GUAYAS",
-      "city": "GUAYAQUIL",
-      "publishedAt": "2026-10-29",
-      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-OFICIAL-COMERCIAL-ALMACENAMIENTO-GUAYAQUIL-GUAY-COMERCIAL/1332901862/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1336926362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES EVENTUAL - QUININDÉ",
-      "province": "ESMERALDAS",
-      "city": "QUININDE",
-      "publishedAt": "2026-10-29",
-      "url": "https://vacantes.pichincha.com/job/QUININDE-EJECUTIVO-SERVICIOS-TRANSACCIONALES-EVENTUAL-QUININD%C3%89-ESME-ZONA-ESMER/1336926362/",
-      "isIT": false,
-      "firstSeen": "2026-10-21"
     },
     {
       "id": "pichincha-1337044862",
@@ -269,18 +245,6 @@
       "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-OFICIAL-COMERCIAL-Y-SERVICIOS-AGENCIA-VIRTUAL-GUAYAQUIL-GUAY-OFICINA-VI/1337799462/",
       "isIT": false,
       "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "pichincha-1337753562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - AG. PUNTO PAGO SUR",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-27",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-AG_-PUNTO-PAGO-SUR-QUIT-ZONA-QUITO/1337753562/",
-      "isIT": false,
-      "firstSeen": "2026-10-27"
     },
     {
       "id": "pichincha-1335668362",
@@ -434,28 +398,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "pagueya-6ad27e72e8eca271255a745c",
-      "source": "pagueya",
-      "institution": "Pague Ya (Grupo Pichincha)",
-      "title": "TRAINEE TECNOLOGIA",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ad27e72e8eca271255a745c",
-      "isIT": true,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "pagueya-6acd7c05bb9d54db293385c4",
-      "source": "pagueya",
-      "institution": "Pague Ya (Grupo Pichincha)",
-      "title": "PASANTE CUMPLIMIENTO",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6acd7c05bb9d54db293385c4",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "pagueya-6ac569aff89824fde814a923",
       "source": "pagueya",
       "institution": "Pague Ya (Grupo Pichincha)",
@@ -474,28 +416,6 @@
       "city": "Quito",
       "publishedAt": null,
       "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6aa302897cddc35f18e263e7",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "bancoloja-6ad2a6408e0b7d70dc0f0918",
-      "source": "bancoloja",
-      "institution": "Banco de Loja",
-      "title": "Gerente de Negocios",
-      "city": "Loja",
-      "publishedAt": null,
-      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ad2a6408e0b7d70dc0f0918",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "bancoloja-6ad273a36118d36ade436997",
-      "source": "bancoloja",
-      "institution": "Banco de Loja",
-      "title": "Gerente de Marketing y Experiencia",
-      "city": "Loja",
-      "publishedAt": null,
-      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ad273a36118d36ade436997",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -1013,18 +933,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337501462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "TRABAJADOR SOCIAL - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-16",
-      "url": "https://vacantes.pichincha.com/job/QUITO-TRABAJADOR-SOCIAL-QUITO-QUIT-BIENESTAR/1337501462/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1336150162",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1181,16 +1089,43 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1335907362",
+      "id": "pichincha-1337144262",
       "source": "pichincha",
       "institution": "Banco Pichincha",
-      "title": "EXPERTO PROCESOS IA",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-03",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PROCESOS-IA-QUIT-TRANSFORMA/1335907362/",
-      "isIT": true,
-      "firstSeen": "2026-10-29"
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - HUAQUILLAS",
+      "province": "EL ORO",
+      "city": "MACHALA",
+      "publishedAt": "2026-10-31",
+      "url": "https://vacantes.pichincha.com/job/MACHALA-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-HUAQUILLAS-MACH-ZONA-COSTA/1337144262/",
+      "isIT": false,
+      "firstSeen": "2026-10-17",
+      "closedOn": "2026-11-01"
+    },
+    {
+      "id": "pichincha-1332901862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL ALMACENAMIENTO - GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-10-29",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-OFICIAL-COMERCIAL-ALMACENAMIENTO-GUAYAQUIL-GUAY-COMERCIAL/1332901862/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-11-01"
+    },
+    {
+      "id": "pichincha-1336926362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES EVENTUAL - QUININDÉ",
+      "province": "ESMERALDAS",
+      "city": "QUININDE",
+      "publishedAt": "2026-10-29",
+      "url": "https://vacantes.pichincha.com/job/QUININDE-EJECUTIVO-SERVICIOS-TRANSACCIONALES-EVENTUAL-QUININD%C3%89-ESME-ZONA-ESMER/1336926362/",
+      "isIT": false,
+      "firstSeen": "2026-10-21",
+      "closedOn": "2026-11-01"
     },
     {
       "id": "pichincha-1337789362",
@@ -1217,6 +1152,19 @@
       "isIT": false,
       "firstSeen": "2026-10-28",
       "closedOn": "2026-10-29"
+    },
+    {
+      "id": "pichincha-1337753562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - AG. PUNTO PAGO SUR",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-27",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-AG_-PUNTO-PAGO-SUR-QUIT-ZONA-QUITO/1337753562/",
+      "isIT": false,
+      "firstSeen": "2026-10-27",
+      "closedOn": "2026-11-01"
     },
     {
       "id": "pichincha-1337760262",
@@ -1333,6 +1281,54 @@
       "isIT": false,
       "firstSeen": "2026-10-24",
       "closedOn": "2026-10-28"
+    },
+    {
+      "id": "pagueya-6ad27e72e8eca271255a745c",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "TRAINEE TECNOLOGIA",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ad27e72e8eca271255a745c",
+      "isIT": true,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-01"
+    },
+    {
+      "id": "pagueya-6acd7c05bb9d54db293385c4",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "PASANTE CUMPLIMIENTO",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6acd7c05bb9d54db293385c4",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-01"
+    },
+    {
+      "id": "bancoloja-6ad2a6408e0b7d70dc0f0918",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Gerente de Negocios",
+      "city": "Loja",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ad2a6408e0b7d70dc0f0918",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-01"
+    },
+    {
+      "id": "bancoloja-6ad273a36118d36ade436997",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Gerente de Marketing y Experiencia",
+      "city": "Loja",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ad273a36118d36ade436997",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-01"
     },
     {
       "id": "pagueya-6ac6b60b65c496d89447922a",
@@ -1562,6 +1558,19 @@
       "isIT": false,
       "firstSeen": "2026-10-20",
       "closedOn": "2026-10-23"
+    },
+    {
+      "id": "pichincha-1337501462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "TRABAJADOR SOCIAL - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-16",
+      "url": "https://vacantes.pichincha.com/job/QUITO-TRABAJADOR-SOCIAL-QUITO-QUIT-BIENESTAR/1337501462/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-11-01"
     },
     {
       "id": "pichincha-1336680662",
