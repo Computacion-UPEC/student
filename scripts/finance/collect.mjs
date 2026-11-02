@@ -5,14 +5,16 @@
 //     enlazado desde "Trabaja con nosotros" de pichinchasistemas.com
 //   - Banco Central del Ecuador: portal de HiringRoom, enlazado desde bce.fin.ec
 //   - Banco de Loja: portal de HiringRoom, enlazado desde "Trabaja con nosotros" de bancodeloja.fin.ec
+//   - Banco Internacional: SuccessFactors clásico, leído desde su feed XML público (scripts/lib/successfactors-xml.mjs)
 // Otras empresas del Grupo Pichincha no tienen portal propio: Credife y Amerafin fueron absorbidas por el banco en
 // 2024 (BankWatch Ratings, calificación de papel comercial 2026) y sus cargos salen en el portal de Banco Pichincha;
 // Vaserum (transporte de valores), Almesa (almacenera) y Deuna (billetera) no tienen sitio de empleo verificable.
 // Los bancos del grupo en el exterior quedan como enlace: Perú (Bumeran) y España (InfoJobs).
 // Los demás portales se quedan como enlace (ver lib/finance-portals.ts): Produbanco (publica en Multitrabajos),
-// Banco Internacional (solo formulario de búsqueda), BanEcuador (sin página de vacantes; sus entradas
-// "convocatoria" son llamados antiguos a secretarios de coactiva), Alianza del Valle, Jardín Azuayo, CACPECO
-// y Cooperativa Tulcán (formulario de hoja de vida, no vacantes).
+// BanEcuador (sin página de vacantes; sus entradas
+// "convocatoria" son llamados antiguos a secretarios de coactiva), Alianza del Valle, Jardín Azuayo y
+// Cooperativa Tulcán (formulario de hoja de vida, no vacantes). CACPECO publica en Laburo, que exige un navegador real
+// (Firebase App Check): lo recoge portales_navegador.py del scraper de Encuentra Empleo, desde un computador.
 //
 // Guarda un historial en lib/data/finance-jobs.json: cada oferta tiene firstSeen y, cuando deja de
 // publicarse, closedOn. Solo escribe el archivo si algo cambió.
@@ -21,6 +23,7 @@ import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
 import { hiringRoom } from "../lib/hiringroom.mjs"
+import { successFactorsXml } from "../lib/successfactors-xml.mjs"
 import { isITRole } from "../lib/it-roles.mjs"
 
 const here = path.dirname(fileURLToPath(import.meta.url))
@@ -95,6 +98,7 @@ const SOURCES = [
   { id: "pagueya", institution: "Pague Ya (Grupo Pichincha)", collect: () => hiringRoom("pagueya") },
   { id: "bancoloja", institution: "Banco de Loja", collect: () => hiringRoom("bancoloja") },
   { id: "bce", institution: "Banco Central del Ecuador", collect: () => hiringRoom("bancocentraldelecuador") },
+  { id: "bancointernacional", institution: "Banco Internacional", collect: () => successFactorsXml("career2.successfactors.eu", "interame01", "VjItV1BPM0FGNlZ0TDkwSHBhc3NlbUtIUT09") },
 ]
 
 const previous = existsSync(OUT) ? JSON.parse(readFileSync(OUT, "utf8")) : { jobs: [] }
