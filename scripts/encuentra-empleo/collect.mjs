@@ -122,7 +122,8 @@ const previous = existsSync(OUT) ? JSON.parse(readFileSync(OUT, "utf8")) : { job
 const jobs = new Map(previous.jobs.map((job) => [job.id, job]))
 for (const vacancy of vacancies.filter((item) => isITRole(item.title))) {
   const before = jobs.get(vacancy.id)
-  jobs.set(vacancy.id, { ...vacancy, isIT: true, firstSeen: before?.firstSeen ?? today, lastSeen: today })
+  // Conserva lo que agregó el scraper local (enlace a las bases del concurso)
+  jobs.set(vacancy.id, { ...before, ...vacancy, isIT: true, firstSeen: before?.firstSeen ?? today, lastSeen: today })
 }
 const sorted = [...jobs.values()].sort((a, b) => (b.closesAt ?? "").localeCompare(a.closesAt ?? ""))
 const summary = { date: today, institutions: institutionsWithVacancies, vacancies: vacancies.length }

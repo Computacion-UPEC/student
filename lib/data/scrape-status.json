@@ -1,0 +1,64 @@
+{
+  "platforms": {
+    "Bancos": {
+      "lastRun": "2026-11-02",
+      "lastSuccess": "2026-11-02",
+      "ok": true
+    },
+    "CELEC": {
+      "lastRun": "2026-10-16",
+      "lastSuccess": "2026-10-16",
+      "ok": true
+    },
+    "CNT": {
+      "lastRun": "2026-11-02",
+      "lastSuccess": "2026-11-02",
+      "ok": true
+    },
+    "Concursos": {
+      "lastRun": "2026-11-02",
+      "lastSuccess": "2026-11-02",
+      "ok": true
+    },
+    "Educa-Empleo": {
+      "lastRun": "2026-11-02",
+      "lastSuccess": "2026-11-02",
+      "ok": true
+    },
+    "Encuentra-Empleo": {
+      "lastRun": "2026-10-20",
+      "lastSuccess": "2026-10-20",
+      "ok": true
+    },
+    "Encuentra-Empleo-bases": {
+      "lastRun": "2026-10-29",
+      "lastSuccess": "2026-10-29",
+      "ok": true
+    },
+    "INEC": {
+      "lastRun": "2026-11-02",
+      "lastSuccess": "2026-11-02",
+      "ok": true
+    },
+    "Petroecuador": {
+      "lastRun": "2026-11-02",
+      "lastSuccess": "2026-11-02",
+      "ok": true
+    },
+    "Privadas": {
+      "lastRun": "2026-11-02",
+      "lastSuccess": "2026-11-02",
+      "ok": true
+    },
+    "Remotas": {
+      "lastRun": "2026-11-02",
+      "lastSuccess": "2026-11-02",
+      "ok": true
+    },
+    "Software": {
+      "lastRun": "2026-11-02",
+      "lastSuccess": "2026-11-02",
+      "ok": true
+    }
+  }
+}

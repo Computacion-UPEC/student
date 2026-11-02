@@ -17,6 +17,7 @@ import { PublicRoutes } from "@/components/opportunities/public-routes"
 import { TechJobs, countOpenTechITJobs } from "@/components/opportunities/tech-jobs"
 import { EncuentraEmpleoJobs, countOpenEncuentraEmpleoJobs } from "@/components/opportunities/encuentra-empleo-jobs"
 import { EmploymentStageNotice } from "@/components/opportunities/stage-picker"
+import { ScrapedPlatforms } from "@/components/opportunities/scraped-platforms"
 import { UpdateOffers } from "@/components/opportunities/update-offers"
 import { financePortals } from "@/lib/finance-portals"
 import { privatePortals } from "@/lib/private-portals"
@@ -63,6 +64,7 @@ export function EmploymentTab({ stage }: { stage: Stage | null }) {
   return <div>
     <EmploymentStageNotice stage={stage} />
     <UpdateOffers />
+    <ScrapedPlatforms />
 
     <div className="mb-8 flex flex-col gap-3 rounded-2xl border border-border bg-card p-4 lg:flex-row lg:items-center lg:justify-between">
       <div className="flex flex-wrap gap-1 rounded-lg bg-muted p-1" role="group" aria-label="Sector">

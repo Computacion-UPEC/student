@@ -19,7 +19,7 @@ git checkout -q main
 git pull -q --ff-only
 
 node scripts/cnt/collect.mjs
-if git diff --quiet -- lib/data/cnt-jobs.json; then
+if git diff --quiet -- lib/data/cnt-jobs.json lib/data/scrape-status.json; then
   echo "CNT: sin cambios, no hace falta un PR."
   exit 0
 fi
@@ -27,7 +27,7 @@ fi
 stamp=$(date +%Y-%m-%d-%H%M)
 branch="data/cnt-$stamp"
 git checkout -q -b "$branch"
-git add lib/data/cnt-jobs.json
+git add lib/data/cnt-jobs.json lib/data/scrape-status.json
 git commit -q -m "Update CNT jobs ($stamp)"
 git push -q -u origin "$branch"
 gh pr create --base main --head "$branch" --title "Update CNT jobs ($stamp)" \
