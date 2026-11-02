@@ -126,3 +126,32 @@ const merged = [
 const changed = JSON.stringify(previous.jobs) !== JSON.stringify(merged)
 if (changed) writeFileSync(out, JSON.stringify({ source: "https://www.celec.gob.ec", exportedAt: today, jobs: merged }, null, 2) + "\n")
 console.log(`CELEC: ${jobs.length} convocatorias para TI en el sitio, ${merged.length} en el historial. ${changed ? "Datos actualizados." : "Sin cambios."}`)
+
+// Todas las convocatorias (hoja "Todas") con su enlace, para revisarlas una por una: lib/data/celec-all.json
+const allSheet = wb.Sheets["Todas"]
+const allRows = allSheet ? XLSX.utils.sheet_to_json(allSheet, { header: 1 }) : []
+const allHeader = allRows[0] ?? []
+const allRange = allSheet ? XLSX.utils.decode_range(allSheet["!ref"]) : null
+const calls = []
+for (let r = 1; allRange && r <= allRange.e.r; r++) {
+  const at = (name) => allSheet[XLSX.utils.encode_cell({ r, c: allHeader.indexOf(name) })]
+  const role = clean(at("Cargo")?.v)
+  if (!role) continue
+  calls.push({
+    unit: clean(at("Unidad")?.v),
+    role,
+    eligibility: clean(at("Elegibilidad Ing. Computación")?.v).replace(/^\d\.\s*/, ""),
+    publishedAt: toDate(at("Fecha publicación")?.v),
+    closesAt: toDate(at("Fecha finalización")?.v),
+    url: at("Documento")?.l?.Target ?? null,
+  })
+}
+if (calls.length) {
+  const allOut = path.join(root, "lib", "data", "celec-all.json")
+  const previousCalls = existsSync(allOut) ? JSON.parse(readFileSync(allOut, "utf8")).calls : []
+  const seen = new Set(calls.map(key))
+  const allMerged = [...calls, ...previousCalls.filter((call) => !seen.has(key(call)))]
+    .sort((a, b) => (b.publishedAt ?? "").localeCompare(a.publishedAt ?? ""))
+  if (JSON.stringify(previousCalls) !== JSON.stringify(allMerged)) writeFileSync(allOut, JSON.stringify({ source: "https://www.celec.gob.ec", calls: allMerged }, null, 2) + "\n")
+  console.log(`CELEC: ${allMerged.length} convocatorias en total (todas las unidades) en ${path.relative(root, allOut)}`)
+}

@@ -115,13 +115,13 @@ jobs:
 
       - name: Guardar cambios
         run: |
-          if git diff --quiet -- lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json lib/data/inec-jobs.json lib/data/public-jobs.json lib/data/private-jobs.json lib/data/celec-jobs.json lib/data/scrape-status.json; then
+          if git diff --quiet -- lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json lib/data/inec-jobs.json lib/data/public-jobs.json lib/data/private-jobs.json lib/data/celec-jobs.json lib/data/celec-all.json lib/data/scrape-status.json; then
             echo "Sin cambios en las convocatorias."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json lib/data/inec-jobs.json lib/data/public-jobs.json lib/data/private-jobs.json lib/data/celec-jobs.json lib/data/scrape-status.json
+          git add lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json lib/data/inec-jobs.json lib/data/public-jobs.json lib/data/private-jobs.json lib/data/celec-jobs.json lib/data/celec-all.json lib/data/scrape-status.json
           git commit -m "Update job offers"
           # Si main avanzó durante la recolección (p. ej. se fusionó un PR), se integra antes de subir
           for intento in 1 2 3; do
