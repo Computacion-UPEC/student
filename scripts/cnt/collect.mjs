@@ -11,6 +11,7 @@ import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
 import { isITRole } from "../lib/it-roles.mjs"
+import { recordStatus } from "../lib/status.mjs"
 
 const FEED = "https://empleo.cnt.gob.ec/feed/?post_type=job"
 const here = path.dirname(fileURLToPath(import.meta.url))
@@ -85,3 +86,4 @@ if (changed) writeFileSync(OUT, output)
 const open = sorted.filter((job) => job.closesOn && job.closesOn >= today)
 console.log(`CNT: ${sorted.length} vacantes (${sorted.filter((job) => job.isIT).length} de TI), ${open.length} abiertas. ${changed ? "Datos actualizados." : "Sin cambios."}`)
 for (const job of open) console.log(`  ${job.isIT ? "[TI] " : ""}${job.title} — cierra ${job.closesOn}`)
+recordStatus({ CNT: true })

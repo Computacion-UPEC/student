@@ -2,6 +2,69 @@
   "source": "https://empleo.cnt.gob.ec/procesos/",
   "jobs": [
     {
+      "id": "operador-de-operacion-outsourcing-quito-temporal-2",
+      "title": "OPERADOR DE OPERACIÓN OUTSOURCING – QUITO (TEMPORAL)",
+      "url": "https://empleo.cnt.gob.ec/job/operador-de-operacion-outsourcing-quito-temporal-2/",
+      "publishedOn": "2026-10-30",
+      "closesOn": "2026-11-04",
+      "isIT": false,
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "impulsador-de-ventas-temporal-quito-ii-convocatoria",
+      "title": "IMPULSADOR DE VENTAS TEMPORAL QUITO – II CONVOCATORIA",
+      "url": "https://empleo.cnt.gob.ec/job/impulsador-de-ventas-temporal-quito-ii-convocatoria/",
+      "publishedOn": "2026-10-30",
+      "closesOn": "2026-11-04",
+      "isIT": false,
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "vendedor-temporal-quito-ii-convocatoria",
+      "title": "VENDEDOR TEMPORAL QUITO – II CONVOCATORIA",
+      "url": "https://empleo.cnt.gob.ec/job/vendedor-temporal-quito-ii-convocatoria/",
+      "publishedOn": "2026-10-30",
+      "closesOn": "2026-11-04",
+      "isIT": false,
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "concurso-analista-de-gestion-de-om-de-cable-submarino-santa-elena",
+      "title": "CONCURSO ANALISTA DE GESTION DE O&M DE CABLE SUBMARINO – SANTA ELENA",
+      "url": "https://empleo.cnt.gob.ec/job/concurso-analista-de-gestion-de-om-de-cable-submarino-santa-elena/",
+      "publishedOn": "2026-10-26",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "concurso-tecnico-de-om-energia-y-climatizacion-quito",
+      "title": "CONCURSO TÉCNICO DE O&M ENERGÍA Y CLIMATIZACIÓN – QUITO",
+      "url": "https://empleo.cnt.gob.ec/job/concurso-tecnico-de-om-energia-y-climatizacion-quito/",
+      "publishedOn": "2026-10-26",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "impulsador-de-ventas-temporal-quito",
+      "title": "IMPULSADOR DE VENTAS TEMPORAL QUITO",
+      "url": "https://empleo.cnt.gob.ec/job/impulsador-de-ventas-temporal-quito/",
+      "publishedOn": "2026-10-26",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "vendedor-temporal-quito",
+      "title": "VENDEDOR TEMPORAL QUITO",
+      "url": "https://empleo.cnt.gob.ec/job/vendedor-temporal-quito/",
+      "publishedOn": "2026-10-26",
+      "closesOn": null,
+      "isIT": false,
+      "firstSeen": "2026-11-02"
+    },
+    {
       "id": "analista-de-negociacion-temporal-quito-2",
       "title": "ANALISTA DE NEGOCIACION – TEMPORAL – QUITO",
       "url": "https://empleo.cnt.gob.ec/job/analista-de-negociacion-temporal-quito-2/",

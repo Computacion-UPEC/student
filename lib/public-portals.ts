@@ -88,7 +88,12 @@ export type PublicContestJob = {
   stage: string
   opensAt: string | null
   closesAt: string | null
+  /** Rol de TI según el título del cargo. */
   isIT: boolean
+  /** El cargo no es de TI pero sus bases aceptan una carrera de TI (lo agrega el scraper local, que lee el PDF). */
+  acceptsIT?: boolean
+  /** PDF de las bases del concurso (copia publicada por el scraper local). */
+  basesUrl?: string
   firstSeen: string
   lastSeen: string
 }
