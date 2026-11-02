@@ -1,14 +1,19 @@
 // Convierte la hoja "Para Ing. Computación" del Excel generado por scrape_celec.py
 // en lib/data/celec-jobs.json, que es lo que usa la página de Oportunidades.
 //
+// Conserva el historial: las convocatorias que CELEC ya retiró de su sitio siguen en el JSON (como cerradas).
+//
 // Uso:  node scripts/export-celec.mjs [ruta/al/archivo.xlsx]
 // Sin argumento usa el .xlsx más reciente dentro de data/.
-import { readdirSync, statSync, writeFileSync, mkdirSync } from "node:fs"
+import { createHash } from "node:crypto"
+import { existsSync, readdirSync, readFileSync, statSync, writeFileSync, mkdirSync } from "node:fs"
+import { createRequire } from "node:module"
 import path from "node:path"
-import * as XLSX from "xlsx"
 import * as fs from "node:fs"
 import { IT_ROLE } from "./lib/it-roles.mjs"
 
+// xlsx se instala en scripts/petroecuador (lo comparten los recolectores en GitHub Actions)
+const XLSX = createRequire(new URL("./petroecuador/package.json", import.meta.url))("xlsx")
 XLSX.set_fs(fs)
 
 const root = path.resolve(path.dirname(new URL(import.meta.url).pathname.replace(/^\/(\w:)/, "$1")), "..")
@@ -84,7 +89,7 @@ for (let r = range.s.r + 1; r <= range.e.r; r++) {
   const eligibility = clean(value("Elegibilidad Ing. Computación"))
   const docCell = cell("Documento")
   jobs.push({
-    id: `celec-${r}`,
+    id: `celec-${createHash("sha1").update(`${docCell?.l?.Target ?? ""}|${cargo}`).digest("hex").slice(0, 10)}`,
     unit: clean(value("Unidad")),
     role: cargo,
     // Un cargo de TI es afinidad directa aunque la convocatoria no detalle la carrera
@@ -106,5 +111,18 @@ for (let r = range.s.r + 1; r <= range.e.r; r++) {
 
 const out = path.join(root, "lib", "data", "celec-jobs.json")
 mkdirSync(path.dirname(out), { recursive: true })
-writeFileSync(out, JSON.stringify({ source: path.basename(input), exportedAt: new Date().toISOString().slice(0, 10), jobs }, null, 2) + "\n")
-console.log(`${jobs.length} ofertas -> ${path.relative(root, out)}`)
+const today = new Date().toISOString().slice(0, 10)
+const key = (job) => `${job.url ?? ""}|${job.role}`
+const previous = existsSync(out) ? JSON.parse(readFileSync(out, "utf8")) : { jobs: [] }
+const before = new Map(previous.jobs.map((job) => [key(job), job]))
+const current = new Set(jobs.map(key))
+const merged = [
+  // Las exportaciones anteriores al historial no traen firstSeen: se toma su fecha de exportación
+  ...jobs.map((job) => ({ ...job, firstSeen: before.has(key(job)) ? before.get(key(job)).firstSeen ?? previous.exportedAt : today })),
+  // Retiradas del sitio de CELEC: se guardan como historial
+  ...previous.jobs.filter((job) => !current.has(key(job))).map((job) => ({ ...job, firstSeen: job.firstSeen ?? previous.exportedAt })),
+]
+// exportedAt cambia cada día: solo se reescribe si cambiaron las convocatorias
+const changed = JSON.stringify(previous.jobs) !== JSON.stringify(merged)
+if (changed) writeFileSync(out, JSON.stringify({ source: "https://www.celec.gob.ec", exportedAt: today, jobs: merged }, null, 2) + "\n")
+console.log(`CELEC: ${jobs.length} convocatorias para TI en el sitio, ${merged.length} en el historial. ${changed ? "Datos actualizados." : "Sin cambios."}`)
