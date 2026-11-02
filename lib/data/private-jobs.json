@@ -2,6 +2,17 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "arca-1417243400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "JEFE DE TRAFICO | PLANTA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-11-02",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-JEFE-DE-TRAFICO-PLANTA-GUAYAQUIL-00000/1417243400/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "arca-1416828800",
       "source": "arca",
       "company": "Arca Continental",
@@ -218,17 +229,6 @@
       "city": null,
       "publishedAt": "2026-10-29",
       "url": "https://careers.arcacontal.com/job/SUPERVISOR-DE-BODEGA-GUAYAQUIL-SUR/1445140400/",
-      "isIT": false,
-      "firstSeen": "2026-10-30"
-    },
-    {
-      "id": "arca-1445179900",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR AVANCE | CEDI GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-10-29",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-AVANCE-CEDI-GUAYAQUIL-SUR/1445179900/",
       "isIT": false,
       "firstSeen": "2026-10-30"
     },
@@ -2367,17 +2367,6 @@
       "firstSeen": "2026-10-30"
     },
     {
-      "id": "arca-1439349900",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "AUXILIAR ADMINISTRATIVO (D) | CEDI LA LIBERTAD",
-      "city": null,
-      "publishedAt": "2026-10-12",
-      "url": "https://careers.arcacontal.com/job/AUXILIAR-ADMINISTRATIVO-%28D%29-CEDI-LA-LIBERTAD/1439349900/",
-      "isIT": false,
-      "firstSeen": "2026-10-24"
-    },
-    {
       "id": "arca-1419793800",
       "source": "arca",
       "company": "Arca Continental",
@@ -2411,17 +2400,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1417243400",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "JEFE DE TRAFICO | PLANTA GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-10-04",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-JEFE-DE-TRAFICO-PLANTA-GUAYAQUIL-00000/1417243400/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "claro-1483",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -2443,6 +2421,18 @@
       "isIT": false,
       "firstSeen": "2026-10-26",
       "closedOn": "2026-10-31"
+    },
+    {
+      "id": "arca-1445179900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR AVANCE | CEDI GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-29",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-AVANCE-CEDI-GUAYAQUIL-SUR/1445179900/",
+      "isIT": false,
+      "firstSeen": "2026-10-30",
+      "closedOn": "2026-11-02"
     },
     {
       "id": "arca-1435540300",
@@ -3355,6 +3345,18 @@
       "isIT": true,
       "firstSeen": "2026-10-24",
       "closedOn": "2026-10-27"
+    },
+    {
+      "id": "arca-1439349900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AUXILIAR ADMINISTRATIVO (D) | CEDI LA LIBERTAD",
+      "city": null,
+      "publishedAt": "2026-10-12",
+      "url": "https://careers.arcacontal.com/job/AUXILIAR-ADMINISTRATIVO-%28D%29-CEDI-LA-LIBERTAD/1439349900/",
+      "isIT": false,
+      "firstSeen": "2026-10-24",
+      "closedOn": "2026-11-02"
     },
     {
       "id": "arca-1439225500",
