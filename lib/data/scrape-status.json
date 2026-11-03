@@ -5,6 +5,11 @@
       "lastSuccess": "2026-11-02",
       "ok": true
     },
+    "CACPECO": {
+      "lastRun": "2026-11-02",
+      "lastSuccess": "2026-11-02",
+      "ok": true
+    },
     "CELEC": {
       "lastRun": "2026-11-02",
       "lastSuccess": "2026-11-02",
@@ -24,6 +29,11 @@
       "lastRun": "2026-11-02",
       "lastSuccess": "2026-11-02",
       "ok": false
+    },
+    "El-Rosado": {
+      "lastRun": "2026-11-02",
+      "lastSuccess": "2026-11-02",
+      "ok": true
     },
     "Encuentra-Empleo": {
       "lastRun": "2026-11-02",

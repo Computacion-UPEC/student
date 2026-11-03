@@ -21,8 +21,8 @@ export type PrivatePortal = {
 
 export const privatePortals: PrivatePortal[] = [
   { id: "favorita", name: "Corporación Favorita", brands: "Supermaxi, Megamaxi, Akí", sector: "Retail", rank: 1, url: "https://www.supermaxi.com/trabaje-con-nosotros/", platform: "Formularios propios", note: "La empresa más grande del país. Postulación con sus formularios oficiales." },
-  { id: "elrosado", name: "Corporación El Rosado", brands: "Mi Comisariato, Ferrisariato", sector: "Retail", rank: 4, url: "https://empleo.elrosado.com", platform: "Portal propio", note: "Portal de empleo con registro de cuenta." },
-  { id: "pronaca", name: "Pronaca", sector: "Alimentos y bebidas", rank: 7, url: "https://career4.successfactors.com/career?company=C0004326754P", platform: "SuccessFactors", note: "Vacantes en su portal de SuccessFactors." },
+  { id: "elrosado", name: "Corporación El Rosado", brands: "Mi Comisariato, Ferrisariato", sector: "Retail", rank: 4, url: "https://empleo.elrosado.com", platform: "Portal propio", note: "Portal de empleo con registro de cuenta. Revisamos sus vacantes desde un computador con una cuenta de postulante.", collected: true },
+  { id: "pronaca", name: "Pronaca", sector: "Alimentos y bebidas", rank: 7, url: "https://career4.successfactors.com/career?company=C0004326754P", platform: "SuccessFactors", note: "Vacantes en su portal de SuccessFactors; las revisamos dos veces al día.", collected: true },
   { id: "claro", name: "Claro Ecuador", sector: "Telecomunicaciones", rank: 9, url: "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES", platform: "SuccessFactors", note: "Operador con un área de TI grande.", collected: true },
   { id: "tuti", name: "Tiendas Tuti", sector: "Retail", rank: 10, url: "https://tuti.com.ec/trabaja-con-nosotros/", platform: "Página propia", note: "Vacantes publicadas en su sitio.", collected: true },
   { id: "difare", name: "Difare", sector: "Farmacéutica", rank: 12, url: "https://difare.evaluar.com/", platform: "Evaluar.com", note: "Vacantes en su portal de Evaluar, enlazado desde su sitio oficial.", collected: true },
