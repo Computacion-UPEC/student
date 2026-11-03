@@ -22,13 +22,17 @@ export type EncuentraEmpleoJob = {
   sector: string | null
   profile: string
   applicableFromIT: boolean
+  /** Cargo de entrada (asistente, auxiliar, pasante...): el feed también trae los que no son de TI. */
+  entryLevel?: boolean
   /** Último día de postulación (AAAA-MM-DD). */
   closesOn: string | null
   firstSeen: string
   lastSeen: string
 }
 
-const feed = data as { source: string; updatedAt: string | null; jobs: EncuentraEmpleoJob[] }
+export const encuentraEmpleoFeed = data as { source: string; updatedAt: string | null; jobs: EncuentraEmpleoJob[] }
+// Esta sección muestra solo las de TI; las de entrada que no lo son van a "Para recién graduados"
+const feed = { ...encuentraEmpleoFeed, jobs: encuentraEmpleoFeed.jobs.filter((job) => job.profile === "TI directo") }
 const SCRAPER_REPO = "https://github.com/COMPUMAX-EC/encuentraempleo-scraper"
 
 const titleCase = (text: string) => text.toLowerCase().replace(/(^|\s)\p{L}/gu, (letter) => letter.toUpperCase())

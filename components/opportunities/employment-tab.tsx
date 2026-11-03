@@ -1,7 +1,7 @@
 "use client"
 
 import { useEffect, useState, type ReactNode } from "react"
-import { Building2, CircleDot, Code2, Factory, History, Landmark, Zap } from "lucide-react"
+import { Building2, CircleDot, Code2, Factory, GraduationCap, History, Landmark, Zap } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import { CelecAllCalls } from "@/components/opportunities/celec-all-calls"
 import { CelecJobs } from "@/components/opportunities/celec-jobs"
@@ -17,6 +17,7 @@ import { PublicPortals } from "@/components/opportunities/public-portals"
 import { PublicRoutes } from "@/components/opportunities/public-routes"
 import { TechJobs, countOpenTechITJobs } from "@/components/opportunities/tech-jobs"
 import { EncuentraEmpleoJobs, countOpenEncuentraEmpleoJobs } from "@/components/opportunities/encuentra-empleo-jobs"
+import { EntryLevelJobs } from "@/components/opportunities/entry-level-jobs"
 import { EmploymentStageNotice } from "@/components/opportunities/stage-picker"
 import { ScrapedPlatforms } from "@/components/opportunities/scraped-platforms"
 import { UpdateOffers } from "@/components/opportunities/update-offers"
@@ -26,6 +27,8 @@ import { encuentraEmpleoInstitutions, publicPortals } from "@/lib/public-portals
 import { celecJobs, publicOpportunities } from "@/lib/opportunities-data"
 import { itJobs as petroecuadorITJobs } from "@/components/opportunities/petroecuador-jobs"
 import type { Stage } from "@/lib/student-stages"
+
+const ENTRY_KEY = "oportunidades.recien-graduados"
 
 type Sector = "tecnologia" | "privado" | "energia" | "financiero" | "publico"
 
@@ -53,6 +56,10 @@ export function EmploymentTab({ stage }: { stage: Stage | null }) {
   const [sector, setSector] = useState<Sector | "todos">("todos")
   const [onlyOpen, setOnlyOpen] = useState(false)
   const [showHistoric, setShowHistoric] = useState(false)
+  // Resaltar los cargos de entrada: encendido por defecto y recordado en este navegador
+  const [showEntry, setShowEntry] = useState(true)
+  useEffect(() => { try { if (localStorage.getItem(ENTRY_KEY) === "0") setShowEntry(false) } catch {} }, [])
+  const toggleEntry = () => setShowEntry((value) => { try { localStorage.setItem(ENTRY_KEY, value ? "0" : "1") } catch {} return !value })
   const filters = { onlyOpen, showHistoric, onShowHistoric: () => setShowHistoric(true) }
   const visible = (id: Sector) => sector === "todos" || sector === id
   // El conteo de Tecnología incluye Encuentra Empleo, que depende de la fecha: se calcula al montar
@@ -72,11 +79,13 @@ export function EmploymentTab({ stage }: { stage: Stage | null }) {
         {[{ id: "todos" as const, label: "Todos", count: null }, ...sectors.map((item) => ({ id: item.id, label: item.label, count: countFor(item) }))].map((item) => <button key={item.id} type="button" aria-pressed={sector === item.id} onClick={() => setSector(item.id)} className={`rounded-md px-3 py-1.5 text-sm font-medium transition-colors ${sector === item.id ? "bg-background text-foreground shadow-sm" : "text-muted-foreground hover:text-foreground"}`}>{item.label}{item.count != null && <span className="ml-1 text-xs text-muted-foreground">{item.count}</span>}</button>)}
       </div>
       <div className="flex flex-wrap gap-2">
+        <button type="button" aria-pressed={showEntry} onClick={toggleEntry} className={`inline-flex items-center gap-1.5 rounded-lg border px-3 py-1.5 text-sm font-medium transition-colors ${showEntry ? "border-amber-600 bg-amber-600 text-white" : "border-border bg-background text-foreground hover:border-amber-600/50"}`}><GraduationCap className="size-4" /> Recién graduados</button>
         <button type="button" aria-pressed={onlyOpen} onClick={() => setOnlyOpen((value) => !value)} className={toggleClass(onlyOpen)}><CircleDot className="size-4" /> Solo abiertas</button>
         <button type="button" aria-pressed={showHistoric} onClick={() => setShowHistoric((value) => !value)} className={toggleClass(showHistoric)}><History className="size-4" /> Históricos</button>
       </div>
     </div>
 
+    {showEntry && <EntryLevelJobs />}
     {visible("tecnologia") && <SectorGroup sector={sectors.find((item) => item.id === "tecnologia")!}><TechJobs {...filters} /><EncuentraEmpleoJobs {...filters} /></SectorGroup>}
     {visible("privado") && <SectorGroup sector={sectors.find((item) => item.id === "privado")!}><PrivateJobs {...filters} /><PrivatePortals /></SectorGroup>}
     {visible("energia") && <SectorGroup sector={sectors.find((item) => item.id === "energia")!}><PetroecuadorJobs {...filters} /><CelecJobs {...filters} /><CelecAllCalls /></SectorGroup>}

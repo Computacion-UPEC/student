@@ -4,7 +4,8 @@
 // publican sus concursos en la página pública "Concursos de mérito y oposición disponibles por Institución". La tabla
 // pone primero a las instituciones con vacantes nuevas (en etapa de postulación), y cada una abre un detalle con los
 // cargos, la remuneración (RMU) y las fechas de postulación. La página usa PrimeFaces (JSF), así que se lee con un
-// navegador sin interfaz, como un visitante. Guarda los cargos de TI en lib/data/public-jobs.json con su historial.
+// navegador sin interfaz, como un visitante. Guarda los cargos de TI y los de entrada (asistentes, auxiliares, para
+// recién graduados) en lib/data/public-jobs.json con su historial.
 // Para postular hay que ingresar a Encuentra Empleo con una cuenta de aspirante.
 //
 // Uso (desde la raíz del repo, con las dependencias de scripts/petroecuador instaladas):
@@ -13,6 +14,7 @@ import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
+import { isEntryRole } from "../lib/entry-roles.mjs"
 import { isITRole } from "../lib/it-roles.mjs"
 
 // playwright-core se instala en scripts/petroecuador (lo comparten ambos recolectores en GitHub Actions)
@@ -117,13 +119,14 @@ async function scrape() {
 
 const { vacancies, institutionsWithVacancies } = await scrape()
 
-// Se guardan solo los cargos de TI (con historial); del resto, el total del día
+// Se guardan los cargos de TI y los de entrada (con historial); del resto, el total del día
 const previous = existsSync(OUT) ? JSON.parse(readFileSync(OUT, "utf8")) : { jobs: [] }
 const jobs = new Map(previous.jobs.map((job) => [job.id, job]))
-for (const vacancy of vacancies.filter((item) => isITRole(item.title))) {
+for (const vacancy of vacancies.filter((item) => isITRole(item.title) || isEntryRole(item.title))) {
   const before = jobs.get(vacancy.id)
-  // Conserva lo que agregó el scraper local (enlace a las bases del concurso)
-  jobs.set(vacancy.id, { ...before, ...vacancy, isIT: true, firstSeen: before?.firstSeen ?? today, lastSeen: today })
+  const entryLevel = isEntryRole(vacancy.title) || before?.entryLevel ? { entryLevel: true } : {}
+  // Conserva lo que agregó el scraper local (enlace a las bases del concurso, experiencia pedida)
+  jobs.set(vacancy.id, { ...before, ...vacancy, isIT: isITRole(vacancy.title), ...entryLevel, firstSeen: before?.firstSeen ?? today, lastSeen: today })
 }
 const sorted = [...jobs.values()].sort((a, b) => (b.closesAt ?? "").localeCompare(a.closesAt ?? ""))
 const summary = { date: today, institutions: institutionsWithVacancies, vacancies: vacancies.length }
@@ -133,5 +136,5 @@ const output = JSON.stringify({ source: SOURCE_URL, lastRun: summary, jobs: sort
 const comparable = (text) => text.replace(/\r\n/g, "\n").replace(/"date": "[\d-]+",\s*/, "")
 const changed = !existsSync(OUT) || comparable(readFileSync(OUT, "utf8")) !== comparable(output)
 if (changed) writeFileSync(OUT, output)
-console.log(`Encuentra Empleo: ${vacancies.length} cargos en postulación en ${institutionsWithVacancies} instituciones; ${sorted.filter((job) => job.lastSeen === today).length} de TI hoy, ${sorted.length} en el historial. ${changed ? "Datos actualizados." : "Sin cambios."}`)
-for (const job of sorted.filter((item) => item.lastSeen === today)) console.log(`  [TI] ${job.institution}: ${job.title} — cierra ${job.closesAt}`)
+console.log(`Encuentra Empleo: ${vacancies.length} cargos en postulación en ${institutionsWithVacancies} instituciones; ${sorted.filter((job) => job.lastSeen === today && job.isIT).length} de TI y ${sorted.filter((job) => job.lastSeen === today && job.entryLevel).length} de entrada hoy, ${sorted.length} en el historial. ${changed ? "Datos actualizados." : "Sin cambios."}`)
+for (const job of sorted.filter((item) => item.lastSeen === today)) console.log(`  [${job.isIT ? "TI" : "Entrada"}] ${job.institution}: ${job.title} — cierra ${job.closesAt}`)
