@@ -3,6 +3,7 @@
 import { useEffect, useState, type ReactNode } from "react"
 import { Building2, CircleDot, Code2, Factory, History, Landmark, Zap } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
+import { CelecAllCalls } from "@/components/opportunities/celec-all-calls"
 import { CelecJobs } from "@/components/opportunities/celec-jobs"
 import { FinanceJobs, financeITJobs } from "@/components/opportunities/finance-jobs"
 import { FinancePortals } from "@/components/opportunities/finance-portals"
@@ -78,7 +79,7 @@ export function EmploymentTab({ stage }: { stage: Stage | null }) {
 
     {visible("tecnologia") && <SectorGroup sector={sectors.find((item) => item.id === "tecnologia")!}><TechJobs {...filters} /><EncuentraEmpleoJobs {...filters} /></SectorGroup>}
     {visible("privado") && <SectorGroup sector={sectors.find((item) => item.id === "privado")!}><PrivateJobs {...filters} /><PrivatePortals /></SectorGroup>}
-    {visible("energia") && <SectorGroup sector={sectors.find((item) => item.id === "energia")!}><PetroecuadorJobs {...filters} /><CelecJobs {...filters} /></SectorGroup>}
+    {visible("energia") && <SectorGroup sector={sectors.find((item) => item.id === "energia")!}><PetroecuadorJobs {...filters} /><CelecJobs {...filters} /><CelecAllCalls /></SectorGroup>}
     {visible("financiero") && <SectorGroup sector={sectors.find((item) => item.id === "financiero")!}><FinanceJobs {...filters} /><FinancePortals /></SectorGroup>}
     {visible("publico") && <SectorGroup sector={sectors.find((item) => item.id === "publico")!}><InecJobs {...filters} /><PublicITJobs {...filters} /><PublicPortals /><PublicRoutes /></SectorGroup>}
     <InstitutionSocials />

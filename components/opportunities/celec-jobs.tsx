@@ -58,7 +58,8 @@ export function CelecJobs({ onlyOpen, showHistoric, onShowHistoric }: Employment
     .map((job) => ({ ...job, status: celecJobStatus(job, today) }))
     .sort((a, b) => Number(b.status === "Abierta") - Number(a.status === "Abierta") || Number(b.isIT) - Number(a.isIT) || b.publishedAt.localeCompare(a.publishedAt)), [today])
 
-  const units = useMemo(() => Object.entries(jobs.reduce<Record<string, number>>((acc, job) => ({ ...acc, [job.unit]: (acc[job.unit] ?? 0) + 1 }), {}))
+  // Todas las unidades que se revisan, aunque no tengan ofertas para Computación
+  const units = useMemo(() => Object.entries(jobs.reduce<Record<string, number>>((acc, job) => ({ ...acc, [job.unit]: (acc[job.unit] ?? 0) + 1 }), Object.fromEntries(Object.keys(celecUnitUrls).map((unit) => [unit, 0]))))
     .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])), [jobs])
   const years = useMemo(() => [...new Set(jobs.map((job) => job.publishedAt.slice(0, 4)))].sort().reverse(), [jobs])
   const openCount = jobs.filter((job) => job.status === "Abierta").length
@@ -107,7 +108,7 @@ export function CelecJobs({ onlyOpen, showHistoric, onShowHistoric }: Employment
   const content = <div>
     <div className="mb-8">
       <div className="mb-4 flex flex-wrap items-end justify-between gap-4">
-        <div><h2 className="font-heading text-2xl font-bold text-foreground md:text-3xl">Ofertas de CELEC EP</h2><p className="mt-1 max-w-2xl text-sm text-muted-foreground">Convocatorias reales de la Corporación Eléctrica del Ecuador que piden o aceptan un perfil de Ingeniería en Computación. Úsalas para ver qué se pide y cuánto se paga.</p></div>
+        <div><h2 className="font-heading text-2xl font-bold text-foreground md:text-3xl">Ofertas de CELEC EP</h2><p className="mt-1 max-w-2xl text-sm text-muted-foreground">Convocatorias reales de la Corporación Eléctrica del Ecuador que piden o aceptan un perfil de Ingeniería en Computación. Revisamos cada día la bolsa de empleo de sus {units.length} unidades (centrales hidroeléctricas y térmicas, Transelectric y la Matriz). Úsalas para ver qué se pide y cuánto se paga.</p></div>
         <div className="flex flex-wrap gap-2"><Badge variant="outline">{jobs.length} ofertas</Badge><Badge className="gap-1 bg-sky-600 text-white hover:bg-sky-600"><Laptop className="size-3" />{itCount} de TI</Badge><Badge className={statusStyles.Abierta}>{openCount} {openCount === 1 ? "abierta" : "abiertas"}</Badge></div>
       </div>
       <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">

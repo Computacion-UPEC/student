@@ -6,6 +6,7 @@
 #   - INEC, Trabaja con nosotros (postulaciones de 1 a 3 días) -> lib/data/inec-jobs.json
 #   - Concursos del sector público (LOSEP) en Encuentra Empleo, solo cargos de TI -> lib/data/public-jobs.json
 #   - Empresas privadas grandes (Holcim, Arca Continental, Farmaenlace, Tuti) -> lib/data/private-jobs.json
+#   - CELEC EP, bolsas de empleo de sus 13 unidades (centrales) -> lib/data/celec-jobs.json
 # Corre dos veces al día. Solo hace commit si hay cambios, y ese commit dispara el despliegue en Vercel.
 name: Recolectar convocatorias
 
@@ -81,6 +82,18 @@ jobs:
           command -v pdftotext || (sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends poppler-utils)
           node scripts/inec/collect.mjs 2>&1 | tee -a "$RUNNER_TEMP/recolectores.log"
 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Recolectar convocatorias de CELEC EP
+        id: celec
+        continue-on-error: true
+        run: |
+          pip install --quiet pypdf openpyxl
+          python scripts/scrape_celec.py 2>&1 | tee -a "$RUNNER_TEMP/recolectores.log"
+          node scripts/export-celec.mjs scripts/celec_empleos.xlsx 2>&1 | tee -a "$RUNNER_TEMP/recolectores.log"
+
       # Usa el navegador sin interfaz instalado para Petroecuador
       - name: Recolectar concursos del sector público (Encuentra Empleo)
         id: concursos
@@ -98,16 +111,17 @@ jobs:
           Privadas=${{ steps.privadas.outcome }}
           INEC=${{ steps.inec.outcome }}
           Concursos=${{ steps.concursos.outcome }}
+          CELEC=${{ steps.celec.outcome }}
 
       - name: Guardar cambios
         run: |
-          if git diff --quiet -- lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json lib/data/inec-jobs.json lib/data/public-jobs.json lib/data/private-jobs.json lib/data/scrape-status.json; then
+          if git diff --quiet -- lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json lib/data/inec-jobs.json lib/data/public-jobs.json lib/data/private-jobs.json lib/data/celec-jobs.json lib/data/celec-all.json lib/data/scrape-status.json; then
             echo "Sin cambios en las convocatorias."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json lib/data/inec-jobs.json lib/data/public-jobs.json lib/data/private-jobs.json lib/data/scrape-status.json
+          git add lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json lib/data/inec-jobs.json lib/data/public-jobs.json lib/data/private-jobs.json lib/data/celec-jobs.json lib/data/celec-all.json lib/data/scrape-status.json
           git commit -m "Update job offers"
           # Si main avanzó durante la recolección (p. ej. se fusionó un PR), se integra antes de subir
           for intento in 1 2 3; do
@@ -130,6 +144,7 @@ jobs:
             Privadas=${{ steps.privadas.outcome }}
             INEC=${{ steps.inec.outcome }}
             Concursos=${{ steps.concursos.outcome }}
+            CELEC=${{ steps.celec.outcome }}
           CORRIDA: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
           TITULO="Recolectores de ofertas con fallas"
