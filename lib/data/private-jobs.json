@@ -398,6 +398,83 @@
       "firstSeen": "2026-11-03"
     },
     {
+      "id": "unilever-102526840816",
+      "source": "unilever",
+      "company": "Unilever",
+      "title": "Pasantías Unilever Ecuador: Finanzas 2027-1",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://careers.unilever.com/en/job/ecuador/pasantias-unilever-ecuador-finanzas-2027-1/34155/102526840816",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "unilever-102526840224",
+      "source": "unilever",
+      "company": "Unilever",
+      "title": "Pasantías Unilever Ecuador: Comercial 2027-1",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://careers.unilever.com/en/job/ecuador/pasantias-unilever-ecuador-comercial-2027-1/34155/102526840224",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "unilever-102526840208",
+      "source": "unilever",
+      "company": "Unilever",
+      "title": "Pasantías Unilever Ecuador: Marketing 2027-1",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://careers.unilever.com/en/job/ecuador/pasantias-unilever-ecuador-marketing-2027-1/34155/102526840208",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "cn-1118378775",
+      "source": "cn",
+      "company": "Cervecería Nacional",
+      "title": "Operador de Envasado Temporal",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://www.multitrabajos.com/empleos/-1118378775.html",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "cn-4450639259",
+      "source": "cn",
+      "company": "Cervecería Nacional",
+      "title": "Analista Financiero Temporal",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://www.linkedin.com/jobs/view/4450639259/",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "cn-4449686457",
+      "source": "cn",
+      "company": "Cervecería Nacional",
+      "title": "Operador BTS",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://www.linkedin.com/jobs/view/4449686457/?trk=mcm",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "cn-4447851152",
+      "source": "cn",
+      "company": "Cervecería Nacional",
+      "title": "Control Lead",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://www.linkedin.com/jobs/view/4447851152/",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "arca-1417243400",
       "source": "arca",
       "company": "Arca Continental",
@@ -729,6 +806,17 @@
       "firstSeen": "2026-11-03"
     },
     {
+      "id": "nestle-1453117333",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Analista de Datos",
+      "city": "Quito",
+      "publishedAt": "2026-10-30",
+      "url": "https://jobdetails.nestle.com/job/Quito-Analista-de-Datos-17-03-4574/1453117333/",
+      "isIT": true,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "difare-trabajador-social",
       "source": "difare",
       "company": "Difare",
@@ -826,6 +914,50 @@
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AYUDANTE-DE-DESPACHO-CEDI-GUAYAQUIL-Dip-Guay/1445167300/",
       "isIT": false,
       "firstSeen": "2026-10-30"
+    },
+    {
+      "id": "nestle-1452549133",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Especialista CDT Canal Moderno",
+      "city": "Quito",
+      "publishedAt": "2026-10-29",
+      "url": "https://jobdetails.nestle.com/job/Quito-Especialista-CDT-Canal-Moderno-17-03-4574/1452549133/",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "nestle-1452346033",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Logistics And Distribution Auxiliary",
+      "city": "Guayaquil",
+      "publishedAt": "2026-10-29",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-Logistics-And-Distribution-Auxiliary-17-03-4574/1452346033/",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "nestle-1452721733",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Auxiliar de Producción",
+      "city": "Guayaquil",
+      "publishedAt": "2026-10-29",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-Auxiliar-de-Producci%C3%B3n-17-03-4574/1452721733/",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "nestle-1443045233",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Pasante de Herramientas Comerciales",
+      "city": "Quito",
+      "publishedAt": "2026-10-29",
+      "url": "https://jobdetails.nestle.com/job/Quito-Pasante-de-Herramientas-Comerciales-17-03-4574/1443045233/",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "difare-sub-gerente-de-producto-dyvenpro",
@@ -936,6 +1068,17 @@
       "city": "Quito",
       "publishedAt": "2026-10-28",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Compras_R135769",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "nestle-1452322633",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Pasante de Marketing Confites",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-10-28",
+      "url": "https://jobdetails.nestle.com/job/GUAYAQUIL-Pasante-de-Marketing-Confites-17-03-4574/1452322633/",
       "isIT": false,
       "firstSeen": "2026-11-03"
     },
@@ -1189,6 +1332,17 @@
       "city": "Quito",
       "publishedAt": "2026-10-23",
       "url": "https://puntonet.teamtailor.com/jobs/8611001-planner-digital",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "nestle-1450943933",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Técnico/a Electrico/a",
+      "city": "Guayaquil",
+      "publishedAt": "2026-10-23",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-T%C3%A9cnicoa-Electricoa-17-03-4574/1450943933/",
       "isIT": false,
       "firstSeen": "2026-11-03"
     },
@@ -3033,6 +3187,28 @@
       "firstSeen": "2026-10-24"
     },
     {
+      "id": "nestle-1450070433",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Category Management Specialist",
+      "city": "Quito",
+      "publishedAt": "2026-10-21",
+      "url": "https://jobdetails.nestle.com/job/Quito-Category-Management-Specialist-17-03-4574/1450070433/",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "nestle-1450071333",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Jefe/a Zonal de Ventas",
+      "city": "Quito",
+      "publishedAt": "2026-10-21",
+      "url": "https://jobdetails.nestle.com/job/Quito-Jefea-Zonal-de-Ventas-17-03-4574/1450071333/",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "arca-1442052200",
       "source": "arca",
       "company": "Arca Continental",
@@ -3298,6 +3474,28 @@
       "city": "Quito",
       "publishedAt": "2026-10-08",
       "url": "https://puntonet.teamtailor.com/jobs/8520191-pasante-de-instalacion-masiva-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "nestle-1445832333",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Pasante de Marketing Maggi",
+      "city": "Quito",
+      "publishedAt": "2026-10-08",
+      "url": "https://jobdetails.nestle.com/job/Quito-Pasante-de-Marketing-Maggi-17-03-4574/1445832333/",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "nestle-1435079033",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Distribution Center Supervisor",
+      "city": "Guayaquil",
+      "publishedAt": "2026-10-08",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-Distribution-Center-Supervisor-17-03-4574/1435079033/",
       "isIT": false,
       "firstSeen": "2026-11-03"
     },
