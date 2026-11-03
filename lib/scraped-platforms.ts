@@ -24,7 +24,7 @@ export const scrapedPlatforms: ScrapedPlatform[] = [
   { key: "INEC", name: "INEC", url: "https://www.ecuadorencifras.gob.ec/institucional/trabaja-con-nosotros/", collects: "Convocatorias de encuestas y cargos técnicos", method: "automática", schedule: "08:00 y 18:00" },
   { key: "CNT", name: "CNT EP", url: "https://empleo.cnt.gob.ec/procesos/", collects: "Vacantes de CNT Empleo", method: "local", schedule: "Cada noche (el portal bloquea GitHub)" },
   { key: "Petroecuador", name: "EP Petroecuador", url: "https://eppetroecuadorenlinea.eppetroecuador.ec/eppec-talento-humano-concursos-ang/#/", collects: "Concursos de talento humano", method: "automática", schedule: "08:00 y 18:00" },
-  { key: "CELEC", name: "CELEC EP", url: "https://www.celec.gob.ec/", collects: "Convocatorias de las unidades de negocio", method: "manual", schedule: "Exportación a mano" },
+  { key: "CELEC", name: "CELEC EP", url: "https://www.celec.gob.ec/", collects: "Bolsas de empleo de sus 13 unidades: centrales hidroeléctricas y térmicas, Transelectric y la Matriz", method: "automática", schedule: "08:00 y 18:00" },
   { key: "Bancos", name: "Bancos y cooperativas", collects: "Banco Pichincha, Banco Internacional, Banco de Loja, BCE, Cooperativa JEP y PagueYa", method: "automática", schedule: "08:00 y 18:00" },
   { key: "CACPECO", name: "CACPECO", url: "https://quierolaburo.com/empresas/cacpeco", collects: "Vacantes de la cooperativa en Laburo", method: "local", schedule: "A pedido (Laburo exige un navegador real)" },
   { key: "El-Rosado", name: "Corporación El Rosado", url: "https://empleo.elrosado.com", collects: "Mi Comisariato, Supercines y demás áreas (retail, entretenimiento, restaurantes, industrial)", method: "local", schedule: "A pedido, con cuenta de postulante" },

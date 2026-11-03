@@ -7,6 +7,7 @@
     "collect": "node collect.mjs"
   },
   "dependencies": {
-    "playwright-core": "1.48.2"
+    "playwright-core": "1.48.2",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
   }
 }
