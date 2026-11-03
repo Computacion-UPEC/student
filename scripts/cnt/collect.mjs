@@ -5,7 +5,8 @@
 // nuevas para leer sus fechas y guarda el historial en lib/data/cnt-jobs.json, marcando los roles de TI. Se postula
 // en la misma página de la vacante ("Aplicar al trabajo", con una cuenta de candidato).
 // El portal rechaza las conexiones desde GitHub Actions (servidores fuera de Ecuador), así que no está en el workflow:
-// corre cada noche en un computador en Ecuador con scripts/cnt/publicar.sh, que abre y fusiona un PR con los cambios.
+// corre a las 08:20 y 18:20 en el runner propio de un computador en Ecuador (workflow privado
+// COMPUMAX-EC/oportunidades-runner) con scripts/cnt/publicar.sh, que abre y fusiona un PR con los cambios.
 // Uso (desde la raíz del repo):  node scripts/cnt/collect.mjs
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import path from "node:path"
