@@ -27,6 +27,7 @@ export const scrapedPlatforms: ScrapedPlatform[] = [
   { key: "CELEC", name: "CELEC EP", url: "https://www.celec.gob.ec/", collects: "Convocatorias de las unidades de negocio", method: "manual", schedule: "Exportación a mano" },
   { key: "Bancos", name: "Bancos y cooperativas", collects: "Banco Pichincha, Banco Internacional, Banco de Loja, BCE, Cooperativa JEP y PagueYa", method: "automática", schedule: "08:00 y 18:00" },
   { key: "CACPECO", name: "CACPECO", url: "https://quierolaburo.com/empresas/cacpeco", collects: "Vacantes de la cooperativa en Laburo", method: "local", schedule: "A pedido (Laburo exige un navegador real)" },
+  { key: "El-Rosado", name: "Corporación El Rosado", url: "https://empleo.elrosado.com", collects: "Mi Comisariato, Supercines y demás áreas (retail, entretenimiento, restaurantes, industrial)", method: "local", schedule: "A pedido, con cuenta de postulante" },
   { key: "Software", name: "Empresas de software", collects: "Devsu y Stack Builders (Workable)", method: "automática", schedule: "08:00 y 18:00" },
   { key: "Privadas", name: "Empresas privadas grandes", collects: "Holcim, Arca Continental, Claro, Pronaca, Difare, Farmaenlace, GPF, Novacero, Teuno y Tuti", method: "automática", schedule: "08:00 y 18:00" },
   { key: "Educa-Empleo", name: "Educa Empleo", url: "https://educacion.gob.ec/educa-empleo/", collects: "Convocatoria mensual de docentes (LOEI)", method: "automática", schedule: "08:00 y 18:00" },
