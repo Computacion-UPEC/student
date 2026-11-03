@@ -4,8 +4,11 @@
 //   - Tiendas Tuti: vacantes publicadas en su propia página "Trabaja con nosotros"
 //   - FEMSA Salud (GPF: Fybeca, SanaSana) y Novacero: portales de HiringRoom (scripts/lib/hiringroom.mjs)
 //   - Claro Ecuador y Pronaca: SuccessFactors clásico, leído desde su feed XML público
-// Quedan como enlace: Netlife (TalentRoom, que cifra sus respuestas), Telconet (solo LinkedIn) y PuntoNet (su sitio
-// enlaza puntonet.hiringroom.com, pero ese portal respondía 404 en octubre de 2026).
+//   - PuntoNet: feed RSS de su sitio de Teamtailor (scripts/lib/teamtailor.mjs)
+//   - Tigo (ex Movistar): sitio de Workday de Millicom, filtrado a Ecuador (scripts/lib/workday.mjs)
+//   - Netlife: portal de TalentRoom; su API responde cifrado, así que se lee la lista que muestra la página con el
+//     navegador sin interfaz de Petroecuador (scripts/lib/talentroom.mjs)
+// Queda como enlace Telconet, que solo publica en LinkedIn.
 //   - Teuno (TI del Grupo Pichincha): sitio de Genoma enlazado desde "Bolsa de Empleo" de teuno.com
 //   - Difare: portal de Evaluar.com (WP Job Manager), enlazado desde "Trabaja con nosotros" de difare.com.ec
 // Las demás empresas investigadas quedan como enlace (ver lib/private-portals.ts): sus portales cargan las
@@ -21,6 +24,9 @@ import { genoma } from "../lib/genoma.mjs"
 import { hiringRoom } from "../lib/hiringroom.mjs"
 import { isITRole } from "../lib/it-roles.mjs"
 import { successFactorsXml } from "../lib/successfactors-xml.mjs"
+import { talentRoom } from "../lib/talentroom.mjs"
+import { teamtailor } from "../lib/teamtailor.mjs"
+import { workday } from "../lib/workday.mjs"
 
 const here = path.dirname(fileURLToPath(import.meta.url))
 const OUT = path.resolve(here, "../../lib/data/private-jobs.json")
@@ -133,6 +139,10 @@ const SOURCES = [
   { id: "teuno", company: "Teuno (Grupo Pichincha)", collect: () => genoma("teuno") },
   { id: "claro", company: "Claro Ecuador", collect: () => successFactorsXml("career19.sapsf.com", "consorcioe", "VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09") },
   { id: "pronaca", company: "Pronaca", collect: () => successFactorsXml("career4.successfactors.com", "C0004326754P") },
+  { id: "puntonet", company: "PuntoNet", collect: () => teamtailor("puntonet") },
+  // locationCountry: id de Ecuador en la lista de filtros del sitio
+  { id: "tigo", company: "Tigo (ex Movistar)", collect: () => workday("tigo.wd103.myworkdayjobs.com", "tigo", "tigocareers", { locationCountry: ["2752bce253374948a6bad7ed2059e054"] }) },
+  { id: "netlife", company: "Netlife", collect: () => talentRoom("netlife") },
 ]
 
 const previous = existsSync(OUT) ? JSON.parse(readFileSync(OUT, "utf8")) : { jobs: [] }
