@@ -2,6 +2,402 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "arca-1447429200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "SUPERVISOR DE VENTAS | CEDI GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-11-03",
+      "url": "https://careers.arcacontal.com/job/SUPERVISOR-DE-VENTAS-CEDI-GUAYAQUIL-SUR/1447429200/",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "arca-1447440600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-11-03",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-GUAYAQUIL-SUR/1447440600/",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "arca-1447443400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-11-03",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-GUAYAQUIL-SUR/1447443400/",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-venta-cuenca-cuenca",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTA - CUENCA",
+      "city": "Cuenca",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-venta-cuenca-cuenca-2",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTA - CUENCA",
+      "city": "Cuenca",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-ventas-riobamba-riobamba",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTAS - RIOBAMBA",
+      "city": "Riobamba",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-pasante-de-operación-y-experiencia-digital-riobamba-riobamba",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Pasante de Operación y Experiencia Digital - Riobamba",
+      "city": "Riobamba",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-venta-latacunga-latacunga",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTA - LATACUNGA",
+      "city": "Latacunga",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-venta-machala-machala",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTA - MACHALA",
+      "city": "Machala",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-venta-esmeraldas-esmeraldas",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTA - ESMERALDAS",
+      "city": "Esmeraldas",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-ventas-guayaquil-guayaquil",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTAS - GUAYAQUIL",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-ventas-campo-guayaquil-guayaquil",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTAS CAMPO-GUAYAQUIL",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-pasante-de-operación-y-experiencia-digital-ibarra-ibarra",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Pasante de Operación y Experiencia Digital- Ibarra",
+      "city": "Ibarra",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-ventas-ibarra-ibarra",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTAS - IBARRA",
+      "city": "Ibarra",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-venta-loja-loja",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTA - LOJA",
+      "city": "Loja",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-venta-babahoyo-babahoyo",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTA- BABAHOYO",
+      "city": "Babahoyo",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-venta-quevedo-quevedo",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTA- QUEVEDO",
+      "city": "Quevedo",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-venta-chone-chone",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTA - CHONE",
+      "city": "Chone",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-venta-jipijapa-jipijapa",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTA - JIPIJAPA",
+      "city": "Jipijapa",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-venta-manta-manta",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTA - MANTA",
+      "city": "Manta",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-asesor-de-operación-y-experiencia-digital-manta",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Asesor de Operación y Experiencia Digital",
+      "city": "Manta",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-asesor-de-operación-y-experiencia-digital-manta-2",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Asesor de Operación y Experiencia Digital",
+      "city": "Manta",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-venta-portoviejo-portoviejo",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTA - PORTOVIEJO",
+      "city": "Portoviejo",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-ventas-puyo-pastaza-pastaza",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTAS - PUYO/PASTAZA",
+      "city": "Pastaza",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-gestor-de-bodega-con-discapacidad-tiempo-completo-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "GESTOR DE BODEGA CON DISCAPACIDAD TIEMPO COMPLETO",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-auditor-junior-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Auditor Junior",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-soluciones-digitales-b2b-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Ejecutivo de Soluciones Digitales B2B",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-asesor-de-operación-y-experiencia-digital-quito-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Asesor de Operación y Experiencia Digital-Quito",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-pasante-de-operación-y-experiencia-digital-quito-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Pasante de Operación y Experiencia Digital -Quito",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-gestor-a-de-talentos-juvenil-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "GESTOR/A DE TALENTOS -JUVENIL",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-pasante-de-ti-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "PASANTE DE TI",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": true,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-pasante-de-nomina-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "PASANTE DE NOMINA",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-pasante-de-administración-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "PASANTE DE ADMINISTRACIÓN",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-pasante-de-operación-y-experiencia-digital-santo-domingo-santo-domingo",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Pasante de Operación y Experiencia Digital - Santo Domingo",
+      "city": "Santo Domingo",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-pasante-de-operación-y-experiencia-digital-ambato-ambato",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Pasante de Operación y Experiencia Digital - Ambato",
+      "city": "Ambato",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "netlife-ejecutivo-de-venta-ambato-ambato",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTA - AMBATO",
+      "city": "Ambato",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "arca-1417243400",
       "source": "arca",
       "company": "Arca Continental",
@@ -322,6 +718,17 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "tigo-R135682",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas-1",
+      "city": "Ambato",
+      "publishedAt": "2026-10-30",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Ambato/Ejecutivo-de-Tiendas-1_R135682",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "difare-trabajador-social",
       "source": "difare",
       "company": "Difare",
@@ -511,6 +918,28 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "tigo-R135733",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Gestión Económica",
+      "city": "Quito",
+      "publishedAt": "2026-10-28",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Gestin-Econmica_R135733",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "tigo-R135769",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Compras",
+      "city": "Quito",
+      "publishedAt": "2026-10-28",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Compras_R135769",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "novacero-6adfbe9210f80e9c370a3b33",
       "source": "novacero",
       "company": "Novacero",
@@ -588,6 +1017,50 @@
       "firstSeen": "2026-10-28"
     },
     {
+      "id": "puntonet-8627041",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "LIDER DE AGENDAMIENTO",
+      "city": "Quito",
+      "publishedAt": "2026-10-27",
+      "url": "https://puntonet.teamtailor.com/jobs/8627041-lider-de-agendamiento",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8627031",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "LIDER DE AGENDAMIENTO - GYE",
+      "city": "Guayaquil",
+      "publishedAt": "2026-10-27",
+      "url": "https://puntonet.teamtailor.com/jobs/8627031-lider-de-agendamiento-gye",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8625738",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "INGENIERO DE GESTIÓN CORPORATIVA",
+      "city": "Guayaquil",
+      "publishedAt": "2026-10-27",
+      "url": "https://puntonet.teamtailor.com/jobs/8625738-ingeniero-de-gestion-corporativa",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "tigo-R135650",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "(EVENTUAL) Pasante Desarrollo Producto Prepago",
+      "city": "Quito",
+      "publishedAt": "2026-10-27",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante-Desarrollo-Producto-Prepago_R135650",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "arca-1443691500",
       "source": "arca",
       "company": "Arca Continental",
@@ -643,6 +1116,28 @@
       "firstSeen": "2026-10-27"
     },
     {
+      "id": "puntonet-8615977",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "EJECUTIVO DE VENTAS IOT",
+      "city": "Quito",
+      "publishedAt": "2026-10-26",
+      "url": "https://puntonet.teamtailor.com/jobs/8615977-ejecutivo-de-ventas-iot",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "tigo-R135670",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Analista Sr. Administrativo",
+      "city": "Quito",
+      "publishedAt": "2026-10-26",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Analista-Sr-Administrativo_R135670",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "difare-auxiliar-de-punto-de-venta-2026-sierra-centro-y-oriente",
       "source": "difare",
       "company": "Difare",
@@ -685,6 +1180,17 @@
       "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6ada9d0df95e7de05867342d",
       "isIT": false,
       "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "puntonet-8611001",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "PLANNER DIGITAL",
+      "city": "Quito",
+      "publishedAt": "2026-10-23",
+      "url": "https://puntonet.teamtailor.com/jobs/8611001-planner-digital",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "holcim-1372996257",
@@ -2560,6 +3066,39 @@
       "firstSeen": "2026-10-26"
     },
     {
+      "id": "puntonet-8564847",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ASESOR DE VENTA DIRECTA - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-10-16",
+      "url": "https://puntonet.teamtailor.com/jobs/8564847-asesor-de-venta-directa-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8564826",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "PASANTE DE ADMINISTRACIÓN COMERCIAL",
+      "city": "Quito",
+      "publishedAt": "2026-10-16",
+      "url": "https://puntonet.teamtailor.com/jobs/8564826-pasante-de-administracion-comercial",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8564652",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "EJECUTIVO DE TRADE MARKETING - GUAYAQUIL",
+      "city": "Guayaquil",
+      "publishedAt": "2026-10-16",
+      "url": "https://puntonet.teamtailor.com/jobs/8564652-ejecutivo-de-trade-marketing-guayaquil",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "arca-1440512000",
       "source": "arca",
       "company": "Arca Continental",
@@ -2664,6 +3203,50 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "puntonet-8541945",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "PASANTE DE VENTAS DIRECTAS - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-10-13",
+      "url": "https://puntonet.teamtailor.com/jobs/8541945-pasante-de-ventas-directas-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8541937",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "PASANTE DE CANALES COMERCIALES - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-10-13",
+      "url": "https://puntonet.teamtailor.com/jobs/8541937-pasante-de-canales-comerciales-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8541934",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "PASANTE DE PRODUCTO B2C - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-10-13",
+      "url": "https://puntonet.teamtailor.com/jobs/8541934-pasante-de-producto-b2c-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8541929",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ANALISTA DE SALUD Y SEGURIDAD OCUPACIONAL - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-10-13",
+      "url": "https://puntonet.teamtailor.com/jobs/8541929-analista-de-salud-y-seguridad-ocupacional-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "arca-1419793800",
       "source": "arca",
       "company": "Arca Continental",
@@ -2673,6 +3256,50 @@
       "url": "https://careers.arcacontal.com/job/SDO-Santo-Domingo-JEFE-DE-DESARROLLO-GANADERO-PLANTA-GUAYAQUIL-Ton-Sant/1419793800/",
       "isIT": false,
       "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "puntonet-8520202",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ASESOR DE VENTAS DIRECTAS - MANTA",
+      "city": "Manta",
+      "publishedAt": "2026-10-08",
+      "url": "https://puntonet.teamtailor.com/jobs/8520202-asesor-de-ventas-directas-manta",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8520195",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "PASANTE DE CLOUD Y DATA CENTER",
+      "city": "Quito",
+      "publishedAt": "2026-10-08",
+      "url": "https://puntonet.teamtailor.com/jobs/8520195-pasante-de-cloud-y-data-center",
+      "isIT": true,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8520194",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ANALISTA DE CANALES COMERCIALES - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-10-08",
+      "url": "https://puntonet.teamtailor.com/jobs/8520194-analista-de-canales-comerciales-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8520191",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "PASANTE DE INSTALACION MASIVA - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-10-08",
+      "url": "https://puntonet.teamtailor.com/jobs/8520191-pasante-de-instalacion-masiva-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "arca-1438000900",
@@ -2697,6 +3324,61 @@
       "firstSeen": "2026-10-22"
     },
     {
+      "id": "puntonet-8500528",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ASESOR DE VENTAS DIRECTAS - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-10-05",
+      "url": "https://puntonet.teamtailor.com/jobs/8500528-asesor-de-ventas-directas-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8500506",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "OPERADOR DE RED CORPORATIVO",
+      "city": "Guayaquil",
+      "publishedAt": "2026-10-05",
+      "url": "https://puntonet.teamtailor.com/jobs/8500506-operador-de-red-corporativo",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8500418",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "PASANTE DE DESARROLLO ORGANIZACIONAL",
+      "city": "Quito",
+      "publishedAt": "2026-10-05",
+      "url": "https://puntonet.teamtailor.com/jobs/8500418-pasante-de-desarrollo-organizacional",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8500396",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "EJECUTIVO POST VENTA - CUENCA - REEMPLAZO POR MATERNIDAD",
+      "city": "Cuenca",
+      "publishedAt": "2026-10-05",
+      "url": "https://puntonet.teamtailor.com/jobs/8500396-ejecutivo-post-venta-cuenca-reemplazo-por-maternidad",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8500257",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ANALISTA DE PRODUCTO B2B - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-10-05",
+      "url": "https://puntonet.teamtailor.com/jobs/8500257-analista-de-producto-b2b-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "elrosado-12487",
       "source": "elrosado",
       "company": "Corporación El Rosado",
@@ -2707,6 +3389,39 @@
       "url": "https://empleo.elrosado.com/Postulante/frmAplicacionSociedad",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "puntonet-8481905",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "EJECUTIVO DE TRADE MARKETING - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-09-30",
+      "url": "https://puntonet.teamtailor.com/jobs/8481905-ejecutivo-de-trade-marketing-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8481672",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ASISTENTE DE ADMINISTRACION COMERCIAL B2C - QUITO PERSONAL CON DISCAPACIDAD",
+      "city": "Quito",
+      "publishedAt": "2026-09-30",
+      "url": "https://puntonet.teamtailor.com/jobs/8481672-asistente-de-administracion-comercial-b2c-quito-personal-con-discapacidad",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8480366",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "AYUDANTE DE INSTALACION MASIVA - LOJA",
+      "city": "Loja",
+      "publishedAt": "2026-09-30",
+      "url": "https://puntonet.teamtailor.com/jobs/8480366-ayudante-de-instalacion-masiva-loja",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "elrosado-12340",
@@ -2733,6 +3448,94 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "puntonet-8445558",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "AYUDANTE TECNICO DE INSTALACION MASIVA - MANTA",
+      "city": "Manta",
+      "publishedAt": "2026-09-23",
+      "url": "https://puntonet.teamtailor.com/jobs/8445558-ayudante-tecnico-de-instalacion-masiva-manta",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8445471",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "EJECUTIVO CORPORATIVO - GUAYAQUIL",
+      "city": "Guayaquil",
+      "publishedAt": "2026-09-23",
+      "url": "https://puntonet.teamtailor.com/jobs/8445471-ejecutivo-corporativo-guayaquil",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8406104",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ASESOR DE VENTAS DIRECTAS - SANTO DOMINGO",
+      "city": "Santo Domingo",
+      "publishedAt": "2026-09-18",
+      "url": "https://puntonet.teamtailor.com/jobs/8406104-asesor-de-ventas-directas-santo-domingo",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8398914",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ASESOR DE VENTAS DIRECTAS - PORTOVIEJO",
+      "city": "Portoviejo",
+      "publishedAt": "2026-09-17",
+      "url": "https://puntonet.teamtailor.com/jobs/8398914-asesor-de-ventas-directas-portoviejo",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8377669",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "Pasante de Geoanalítica y Diseño - UIO",
+      "city": "Quito",
+      "publishedAt": "2026-09-14",
+      "url": "https://puntonet.teamtailor.com/jobs/8377669-pasante-de-geoanalitica-y-diseno-uio",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8377657",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "EJECUTIVO DE ATENCION AL CLIENTE  - CUENCA",
+      "city": "Cuenca",
+      "publishedAt": "2026-09-14",
+      "url": "https://puntonet.teamtailor.com/jobs/8377657-ejecutivo-de-atencion-al-cliente-cuenca",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8354772",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "Asistente Administrativa - Quito",
+      "city": "Quito",
+      "publishedAt": "2026-09-09",
+      "url": "https://puntonet.teamtailor.com/jobs/8354772-asistente-administrativa-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8325866",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "EJECUTIVO DE CALL CENTER - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-09-04",
+      "url": "https://puntonet.teamtailor.com/jobs/8325866-ejecutivo-de-call-center-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "elrosado-12482",
       "source": "elrosado",
       "company": "Corporación El Rosado",
@@ -2755,6 +3558,83 @@
       "url": "https://empleo.elrosado.com/Postulante/frmAplicacionSociedad",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "puntonet-8305718",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ESPECIALISTA DE NETWORKING & TI",
+      "city": "Quito",
+      "publishedAt": "2026-09-01",
+      "url": "https://puntonet.teamtailor.com/jobs/8305718-especialista-de-networking-ti",
+      "isIT": true,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8304597",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "DATA BUSINESS ANALYST - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-09-01",
+      "url": "https://puntonet.teamtailor.com/jobs/8304597-data-business-analyst-quito",
+      "isIT": true,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8304591",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "COORDINADOR TECNICO - LOJA",
+      "city": "Loja",
+      "publishedAt": "2026-09-01",
+      "url": "https://puntonet.teamtailor.com/jobs/8304591-coordinador-tecnico-loja",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8295125",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "EJECUTIVO DE VENTAS CORPORATIVAS - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-08-31",
+      "url": "https://puntonet.teamtailor.com/jobs/8295125-ejecutivo-de-ventas-corporativas-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8295071",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "PASANTE DE MARKETING - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-08-31",
+      "url": "https://puntonet.teamtailor.com/jobs/8295071-pasante-de-marketing-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8294369",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "AYUDANTE DE INSTALACIÓN MASIVA - CUENCA",
+      "city": "Cuenca",
+      "publishedAt": "2026-08-31",
+      "url": "https://puntonet.teamtailor.com/jobs/8294369-ayudante-de-instalacion-masiva-cuenca",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8270084",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "PASANTE DE RED DE ACCESOS - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-08-26",
+      "url": "https://puntonet.teamtailor.com/jobs/8270084-pasante-de-red-de-accesos-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "elrosado-12479",
@@ -2793,6 +3673,72 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "puntonet-8231641",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "PASANTE DE SEGURIDAD DE LA INFORMACIÓN - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-08-17",
+      "url": "https://puntonet.teamtailor.com/jobs/8231641-pasante-de-seguridad-de-la-informacion-quito",
+      "isIT": true,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8219246",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ANALISTA CONTABLE - UIO",
+      "city": "Quito",
+      "publishedAt": "2026-08-13",
+      "url": "https://puntonet.teamtailor.com/jobs/8219246-analista-contable-uio",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8219198",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ANALISTA ADMINISTRATIVO - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-08-13",
+      "url": "https://puntonet.teamtailor.com/jobs/8219198-analista-administrativo-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8176693",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ANALISTA DE COMPRAS - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-08-05",
+      "url": "https://puntonet.teamtailor.com/jobs/8176693-analista-de-compras-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8151599",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "TELEVENDEDOR - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-07-30",
+      "url": "https://puntonet.teamtailor.com/jobs/8151599-televendedor-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8150920",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "PASANTE DE SISTEMAS - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-07-30",
+      "url": "https://puntonet.teamtailor.com/jobs/8150920-pasante-de-sistemas-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "elrosado-12477",
       "source": "elrosado",
       "company": "Corporación El Rosado",
@@ -2817,6 +3763,28 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "puntonet-8117389",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ANALISTA DE PRODUCTO B2B - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-07-23",
+      "url": "https://puntonet.teamtailor.com/jobs/8117389-analista-de-producto-b2b-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8104522",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "OPERADOR DE DATA CENTER",
+      "city": "Quito",
+      "publishedAt": "2026-07-21",
+      "url": "https://puntonet.teamtailor.com/jobs/8104522-operador-de-data-center",
+      "isIT": true,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "elrosado-12474",
       "source": "elrosado",
       "company": "Corporación El Rosado",
@@ -2827,6 +3795,72 @@
       "url": "https://empleo.elrosado.com/Postulante/frmAplicacionSociedad",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "puntonet-8089658",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "TELEVENDEDOR - CUENCA",
+      "city": "Cuenca",
+      "publishedAt": "2026-07-17",
+      "url": "https://puntonet.teamtailor.com/jobs/8089658-televendedor-cuenca",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8082990",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ASESOR DE VENTAS DIRECTAS - LOJA",
+      "city": "Loja",
+      "publishedAt": "2026-07-16",
+      "url": "https://puntonet.teamtailor.com/jobs/8082990-asesor-de-ventas-directas-loja",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8082513",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "TELEVENDEDOR  -GYE",
+      "city": "Guayaquil",
+      "publishedAt": "2026-07-16",
+      "url": "https://puntonet.teamtailor.com/jobs/8082513-televendedor-gye",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8077076",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ASESOR DE VENTA DIRECTA - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-07-15",
+      "url": "https://puntonet.teamtailor.com/jobs/8077076-asesor-de-venta-directa-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8075057",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "PASANTE DE VENTAS DIRECTAS - GAUAYAQUIL",
+      "city": "Guayaquil",
+      "publishedAt": "2026-07-15",
+      "url": "https://puntonet.teamtailor.com/jobs/8075057-pasante-de-ventas-directas-gauayaquil",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-8056344",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "EJECUTIVO DE BACK OFFICE (PERSONAS CON DISCAPACIDAD)",
+      "city": "Quito",
+      "publishedAt": "2026-07-12",
+      "url": "https://puntonet.teamtailor.com/jobs/8056344-ejecutivo-de-back-office-personas-con-discapacidad",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "elrosado-12141",
@@ -2865,6 +3899,17 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "puntonet-7967504",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "Jefe de Call Center Masivo - Quito",
+      "city": "Quito",
+      "publishedAt": "2026-06-24",
+      "url": "https://puntonet.teamtailor.com/jobs/7967504-jefe-de-call-center-masivo-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "elrosado-12397",
       "source": "elrosado",
       "company": "Corporación El Rosado",
@@ -2887,6 +3932,17 @@
       "url": "https://empleo.elrosado.com/Postulante/frmAplicacionSociedad",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "puntonet-7924465",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ASESOR DE VENTAS DIRECTAS - LOJA",
+      "city": "Loja",
+      "publishedAt": "2026-06-16",
+      "url": "https://puntonet.teamtailor.com/jobs/7924465-asesor-de-ventas-directas-loja",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "elrosado-12128",
@@ -2923,6 +3979,17 @@
       "url": "https://empleo.elrosado.com/Postulante/frmAplicacionSociedad",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "puntonet-7800140",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "EJECUTIVO DE CALL CENTER MASIVO - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-05-26",
+      "url": "https://puntonet.teamtailor.com/jobs/7800140-ejecutivo-de-call-center-masivo-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "elrosado-12126",
@@ -2996,6 +4063,17 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "puntonet-7582028",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ASESOR DE VENTAS DIRECTAS - GUAYAQUIL",
+      "city": "Guayaquil",
+      "publishedAt": "2026-04-16",
+      "url": "https://puntonet.teamtailor.com/jobs/7582028-asesor-de-ventas-directas-guayaquil",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "elrosado-12268",
       "source": "elrosado",
       "company": "Corporación El Rosado",
@@ -3018,6 +4096,17 @@
       "url": "https://empleo.elrosado.com/Postulante/frmAplicacionSociedad",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "puntonet-7428551",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "Pasante Producto Corporativo - Quito",
+      "city": "Quito",
+      "publishedAt": "2026-03-19",
+      "url": "https://puntonet.teamtailor.com/jobs/7428551-pasante-producto-corporativo-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "elrosado-12393",
@@ -3066,6 +4155,17 @@
       "url": "https://empleo.elrosado.com/Postulante/frmAplicacionSociedad",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "puntonet-7316422",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "TELEVENDEDOR - GUAYAQUIL",
+      "city": "Guayaquil",
+      "publishedAt": "2026-03-02",
+      "url": "https://puntonet.teamtailor.com/jobs/7316422-televendedor-guayaquil",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "elrosado-12450",
@@ -3320,6 +4420,17 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "puntonet-6987768",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "EJECUTIVO DE PREVENTA - QUITO",
+      "city": "Quito",
+      "publishedAt": "2025-12-29",
+      "url": "https://puntonet.teamtailor.com/jobs/6987768-ejecutivo-de-preventa-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "elrosado-12322",
       "source": "elrosado",
       "company": "Corporación El Rosado",
@@ -3344,6 +4455,17 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "puntonet-6507246",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ASESOR COMERCIAL CAMPO - IBARRA",
+      "city": "Ibarra",
+      "publishedAt": "2025-09-24",
+      "url": "https://puntonet.teamtailor.com/jobs/6507246-asesor-comercial-campo-ibarra",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "elrosado-12421",
       "source": "elrosado",
       "company": "Corporación El Rosado",
@@ -3366,6 +4488,17 @@
       "url": "https://empleo.elrosado.com/Postulante/frmAplicacionSociedad",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "puntonet-5949746",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ASESOR COMERCIAL CAMPO - PORVIEJO",
+      "city": "Portoviejo",
+      "publishedAt": "2025-05-19",
+      "url": "https://puntonet.teamtailor.com/jobs/5949746-asesor-comercial-campo-porviejo",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "elrosado-12132",
@@ -3428,6 +4561,28 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "puntonet-4777217",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ASESOR COMERCIAL CAMPO",
+      "city": "Tulcan",
+      "publishedAt": "2024-07-26",
+      "url": "https://puntonet.teamtailor.com/jobs/4777217-asesor-comercial-campo",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "puntonet-4586445",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "Asesor Comercial de Campo",
+      "city": "Ibarra",
+      "publishedAt": "2024-06-07",
+      "url": "https://puntonet.teamtailor.com/jobs/4586445-asesor-comercial-de-campo",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "elrosado-12345",
       "source": "elrosado",
       "company": "Corporación El Rosado",
@@ -3438,6 +4593,17 @@
       "url": "https://empleo.elrosado.com/Postulante/frmAplicacionSociedad",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "puntonet-4216377",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ASESOR COMERCIAL CAMPO",
+      "city": "Ambato",
+      "publishedAt": "2024-04-26",
+      "url": "https://puntonet.teamtailor.com/jobs/4216377-asesor-comercial-campo",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
     },
     {
       "id": "elrosado-11876",
