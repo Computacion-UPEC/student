@@ -32,6 +32,6 @@ export const IT_ROLE = new RegExp(IT_TERMS.join("|"), "i")
 const IT_UPPERCASE = /\bIT\b/
 
 // Bolsas de hojas de vida que las empresas privadas publican como vacante: "Base de Datos de Talento", "Base de datos – Feria laboral"
-const TALENT_POOL = /base de datos (de (talento|candidatos|postulantes|hojas de vida)|\s*[–-])|postulaci[oó]n abierta|feria laboral/i
+export const TALENT_POOL = /base de datos (de (talento|candidatos|postulantes|hojas de vida)|\s*[–-])|postulaci[oó]n abierta|feria laboral/i
 
 export const isITRole = (title) => !TALENT_POOL.test(title) && (IT_ROLE.test(title) || IT_UPPERCASE.test(title))

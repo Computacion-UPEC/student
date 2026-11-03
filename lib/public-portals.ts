@@ -94,6 +94,10 @@ export type PublicContestJob = {
   acceptsIT?: boolean
   /** PDF de las bases del concurso (copia publicada por el scraper local). */
   basesUrl?: string
+  /** Cargo de entrada: asistente, auxiliar... o pide hasta un año de experiencia según sus bases. */
+  entryLevel?: boolean
+  /** Experiencia que piden las bases, en meses (la lee el scraper local del PDF). */
+  minExperienceMonths?: number
   firstSeen: string
   lastSeen: string
 }

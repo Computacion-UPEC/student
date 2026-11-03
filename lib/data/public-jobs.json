@@ -20,7 +20,8 @@
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-10-30",
       "acceptsIT": true,
-      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342503_GOBIERNO_AUTONOMO_DESCENTRALIZADO_PROVIN_ANALISTA.pdf"
+      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342503_GOBIERNO_AUTONOMO_DESCENTRALIZADO_PROVIN_ANALISTA.pdf",
+      "minExperienceMonths": 24
     },
     {
       "id": "342507",
@@ -36,7 +37,8 @@
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-10-30",
       "acceptsIT": true,
-      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342507_GOBIERNO_AUTONOMO_DESCENTRALIZADO_PROVIN_ANALISTA.pdf"
+      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342507_GOBIERNO_AUTONOMO_DESCENTRALIZADO_PROVIN_ANALISTA.pdf",
+      "minExperienceMonths": 24
     },
     {
       "id": "342516",
@@ -52,7 +54,8 @@
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-10-30",
       "acceptsIT": true,
-      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342516_GOBIERNO_AUTONOMO_DESCENTRALIZADO_PROVIN_ANALISTA.pdf"
+      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342516_GOBIERNO_AUTONOMO_DESCENTRALIZADO_PROVIN_ANALISTA.pdf",
+      "minExperienceMonths": 24
     },
     {
       "id": "342477",
@@ -68,7 +71,8 @@
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-10-30",
       "acceptsIT": true,
-      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342477_GOBIERNO_AUTONOMO_DESCENTRALIZADO_PROVIN_ANALISTA.pdf"
+      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342477_GOBIERNO_AUTONOMO_DESCENTRALIZADO_PROVIN_ANALISTA.pdf",
+      "minExperienceMonths": 48
     },
     {
       "id": "342534",
@@ -84,7 +88,8 @@
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-10-30",
       "acceptsIT": true,
-      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342534_GOBIERNO_AUTONOMO_DESCENTRALIZADO_PROVIN_ANALISTA.pdf"
+      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342534_GOBIERNO_AUTONOMO_DESCENTRALIZADO_PROVIN_ANALISTA.pdf",
+      "minExperienceMonths": 60
     },
     {
       "id": "342535",
@@ -100,7 +105,8 @@
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-10-30",
       "acceptsIT": true,
-      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342535_GOBIERNO_AUTONOMO_DESCENTRALIZADO_PROVIN_ANALISTA.pdf"
+      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342535_GOBIERNO_AUTONOMO_DESCENTRALIZADO_PROVIN_ANALISTA.pdf",
+      "minExperienceMonths": 48
     },
     {
       "id": "342504",
@@ -116,7 +122,8 @@
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-10-30",
       "acceptsIT": true,
-      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342504_GOBIERNO_AUTONOMO_DESCENTRALIZADO_PROVIN_ANALISTA.pdf"
+      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342504_GOBIERNO_AUTONOMO_DESCENTRALIZADO_PROVIN_ANALISTA.pdf",
+      "minExperienceMonths": 48
     },
     {
       "id": "342506",
@@ -132,7 +139,8 @@
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-10-30",
       "acceptsIT": true,
-      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342506_GOBIERNO_AUTONOMO_DESCENTRALIZADO_PROVIN_ANALISTA.pdf"
+      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342506_GOBIERNO_AUTONOMO_DESCENTRALIZADO_PROVIN_ANALISTA.pdf",
+      "minExperienceMonths": 48
     },
     {
       "id": "342326",
@@ -148,7 +156,42 @@
       "firstSeen": "2026-10-30",
       "lastSeen": "2026-10-30",
       "acceptsIT": true,
-      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342326_ZONA_9_SRI_ANALISTA_2_TRIBUTARIO.pdf"
+      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342326_ZONA_9_SRI_ANALISTA_2_TRIBUTARIO.pdf",
+      "minExperienceMonths": 36
+    },
+    {
+      "id": "342325",
+      "institution": "ZONA 9-SRI",
+      "title": "NOTIFICADOR",
+      "vacancies": 2,
+      "salary": 675.0,
+      "city": "QUITO",
+      "stage": "POSTULACIÓN",
+      "opensAt": null,
+      "closesAt": "2026-10-30T23:59:00-05:00",
+      "isIT": false,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "entryLevel": true,
+      "minExperienceMonths": 0,
+      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342325_ZONA_9_SRI_NOTIFICADOR.pdf"
+    },
+    {
+      "id": "328403",
+      "institution": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SAN CRISTOBAL DE PATATE",
+      "title": "TECNICO REGISTRAL",
+      "vacancies": 1,
+      "salary": 887.0,
+      "city": "PATATE",
+      "stage": "POSTULACIÓN",
+      "opensAt": null,
+      "closesAt": "2026-10-30T23:59:00-05:00",
+      "isIT": false,
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30",
+      "entryLevel": true,
+      "minExperienceMonths": 12,
+      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/328403_GOBIERNO_AUTONOMO_DESCENTRALIZADO_MUNICI_TECNICO_REGISTRAL.pdf"
     },
     {
       "id": "340363",
@@ -163,7 +206,8 @@
       "isIT": true,
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-30",
-      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/340363_REGISTRO_DE_LA_PROPIEDAD_DEL_CANTON_CUEN_RESPONSABLE_DE_TECNOLOGIAS_DE_.pdf"
+      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/340363_REGISTRO_DE_LA_PROPIEDAD_DEL_CANTON_CUEN_RESPONSABLE_DE_TECNOLOGIAS_DE_.pdf",
+      "minExperienceMonths": 60
     },
     {
       "id": "342338",
@@ -178,7 +222,8 @@
       "isIT": true,
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-30",
-      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342338_GOBIERNO_AUTONOMO_DESCENTRALIZADO_MUNICI_TECNICO_DE_DESARROLLO_DE_SOFTW.pdf"
+      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342338_GOBIERNO_AUTONOMO_DESCENTRALIZADO_MUNICI_TECNICO_DE_DESARROLLO_DE_SOFTW.pdf",
+      "minExperienceMonths": 30
     },
     {
       "id": "330772",
@@ -193,7 +238,42 @@
       "isIT": true,
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-30",
-      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/330772_UNIVERSIDAD_DE_INVESTIGACION_DE_TECNOLOG_TECNICO_A_DE_TECNOLOGIAS_DE_LA.pdf"
+      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/330772_UNIVERSIDAD_DE_INVESTIGACION_DE_TECNOLOG_TECNICO_A_DE_TECNOLOGIAS_DE_LA.pdf",
+      "minExperienceMonths": 48
+    },
+    {
+      "id": "342341",
+      "institution": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DEL CANTON PAUTE",
+      "title": "AUXILIAR TÉCNICO ELÉCTRICO",
+      "vacancies": 1,
+      "salary": 553.0,
+      "city": "PAUTÉ",
+      "stage": "POSTULACIÓN",
+      "opensAt": null,
+      "closesAt": "2026-10-29T23:59:00-05:00",
+      "isIT": false,
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "entryLevel": true,
+      "minExperienceMonths": 3,
+      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/342341_GOBIERNO_AUTONOMO_DESCENTRALIZADO_MUNICI_AUXILIAR_TECNICO_ELECTRICO.pdf"
+    },
+    {
+      "id": "330773",
+      "institution": "UNIVERSIDAD DE INVESTIGACIÓN DE TECNOLOGÍA EXPERIMENTAL YACHAY",
+      "title": "AUXILIAR ADMINISTRATIVO DE ESCUELA",
+      "vacancies": 1,
+      "salary": 733.0,
+      "city": "SAN MIGUEL DE URCUQUI",
+      "stage": "POSTULACIÓN",
+      "opensAt": null,
+      "closesAt": "2026-10-29T23:59:00-05:00",
+      "isIT": false,
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29",
+      "entryLevel": true,
+      "minExperienceMonths": 3,
+      "basesUrl": "https://github.com/COMPUMAX-EC/encuentraempleo-scraper/releases/download/bases-concursos/330773_UNIVERSIDAD_DE_INVESTIGACION_DE_TECNOLOG_AUXILIAR_ADMINISTRATIVO_DE_ESC.pdf"
     },
     {
       "id": "340247",

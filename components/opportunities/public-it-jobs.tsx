@@ -19,7 +19,8 @@ const cntJobs: PublicITJob[] = (cntData.jobs as CntJob[]).filter((job) => job.is
   // El portal publica el último día de publicación: se toma hasta el fin de ese día
   closesAt: job.closesOn ? `${job.closesOn}T23:59:00-05:00` : null, applyUrl: job.url, source: "CNT Empleo",
 }))
-const contestJobs: PublicITJob[] = ((publicData as { jobs: PublicContestJob[] }).jobs).map((job) => ({
+// El historial también guarda cargos de entrada que no son de TI (sección Para recién graduados)
+const contestJobs: PublicITJob[] = ((publicData as { jobs: PublicContestJob[] }).jobs).filter((job) => job.isIT || job.acceptsIT).map((job) => ({
   id: `mdt-${job.id}`, institution: job.institution, title: job.title, city: job.city, salary: job.salary, vacancies: job.vacancies,
   closesAt: job.closesAt, basesUrl: job.basesUrl, acceptsIT: !job.isIT && job.acceptsIT, applyUrl: encuentraEmpleoLinks[0].url, applyNote: `Código ${job.id}: ingresa a Encuentra Empleo y búscalo en Sector público.`, source: "Encuentra Empleo",
 }))
