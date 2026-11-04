@@ -12,7 +12,7 @@ export const tidyTitle = (text: string) => text === text.toUpperCase() ? text.to
 function JobLink({ job }: { job: ITJobLink }) {
   // La ciudad solo si el título no la nombra ya ("Ingeniero de datos - Quito")
   const city = job.city && !job.title.toLowerCase().includes(job.city.toLowerCase()) ? tidyTitle(job.city) : null
-  return <li><a href={job.url} target="_blank" rel="noreferrer" className="flex items-start gap-1.5 text-sm font-semibold text-sky-800 hover:underline dark:text-sky-300"><Laptop className="mt-0.5 size-3.5 shrink-0" /><span>{tidyTitle(job.title)}{city && <span className="font-normal text-muted-foreground"> · {city}</span>}</span><ArrowUpRight className="mt-0.5 size-3.5 shrink-0" /></a></li>
+  return <li><a href={job.url} target="_blank" rel="noreferrer" className="flex items-start gap-1.5 text-[13px] font-semibold text-sky-800 hover:underline dark:text-sky-300"><Laptop className="mt-0.5 size-3.5 shrink-0" /><span>{tidyTitle(job.title)}{city && <span className="font-normal text-muted-foreground"> · {city}</span>}</span><ArrowUpRight className="mt-0.5 size-3.5 shrink-0" /></a></li>
 }
 
 /** Lista de vacantes de TI abiertas con enlace directo; con muchas, las primeras a la vista y el resto plegado. */

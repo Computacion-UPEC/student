@@ -30,12 +30,12 @@ export function PrivateJobs({ onlyOpen, showHistoric, onShowHistoric }: Employme
   // Sin ofertas de TI que mostrar, la sección no aparece
   if (open.length === 0 && closed.length === 0 && hiddenHistoric === 0) return null
 
-  const card = (job: PrivateJob) => <div key={job.id} className={`flex flex-col gap-2 rounded-xl border border-l-4 p-4 ${job.closedOn ? "border-l-muted-foreground/40 bg-card" : "border-l-sky-600 bg-sky-50/70 ring-1 ring-sky-600/30 dark:bg-sky-950/30"}`}>
+  const card = (job: PrivateJob) => <div key={job.id} className={`flex flex-col gap-2 rounded-xl border border-l-4 p-3 ${job.closedOn ? "border-l-muted-foreground/40 bg-card" : "border-l-sky-600 bg-sky-50/70 ring-1 ring-sky-600/30 dark:bg-sky-950/30"}`}>
     <div className="flex flex-wrap gap-1.5"><Badge className="gap-1 bg-sky-600 text-white hover:bg-sky-600"><Laptop className="size-3" />Rol de TI</Badge><Badge variant="secondary">{job.company}</Badge>{job.closedOn && <Badge variant="outline">Cerrada</Badge>}</div>
-    <h3 className="font-heading text-base font-bold leading-snug text-foreground">{tidy(job.title)}</h3>
-    {job.city && <p className="flex items-center gap-1.5 text-sm text-primary"><MapPin className="size-3.5" />{tidy(job.city)}</p>}
+    <h3 className="font-heading text-sm font-bold leading-snug text-foreground">{tidy(job.title)}</h3>
+    {job.city && <p className="flex items-center gap-1.5 text-[13px] text-primary"><MapPin className="size-3.5" />{tidy(job.city)}</p>}
     <p className="flex items-center gap-1.5 text-xs text-muted-foreground"><CalendarDays className="size-3.5" />{job.publishedAt ? `Publicada ${formatDay(job.publishedAt)}` : `Vista desde ${formatDay(job.firstSeen)}`}{job.closedOn && ` · cerró ${formatDay(job.closedOn)}`}</p>
-    <div className="mt-auto pt-1"><Button asChild size="sm" variant={job.closedOn ? "outline" : "default"} className="h-8"><a href={job.url} target="_blank" rel="noreferrer">{job.closedOn ? "Ver oferta" : "Ver y postular"} <ArrowUpRight data-icon="inline-end" /></a></Button></div>
+    <div className="mt-auto pt-0.5"><Button asChild size="sm" variant={job.closedOn ? "outline" : "default"} className="h-8"><a href={job.url} target="_blank" rel="noreferrer">{job.closedOn ? "Ver oferta" : "Ver y postular"} <ArrowUpRight data-icon="inline-end" /></a></Button></div>
   </div>
 
   return <JobSection

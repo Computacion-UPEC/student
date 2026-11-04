@@ -23,11 +23,11 @@ export function UpdateOffers() {
   const u = estado.ultima
   const Icono = estado.enCurso ? Loader2 : u?.resultado === "success" ? CheckCircle2 : u ? XCircle : Clock
 
-  return <div className="mb-8 flex items-start gap-3 rounded-2xl border border-border bg-card p-4">
-    <span className="flex size-10 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"><Icono className={`size-5 ${estado.enCurso ? "animate-spin" : ""}`} /></span>
+  return <div className="mb-2 flex items-start gap-3 rounded-2xl border border-border bg-card p-3">
+    <span className="flex size-8 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"><Icono className={`size-5 ${estado.enCurso ? "animate-spin" : ""}`} /></span>
     <div>
-      <p className="font-heading text-base font-bold text-foreground">{estado.enCurso ? "Actualizando ofertas…" : "Ofertas de empleo"}</p>
-      <p className="text-sm text-muted-foreground">
+      <p className="font-heading text-sm font-bold text-foreground">{estado.enCurso ? "Actualizando ofertas…" : "Ofertas de empleo"}</p>
+      <p className="text-[13px] text-muted-foreground">
         {estado.enCurso
           ? "Los recolectores están revisando los portales; las ofertas nuevas aparecen en unos minutos."
           : u ? <>Última actualización: <a href={u.url} target="_blank" rel="noreferrer" className="font-medium text-foreground hover:underline">{formatoFecha(u.fin)}</a>{u.resultado === "success" ? "" : " (con errores en alguna fuente)"}. Se actualizan solas a las 08:00 y 18:00.</>

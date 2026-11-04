@@ -21,16 +21,16 @@ export function CelecAllCalls() {
   const visible = useMemo(() => calls.filter((call) => (unit === "Todas" || call.unit === unit)
     && (!query || call.role.toLowerCase().includes(query.toLowerCase()))), [unit, query])
 
-  return <Collapsible className="mb-8" summary={`Todas las convocatorias de CELEC EP (${calls.length}), con su enlace oficial`}>
-    <div className="mb-3 flex flex-wrap gap-2">
-      <select value={unit} onChange={(event) => setUnit(event.target.value)} aria-label="Unidad" className="rounded-lg border border-border bg-background px-3 py-1.5 text-sm">
+  return <Collapsible className="mb-2" summary={`Todas las convocatorias de CELEC EP (${calls.length}), con su enlace oficial`}>
+    <div className="mb-2 flex flex-wrap gap-2">
+      <select value={unit} onChange={(event) => setUnit(event.target.value)} aria-label="Unidad" className="rounded-lg border border-border bg-background px-3 py-1.5 text-[13px]">
         {["Todas", ...units].map((name) => <option key={name} value={name}>{name === "Todas" ? "Todas las unidades" : `${name} (${calls.filter((call) => call.unit === name).length})`}</option>)}
       </select>
-      <input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Buscar cargo…" aria-label="Buscar cargo" className="min-w-0 flex-1 rounded-lg border border-border bg-background px-3 py-1.5 text-sm" />
+      <input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Buscar cargo…" aria-label="Buscar cargo" className="min-w-0 flex-1 rounded-lg border border-border bg-background px-3 py-1.5 text-[13px]" />
       <span className="self-center text-xs text-muted-foreground">{visible.length} convocatorias</span>
     </div>
     <div className="max-h-[32rem] overflow-auto">
-      <table className="w-full min-w-[640px] text-left text-sm">
+      <table className="w-full min-w-[640px] text-left text-[13px]">
         <thead className="sticky top-0 border-b border-border bg-muted text-xs uppercase tracking-wide text-muted-foreground">
           <tr><th className="px-2 py-2 font-semibold">Unidad</th><th className="px-2 py-2 font-semibold">Cargo</th><th className="px-2 py-2 font-semibold">Publicada</th><th className="px-2 py-2 font-semibold">Cierre</th><th className="px-2 py-2 font-semibold">Para Computación</th></tr>
         </thead>

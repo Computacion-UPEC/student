@@ -53,19 +53,19 @@ export function OpportunitiesSection() {
 
   const matches = stage ? programs.filter((program) => program.stages.includes(stage)).length : null
 
-  return <section id="oportunidades" className="scroll-mt-20 border-t border-border bg-muted/30 py-16 md:py-24">
-    <div className="mx-auto max-w-7xl px-6">
-      <div className="mb-8 flex items-center gap-3 rounded-2xl border border-primary/20 bg-primary p-5 text-primary-foreground">
+  return <section id="oportunidades" className="scroll-mt-20 border-t border-border bg-muted/30 py-4 md:py-6">
+    <div className="mx-auto max-w-7xl px-4">
+      <div className="mb-2 flex items-center gap-3 rounded-2xl border border-primary/20 bg-primary p-3 text-primary-foreground">
         <Sparkles className="shrink-0 text-secondary" />
-        <p className="text-sm leading-relaxed text-primary-foreground/85"><span className="font-semibold text-primary-foreground">Especialízate con evidencia.</span> Revisa ofertas reales para saber qué piden y cuánto pagan, y aprovecha internships y becas para ganar experiencia.</p>
+        <p className="text-[13px] leading-relaxed text-primary-foreground/85"><span className="font-semibold text-primary-foreground">Especialízate con evidencia.</span> Revisa ofertas reales para saber qué piden y cuánto pagan, y aprovecha internships y becas para ganar experiencia.</p>
       </div>
 
       <StagePicker stage={stage} onChange={changeStage} matches={matches} />
 
       <Tabs value={tab} onValueChange={changeTab}>
-        <TabsList className="mb-8 h-auto w-full justify-start gap-1 rounded-xl p-1 sm:w-auto">
-          <TabsTrigger value="empleo" className="flex-1 gap-2 rounded-lg px-4 py-2 text-sm sm:flex-none"><BriefcaseBusiness className="size-4" /> Empleo</TabsTrigger>
-          <TabsTrigger value="becas" className="flex-1 gap-2 rounded-lg px-4 py-2 text-sm sm:flex-none"><GraduationCap className="size-4" /> Internships / Becas{matches != null && <span className="rounded-full bg-primary px-1.5 text-[11px] font-bold text-primary-foreground">{matches}</span>}</TabsTrigger>
+        <TabsList className="mb-2 h-auto w-full justify-start gap-1 rounded-xl p-1 sm:w-auto">
+          <TabsTrigger value="empleo" className="flex-1 gap-2 rounded-lg px-3 py-2 text-[13px] sm:flex-none"><BriefcaseBusiness className="size-4" /> Empleo</TabsTrigger>
+          <TabsTrigger value="becas" className="flex-1 gap-2 rounded-lg px-3 py-2 text-[13px] sm:flex-none"><GraduationCap className="size-4" /> Internships / Becas{matches != null && <span className="rounded-full bg-primary px-1.5 text-[11px] font-bold text-primary-foreground">{matches}</span>}</TabsTrigger>
         </TabsList>
         <TabsContent value="empleo" className="mt-0"><EmploymentTab stage={stage} /></TabsContent>
         <TabsContent value="becas" className="mt-0"><ProgramsList stage={stage} onClearStage={() => changeStage(null)} /></TabsContent>
