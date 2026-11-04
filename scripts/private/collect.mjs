@@ -8,7 +8,11 @@
 //   - Tigo (ex Movistar): sitio de Workday de Millicom, filtrado a Ecuador (scripts/lib/workday.mjs)
 //   - Netlife: portal de TalentRoom; su API responde cifrado, así que se lee la lista que muestra la página con el
 //     navegador sin interfaz de Petroecuador (scripts/lib/talentroom.mjs)
-// Queda como enlace Telconet, que solo publica en LinkedIn.
+//   - Nestlé Ecuador: su sitio de SuccessFactors con la tabla de resultados antigua, filtrado a Ecuador
+//   - Unilever: búsqueda de Ecuador en su portal global (careers.unilever.com)
+//   - Cervecería Nacional (AB InBev): la lista de "Vacantes disponibles" de su página; cada vacante enlaza a LinkedIn
+//     o Multitrabajos, donde se postula (esos sitios no se leen)
+// Quedan como enlace Telconet (solo LinkedIn) y Corporación Favorita (formularios propios).
 //   - Teuno (TI del Grupo Pichincha): sitio de Genoma enlazado desde "Bolsa de Empleo" de teuno.com
 //   - Difare: portal de Evaluar.com (WP Job Manager), enlazado desde "Trabaja con nosotros" de difare.com.ec
 // Las demás empresas investigadas quedan como enlace (ver lib/private-portals.ts): sus portales cargan las
@@ -128,6 +132,59 @@ async function evaluar(sub) {
   return [...jobs.values()]
 }
 
+/** SuccessFactors con la tabla de resultados antigua (filas "data-row"), como el de Nestlé. "Oct 8, 2026" -> fecha. */
+async function successFactorsTable(base, search) {
+  const jobs = new Map()
+  for (let start = 0; start < 500; start += 10) {
+    const html = await get(`${base}${search}&startrow=${start}`)
+    const rows = [...html.matchAll(/<tr class="data-row">([\s\S]*?)<\/tr>/g)].map(([, row]) => row)
+    const nuevas = rows.filter((row) => { const id = row.match(/href="\/job\/[^"]+\/(\d+)\/"/)?.[1]; return id && !jobs.has(id) })
+    if (!nuevas.length) break
+    for (const row of nuevas) {
+      const [, href, id] = row.match(/href="(\/job\/[^"]+\/(\d+)\/)"/)
+      const title = clean(row.match(/class="jobTitle-link"[^>]*>([\s\S]*?)<\/a>/)?.[1] ?? "")
+      const location = clean(row.match(/<span class="jobLocation">([\s\S]*?)<\/span>/)?.[1] ?? "")
+      // La búsqueda por país también trae vacantes de otros países que mencionan Ecuador
+      if (!title || !/,\s*EC\b/.test(location)) continue
+      const date = new Date(clean(row.match(/<span class="jobDate[^"]*">([\s\S]*?)<\/span>/)?.[1] ?? ""))
+      jobs.set(id, { key: id, title, city: location.split(",")[0].trim() || null,
+        publishedAt: Number.isNaN(date.getTime()) ? null : `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`, url: base + href })
+    }
+  }
+  return [...jobs.values()]
+}
+
+/** Unilever: resultados de la búsqueda de Ecuador en su portal global (una sola página: publica pocas). */
+async function unilever() {
+  const base = "https://careers.unilever.com"
+  const html = await get(`${base}/en/search-jobs/Ecuador`)
+  if (!html.includes("search-results")) throw new Error("careers.unilever.com no devolvió la lista de búsqueda")
+  const jobs = new Map()
+  for (const [, href, id, card] of html.matchAll(/<a href="(\/en\/job\/[^"]+)" data-job-id="(\d+)">([\s\S]*?)<\/a>/g)) {
+    const title = clean(card.match(/<h2[^>]*>([\s\S]*?)<\/h2>/)?.[1] ?? "")
+    if (!title || jobs.has(id)) continue
+    const city = clean(card.match(/class="job-location[^"]*">([\s\S]*?)<\/span>/)?.[1] ?? "")
+    jobs.set(id, { key: id, title, city: city && city !== "Ecuador" ? city : null, publishedAt: null, url: base + href })
+  }
+  return [...jobs.values()]
+}
+
+/** Cervecería Nacional: tarjetas de "Vacantes disponibles" en su página, con el enlace para postular. */
+async function cerveceriaNacional() {
+  const html = await get("https://www.cervecerianacional.ec/vacantes-disponibles")
+  if (!html.includes("talent-job")) throw new Error("cervecerianacional.ec no devolvió la lista de vacantes")
+  const jobs = new Map()
+  for (const [, card] of html.matchAll(/<article class="talent-job">([\s\S]*?)<\/article>/g)) {
+    const title = clean(card.match(/talent-job__title[^>]*>([\s\S]*?)<\/h3>/)?.[1] ?? "")
+    const url = card.match(/talent-job__icon-link[^"]*" href="([^"]+)"/)?.[1]
+    if (!title || !url) continue
+    // El número de la vacante en LinkedIn o Multitrabajos
+    const key = url.match(/(\d{6,})/)?.[1] ?? title.toLowerCase().replace(/[^a-z0-9]+/g, "-")
+    if (!jobs.has(key)) jobs.set(key, { key, title, city: clean(card.match(/talent-job__location">([\s\S]*?)<\/p>/)?.[1] ?? "") || null, publishedAt: null, url })
+  }
+  return [...jobs.values()]
+}
+
 const SOURCES = [
   { id: "holcim", company: "Holcim Ecuador", collect: () => successFactors("https://careers.holcimgroup.com", "/holcim_ecuador/go/Empleos-en-Holcim-Ecuador/8822402/") },
   { id: "arca", company: "Arca Continental", collect: () => successFactors("https://careers.arcacontal.com", "/search/?q=&locationsearch=Ecuador", { soloEcuador: true }) },
@@ -143,6 +200,9 @@ const SOURCES = [
   // locationCountry: id de Ecuador en la lista de filtros del sitio
   { id: "tigo", company: "Tigo (ex Movistar)", collect: () => workday("tigo.wd103.myworkdayjobs.com", "tigo", "tigocareers", { locationCountry: ["2752bce253374948a6bad7ed2059e054"] }) },
   { id: "netlife", company: "Netlife", collect: () => talentRoom("netlife") },
+  { id: "nestle", company: "Nestlé Ecuador", collect: () => successFactorsTable("https://jobdetails.nestle.com", "/search/?q=&locationsearch=Ecuador") },
+  { id: "unilever", company: "Unilever", collect: unilever },
+  { id: "cn", company: "Cervecería Nacional", collect: cerveceriaNacional },
 ]
 
 const previous = existsSync(OUT) ? JSON.parse(readFileSync(OUT, "utf8")) : { jobs: [] }

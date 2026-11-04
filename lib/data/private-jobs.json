@@ -79,6 +79,182 @@
       "firstSeen": "2026-11-04"
     },
     {
+      "id": "claro-1813",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ANALISTA DATA MINING",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1813",
+      "isIT": true,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "arca-1447951000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI LA TRONCAL",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-LA-TRONCAL/1447951000/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "arca-1447953200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR AVANCE | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-AVANCE-GUAYAQUIL-SUR/1447953200/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "arca-1447857600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI LATACUNGA",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LATACUNGA/1447857600/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "arca-1447953300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR UNIVERSAL | CEDI VALLE",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-VENDEDOR-UNIVERSAL-CEDI-VALLE-Dip-Quit/1447953300/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "arca-1447881200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "CHOFER REPARTIDOR | CEDI QUITO NORTE",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-CHOFER-REPARTIDOR-CEDI-QUITO-NORTE-Dip-Quit/1447881200/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "arca-1447884400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AYUDANTE DE DESPACHO | CEDI IBARRA",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://careers.arcacontal.com/job/IMB-Ibarra-AYUDANTE-DE-DESPACHO-CEDI-IBARRA-Dip-Ibar/1447884400/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "arca-1447883300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AYUDANTE DE DESPACHO | CEDI IBARRA",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://careers.arcacontal.com/job/IMB-Ibarra-AYUDANTE-DE-DESPACHO-CEDI-IBARRA-Dip-Ibar/1447883300/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "gpf-6aeb96a121b5ee96a236331b",
+      "source": "gpf",
+      "company": "FEMSA Salud (GPF)",
+      "title": "Administrador de Aplicaciones Middleware",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://corporaciongpf.hiringroom.com/jobs/get_vacancy/6aeb96a121b5ee96a236331b",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "unilever-102526840816",
+      "source": "unilever",
+      "company": "Unilever",
+      "title": "Pasantías Unilever Ecuador: Finanzas 2027-1",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://careers.unilever.com/en/job/ecuador/pasantias-unilever-ecuador-finanzas-2027-1/34155/102526840816",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "unilever-102526840224",
+      "source": "unilever",
+      "company": "Unilever",
+      "title": "Pasantías Unilever Ecuador: Comercial 2027-1",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://careers.unilever.com/en/job/ecuador/pasantias-unilever-ecuador-comercial-2027-1/34155/102526840224",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "unilever-102526840208",
+      "source": "unilever",
+      "company": "Unilever",
+      "title": "Pasantías Unilever Ecuador: Marketing 2027-1",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://careers.unilever.com/en/job/ecuador/pasantias-unilever-ecuador-marketing-2027-1/34155/102526840208",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "cn-1118378775",
+      "source": "cn",
+      "company": "Cervecería Nacional",
+      "title": "Operador de Envasado Temporal",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://www.multitrabajos.com/empleos/-1118378775.html",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "cn-4450639259",
+      "source": "cn",
+      "company": "Cervecería Nacional",
+      "title": "Analista Financiero Temporal",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://www.linkedin.com/jobs/view/4450639259/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "cn-4449686457",
+      "source": "cn",
+      "company": "Cervecería Nacional",
+      "title": "Operador BTS",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://www.linkedin.com/jobs/view/4449686457/?trk=mcm",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "cn-4447851152",
+      "source": "cn",
+      "company": "Cervecería Nacional",
+      "title": "Control Lead",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://www.linkedin.com/jobs/view/4447851152/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
       "id": "arca-1447429200",
       "source": "arca",
       "company": "Arca Continental",
@@ -193,17 +369,6 @@
       "source": "netlife",
       "company": "Netlife",
       "title": "EJECUTIVO DE VENTAS - GUAYAQUIL",
-      "city": "Guayaquil",
-      "publishedAt": null,
-      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "netlife-ejecutivo-de-ventas-campo-guayaquil-guayaquil",
-      "source": "netlife",
-      "company": "Netlife",
-      "title": "EJECUTIVO DE VENTAS CAMPO-GUAYAQUIL",
       "city": "Guayaquil",
       "publishedAt": null,
       "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
@@ -795,6 +960,17 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "nestle-1453117333",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Analista de Datos",
+      "city": "Quito",
+      "publishedAt": "2026-10-30",
+      "url": "https://jobdetails.nestle.com/job/Quito-Analista-de-Datos-17-03-4574/1453117333/",
+      "isIT": true,
+      "firstSeen": "2026-11-04"
+    },
+    {
       "id": "difare-trabajador-social",
       "source": "difare",
       "company": "Difare",
@@ -894,6 +1070,39 @@
       "firstSeen": "2026-10-30"
     },
     {
+      "id": "nestle-1452549133",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Especialista CDT Canal Moderno",
+      "city": "Quito",
+      "publishedAt": "2026-10-29",
+      "url": "https://jobdetails.nestle.com/job/Quito-Especialista-CDT-Canal-Moderno-17-03-4574/1452549133/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "nestle-1452346033",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Logistics And Distribution Auxiliary",
+      "city": "Guayaquil",
+      "publishedAt": "2026-10-29",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-Logistics-And-Distribution-Auxiliary-17-03-4574/1452346033/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "nestle-1452721733",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Auxiliar de Producción",
+      "city": "Guayaquil",
+      "publishedAt": "2026-10-29",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-Auxiliar-de-Producci%C3%B3n-17-03-4574/1452721733/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
       "id": "difare-sub-gerente-de-producto-dyvenpro",
       "source": "difare",
       "company": "Difare",
@@ -982,6 +1191,17 @@
       "url": "https://empleo.elrosado.com/Postulante/frmAplicacionSociedad",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "nestle-1452322633",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Pasante de Marketing Confites",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-10-28",
+      "url": "https://jobdetails.nestle.com/job/GUAYAQUIL-Pasante-de-Marketing-Confites-17-03-4574/1452322633/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
     },
     {
       "id": "novacero-6adfbe9210f80e9c370a3b33",
@@ -1202,6 +1422,17 @@
       "url": "https://puntonet.teamtailor.com/jobs/8611001-planner-digital",
       "isIT": false,
       "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "nestle-1450943933",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Técnico/a Electrico/a",
+      "city": "Guayaquil",
+      "publishedAt": "2026-10-23",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-T%C3%A9cnicoa-Electricoa-17-03-4574/1450943933/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
     },
     {
       "id": "holcim-1372996257",
@@ -1465,17 +1696,6 @@
       "publishedAt": null,
       "url": "https://corporaciongpf.hiringroom.com/jobs/get_vacancy/6a8634d8c37ea981dc4044f3",
       "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "gpf-6a84bf1f15b8cf3be164cd3f",
-      "source": "gpf",
-      "company": "FEMSA Salud (GPF)",
-      "title": "ANALISTA DE BI COMERCIAL",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://corporaciongpf.hiringroom.com/jobs/get_vacancy/6a84bf1f15b8cf3be164cd3f",
-      "isIT": true,
       "firstSeen": "2026-10-22"
     },
     {
@@ -3022,6 +3242,28 @@
       "firstSeen": "2026-10-24"
     },
     {
+      "id": "nestle-1450070433",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Category Management Specialist",
+      "city": "Quito",
+      "publishedAt": "2026-10-21",
+      "url": "https://jobdetails.nestle.com/job/Quito-Category-Management-Specialist-17-03-4574/1450070433/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "nestle-1450071333",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Jefe/a Zonal de Ventas",
+      "city": "Quito",
+      "publishedAt": "2026-10-21",
+      "url": "https://jobdetails.nestle.com/job/Quito-Jefea-Zonal-de-Ventas-17-03-4574/1450071333/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
       "id": "arca-1442052200",
       "source": "arca",
       "company": "Arca Continental",
@@ -3300,6 +3542,28 @@
       "url": "https://puntonet.teamtailor.com/jobs/8520191-pasante-de-instalacion-masiva-quito",
       "isIT": false,
       "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "nestle-1445832333",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Pasante de Marketing Maggi",
+      "city": "Quito",
+      "publishedAt": "2026-10-08",
+      "url": "https://jobdetails.nestle.com/job/Quito-Pasante-de-Marketing-Maggi-17-03-4574/1445832333/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "nestle-1435079033",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Distribution Center Supervisor",
+      "city": "Guayaquil",
+      "publishedAt": "2026-10-08",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-Distribution-Center-Supervisor-17-03-4574/1435079033/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
     },
     {
       "id": "arca-1438000900",
@@ -3724,7 +3988,7 @@
       "city": "Quito",
       "publishedAt": "2026-07-30",
       "url": "https://puntonet.teamtailor.com/jobs/8150920-pasante-de-sistemas-quito",
-      "isIT": false,
+      "isIT": true,
       "firstSeen": "2026-11-03"
     },
     {
@@ -5351,6 +5615,18 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "netlife-ejecutivo-de-ventas-campo-guayaquil-guayaquil",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTAS CAMPO-GUAYAQUIL",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03",
+      "closedOn": "2026-11-04"
+    },
+    {
       "id": "farmaenlace-1337880662",
       "source": "farmaenlace",
       "company": "Farmaenlace",
@@ -5435,6 +5711,18 @@
       "closedOn": "2026-11-01"
     },
     {
+      "id": "nestle-1443045233",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Pasante de Herramientas Comerciales",
+      "city": "Quito",
+      "publishedAt": "2026-10-29",
+      "url": "https://jobdetails.nestle.com/job/Quito-Pasante-de-Herramientas-Comerciales-17-03-4574/1443045233/",
+      "isIT": false,
+      "firstSeen": "2026-11-03",
+      "closedOn": "2026-11-04"
+    },
+    {
       "id": "tigo-R135650",
       "source": "tigo",
       "company": "Tigo (ex Movistar)",
@@ -5445,18 +5733,6 @@
       "isIT": false,
       "firstSeen": "2026-11-03",
       "closedOn": "2026-11-04"
-    },
-    {
-      "id": "claro-1813",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "ANALISTA DATA MINING",
-      "city": null,
-      "publishedAt": "2026-10-28",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1813",
-      "isIT": true,
-      "firstSeen": "2026-10-28",
-      "closedOn": "2026-10-31"
     },
     {
       "id": "claro-1766",
@@ -5685,6 +5961,18 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "gpf-6a84bf1f15b8cf3be164cd3f",
+      "source": "gpf",
+      "company": "FEMSA Salud (GPF)",
+      "title": "ANALISTA DE BI COMERCIAL",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://corporaciongpf.hiringroom.com/jobs/get_vacancy/6a84bf1f15b8cf3be164cd3f",
+      "isIT": true,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-04"
     },
     {
       "id": "gpf-6a85f185b0e745b4ba91cd79",
