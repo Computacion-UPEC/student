@@ -446,6 +446,17 @@
       "firstSeen": "2026-10-23"
     },
     {
+      "id": "pagueya-6ad27e72e8eca271255a745c",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "TRAINEE TECNOLOGIA",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ad27e72e8eca271255a745c",
+      "isIT": true,
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "pichincha-1337621062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1270,18 +1281,6 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-11-02"
-    },
-    {
-      "id": "pagueya-6ad27e72e8eca271255a745c",
-      "source": "pagueya",
-      "institution": "Pague Ya (Grupo Pichincha)",
-      "title": "TRAINEE TECNOLOGIA",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ad27e72e8eca271255a745c",
-      "isIT": true,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-11-01"
     },
     {
       "id": "pagueya-6acd7c05bb9d54db293385c4",

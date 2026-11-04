@@ -596,6 +596,17 @@
       "firstSeen": "2026-10-30"
     },
     {
+      "id": "tigo-R135682",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas-1",
+      "city": "Ambato",
+      "publishedAt": "2026-10-31",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Ambato/Ejecutivo-de-Tiendas-1_R135682",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "difare-analista-de-producto-3",
       "source": "difare",
       "company": "Difare",
@@ -718,17 +729,6 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "tigo-R135682",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Ejecutivo de Tiendas-1",
-      "city": "Ambato",
-      "publishedAt": "2026-10-30",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Ambato/Ejecutivo-de-Tiendas-1_R135682",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
-    },
-    {
       "id": "difare-trabajador-social",
       "source": "difare",
       "company": "Difare",
@@ -828,6 +828,28 @@
       "firstSeen": "2026-10-30"
     },
     {
+      "id": "tigo-R135733",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Gestión Económica",
+      "city": "Quito",
+      "publishedAt": "2026-10-29",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Gestin-Econmica_R135733",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "tigo-R135769",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Compras",
+      "city": "Quito",
+      "publishedAt": "2026-10-29",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Compras_R135769",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
       "id": "difare-sub-gerente-de-producto-dyvenpro",
       "source": "difare",
       "company": "Difare",
@@ -918,24 +940,13 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "tigo-R135733",
+      "id": "tigo-R135650",
       "source": "tigo",
       "company": "Tigo (ex Movistar)",
-      "title": "Pasante Gestión Económica",
+      "title": "(EVENTUAL) Pasante Desarrollo Producto Prepago",
       "city": "Quito",
       "publishedAt": "2026-10-28",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Gestin-Econmica_R135733",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "tigo-R135769",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Compras",
-      "city": "Quito",
-      "publishedAt": "2026-10-28",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Compras_R135769",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante-Desarrollo-Producto-Prepago_R135650",
       "isIT": false,
       "firstSeen": "2026-11-03"
     },
@@ -1050,13 +1061,13 @@
       "firstSeen": "2026-11-03"
     },
     {
-      "id": "tigo-R135650",
+      "id": "tigo-R135670",
       "source": "tigo",
       "company": "Tigo (ex Movistar)",
-      "title": "(EVENTUAL) Pasante Desarrollo Producto Prepago",
+      "title": "Analista Sr. Administrativo",
       "city": "Quito",
       "publishedAt": "2026-10-27",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante-Desarrollo-Producto-Prepago_R135650",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Analista-Sr-Administrativo_R135670",
       "isIT": false,
       "firstSeen": "2026-11-03"
     },
@@ -1123,17 +1134,6 @@
       "city": "Quito",
       "publishedAt": "2026-10-26",
       "url": "https://puntonet.teamtailor.com/jobs/8615977-ejecutivo-de-ventas-iot",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "tigo-R135670",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Analista Sr. Administrativo",
-      "city": "Quito",
-      "publishedAt": "2026-10-26",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Analista-Sr-Administrativo_R135670",
       "isIT": false,
       "firstSeen": "2026-11-03"
     },
@@ -1288,17 +1288,6 @@
       "city": "EC",
       "publishedAt": null,
       "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Base-de-talento-Auxiliares-de-Bombeo/1363959457/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "holcim-1363959657",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Base de talento - Operador/a de Mixer",
-      "city": "EC",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Base-de-talento-Operadora-de-Mixer/1363959657/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -3040,6 +3029,17 @@
       "city": null,
       "publishedAt": "2026-10-20",
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AUXILIAR-ADMINISTRATIVA-PLANTA-GUAYAQUIL-60000/1442052200/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "arca-1441406200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "COORDINADOR TÉCNICO REGIONAL | PLANTA QUITO",
+      "city": null,
+      "publishedAt": "2026-10-19",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-COORDINADOR-T%C3%89CNICO-REGIONAL-PLANTA-QUITO-1/1441406200/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -5626,6 +5626,18 @@
       "closedOn": "2026-10-24"
     },
     {
+      "id": "holcim-1363959657",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Base de talento - Operador/a de Mixer",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Base-de-talento-Operadora-de-Mixer/1363959657/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-04"
+    },
+    {
       "id": "arca-1442984000",
       "source": "arca",
       "company": "Arca Continental",
@@ -6020,18 +6032,6 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-27"
-    },
-    {
-      "id": "arca-1441406200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "COORDINADOR TÉCNICO REGIONAL | PLANTA QUITO",
-      "city": null,
-      "publishedAt": "2026-10-19",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-COORDINADOR-T%C3%89CNICO-REGIONAL-PLANTA-QUITO-1/1441406200/",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-10-26"
     },
     {
       "id": "arca-1441337200",
