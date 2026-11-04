@@ -48,15 +48,15 @@ export function PublicITJobs({ onlyOpen, showHistoric, onShowHistoric }: Employm
   // Sin cargos de TI que mostrar, la sección no aparece
   if (open.length === 0 && closed.length === 0 && hiddenHistoric === 0) return null
 
-  const card = (job: (typeof jobs)[number]) => <div key={job.id} className={`flex flex-col gap-2 rounded-xl border border-l-4 p-4 ${job.open ? "border-l-sky-600 bg-sky-50/70 ring-1 ring-sky-600/30 dark:bg-sky-950/30" : "border-l-muted-foreground/40 bg-card"}`}>
+  const card = (job: (typeof jobs)[number]) => <div key={job.id} className={`flex flex-col gap-2 rounded-xl border border-l-4 p-3 ${job.open ? "border-l-sky-600 bg-sky-50/70 ring-1 ring-sky-600/30 dark:bg-sky-950/30" : "border-l-muted-foreground/40 bg-card"}`}>
     <div className="flex flex-wrap gap-1.5">{job.acceptsIT ? <Badge variant="outline" className="gap-1 border-sky-600 text-sky-700 dark:text-sky-300"><Laptop className="size-3" />Acepta carrera de TI</Badge> : <Badge className="gap-1 bg-sky-600 text-white hover:bg-sky-600"><Laptop className="size-3" />Rol de TI</Badge>}<Badge className={job.open ? "bg-emerald-600 text-white hover:bg-emerald-600" : "bg-muted text-muted-foreground hover:bg-muted"}>{job.open ? "Abierta" : "Cerrada"}</Badge><Badge variant="outline">{job.source}</Badge></div>
-    <h3 className="font-heading text-base font-bold leading-snug text-foreground">{titleCase(job.title)}</h3>
-    <p className="flex items-start gap-1.5 text-sm font-medium text-primary"><Building className="mt-0.5 size-3.5 shrink-0" />{titleCase(job.institution)}</p>
+    <h3 className="font-heading text-sm font-bold leading-snug text-foreground">{titleCase(job.title)}</h3>
+    <p className="flex items-start gap-1.5 text-[13px] font-medium text-primary"><Building className="mt-0.5 size-3.5 shrink-0" />{titleCase(job.institution)}</p>
     {job.city && <p className="flex items-center gap-1.5 text-xs text-muted-foreground"><MapPin className="size-3.5 shrink-0" />{titleCase(job.city)}{job.vacancies && job.vacancies > 1 ? ` · ${job.vacancies} vacantes` : ""}</p>}
     {job.salary && <p className="flex items-center gap-1.5 text-xs text-muted-foreground"><DollarSign className="size-3.5 shrink-0" />RMU ${job.salary.toLocaleString("es-EC", { minimumFractionDigits: 2 })}</p>}
     <p className="flex items-start gap-1.5 text-xs text-muted-foreground"><CalendarClock className="mt-0.5 size-3.5 shrink-0" /><span>{job.closesAt ? `Postulación hasta ${formatDateTime(job.closesAt)}` : "Publicación vencida"}</span></p>
     {job.applyNote && job.open && <p className="text-xs text-muted-foreground">{job.applyNote}</p>}
-    <div className="mt-auto flex flex-wrap gap-2 pt-1">
+    <div className="mt-auto flex flex-wrap gap-2 pt-0.5">
       {job.open
         ? <Button asChild size="sm" className="bg-emerald-600 text-white hover:bg-emerald-700"><a href={job.applyUrl} target="_blank" rel="noreferrer"><Send data-icon="inline-start" />Postular</a></Button>
         : <Button asChild size="sm" variant="outline"><a href={job.applyUrl} target="_blank" rel="noreferrer">Ver en {job.source}<ArrowUpRight data-icon="inline-end" /></a></Button>}

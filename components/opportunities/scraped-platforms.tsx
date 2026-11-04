@@ -11,9 +11,9 @@ const formatDay = (day: string) => new Date(`${day}T12:00:00Z`).toLocaleDateStri
 /** Tabla de todas las plataformas que se revisan y el día de su última revisión (lib/data/scrape-status.json). */
 export function ScrapedPlatforms() {
   const rows = scrapedPlatforms.map((platform) => ({ ...platform, status: platformStatus[platform.key] }))
-  return <Collapsible className="mb-8" summary={`Plataformas que revisamos (${rows.length}) y su última revisión`}>
+  return <Collapsible className="mb-2" summary={`Plataformas que revisamos (${rows.length}) y su última revisión`}>
     <div className="overflow-x-auto">
-      <table className="w-full min-w-[640px] text-left text-sm">
+      <table className="w-full min-w-[640px] text-left text-[13px]">
         <thead className="border-b border-border text-xs uppercase tracking-wide text-muted-foreground">
           <tr><th className="py-2 pr-3 font-semibold">Plataforma</th><th className="py-2 pr-3 font-semibold">Qué recogemos</th><th className="py-2 pr-3 font-semibold">Cómo</th><th className="py-2 font-semibold">Última revisión</th></tr>
         </thead>

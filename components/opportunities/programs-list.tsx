@@ -54,25 +54,25 @@ export function ProgramsList({ stage, onClearStage }: { stage: Stage | null; onC
   }).sort((a, b) => Number(isOpen(b)) - Number(isOpen(a)) || Number(isUpcoming(b)) - Number(isUpcoming(a)) || (isUpcoming(a) && isUpcoming(b) ? a.opensAt!.localeCompare(b.opensAt!) : 0)), [query, kind, today, stage])
 
   return <div>
-    <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
-      <div><h2 className="font-heading text-2xl font-bold text-foreground md:text-3xl">Internships y becas</h2><p className="mt-1 max-w-2xl text-sm text-muted-foreground">Programas recurrentes que aceptan estudiantes de Ecuador. El calendario marca los meses en que suelen abrir; las fechas cambian cada año, así que confirma siempre en el sitio oficial.</p></div>
+    <div className="mb-2 flex flex-wrap items-end justify-between gap-3">
+      <div><h2 className="font-heading text-lg font-bold text-foreground md:text-xl">Internships y becas</h2><p className="mt-1 max-w-2xl text-[13px] text-muted-foreground">Programas recurrentes que aceptan estudiantes de Ecuador. El calendario marca los meses en que suelen abrir; las fechas cambian cada año, así que confirma siempre en el sitio oficial.</p></div>
       <div className="flex flex-wrap gap-2"><Badge variant="outline">{programs.length} programas</Badge>{today != null && programs.some(isOpen) && <Badge className="gap-1 bg-emerald-600 text-white hover:bg-emerald-600"><CircleDot className="size-3" />{programs.filter(isOpen).length} {programs.filter(isOpen).length === 1 ? "abierta" : "abiertas"} ahora</Badge>}{month != null && <Badge className="gap-1 bg-secondary text-secondary-foreground hover:bg-secondary"><BellRing className="size-3" />{programs.filter((program) => isUpcoming(program) || (!program.opensAt && opensSoon(program.cycle, month))).length} abren pronto</Badge>}</div>
     </div>
 
-    <div className="mb-6 flex flex-col gap-3 rounded-2xl border border-border bg-card p-4 md:flex-row md:items-center md:p-5">
+    <div className="mb-2 flex flex-col gap-3 rounded-2xl border border-border bg-card p-3 md:flex-row md:items-center md:p-3">
       <label className="relative block flex-1"><span className="sr-only">Buscar programas</span><Search className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground" /><Input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Buscar programa, país, IA, open source..." className="pl-10" /></label>
-      <div className="flex flex-wrap gap-1 rounded-lg bg-muted p-1" role="group" aria-label="Tipo de programa">{kinds.map((item) => <button key={item} type="button" onClick={() => setKind(item)} aria-pressed={kind === item} className={`rounded-md px-3 py-1.5 text-sm font-medium transition-colors ${kind === item ? "bg-background text-foreground shadow-sm" : "text-muted-foreground hover:text-foreground"}`}>{kindLabel[item]}</button>)}</div>
+      <div className="flex flex-wrap gap-1 rounded-lg bg-muted p-1" role="group" aria-label="Tipo de programa">{kinds.map((item) => <button key={item} type="button" onClick={() => setKind(item)} aria-pressed={kind === item} className={`rounded-md px-3 py-1.5 text-[13px] font-medium transition-colors ${kind === item ? "bg-background text-foreground shadow-sm" : "text-muted-foreground hover:text-foreground"}`}>{kindLabel[item]}</button>)}</div>
     </div>
 
-    {stage && <div className="mb-5 flex flex-wrap items-center gap-2 text-sm"><span className="inline-flex items-center gap-1.5 rounded-full bg-primary px-3 py-1 font-medium text-primary-foreground"><UserRound className="size-3.5" />Para: {stageById[stage].label} · {filtered.length} {filtered.length === 1 ? "programa" : "programas"}</span><button type="button" onClick={onClearStage} className="inline-flex items-center gap-1 rounded-full px-2 py-1 text-xs font-semibold text-primary hover:underline"><X className="size-3" />Ver todos</button></div>}
-    <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">{filtered.map((program) => <Card key={program.id} className={`flex h-full flex-col gap-0 border-l-4 py-0 ${program.itFocus ? "border-l-sky-600 bg-sky-50/70 ring-1 ring-sky-600/30 dark:bg-sky-950/30" : program.kind === "Beca" ? "border-l-secondary" : "border-l-sky-500"}`}>
-      <CardHeader className="p-5 pb-3">
+    {stage && <div className="mb-3 flex flex-wrap items-center gap-2 text-[13px]"><span className="inline-flex items-center gap-1.5 rounded-full bg-primary px-3 py-1 font-medium text-primary-foreground"><UserRound className="size-3.5" />Para: {stageById[stage].label} · {filtered.length} {filtered.length === 1 ? "programa" : "programas"}</span><button type="button" onClick={onClearStage} className="inline-flex items-center gap-1 rounded-full px-2 py-1 text-xs font-semibold text-primary hover:underline"><X className="size-3" />Ver todos</button></div>}
+    <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">{filtered.map((program) => <Card key={program.id} className={`flex h-full flex-col gap-0 border-l-4 py-0 ${program.itFocus ? "border-l-sky-600 bg-sky-50/70 ring-1 ring-sky-600/30 dark:bg-sky-950/30" : program.kind === "Beca" ? "border-l-secondary" : "border-l-sky-500"}`}>
+      <CardHeader className="p-3 pb-2">
         <div className="mb-2 flex flex-wrap gap-1.5"><Badge variant={program.kind === "Beca" ? "secondary" : "default"} className="gap-1">{program.kind === "Beca" ? <GraduationCap className="size-3" /> : <Laptop className="size-3" />}{program.kind}</Badge>{isOpen(program) && <Badge className="gap-1 bg-emerald-600 text-white hover:bg-emerald-600"><CircleDot className="size-3" />Abierta · cierra {shortDate(program.closesAt!)}</Badge>}{isUpcoming(program) && <Badge className="gap-1 bg-secondary text-secondary-foreground hover:bg-secondary"><BellRing className="size-3" />Abre {shortDate(program.opensAt!)}</Badge>}{program.itFocus && <Badge className="gap-1 bg-sky-600 text-white hover:bg-sky-600"><Cpu className="size-3" />TI</Badge>}{!program.opensAt && opensSoon(program.cycle, month) && <Badge className="gap-1 bg-secondary text-secondary-foreground hover:bg-secondary"><BellRing className="size-3" />Abre pronto</Badge>}{program.tags.map((tag) => <Badge key={tag} variant="outline">{tag}</Badge>)}</div>
-        <h3 className="font-heading text-lg font-bold leading-snug text-foreground">{program.name}</h3>
-        <p className="mt-1 text-sm font-medium text-primary">{program.provider}</p>
+        <h3 className="font-heading text-sm font-bold leading-snug text-foreground">{program.name}</h3>
+        <p className="mt-1 text-[13px] font-medium text-primary">{program.provider}</p>
         {program.itFocus && <p className="mt-2 flex items-start gap-1.5 text-xs font-semibold text-sky-700 dark:text-sky-400"><Cpu className="mt-0.5 size-3.5 shrink-0" />{program.itFocus}</p>}
       </CardHeader>
-      <CardContent className="flex flex-1 flex-col gap-2 px-5 pb-4 text-sm">
+      <CardContent className="flex flex-1 flex-col gap-2 px-3 pb-2 text-[13px]">
         <p className="flex gap-2 text-muted-foreground"><MapPin className="mt-0.5 size-4 shrink-0" /><span>{program.place} · {program.level}</span></p>
         <p className="flex gap-2 text-foreground"><Wallet className="mt-0.5 size-4 shrink-0 text-primary" /><span>{program.funding}</span></p>
         <p className="flex gap-2 text-muted-foreground"><CalendarDays className="mt-0.5 size-4 shrink-0" /><span>{program.timing}</span></p>
@@ -80,10 +80,10 @@ export function ProgramsList({ stage, onClearStage }: { stage: Stage | null; onC
         <p className="text-xs leading-relaxed text-muted-foreground">{program.eligibility}</p>
         {program.warning && <p className="flex items-center gap-1.5 text-xs font-medium text-amber-700 dark:text-amber-400"><AlertTriangle className="size-3.5 shrink-0" />{program.warning}</p>}
       </CardContent>
-      <CardFooter className="border-t border-border px-5 py-3"><Button asChild variant="ghost" size="sm" className="-ml-2 text-primary"><a href={program.url} target="_blank" rel="noreferrer">Sitio oficial <ArrowUpRight data-icon="inline-end" /></a></Button></CardFooter>
+      <CardFooter className="border-t border-border px-3 py-2"><Button asChild variant="ghost" size="sm" className="-ml-2 text-primary"><a href={program.url} target="_blank" rel="noreferrer">Sitio oficial <ArrowUpRight data-icon="inline-end" /></a></Button></CardFooter>
     </Card>)}</div>
-    {filtered.length === 0 && <div className="rounded-2xl border border-dashed border-border bg-card p-12 text-center text-muted-foreground"><Check className="mx-auto mb-3 text-primary" />No encontramos programas con esa búsqueda.</div>}
+    {filtered.length === 0 && <div className="rounded-2xl border border-dashed border-border bg-card p-12 text-center text-muted-foreground"><Check className="mx-auto mb-2 text-primary" />No encontramos programas con esa búsqueda.</div>}
 
-    <p className="mt-6 text-xs text-muted-foreground">Las becas provienen de la base de <a href="https://github.com/Computacion-UPEC/MultiAgentic-becas" target="_blank" rel="noreferrer" className="font-medium text-primary hover:underline">MultiAgentic-becas</a>, filtradas a las que aceptan postulantes de Ecuador o internacionales y verificadas en su fuente oficial (octubre 2026).</p>
+    <p className="mt-3 text-xs text-muted-foreground">Las becas provienen de la base de <a href="https://github.com/Computacion-UPEC/MultiAgentic-becas" target="_blank" rel="noreferrer" className="font-medium text-primary hover:underline">MultiAgentic-becas</a>, filtradas a las que aceptan postulantes de Ecuador o internacionales y verificadas en su fuente oficial (octubre 2026).</p>
   </div>
 }

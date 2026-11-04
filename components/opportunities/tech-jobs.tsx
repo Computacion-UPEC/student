@@ -50,19 +50,19 @@ export function TechJobs({ onlyOpen }: EmploymentFilters) {
 
   if (open.length === 0 && closed.length === 0) return null
 
-  const card = (job: TechJob) => <div key={job.id} className={`flex flex-col gap-2 rounded-xl border border-l-4 p-4 ${isOpen(job) ? "border-l-sky-600 bg-sky-50/70 ring-1 ring-sky-600/30 dark:bg-sky-950/30" : "border-l-muted-foreground/40 bg-card"}`}>
+  const card = (job: TechJob) => <div key={job.id} className={`flex flex-col gap-2 rounded-xl border border-l-4 p-3 ${isOpen(job) ? "border-l-sky-600 bg-sky-50/70 ring-1 ring-sky-600/30 dark:bg-sky-950/30" : "border-l-muted-foreground/40 bg-card"}`}>
     <div className="flex flex-wrap gap-1.5"><Badge className="gap-1 bg-sky-600 text-white hover:bg-sky-600"><Laptop className="size-3" />Rol de TI</Badge><Badge variant="secondary">{job.company}</Badge>{job.remote && <Badge variant="outline" className="gap-1"><Globe2 className="size-3" />Remoto</Badge>}{job.closedOn ? <Badge variant="outline">Cerrada</Badge> : ageInDays(job) > OLD_DAYS && <Badge variant="outline" className="border-amber-500/60 text-amber-700 dark:text-amber-400">Publicada hace {ageInDays(job)} días</Badge>}</div>
-    <h3 className="font-heading text-base font-bold leading-snug text-foreground">{job.title}</h3>
-    {job.city && <p className="flex items-center gap-1.5 text-sm text-primary"><MapPin className="size-3.5" />{job.city}, Ecuador</p>}
+    <h3 className="font-heading text-sm font-bold leading-snug text-foreground">{job.title}</h3>
+    {job.city && <p className="flex items-center gap-1.5 text-[13px] text-primary"><MapPin className="size-3.5" />{job.city}, Ecuador</p>}
     <p className="flex items-center gap-1.5 text-xs text-muted-foreground"><CalendarDays className="size-3.5" />{job.publishedAt ? `Publicada ${formatDay(job.publishedAt)}` : `Vista desde ${formatDay(job.firstSeen)}`}{job.closedOn && ` · cerró ${formatDay(job.closedOn)}`}</p>
-    <div className="mt-auto pt-1"><Button asChild size="sm" variant={isOpen(job) ? "default" : "outline"} className="h-8"><a href={job.url} target="_blank" rel="noreferrer">{isOpen(job) ? "Ver y postular" : "Ver oferta"} <ArrowUpRight data-icon="inline-end" /></a></Button></div>
+    <div className="mt-auto pt-0.5"><Button asChild size="sm" variant={isOpen(job) ? "default" : "outline"} className="h-8"><a href={job.url} target="_blank" rel="noreferrer">{isOpen(job) ? "Ver y postular" : "Ver oferta"} <ArrowUpRight data-icon="inline-end" /></a></Button></div>
   </div>
 
   return <JobSection
     title="Empresas de software en Ecuador"
     description={<>Vacantes de TI en Ecuador que siguen publicadas (las de hace más de {OLD_DAYS} días llevan su antigüedad), revisadas dos veces al día desde el {formatDay(data.collectedSince)}.</>}
     badges={<Badge className="gap-1 bg-sky-600 text-white hover:bg-sky-600"><Laptop className="size-3" />{open.length} abiertas de TI</Badge>}
-    actions={companyNames.length > 0 && <div className="mb-4 grid gap-2 md:grid-cols-2">{companyNames.map((name) => <a key={name} href={companies[name]?.site} target="_blank" rel="noreferrer" className="group rounded-xl border border-border bg-card p-3 text-sm transition-colors hover:border-primary/50">
+    actions={companyNames.length > 0 && <div className="mb-2 grid gap-2 md:grid-cols-2">{companyNames.map((name) => <a key={name} href={companies[name]?.site} target="_blank" rel="noreferrer" className="group rounded-xl border border-border bg-card p-3 text-[13px] transition-colors hover:border-primary/50">
       <span className="flex items-center gap-1 font-heading font-bold text-foreground">{name}<span className="text-xs font-normal text-muted-foreground">· {open.filter((job) => job.company === name).length} vacantes</span><ArrowUpRight className="size-3.5 text-muted-foreground group-hover:text-primary" /></span>
       <span className="text-xs text-muted-foreground">{companies[name]?.about}</span>
     </a>)}</div>}

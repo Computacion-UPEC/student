@@ -50,10 +50,10 @@ export function PetroecuadorJobs({ onlyOpen, showHistoric, onShowHistoric }: Emp
   // Sin cargos de TI que mostrar, la sección no aparece
   if (open.length === 0 && closed.length === 0 && hiddenHistoric === 0) return null
 
-  const card = (job: (typeof jobs)[number]) => <div key={job.code} className={`flex flex-col gap-2 rounded-xl border border-l-4 p-4 ${job.status === "Cerrada" ? "border-l-muted-foreground/40 bg-card" : "border-l-sky-600 bg-sky-50/70 ring-1 ring-sky-600/30 dark:bg-sky-950/30"}`}>
+  const card = (job: (typeof jobs)[number]) => <div key={job.code} className={`flex flex-col gap-2 rounded-xl border border-l-4 p-3 ${job.status === "Cerrada" ? "border-l-muted-foreground/40 bg-card" : "border-l-sky-600 bg-sky-50/70 ring-1 ring-sky-600/30 dark:bg-sky-950/30"}`}>
     <div className="flex flex-wrap gap-1.5"><Badge className="gap-1 bg-sky-600 text-white hover:bg-sky-600"><Laptop className="size-3" />Rol de TI</Badge><Badge className={statusStyles[job.status]}>{job.status}</Badge></div>
-    <h3 className="font-heading text-base font-bold leading-snug text-foreground">{job.role}</h3>
-    <p className="flex items-center gap-1.5 text-sm text-primary"><MapPin className="size-3.5" />{job.city}<span className="text-muted-foreground">· {job.code}</span></p>
+    <h3 className="font-heading text-sm font-bold leading-snug text-foreground">{job.role}</h3>
+    <p className="flex items-center gap-1.5 text-[13px] text-primary"><MapPin className="size-3.5" />{job.city}<span className="text-muted-foreground">· {job.code}</span></p>
     <p className="flex items-start gap-1.5 text-xs text-muted-foreground"><CalendarClock className="mt-0.5 size-3.5 shrink-0" /><span>{formatDateTime(job.opensAt)} → {formatDateTime(job.closesAt)}</span></p>
     <p className="text-xs text-muted-foreground">{job.type}</p>
   </div>
@@ -62,7 +62,7 @@ export function PetroecuadorJobs({ onlyOpen, showHistoric, onShowHistoric }: Emp
     title="Cargos de TI en EP Petroecuador"
     description={<>Petroecuador publica sus procesos solo mientras están abiertos, a veces por 2 días. Los revisamos dos veces al día desde el {formatDay(data.collectedSince)} y aquí mostramos solo los del área de TI.</>}
     badges={now != null && <Badge className={statusStyles.Abierta}><CircleDot className="size-3" />{openCount} {openCount === 1 ? "abierta" : "abiertas"} de TI</Badge>}
-    actions={<div className="mb-4 flex flex-wrap items-center gap-2"><Button asChild size="sm" variant="ghost" className="text-primary"><a href={data.source} target="_blank" rel="noreferrer">Postular en el sitio oficial <ArrowUpRight data-icon="inline-end" /></a></Button></div>}
+    actions={<div className="mb-2 flex flex-wrap items-center gap-2"><Button asChild size="sm" variant="ghost" className="text-primary"><a href={data.source} target="_blank" rel="noreferrer">Postular en el sitio oficial <ArrowUpRight data-icon="inline-end" /></a></Button></div>}
     open={open.map(card)}
     closed={closed.map(card)}
     moreLabel={(count) => `Ver los ${count} cargos de TI`}

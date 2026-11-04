@@ -31,13 +31,13 @@ export function FinanceJobs({ onlyOpen, showHistoric, onShowHistoric }: Employme
   // Sin ofertas de TI que mostrar, la sección no aparece
   if (open.length === 0 && closed.length === 0 && hiddenHistoric === 0) return null
 
-  const card = (job: FinanceJob) => <div key={job.id} className={`flex flex-col gap-2 rounded-xl border border-l-4 p-4 ${job.closedOn ? "border-l-muted-foreground/40 bg-card" : "border-l-sky-600 bg-sky-50/70 ring-1 ring-sky-600/30 dark:bg-sky-950/30"}`}>
+  const card = (job: FinanceJob) => <div key={job.id} className={`flex flex-col gap-2 rounded-xl border border-l-4 p-3 ${job.closedOn ? "border-l-muted-foreground/40 bg-card" : "border-l-sky-600 bg-sky-50/70 ring-1 ring-sky-600/30 dark:bg-sky-950/30"}`}>
     <div className="flex flex-wrap gap-1.5"><Badge className="gap-1 bg-sky-600 text-white hover:bg-sky-600"><Laptop className="size-3" />Rol de TI</Badge><Badge variant="secondary">{job.institution}</Badge>{job.closedOn && <Badge variant="outline">Cerrada</Badge>}</div>
-    <h3 className="font-heading text-base font-bold leading-snug text-foreground">{tidy(job.title)}</h3>
-    {(job.city || job.province) && <p className="flex items-center gap-1.5 text-sm text-primary"><MapPin className="size-3.5" />{[job.city, job.province].filter(Boolean).map((place) => tidy(place!)).join(", ")}</p>}
+    <h3 className="font-heading text-sm font-bold leading-snug text-foreground">{tidy(job.title)}</h3>
+    {(job.city || job.province) && <p className="flex items-center gap-1.5 text-[13px] text-primary"><MapPin className="size-3.5" />{[job.city, job.province].filter(Boolean).map((place) => tidy(place!)).join(", ")}</p>}
     <p className="flex items-center gap-1.5 text-xs text-muted-foreground"><CalendarDays className="size-3.5" />{job.publishedAt ? `Publicada ${formatDay(job.publishedAt)}` : `Vista desde ${formatDay(job.firstSeen)}`}{job.closedOn && ` · cerró ${formatDay(job.closedOn)}`}</p>
     {job.requirements?.length ? <details className="group text-xs"><summary className="flex cursor-pointer list-none items-center gap-1 font-semibold text-primary hover:underline [&::-webkit-details-marker]:hidden"><ChevronDown className="size-3.5 transition-transform group-open:rotate-180" /> Ver requisitos</summary><ul className="mt-2 list-disc space-y-1 pl-4 text-muted-foreground">{job.requirements.map((requirement) => <li key={requirement}>{requirement}</li>)}</ul></details> : null}
-    <div className="mt-auto flex flex-wrap gap-2 pt-1">
+    <div className="mt-auto flex flex-wrap gap-2 pt-0.5">
       {job.apply && !job.closedOn ? <Button asChild size="sm" className="h-8"><a href={`mailto:${job.apply.email}?subject=${encodeURIComponent(job.apply.subject)}`}><Mail data-icon="inline-start" /> Postular por correo</a></Button> : null}
       <Button asChild size="sm" variant={job.apply || job.closedOn ? "ghost" : "default"} className="h-8"><a href={job.url} target="_blank" rel="noreferrer">Ver oferta <ArrowUpRight data-icon="inline-end" /></a></Button>
     </div>

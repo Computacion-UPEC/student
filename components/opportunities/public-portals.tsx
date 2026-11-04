@@ -34,13 +34,13 @@ function CountBadges({ count }: { count?: Count }) {
 }
 
 function PortalCard({ icon: Icon, name, badges, note, links }: { icon: typeof Building; name: string; badges: ReactNode; note: string; links: PortalLink[] }) {
-  return <div className="flex items-start gap-3 rounded-xl border border-border bg-card p-4">
-    <span className="flex size-10 shrink-0 items-center justify-center rounded-lg bg-primary/10 text-primary"><Icon className="size-5" /></span>
+  return <div className="flex items-start gap-3 rounded-xl border border-border bg-card p-3">
+    <span className="flex size-8 shrink-0 items-center justify-center rounded-lg bg-primary/10 text-primary"><Icon className="size-5" /></span>
     <span className="flex min-w-0 flex-1 flex-col gap-1">
-      <span className="font-heading text-base font-bold text-foreground">{name}</span>
+      <span className="font-heading text-sm font-bold text-foreground">{name}</span>
       <span className="flex flex-wrap gap-1">{badges}</span>
       <span className="text-xs text-muted-foreground">{note}</span>
-      <span className="mt-1 flex flex-wrap gap-x-3 gap-y-1">{links.map((link) => <a key={link.url} href={link.url} target="_blank" rel="noreferrer" className="inline-flex items-center gap-0.5 text-sm font-semibold text-primary hover:underline">{link.label}<ArrowUpRight className="size-3.5" /></a>)}</span>
+      <span className="mt-1 flex flex-wrap gap-x-3 gap-y-1">{links.map((link) => <a key={link.url} href={link.url} target="_blank" rel="noreferrer" className="inline-flex items-center gap-0.5 text-[13px] font-semibold text-primary hover:underline">{link.label}<ArrowUpRight className="size-3.5" /></a>)}</span>
     </span>
   </div>
 }
@@ -59,17 +59,17 @@ export function PublicPortals() {
   const withJobs = cards.filter((card) => counts[card.id]?.total)
   const others = cards.filter((card) => !counts[card.id]?.total)
 
-  return <div className="mb-12">
+  return <div className="mb-3">
     {withJobs.length > 0 && <>
-      <div className="mb-4 flex flex-wrap items-end justify-between gap-4">
-        <div><h2 className="font-heading text-2xl font-bold text-foreground md:text-3xl">Instituciones públicas con convocatorias abiertas</h2><p className="mt-1 max-w-2xl text-sm text-muted-foreground">Las empresas públicas y algunos institutos tienen su propio portal; los ministerios e instituciones regidos por la LOSEP publican sus concursos en Encuentra Empleo, del Ministerio del Trabajo.</p></div>
+      <div className="mb-2 flex flex-wrap items-end justify-between gap-3">
+        <div><h2 className="font-heading text-lg font-bold text-foreground md:text-xl">Instituciones públicas con convocatorias abiertas</h2><p className="mt-1 max-w-2xl text-[13px] text-muted-foreground">Las empresas públicas y algunos institutos tienen su propio portal; los ministerios e instituciones regidos por la LOSEP publican sus concursos en Encuentra Empleo, del Ministerio del Trabajo.</p></div>
         <Badge variant="outline">{withJobs.length} con convocatorias</Badge>
       </div>
       <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">{withJobs.map((card) => card.node)}</div>
     </>}
-    {others.length > 0 && <Collapsible className="mt-4" summary={`${withJobs.length ? "Otras" : "Dónde publican las instituciones públicas:"} ${others.length} sin convocatorias abiertas ahora`}>
+    {others.length > 0 && <Collapsible className="mt-2" summary={`${withJobs.length ? "Otras" : "Dónde publican las instituciones públicas:"} ${others.length} sin convocatorias abiertas ahora`}>
       <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">{others.map((card) => card.node)}</div>
     </Collapsible>}
-    <p className="mt-4 flex items-start gap-2 text-xs text-muted-foreground"><Lightbulb className="mt-0.5 size-3.5 shrink-0 text-secondary" /><span>Las convocatorias públicas suelen abrir solo unos días. Ten lista tu hoja de vida en Encuentra Empleo y tu título registrado en la SENESCYT antes de que salgan.</span></p>
+    <p className="mt-2 flex items-start gap-2 text-xs text-muted-foreground"><Lightbulb className="mt-0.5 size-3.5 shrink-0 text-secondary" /><span>Las convocatorias públicas suelen abrir solo unos días. Ten lista tu hoja de vida en Encuentra Empleo y tu título registrado en la SENESCYT antes de que salgan.</span></p>
   </div>
 }

@@ -118,33 +118,33 @@ export function EntryLevelJobs() {
     && (!query || `${job.title} ${job.org} ${job.city ?? ""}`.toLowerCase().includes(query.toLowerCase())))
   const newCount = now == null ? 0 : open.filter((job) => isNew(job, now)).length
 
-  return <section aria-labelledby="recien-graduados" className="mb-10 rounded-2xl border-2 border-amber-500/60 bg-amber-50/60 p-4 dark:bg-amber-950/20 md:p-6">
-    <div className="mb-4 flex flex-wrap items-start justify-between gap-3">
+  return <section aria-labelledby="recien-graduados" className="mb-3 rounded-2xl border-2 border-amber-500/60 bg-amber-50/60 p-3 dark:bg-amber-950/20 md:p-4">
+    <div className="mb-2 flex flex-wrap items-start justify-between gap-3">
       <div className="min-w-0 flex-1">
-        <h2 id="recien-graduados" className="flex items-center gap-2 font-heading text-2xl font-bold text-foreground"><GraduationCap className="size-6 shrink-0 text-amber-600" />Para recién graduados</h2>
-        <p className="mt-1 max-w-3xl text-sm text-muted-foreground">Cargos de entrada abiertos en todas las fuentes que revisamos, sean o no de TI: asistentes, auxiliares (incluye servicios generales), ayudantes, pasantías, trainee y junior. Suelen pedir poca o ninguna experiencia; revisa los requisitos de cada uno antes de postular.</p>
+        <h2 id="recien-graduados" className="flex items-center gap-2 font-heading text-lg font-bold text-foreground"><GraduationCap className="size-5 shrink-0 text-amber-600" />Para recién graduados</h2>
+        <p className="mt-1 max-w-3xl text-[13px] text-muted-foreground">Cargos de entrada abiertos en todas las fuentes que revisamos, sean o no de TI: asistentes, auxiliares (incluye servicios generales), ayudantes, pasantías, trainee y junior. Suelen pedir poca o ninguna experiencia; revisa los requisitos de cada uno antes de postular.</p>
       </div>
       {now != null && <div className="flex flex-wrap gap-2">
         <Badge className="bg-amber-600 text-white hover:bg-amber-600">{open.length} abiertos</Badge>
         {newCount > 0 && <Badge className="gap-1 bg-emerald-600 text-white hover:bg-emerald-600"><BellRing className="size-3" />{newCount} nuevos esta semana</Badge>}
       </div>}
     </div>
-    <div className="mb-3 flex flex-wrap gap-2">
-      <button type="button" aria-pressed={onlyIT} onClick={() => setOnlyIT((value) => !value)} className={`inline-flex items-center gap-1.5 rounded-lg border px-3 py-1.5 text-sm font-medium transition-colors ${onlyIT ? "border-sky-600 bg-sky-600 text-white" : "border-border bg-background text-foreground hover:border-sky-600/50"}`}><Laptop className="size-4" />TI y afines{now != null && <span className={onlyIT ? "text-white/80" : "text-muted-foreground"}>({itCount})</span>}</button>
-      <select value={sector} onChange={(event) => setSector(event.target.value)} aria-label="Sector" className="rounded-lg border border-border bg-background px-3 py-1.5 text-sm">
+    <div className="mb-2 flex flex-wrap gap-2">
+      <button type="button" aria-pressed={onlyIT} onClick={() => setOnlyIT((value) => !value)} className={`inline-flex items-center gap-1.5 rounded-lg border px-3 py-1.5 text-[13px] font-medium transition-colors ${onlyIT ? "border-sky-600 bg-sky-600 text-white" : "border-border bg-background text-foreground hover:border-sky-600/50"}`}><Laptop className="size-4" />TI y afines{now != null && <span className={onlyIT ? "text-white/80" : "text-muted-foreground"}>({itCount})</span>}</button>
+      <select value={sector} onChange={(event) => setSector(event.target.value)} aria-label="Sector" className="rounded-lg border border-border bg-background px-3 py-1.5 text-[13px]">
         {["Todos", ...sectors].map((name) => <option key={name} value={name}>{name === "Todos" ? "Todos los sectores" : `${name} (${open.filter((job) => job.sector === name).length})`}</option>)}
       </select>
-      <input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Buscar cargo, empresa o ciudad…" aria-label="Buscar cargo, empresa o ciudad" className="min-w-0 flex-1 rounded-lg border border-border bg-background px-3 py-1.5 text-sm" />
-      <label className="flex items-center gap-1.5 self-center text-sm"><input type="checkbox" checked={onlyNew} onChange={(event) => setOnlyNew(event.target.checked)} />Solo nuevos ({NEW_FOR_DAYS} días)</label>
+      <input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Buscar cargo, empresa o ciudad…" aria-label="Buscar cargo, empresa o ciudad" className="min-w-0 flex-1 rounded-lg border border-border bg-background px-3 py-1.5 text-[13px]" />
+      <label className="flex items-center gap-1.5 self-center text-[13px]"><input type="checkbox" checked={onlyNew} onChange={(event) => setOnlyNew(event.target.checked)} />Solo nuevos ({NEW_FOR_DAYS} días)</label>
       <span className="self-center text-xs text-muted-foreground">{visible.length} cargos</span>
     </div>
     <div className="max-h-[36rem] overflow-auto rounded-lg border border-border bg-background">
-      <table className="w-full min-w-[720px] text-left text-sm">
+      <table className="w-full min-w-[720px] text-left text-[13px]">
         <thead className="sticky top-0 border-b border-border bg-muted text-xs uppercase tracking-wide text-muted-foreground">
           <tr><th className="px-2 py-2 font-semibold">Cargo</th><th className="px-2 py-2 font-semibold">Empresa o institución</th><th className="px-2 py-2 font-semibold">Ciudad</th><th className="px-2 py-2 font-semibold">Cierre</th></tr>
         </thead>
         <tbody className="divide-y divide-border">
-          {now == null && <tr><td colSpan={4} className="px-2 py-4 text-center text-muted-foreground">Cargando…</td></tr>}
+          {now == null && <tr><td colSpan={4} className="px-2 py-2 text-center text-muted-foreground">Cargando…</td></tr>}
           {visible.map((job) => <tr key={job.id} className="align-top">
             <td className="px-2 py-2">
               <a href={job.url} target="_blank" rel="noreferrer" className="inline-flex items-start gap-1 font-medium text-foreground hover:underline">{titleCase(job.title)}<ArrowUpRight className="mt-0.5 size-3.5 shrink-0" /></a>
@@ -161,7 +161,7 @@ export function EntryLevelJobs() {
             <td className="px-2 py-2 text-muted-foreground">{job.city ? titleCase(job.city) : "—"}</td>
             <td className="whitespace-nowrap px-2 py-2 text-muted-foreground">{formatClose(job.closes)}</td>
           </tr>)}
-          {now != null && visible.length === 0 && <tr><td colSpan={4} className="px-2 py-4 text-center text-muted-foreground">No hay cargos con ese filtro.</td></tr>}
+          {now != null && visible.length === 0 && <tr><td colSpan={4} className="px-2 py-2 text-center text-muted-foreground">No hay cargos con ese filtro.</td></tr>}
         </tbody>
       </table>
     </div>
