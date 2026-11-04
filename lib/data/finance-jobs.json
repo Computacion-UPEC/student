@@ -2,6 +2,42 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1337975562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-04",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-COMERCIAL/1337975562/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "pichincha-1337974862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE (CREDITO EMPRESAS) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-04",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28CREDITO-EMPRESAS%29-QUITO-QUIT-CREDITO-EM/1337974862/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "pichincha-1337984062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ADMINISTRADOR PORTAL WEB",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-04",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ADMINISTRADOR-PORTAL-WEB-QUIT-CONTENIDO/1337984062/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
       "id": "pichincha-1335907362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -25,72 +61,6 @@
       "firstSeen": "2026-10-31"
     },
     {
-      "id": "bce-6ae51231a2e187baf106e30e",
-      "source": "bce",
-      "institution": "Banco Central del Ecuador",
-      "title": "Experto de Gobernanza de Datos",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae51231a2e187baf106e30e",
-      "isIT": true,
-      "firstSeen": "2026-10-31"
-    },
-    {
-      "id": "bce-6ae50f4de6091b63eb62c36d",
-      "source": "bce",
-      "institution": "Banco Central del Ecuador",
-      "title": "Arquitecto de Soluciones especializado en proyectos de interoperabilidad e Integración de Sistemas",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae50f4de6091b63eb62c36d",
-      "isIT": true,
-      "firstSeen": "2026-10-31"
-    },
-    {
-      "id": "bce-6ae50d99a2e187baf106db02",
-      "source": "bce",
-      "institution": "Banco Central del Ecuador",
-      "title": "Experto en Arquitectura Empresarial",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae50d99a2e187baf106db02",
-      "isIT": false,
-      "firstSeen": "2026-10-31"
-    },
-    {
-      "id": "bce-6ae50b00e6091b63eb62ba84",
-      "source": "bce",
-      "institution": "Banco Central del Ecuador",
-      "title": "Especialista de Seguridad de la Información",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae50b00e6091b63eb62ba84",
-      "isIT": true,
-      "firstSeen": "2026-10-31"
-    },
-    {
-      "id": "bce-6ae5075e9f81ca9adbd3f853",
-      "source": "bce",
-      "institution": "Banco Central del Ecuador",
-      "title": "Especialista de Procesos, Calidad e Innovación",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae5075e9f81ca9adbd3f853",
-      "isIT": false,
-      "firstSeen": "2026-10-31"
-    },
-    {
-      "id": "bce-6ae50435441151bb778e39bf",
-      "source": "bce",
-      "institution": "Banco Central del Ecuador",
-      "title": "Experto Funcional de Sistemas de Pago e Interoperabilidad 2",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae50435441151bb778e39bf",
-      "isIT": false,
-      "firstSeen": "2026-10-31"
-    },
-    {
       "id": "pichincha-1337905562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -101,6 +71,18 @@
       "url": "https://vacantes.pichincha.com/job/IBARRA-EJECUTIVO-DE-CREDITO-C-Ag_-ATAHUALPA-IBARRA-%28EVENTUAL%29-IBAR-ZONA-SIERR/1337905562/",
       "isIT": false,
       "firstSeen": "2026-10-31"
+    },
+    {
+      "id": "pichincha-1337144262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - HUAQUILLAS",
+      "province": "EL ORO",
+      "city": "MACHALA",
+      "publishedAt": "2026-10-31",
+      "url": "https://vacantes.pichincha.com/job/MACHALA-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-HUAQUILLAS-MACH-ZONA-COSTA/1337144262/",
+      "isIT": false,
+      "firstSeen": "2026-10-17"
     },
     {
       "id": "pichincha-1337081062",
@@ -123,18 +105,6 @@
       "city": "QUITO",
       "publishedAt": "2026-10-30",
       "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-OPERACIONES-EMPRESAS-QUITO-%28PYMES%29-QUIT-OPERACIONE/1336197062/",
-      "isIT": false,
-      "firstSeen": "2026-10-30"
-    },
-    {
-      "id": "pichincha-1337867062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL INMOBILIARIO A - CUENCA",
-      "province": "AZUAY",
-      "city": "CUENCA",
-      "publishedAt": "2026-10-30",
-      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-INMOBILIARIO-A-CUENCA-CUEN-REGION-SUR/1337867062/",
       "isIT": false,
       "firstSeen": "2026-10-30"
     },
@@ -444,6 +414,28 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28CREDIO-AUTOMOTRIZ%29-QUITO-QUIT-CREDITO-PE/1337683662/",
       "isIT": false,
       "firstSeen": "2026-10-23"
+    },
+    {
+      "id": "pagueya-6ad27e72e8eca271255a745c",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "TRAINEE TECNOLOGIA",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ad27e72e8eca271255a745c",
+      "isIT": true,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "pagueya-6ac56bb70ba3c4c66e7b725c",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "PASANTE LEGAL - GUAYAQUIL",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac56bb70ba3c4c66e7b725c",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
     },
     {
       "id": "pichincha-1337621062",
@@ -959,14 +951,14 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337402562",
+      "id": "pichincha-1337422862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
-      "title": "EXPERTO CONTINUIDAD TECNOLOGICA - QUITO",
+      "title": "LIDER SMO - QUITO",
       "province": "PICHINCHA",
       "city": "QUITO",
-      "publishedAt": "2026-10-13",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-CONTINUIDAD-TECNOLOGICA-QUITO-QUIT-CONTINUIDA/1337402562/",
+      "publishedAt": "2026-10-14",
+      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-SMO-QUITO-QUIT-SERVICIOS/1337422862/",
       "isIT": true,
       "firstSeen": "2026-10-16"
     },
@@ -1041,17 +1033,89 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "pichincha-1337144262",
+      "id": "bce-6ae51231a2e187baf106e30e",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Experto de Gobernanza de Datos",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae51231a2e187baf106e30e",
+      "isIT": true,
+      "firstSeen": "2026-10-31",
+      "closedOn": "2026-11-04"
+    },
+    {
+      "id": "bce-6ae50f4de6091b63eb62c36d",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Arquitecto de Soluciones especializado en proyectos de interoperabilidad e Integración de Sistemas",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae50f4de6091b63eb62c36d",
+      "isIT": true,
+      "firstSeen": "2026-10-31",
+      "closedOn": "2026-11-04"
+    },
+    {
+      "id": "bce-6ae50d99a2e187baf106db02",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Experto en Arquitectura Empresarial",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae50d99a2e187baf106db02",
+      "isIT": false,
+      "firstSeen": "2026-10-31",
+      "closedOn": "2026-11-04"
+    },
+    {
+      "id": "bce-6ae50b00e6091b63eb62ba84",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Especialista de Seguridad de la Información",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae50b00e6091b63eb62ba84",
+      "isIT": true,
+      "firstSeen": "2026-10-31",
+      "closedOn": "2026-11-04"
+    },
+    {
+      "id": "bce-6ae5075e9f81ca9adbd3f853",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Especialista de Procesos, Calidad e Innovación",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae5075e9f81ca9adbd3f853",
+      "isIT": false,
+      "firstSeen": "2026-10-31",
+      "closedOn": "2026-11-04"
+    },
+    {
+      "id": "bce-6ae50435441151bb778e39bf",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Experto Funcional de Sistemas de Pago e Interoperabilidad 2",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ae50435441151bb778e39bf",
+      "isIT": false,
+      "firstSeen": "2026-10-31",
+      "closedOn": "2026-11-04"
+    },
+    {
+      "id": "pichincha-1337867062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
-      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - HUAQUILLAS",
-      "province": "EL ORO",
-      "city": "MACHALA",
-      "publishedAt": "2026-10-31",
-      "url": "https://vacantes.pichincha.com/job/MACHALA-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-HUAQUILLAS-MACH-ZONA-COSTA/1337144262/",
+      "title": "OFICIAL COMERCIAL INMOBILIARIO A - CUENCA",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-10-30",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-INMOBILIARIO-A-CUENCA-CUEN-REGION-SUR/1337867062/",
       "isIT": false,
-      "firstSeen": "2026-10-17",
-      "closedOn": "2026-11-01"
+      "firstSeen": "2026-10-30",
+      "closedOn": "2026-11-04"
     },
     {
       "id": "pichincha-1332901862",
@@ -1272,18 +1336,6 @@
       "closedOn": "2026-11-02"
     },
     {
-      "id": "pagueya-6ad27e72e8eca271255a745c",
-      "source": "pagueya",
-      "institution": "Pague Ya (Grupo Pichincha)",
-      "title": "TRAINEE TECNOLOGIA",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ad27e72e8eca271255a745c",
-      "isIT": true,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-11-01"
-    },
-    {
       "id": "pagueya-6acd7c05bb9d54db293385c4",
       "source": "pagueya",
       "institution": "Pague Ya (Grupo Pichincha)",
@@ -1327,18 +1379,6 @@
       "city": "Quito",
       "publishedAt": null,
       "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac6b60b65c496d89447922a",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-10-31"
-    },
-    {
-      "id": "pagueya-6ac56bb70ba3c4c66e7b725c",
-      "source": "pagueya",
-      "institution": "Pague Ya (Grupo Pichincha)",
-      "title": "PASANTE LEGAL - GUAYAQUIL",
-      "city": "Guayaquil",
-      "publishedAt": null,
-      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac56bb70ba3c4c66e7b725c",
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-31"
@@ -1692,19 +1732,6 @@
       "closedOn": "2026-10-20"
     },
     {
-      "id": "pichincha-1337422862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "LIDER SMO - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-14",
-      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-SMO-QUITO-QUIT-SERVICIOS/1337422862/",
-      "isIT": true,
-      "firstSeen": "2026-10-16",
-      "closedOn": "2026-10-27"
-    },
-    {
       "id": "pichincha-1336434462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1716,6 +1743,19 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-17"
+    },
+    {
+      "id": "pichincha-1337402562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO CONTINUIDAD TECNOLOGICA - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-13",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-CONTINUIDAD-TECNOLOGICA-QUITO-QUIT-CONTINUIDA/1337402562/",
+      "isIT": true,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-11-04"
     },
     {
       "id": "pichincha-1337401562",

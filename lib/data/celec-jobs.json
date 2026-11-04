@@ -1,6 +1,6 @@
 {
   "source": "https://www.celec.gob.ec",
-  "exportedAt": "2026-11-02",
+  "exportedAt": "2026-11-04",
   "jobs": [
     {
       "id": "celec-48e5318a17",
@@ -35,7 +35,7 @@
       "openings": "",
       "publishedAt": "2026-10-27",
       "closesAt": null,
-      "statusAtScrape": "Reciente - revisar",
+      "statusAtScrape": "Cerrada (sin fecha de cierre)",
       "code": "",
       "url": "https://www.celec.gob.ec/wp-content/uploads/2026/10/Convocatoria-de-27-de-octubre-de-2026-VACANTES-137-138.pdf",
       "firstSeen": "2026-11-02"
@@ -54,7 +54,7 @@
       "openings": "",
       "publishedAt": "2026-10-27",
       "closesAt": null,
-      "statusAtScrape": "Reciente - revisar",
+      "statusAtScrape": "Cerrada (sin fecha de cierre)",
       "code": "",
       "url": "https://www.celec.gob.ec/wp-content/uploads/2026/10/Convocatoria-de-27-de-octubre-de-2026-VACANTES-137-138.pdf",
       "firstSeen": "2026-11-02"
@@ -1350,6 +1350,25 @@
       "code": "",
       "url": "https://www.celec.gob.ec/hidrotoapi/uncategorized/celec-ep-hidrotoapi-invita-a-participar-en-el-proceso-de-seleccion-simple-para-ocupar-el-puesto-de-jefe-de-gestion-organizacional-jefe-1/",
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "celec-6be991df32",
+      "unit": "Hidroagoyán",
+      "role": "CELEC EP HIDROAGOYÁN – PROCESO DE SELECCIÓN SIMPLE – Asistente Jurídico",
+      "fit": "Posible",
+      "isIT": false,
+      "fitDetail": "Posible (carrera afín / ingeniería)",
+      "minExperienceMonths": null,
+      "experience": "",
+      "education": "formación académica y los certificados laborales válidos que respalden su experiencia. Los documentos que contengan firma electrónica deberán remitirse de manera individual, en el archivo electrónico original, sin escanearlos ni unificarlos con otros documentos, a fin de permitir la validación de la firma correspondiente. Únicamente se considerarán",
+      "salary": "",
+      "openings": "",
+      "publishedAt": "2026-11-04",
+      "closesAt": null,
+      "statusAtScrape": "Reciente - revisar",
+      "code": "",
+      "url": "https://www.celec.gob.ec/hidroagoyan/bolsa-empleo/asistente-juridico/",
+      "firstSeen": "2026-11-04"
     },
     {
       "id": "celec-63a7a84912",

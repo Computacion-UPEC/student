@@ -2,6 +2,14 @@
   "source": "https://www.celec.gob.ec",
   "calls": [
     {
+      "unit": "Hidroagoyán",
+      "role": "CELEC EP HIDROAGOYÁN – PROCESO DE SELECCIÓN SIMPLE – Asistente Jurídico",
+      "eligibility": "Posible (carrera afín / ingeniería)",
+      "publishedAt": "2026-11-04",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/hidroagoyan/bolsa-empleo/asistente-juridico/"
+    },
+    {
       "unit": "Electroguayas",
       "role": "CONVOCATORIA PROCESO DE SELECCIÓN SIMPLE ELECTROGUAYAS | 30-octubre-2026",
       "eligibility": "Sin requisitos legibles - revisar",
