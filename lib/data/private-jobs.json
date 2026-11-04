@@ -2,6 +2,83 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "arca-1427282000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "TECNICO MECANICO | PLANTA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-TECNICO-MECANICO-PLANTA-GUAYAQUIL-60000/1427282000/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "arca-1447812000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI PORTOVIEJO",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-PORTOVIEJO/1447812000/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "arca-1447653800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "Coordinador de Gobierno de Compras",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-Coordinador-de-Gobierno-de-Compras-1/1447653800/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "claro-1816",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ANALISTA DE INSPECCIÓN DE CAMPO",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1816",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "tigo-R135561",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas Norte - Temporal",
+      "city": "Quito",
+      "publishedAt": "2026-11-04",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Ejecutivo-de-Tiendas-Norte---Temporal_R135561",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "tigo-R135728",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas-1",
+      "city": "Quito",
+      "publishedAt": "2026-11-04",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Ejecutivo-de-Tiendas-1_R135728",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "tigo-R135347",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "(EVENTUAL) Pasante",
+      "city": "Quito",
+      "publishedAt": "2026-11-04",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135347",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
       "id": "arca-1447429200",
       "source": "arca",
       "company": "Arca Continental",
@@ -601,7 +678,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Ejecutivo de Tiendas-1",
       "city": "Ambato",
-      "publishedAt": "2026-10-31",
+      "publishedAt": "2026-10-30",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Ambato/Ejecutivo-de-Tiendas-1_R135682",
       "isIT": false,
       "firstSeen": "2026-11-03"
@@ -680,17 +757,6 @@
       "city": null,
       "publishedAt": "2026-10-30",
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AUDITOR-DE-CALIDAD-HIGIENE-PLANTA-GUAYAQUIL-60000/1446352400/",
-      "isIT": false,
-      "firstSeen": "2026-10-30"
-    },
-    {
-      "id": "farmaenlace-1337880662",
-      "source": "farmaenlace",
-      "company": "Farmaenlace",
-      "title": "PASANTE",
-      "city": "Distrito",
-      "publishedAt": null,
-      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-PASANTE-PICH/1337880662/",
       "isIT": false,
       "firstSeen": "2026-10-30"
     },
@@ -828,28 +894,6 @@
       "firstSeen": "2026-10-30"
     },
     {
-      "id": "tigo-R135733",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Gestión Económica",
-      "city": "Quito",
-      "publishedAt": "2026-10-29",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Gestin-Econmica_R135733",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "tigo-R135769",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Compras",
-      "city": "Quito",
-      "publishedAt": "2026-10-29",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Compras_R135769",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
-    },
-    {
       "id": "difare-sub-gerente-de-producto-dyvenpro",
       "source": "difare",
       "company": "Difare",
@@ -940,17 +984,6 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "tigo-R135650",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "(EVENTUAL) Pasante Desarrollo Producto Prepago",
-      "city": "Quito",
-      "publishedAt": "2026-10-28",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante-Desarrollo-Producto-Prepago_R135650",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
-    },
-    {
       "id": "novacero-6adfbe9210f80e9c370a3b33",
       "source": "novacero",
       "company": "Novacero",
@@ -1017,17 +1050,6 @@
       "firstSeen": "2026-10-27"
     },
     {
-      "id": "arca-1444380700",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "CHOFER DE TRAILER | CEDI GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-10-27",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-CHOFER-DE-TRAILER-CEDI-GUAYAQUIL-Dip-Guay/1444380700/",
-      "isIT": false,
-      "firstSeen": "2026-10-28"
-    },
-    {
       "id": "puntonet-8627041",
       "source": "puntonet",
       "company": "PuntoNet",
@@ -1061,15 +1083,15 @@
       "firstSeen": "2026-11-03"
     },
     {
-      "id": "tigo-R135670",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Analista Sr. Administrativo",
-      "city": "Quito",
+      "id": "arca-1444124400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI IMBABURA",
+      "city": null,
       "publishedAt": "2026-10-27",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Analista-Sr-Administrativo_R135670",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-IMBABURA/1444124400/",
       "isIT": false,
-      "firstSeen": "2026-11-03"
+      "firstSeen": "2026-10-27"
     },
     {
       "id": "arca-1443691500",
@@ -1079,17 +1101,6 @@
       "city": null,
       "publishedAt": "2026-10-26",
       "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-MANTA/1443691500/",
-      "isIT": false,
-      "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "arca-1443738100",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI PORTOVIEJO",
-      "city": null,
-      "publishedAt": "2026-10-26",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-PORTOVIEJO/1443738100/",
       "isIT": false,
       "firstSeen": "2026-10-26"
     },
@@ -1454,17 +1465,6 @@
       "publishedAt": null,
       "url": "https://corporaciongpf.hiringroom.com/jobs/get_vacancy/6a8634d8c37ea981dc4044f3",
       "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "gpf-6a85f185b0e745b4ba91cd79",
-      "source": "gpf",
-      "company": "FEMSA Salud (GPF)",
-      "title": "Arquitecto de Ciberseguridad",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://corporaciongpf.hiringroom.com/jobs/get_vacancy/6a85f185b0e745b4ba91cd79",
-      "isIT": true,
       "firstSeen": "2026-10-22"
     },
     {
@@ -3309,17 +3309,6 @@
       "city": null,
       "publishedAt": "2026-10-07",
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-ASISTENTE-DE-COMPRAS-PLANTA-GUAYAQUIL-60000/1438000900/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1427282000",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "TECNICO MECANICO | PLANTA GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-10-06",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-TECNICO-MECANICO-PLANTA-GUAYAQUIL-60000/1427282000/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -5362,6 +5351,18 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "farmaenlace-1337880662",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "PASANTE",
+      "city": "Distrito",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-PASANTE-PICH/1337880662/",
+      "isIT": false,
+      "firstSeen": "2026-10-30",
+      "closedOn": "2026-11-04"
+    },
+    {
       "id": "arca-1435619400",
       "source": "arca",
       "company": "Arca Continental",
@@ -5372,6 +5373,30 @@
       "isIT": false,
       "firstSeen": "2026-10-26",
       "closedOn": "2026-10-31"
+    },
+    {
+      "id": "tigo-R135733",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Gestión Económica",
+      "city": "Quito",
+      "publishedAt": "2026-10-29",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Gestin-Econmica_R135733",
+      "isIT": false,
+      "firstSeen": "2026-11-03",
+      "closedOn": "2026-11-04"
+    },
+    {
+      "id": "tigo-R135769",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Compras",
+      "city": "Quito",
+      "publishedAt": "2026-10-29",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Compras_R135769",
+      "isIT": false,
+      "firstSeen": "2026-11-03",
+      "closedOn": "2026-11-04"
     },
     {
       "id": "arca-1445179900",
@@ -5408,6 +5433,18 @@
       "isIT": false,
       "firstSeen": "2026-10-29",
       "closedOn": "2026-11-01"
+    },
+    {
+      "id": "tigo-R135650",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "(EVENTUAL) Pasante Desarrollo Producto Prepago",
+      "city": "Quito",
+      "publishedAt": "2026-10-28",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante-Desarrollo-Producto-Prepago_R135650",
+      "isIT": false,
+      "firstSeen": "2026-11-03",
+      "closedOn": "2026-11-04"
     },
     {
       "id": "claro-1813",
@@ -5458,6 +5495,30 @@
       "closedOn": "2026-10-30"
     },
     {
+      "id": "arca-1444380700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "CHOFER DE TRAILER | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-CHOFER-DE-TRAILER-CEDI-GUAYAQUIL-Dip-Guay/1444380700/",
+      "isIT": false,
+      "firstSeen": "2026-10-28",
+      "closedOn": "2026-11-04"
+    },
+    {
+      "id": "tigo-R135670",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Analista Sr. Administrativo",
+      "city": "Quito",
+      "publishedAt": "2026-10-27",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Analista-Sr-Administrativo_R135670",
+      "isIT": false,
+      "firstSeen": "2026-11-03",
+      "closedOn": "2026-11-04"
+    },
+    {
       "id": "arca-1444357200",
       "source": "arca",
       "company": "Arca Continental",
@@ -5480,18 +5541,6 @@
       "isIT": false,
       "firstSeen": "2026-10-28",
       "closedOn": "2026-11-01"
-    },
-    {
-      "id": "arca-1444124400",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | CEDI IMBABURA",
-      "city": null,
-      "publishedAt": "2026-10-27",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-IMBABURA/1444124400/",
-      "isIT": false,
-      "firstSeen": "2026-10-27",
-      "closedOn": "2026-10-31"
     },
     {
       "id": "arca-1444328500",
@@ -5552,6 +5601,18 @@
       "isIT": false,
       "firstSeen": "2026-10-27",
       "closedOn": "2026-10-30"
+    },
+    {
+      "id": "arca-1443738100",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI PORTOVIEJO",
+      "city": null,
+      "publishedAt": "2026-10-26",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-PORTOVIEJO/1443738100/",
+      "isIT": false,
+      "firstSeen": "2026-10-26",
+      "closedOn": "2026-11-04"
     },
     {
       "id": "claro-1510",
@@ -5624,6 +5685,18 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "gpf-6a85f185b0e745b4ba91cd79",
+      "source": "gpf",
+      "company": "FEMSA Salud (GPF)",
+      "title": "Arquitecto de Ciberseguridad",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://corporaciongpf.hiringroom.com/jobs/get_vacancy/6a85f185b0e745b4ba91cd79",
+      "isIT": true,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-04"
     },
     {
       "id": "holcim-1363959657",
