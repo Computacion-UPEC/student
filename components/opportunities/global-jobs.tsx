@@ -4,7 +4,8 @@ import { ArrowUpRight, CalendarDays, Globe2, Laptop, MapPin, Plane } from "lucid
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import globalData from "@/lib/data/global-jobs.json"
-import { JobSection } from "@/components/opportunities/collapsible"
+import sponsorsData from "@/lib/data/visa-sponsors.json"
+import { Collapsible, JobSection } from "@/components/opportunities/collapsible"
 import type { EmploymentFilters } from "@/components/opportunities/celec-jobs"
 
 /** Vacante de TI en el extranjero de una empresa grande (lib/data/global-jobs.json, scripts/global/collect.mjs). */
@@ -14,6 +15,8 @@ export type GlobalJob = {
   title: string
   location: string
   route: "remoto" | "patrocinio"
+  /** Puestos de TI con LMIA aprobado que la empresa obtuvo en Canadá el último año */
+  canadaLmia?: number
   publishedAt: string | null
   url: string
   firstSeen: string
@@ -22,6 +25,10 @@ export type GlobalJob = {
 
 const data = globalData as { collectedSince: string; jobs: GlobalJob[] }
 export const countOpenGlobalJobs = () => data.jobs.filter((job) => !job.closedOn).length
+
+type CanadaSponsor = { name: string; positions: number; globalTalent: boolean; cities: string[]; occupations: string[] }
+const sponsors = sponsorsData as { source: string; quarters: string[]; canada: CanadaSponsor[] }
+const TOP_SPONSORS = 40
 
 const formatDay = (day: string) => new Date(`${day}T12:00:00`).toLocaleDateString("es-EC", { day: "numeric", month: "short", year: "numeric" })
 
@@ -35,7 +42,7 @@ export function GlobalJobs({ onlyOpen }: EmploymentFilters) {
     <div className="flex flex-wrap gap-1.5">
       <Badge className="gap-1 bg-sky-600 text-white hover:bg-sky-600"><Laptop className="size-3" />Rol de TI</Badge>
       <Badge variant="secondary">{job.company}</Badge>
-      {job.route === "remoto" ? <Badge variant="outline" className="gap-1"><Globe2 className="size-3" />Remoto desde Ecuador</Badge> : <Badge variant="outline" className="gap-1 border-emerald-600/60 text-emerald-700 dark:text-emerald-400"><Plane className="size-3" />Patrocina visa</Badge>}
+      {job.route === "remoto" ? <Badge variant="outline" className="gap-1"><Globe2 className="size-3" />Remoto desde Ecuador</Badge> : <Badge variant="outline" className="gap-1 border-emerald-600/60 text-emerald-700 dark:text-emerald-400"><Plane className="size-3" />{job.canadaLmia ? `Patrocinó ${job.canadaLmia} visas de TI en Canadá` : "El aviso ofrece visa"}</Badge>}
       {job.closedOn && <Badge variant="outline">Cerrada</Badge>}
     </div>
     <h3 className="font-heading text-sm font-bold leading-snug text-foreground">{job.title}</h3>
@@ -46,10 +53,17 @@ export function GlobalJobs({ onlyOpen }: EmploymentFilters) {
 
   return <JobSection
     title="Empresas grandes que contratan desde Ecuador"
-    description={<>Leídas directamente del sistema de reclutamiento de cada empresa ({companies.join(", ") || "ninguna con vacantes hoy"}), sin bolsas de empleo ni suscripciones. Solo vacantes de TI remotas abiertas a Latinoamérica, las Américas o cualquier país, o en Canadá y EE. UU. cuando el aviso dice que patrocinan la visa. Revisadas dos veces al día desde el {formatDay(data.collectedSince)}. Postulan en inglés.</>}
+    description={<>Leídas directamente del sistema de reclutamiento de cada empresa ({companies.join(", ") || "ninguna con vacantes hoy"}), sin bolsas de empleo ni suscripciones. Solo vacantes de TI remotas abiertas a Latinoamérica, las Américas o cualquier país, o en Canadá y EE. UU. cuando el aviso ofrece la visa o la empresa patrocinó visas de TI en Canadá el último año (datos oficiales del LMIA). Que la empresa patrocine no garantiza que lo haga en cada puesto: pregúntalo al postular. Revisadas dos veces al día desde el {formatDay(data.collectedSince)}. Postulan en inglés.</>}
     badges={<><Badge className="gap-1 bg-sky-600 text-white hover:bg-sky-600"><Globe2 className="size-3" />{open.length - sponsored} remotas</Badge>{sponsored > 0 && <Badge className="gap-1 bg-emerald-600 text-white hover:bg-emerald-600"><Plane className="size-3" />{sponsored} con visa</Badge>}</>}
     open={open.map(card)}
     closed={closed.map(card)}
     moreLabel={(count) => `Ver las ${count} vacantes`}
+    footer={<Collapsible className="mt-2" summary={`Empresas que más patrocinaron visas de TI en Canadá (${sponsors.quarters[0]} a ${sponsors.quarters.at(-1)})`}>
+      <p className="mb-2 text-xs text-muted-foreground">Puestos de TI con LMIA aprobado, el permiso que una empresa necesita para contratar a un extranjero. &ldquo;Vía rápida&rdquo; es el Global Talent Stream, con trámite de unas dos semanas. Fuente: <a href={sponsors.source} target="_blank" rel="noreferrer" className="font-semibold text-primary hover:underline">Gobierno de Canadá (ESDC)</a>. Busca sus vacantes en el portal oficial de cada empresa.</p>
+      <ol className="grid gap-x-4 gap-y-1 text-[13px] sm:grid-cols-2 lg:grid-cols-3">{sponsors.canada.slice(0, TOP_SPONSORS).map((sponsor) => <li key={sponsor.name} className="flex flex-col">
+        <span className="font-semibold text-foreground">{sponsor.name}{sponsor.globalTalent && <span className="ml-1 text-[11px] font-normal text-emerald-700 dark:text-emerald-400">vía rápida</span>}</span>
+        <span className="text-xs text-muted-foreground">{sponsor.positions} puestos · {sponsor.cities.slice(0, 2).join(", ")} · {sponsor.occupations.slice(0, 2).join(", ")}</span>
+      </li>)}</ol>
+    </Collapsible>}
   />
 }
