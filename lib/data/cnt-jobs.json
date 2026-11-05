@@ -2,6 +2,15 @@
   "source": "https://empleo.cnt.gob.ec/procesos/",
   "jobs": [
     {
+      "id": "tecnico-integral-la-troncal-2",
+      "title": "TÉCNICO INTEGRAL / LA TRONCAL",
+      "url": "https://empleo.cnt.gob.ec/job/tecnico-integral-la-troncal-2/",
+      "publishedOn": "2026-11-04",
+      "closesOn": "2026-11-10",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
       "id": "operador-de-operacion-outsourcing-quito-temporal-2",
       "title": "OPERADOR DE OPERACIÓN OUTSOURCING – QUITO (TEMPORAL)",
       "url": "https://empleo.cnt.gob.ec/job/operador-de-operacion-outsourcing-quito-temporal-2/",

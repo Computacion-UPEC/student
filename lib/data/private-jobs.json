@@ -178,6 +178,39 @@
       "firstSeen": "2026-11-05"
     },
     {
+      "id": "netlife-pasante-generación-de-contenido-guayaquil",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Pasante Generación de Contenido",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "netlife-pasante-de-soporte-técnico-guayaquil-guayaquil",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Pasante de Soporte Técnico - Guayaquil",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": true,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "netlife-asesor-de-operación-y-experiencia-digital-portoviejo-portoviejo",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Asesor de Operación y Experiencia Digital - Portoviejo",
+      "city": "Portoviejo",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
       "id": "arca-1427282000",
       "source": "arca",
       "company": "Arca Continental",
