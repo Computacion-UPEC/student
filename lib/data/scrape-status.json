@@ -74,12 +74,17 @@
       "lastRun": "2026-11-05",
       "lastSuccess": "2026-11-05",
       "ok": true
+    },
+    "Visas": {
+      "lastRun": "2026-11-05",
+      "lastSuccess": "2026-11-05",
+      "ok": true
     }
   },
   "failing": {
     "Tiendas Tuti": {
       "since": "2026-11-05",
-      "runs": 1
+      "runs": 2
     }
   }
 }

@@ -86,6 +86,42 @@
       "firstSeen": "2026-11-05"
     },
     {
+      "id": "pichincha-1338032162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - PUYO",
+      "province": "PASTAZA",
+      "city": "PASTAZA",
+      "publishedAt": "2026-11-05",
+      "url": "https://vacantes.pichincha.com/job/PASTAZA-OFICIAL-COMERCIAL-Y-SERVICIOS-PUYO-PUYO-ZONA-CENTR/1338032162/",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "pichincha-1338032862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL CORPORATIVO B - CUENCA",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-11-05",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-CORPORATIVO-B-CUENCA-CUEN-BANCA-CORP/1338032862/",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "pichincha-1338032462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO B - LA TRONCAL",
+      "province": "CAÑAR",
+      "city": "LA TRONCAL",
+      "publishedAt": "2026-11-05",
+      "url": "https://vacantes.pichincha.com/job/LA-TRONCAL-EJECUTIVO-DE-CREDITO-B-LA-TRONCAL-AZOG-ZONA-COSTA/1338032462/",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
       "id": "pichincha-1337975562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -428,18 +464,6 @@
       "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ac7daeef7d65014043aa02a",
       "isIT": false,
       "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "pichincha-1337744262",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-26",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-AUDITORIA/1337744262/",
-      "isIT": false,
-      "firstSeen": "2026-10-27"
     },
     {
       "id": "pagueya-6ac565cf2ee2123a2d066740",
@@ -1291,6 +1315,19 @@
       "isIT": false,
       "firstSeen": "2026-10-27",
       "closedOn": "2026-10-30"
+    },
+    {
+      "id": "pichincha-1337744262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-26",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-AUDITORIA/1337744262/",
+      "isIT": false,
+      "firstSeen": "2026-10-27",
+      "closedOn": "2026-11-05"
     },
     {
       "id": "pichincha-1337737262",

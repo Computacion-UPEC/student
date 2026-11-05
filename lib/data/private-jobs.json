@@ -101,6 +101,83 @@
       "firstSeen": "2026-11-05"
     },
     {
+      "id": "arca-1448269200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI BABAHOYO",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-BABAHOYO/1448269200/",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "arca-1448270400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR ASESOR UNIVERSAL | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-GUAYAQUIL-SUR/1448270400/",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "arca-1448285900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PASANTE ESCUELA COMERCIAL | STAFF QUITO CALDERÓN",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-PASANTE-ESCUELA-COMERCIAL-STAFF-QUITO-CALDER%C3%93N-00000/1448285900/",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "claro-1820",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "INGENIERO DE MEJORA CONTINUA Y TRANSFORMACION DIGITAL",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1820",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "claro-1829",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "SUPERVISOR EXT. CALL CENTER CORPORATIVO",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1829",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "pronaca-26895",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "GALPONERO GRANJA (AVE) (20004067)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26895",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "nestle-1454900033",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Pasante de Educación y Entrenamiento | Fca. Surindu",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-05",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-Pasante-de-Educaci%C3%B3n-y-Entrenamiento-Fca_-Surindu-17-03-4574/1454900033/",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
       "id": "arca-1427282000",
       "source": "arca",
       "company": "Arca Continental",
@@ -174,17 +251,6 @@
       "city": null,
       "publishedAt": "2026-11-04",
       "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LATACUNGA/1447857600/",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "arca-1447953300",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR UNIVERSAL | CEDI VALLE",
-      "city": null,
-      "publishedAt": "2026-11-04",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-VENDEDOR-UNIVERSAL-CEDI-VALLE-Dip-Quit/1447953300/",
       "isIT": false,
       "firstSeen": "2026-11-04"
     },
@@ -1288,17 +1354,6 @@
       "city": null,
       "publishedAt": "2026-10-26",
       "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-MANTA/1443691500/",
-      "isIT": false,
-      "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "arca-1443634500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI SALINAS",
-      "city": null,
-      "publishedAt": "2026-10-26",
-      "url": "https://careers.arcacontal.com/job/SEL-Salinas-VENDEDOR-CEDI-SALINAS-Dip-Sali/1443634500/",
       "isIT": false,
       "firstSeen": "2026-10-26"
     },
@@ -5607,6 +5662,18 @@
       "closedOn": "2026-11-05"
     },
     {
+      "id": "arca-1447953300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR UNIVERSAL | CEDI VALLE",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-VENDEDOR-UNIVERSAL-CEDI-VALLE-Dip-Quit/1447953300/",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-05"
+    },
+    {
       "id": "arca-1447883300",
       "source": "arca",
       "company": "Arca Continental",
@@ -5977,6 +6044,18 @@
       "isIT": false,
       "firstSeen": "2026-10-27",
       "closedOn": "2026-10-30"
+    },
+    {
+      "id": "arca-1443634500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI SALINAS",
+      "city": null,
+      "publishedAt": "2026-10-26",
+      "url": "https://careers.arcacontal.com/job/SEL-Salinas-VENDEDOR-CEDI-SALINAS-Dip-Sali/1443634500/",
+      "isIT": false,
+      "firstSeen": "2026-10-26",
+      "closedOn": "2026-11-05"
     },
     {
       "id": "arca-1443738100",
