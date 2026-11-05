@@ -28,6 +28,7 @@ import { genoma } from "../lib/genoma.mjs"
 import { hiringRoom } from "../lib/hiringroom.mjs"
 import { isITRole } from "../lib/it-roles.mjs"
 import { successFactorsXml } from "../lib/successfactors-xml.mjs"
+import { trackSource } from "../lib/status.mjs"
 import { talentRoom } from "../lib/talentroom.mjs"
 import { teamtailor } from "../lib/teamtailor.mjs"
 import { workday } from "../lib/workday.mjs"
@@ -199,7 +200,7 @@ const SOURCES = [
   { id: "puntonet", company: "PuntoNet", collect: () => teamtailor("puntonet") },
   // locationCountry: id de Ecuador en la lista de filtros del sitio
   { id: "tigo", company: "Tigo (ex Movistar)", collect: () => workday("tigo.wd103.myworkdayjobs.com", "tigo", "tigocareers", { locationCountry: ["2752bce253374948a6bad7ed2059e054"] }) },
-  { id: "netlife", company: "Netlife", collect: () => talentRoom("netlife") },
+  { id: "netlife", company: "Netlife", collect: () => talentRoom("netlife"), ecuador: true },
   { id: "nestle", company: "Nestlé Ecuador", collect: () => successFactorsTable("https://jobdetails.nestle.com", "/search/?q=&locationsearch=Ecuador") },
   { id: "unilever", company: "Unilever", collect: unilever },
   { id: "cn", company: "Cervecería Nacional", collect: cerveceriaNacional },
@@ -209,16 +210,20 @@ const previous = existsSync(OUT) ? JSON.parse(readFileSync(OUT, "utf8")) : { job
 const byId = new Map(previous.jobs.map((job) => [job.id, job]))
 const summary = []
 
-for (const source of SOURCES) {
+// Las fuentes con "ecuador: true" rechazan servidores fuera del país (desde GitHub Actions no cargan): las recolecta
+// el runner propio en Ecuador con --ecuador (scripts/ecuador/publicar.sh), y la corrida normal las salta
+const onlyEcuador = process.argv.includes("--ecuador")
+for (const source of SOURCES.filter((source) => !!source.ecuador === onlyEcuador)) {
   let found
   try {
     found = await source.collect()
   } catch (error) {
-    // Si una fuente falla no se cierra ninguna de sus ofertas; se avisa en el registro de GitHub Actions
-    console.log(`::warning::${source.company}: ${error.message}`)
+    // Si una fuente falla no se cierra ninguna de sus ofertas; si sigue fallando varias corridas, se avisa en el issue
+    trackSource(source.company, false, error)
     summary.push(`${source.company}: error`)
     continue
   }
+  trackSource(source.company, true)
   const seen = new Set()
   for (const item of found) {
     const id = `${source.id}-${item.key}`

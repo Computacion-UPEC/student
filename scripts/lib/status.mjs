@@ -21,7 +21,37 @@ export function recordStatus(results, day = todayInEcuador()) {
     const before = platforms[name] ?? {}
     platforms[name] = { lastRun: day, lastSuccess: ok ? day : before.lastSuccess ?? null, ok }
   }
-  const sorted = Object.fromEntries(Object.entries(platforms).sort(([a], [b]) => a.localeCompare(b)))
-  const output = JSON.stringify({ platforms: sorted }, null, 2) + "\n"
+  save({ ...previous, platforms })
+}
+
+function save(data) {
+  const sortKeys = (object) => Object.fromEntries(Object.entries(object ?? {}).sort(([a], [b]) => a.localeCompare(b)))
+  const failing = data.failing && Object.keys(data.failing).length ? { failing: sortKeys(data.failing) } : {}
+  const output = JSON.stringify({ platforms: sortKeys(data.platforms), ...failing }, null, 2) + "\n"
   if (!existsSync(OUT) || readFileSync(OUT, "utf8").replace(/\r\n/g, "\n") !== output) writeFileSync(OUT, output)
+}
+
+/** Corridas seguidas con error a partir de las cuales una fuente se avisa en el issue de fallas. */
+export const WARN_AFTER = 3
+
+/**
+ * Lleva la cuenta de corridas seguidas en que falla cada fuente de un recolector (una empresa, un banco), en
+ * "failing" de scrape-status.json. Un portal caído unas horas (p. ej. un error 500) no abre el issue: solo se avisa
+ * con "::warning::" cuando ya falló WARN_AFTER corridas seguidas. ok = true borra la cuenta.
+ */
+export function trackSource(name, ok, error) {
+  const data = existsSync(OUT) ? JSON.parse(readFileSync(OUT, "utf8")) : { platforms: {} }
+  const failing = { ...data.failing }
+  if (ok) {
+    if (!failing[name]) return
+    delete failing[name]
+  } else {
+    const runs = (failing[name]?.runs ?? 0) + 1
+    failing[name] = { since: failing[name]?.since ?? todayInEcuador(), runs }
+    const message = error?.message ?? String(error)
+    console.log(runs >= WARN_AFTER
+      ? `::warning::${name}: ${message} (falla desde el ${failing[name].since}, ${runs} corridas seguidas)`
+      : `${name}: falla temporal ${runs}/${WARN_AFTER}, aún no se avisa: ${message}`)
+  }
+  save({ ...data, failing })
 }

@@ -1,7 +1,7 @@
 # Recolecta ofertas de empleo y guarda su historial:
 #   - EP Petroecuador -> lib/data/petroecuador-jobs.json (algunas convocatorias duran solo 2 días)
 #   - Bancos y cooperativas (Banco Pichincha, Cooperativa JEP) -> lib/data/finance-jobs.json
-#   - Convocatoria mensual de Educa Empleo (docentes LOEI) -> lib/data/educa-empleo.json
+#   - (Educa Empleo, CNT y Netlife se recolectan desde Ecuador con scripts/ecuador/publicar.sh)
 #   - Empresas de software con vacantes en Ecuador (Devsu, Stack Builders, vía Workable) -> lib/data/tech-jobs.json
 #   - Empresas grandes que contratan desde Ecuador (remotas o con visa; Greenhouse, Lever, Ashby) -> lib/data/global-jobs.json
 #   - INEC, Trabaja con nosotros (postulaciones de 1 a 3 días) -> lib/data/inec-jobs.json
@@ -60,10 +60,8 @@ jobs:
         continue-on-error: true
         run: node scripts/finance/collect.mjs 2>&1 | tee -a "$RUNNER_TEMP/recolectores.log"
 
-      - name: Detectar convocatoria mensual de Educa Empleo
-        id: educa
-        continue-on-error: true
-        run: node scripts/educa-empleo/collect.mjs 2>&1 | tee -a "$RUNNER_TEMP/recolectores.log"
+      # Educa Empleo, CNT y Netlife rechazan servidores fuera de Ecuador: los recolecta el runner propio de
+      # COMPUMAX-EC/oportunidades-runner con scripts/ecuador/publicar.sh
 
       - name: Recolectar ofertas de empresas de software
         id: software
@@ -112,7 +110,6 @@ jobs:
           node scripts/record-status.mjs
           Petroecuador=${{ steps.petroecuador.outcome }}
           Bancos=${{ steps.finanzas.outcome }}
-          Educa-Empleo=${{ steps.educa.outcome }}
           Software=${{ steps.software.outcome }}
           Exterior=${{ steps.exterior.outcome }}
           Privadas=${{ steps.privadas.outcome }}
@@ -122,13 +119,13 @@ jobs:
 
       - name: Guardar cambios
         run: |
-          if git diff --quiet -- lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json lib/data/global-jobs.json lib/data/inec-jobs.json lib/data/public-jobs.json lib/data/private-jobs.json lib/data/celec-jobs.json lib/data/celec-all.json lib/data/scrape-status.json; then
+          if git diff --quiet -- lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/tech-jobs.json lib/data/global-jobs.json lib/data/inec-jobs.json lib/data/public-jobs.json lib/data/private-jobs.json lib/data/celec-jobs.json lib/data/celec-all.json lib/data/scrape-status.json; then
             echo "Sin cambios en las convocatorias."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/educa-empleo.json lib/data/tech-jobs.json lib/data/global-jobs.json lib/data/inec-jobs.json lib/data/public-jobs.json lib/data/private-jobs.json lib/data/celec-jobs.json lib/data/celec-all.json lib/data/scrape-status.json
+          git add lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/tech-jobs.json lib/data/global-jobs.json lib/data/inec-jobs.json lib/data/public-jobs.json lib/data/private-jobs.json lib/data/celec-jobs.json lib/data/celec-all.json lib/data/scrape-status.json
           git commit -m "Update job offers"
           # Si main avanzó durante la recolección (p. ej. se fusionó un PR), se integra antes de subir
           for intento in 1 2 3; do
@@ -146,7 +143,6 @@ jobs:
           RESULTADOS: >-
             Petroecuador=${{ steps.petroecuador.outcome }}
             Bancos=${{ steps.finanzas.outcome }}
-            Educa-Empleo=${{ steps.educa.outcome }}
             Software=${{ steps.software.outcome }}
             Exterior=${{ steps.exterior.outcome }}
             Privadas=${{ steps.privadas.outcome }}

@@ -34,9 +34,16 @@ async function scrape() {
   const browser = await chromium.launch({ headless: true, channel: process.env.PW_CHANNEL || undefined })
   try {
     const page = await browser.newPage({ locale: "es-EC" })
+    // La tabla se llena con la respuesta de su API (concurso/listarPublicados). Sin procesos en ejecución, la API
+    // responde un registro vacío y la tabla queda sin filas ni mensaje: eso es "0 procesos", no un error
+    const listing = page.waitForResponse((response) => /concurso\/listarPublicados/.test(response.url()), { timeout: 90_000 })
     await page.goto(SOURCE_URL, { waitUntil: "networkidle", timeout: 90_000 })
-    // Espera a que la tabla tenga filas o a que la página indique que no hay procesos
-    await page.waitForFunction(() => document.querySelector("table tbody tr td") || /no existen|no hay/i.test(document.body.innerText), null, { timeout: 60_000 })
+    const response = await listing
+    if (!response.ok()) throw new Error(`${response.status()} en la lista de procesos de Petroecuador`)
+    const body = await response.json().catch(() => null)
+    const items = Array.isArray(body) ? body : body?.lista ?? body?.data ?? (body?.id != null || body?.codigo != null ? [body] : [])
+    if (items.length === 0) return []
+    await page.waitForFunction(() => document.querySelector("table tbody tr td"), null, { timeout: 60_000 })
 
     const rows = []
     for (let pageNumber = 1; pageNumber <= 50; pageNumber++) {
