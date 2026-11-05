@@ -1,6 +1,6 @@
 {
   "source": "https://www.celec.gob.ec",
-  "exportedAt": "2026-11-04",
+  "exportedAt": "2026-11-05",
   "jobs": [
     {
       "id": "celec-48e5318a17",
@@ -305,6 +305,25 @@
       "code": "",
       "url": "https://www.celec.gob.ec/hidrotoapi/uncategorized/celec-ep-hidrotoapi-invita-a-participar-en-el-proceso-de-seleccion-simple-para-ocupar-el-puesto-de-ayudante-electrico-generacion-hidraulica-asistente-tecnico-6/",
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "celec-608a764835",
+      "unit": "CELEC SUR",
+      "role": "ASISTENTE ADM 7 – ASISTENTE DE BODEGA E INVENTARIOS",
+      "fit": "Directa",
+      "isIT": false,
+      "fitDetail": "Directa (Computación/Sistemas/TI)",
+      "minExperienceMonths": 24,
+      "experience": "Alternativa 1: 2 años en cargos similares. Alternativa 2: 3 en cargos de Ayudantes / Auxiliares",
+      "education": "Tercer Nivel Tecnológico: Tecnológico Superior ó más de 2 años en título de Tercer Nivel de Grado. Mínimo 4 semestres. Administración de Empresas, Contabilidad, Economista, Comercial, Industrial, Sistemas, Eléctrica, Electrónica, Electromecánica; Mecatrónica; Telecomunicación, Mecánica. O carreras afines en función de la formación.",
+      "salary": "$1,170.00",
+      "openings": "1",
+      "publishedAt": "2026-11-04",
+      "closesAt": "2026-11-05",
+      "statusAtScrape": "Abierta",
+      "code": "CSR-SAD-035",
+      "url": "https://www.celec.gob.ec/celecsur/wp-content/uploads/2026/11/8-CONVOCATORIA-ASISTENTE-DE-BODEGA-E-INVENTARIOS.pdf",
+      "firstSeen": "2026-11-05"
     },
     {
       "id": "celec-a500cb1f17",

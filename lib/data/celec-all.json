@@ -2,6 +2,22 @@
   "source": "https://www.celec.gob.ec",
   "calls": [
     {
+      "unit": "CELEC SUR",
+      "role": "ASISTENTE ADM 7 – ASISTENTE DE GESTIÓN SOCIAL Y AMBIENTAL",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-04",
+      "closesAt": "2026-11-05",
+      "url": "https://www.celec.gob.ec/celecsur/wp-content/uploads/2026/11/8-CONVOCATORIA-ASISTENTE-GESTION-SOCIAL-Y-AMBIENTAL.pdf"
+    },
+    {
+      "unit": "CELEC SUR",
+      "role": "ASISTENTE ADM 7 – ASISTENTE DE BODEGA E INVENTARIOS",
+      "eligibility": "Directa (Computación/Sistemas/TI)",
+      "publishedAt": "2026-11-04",
+      "closesAt": "2026-11-05",
+      "url": "https://www.celec.gob.ec/celecsur/wp-content/uploads/2026/11/8-CONVOCATORIA-ASISTENTE-DE-BODEGA-E-INVENTARIOS.pdf"
+    },
+    {
       "unit": "Hidroagoyán",
       "role": "CELEC EP HIDROAGOYÁN – PROCESO DE SELECCIÓN SIMPLE – Asistente Jurídico",
       "eligibility": "Posible (carrera afín / ingeniería)",

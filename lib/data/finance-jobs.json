@@ -2,6 +2,30 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1336376562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO SERVICIOS EMPRESARIALES - RECAUDACIONES",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-05",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-SERVICIOS-EMPRESARIALES-RECAUDACIONES-QUIT-CELULA-REC/1336376562/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337265062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO DESARROLLO ESTRATEGIA NEGOCIO - EMPRESAS",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-05",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-DESARROLLO-ESTRATEGIA-NEGOCIO-EMPRESAS-QUIT-SEGMENTO-E/1337265062/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "pichincha-1337975562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -36,6 +60,54 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-ADMINISTRADOR-PORTAL-WEB-QUIT-CONTENIDO/1337984062/",
       "isIT": false,
       "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "pichincha-1337996162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-04",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-ANALISIS-Y/1337996162/",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "pichincha-1337996362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-04",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-ANALISIS-Y/1337996362/",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "pichincha-1338003562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - LATACUNGA",
+      "province": "COTOPAXI",
+      "city": "PUJILI",
+      "publishedAt": "2026-11-04",
+      "url": "https://vacantes.pichincha.com/job/PUJILI-OFICIAL-COMERCIAL-Y-SERVICIOS-LATACUNGA-LATA-ZONA-NOROR/1338003562/",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "pichincha-1337998962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE NEGOCIOS DIGITALES",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-04",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-NEGOCIOS-DIGITALES-QUIT-TRIBU-NEGO/1337998962/",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
     },
     {
       "id": "pichincha-1335907362",
@@ -121,6 +193,18 @@
       "firstSeen": "2026-10-30"
     },
     {
+      "id": "pichincha-1337867062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL INMOBILIARIO A - CUENCA",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-10-30",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-INMOBILIARIO-A-CUENCA-CUEN-REGION-SUR/1337867062/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
+    },
+    {
       "id": "pichincha-1337044862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -155,18 +239,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-SOPORTE-ADMINISTRATIVO-TEMPORAL-%28-RECUPERACION-Y-COBRANZA-%29-QUIT-SEGUIMIENT/1337846462/",
       "isIT": false,
       "firstSeen": "2026-10-29"
-    },
-    {
-      "id": "pichincha-1337862862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-29",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-ANALITICA/1337862862/",
-      "isIT": false,
-      "firstSeen": "2026-10-30"
     },
     {
       "id": "pichincha-1337859462",
@@ -264,18 +336,6 @@
       "firstSeen": "2026-10-28"
     },
     {
-      "id": "pichincha-1337737262",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-26",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-GOBIERNO-R/1337737262/",
-      "isIT": false,
-      "firstSeen": "2026-10-26"
-    },
-    {
       "id": "pichincha-1337737862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -320,6 +380,17 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-AUDITORIA/1337744262/",
       "isIT": false,
       "firstSeen": "2026-10-27"
+    },
+    {
+      "id": "pagueya-6ac565cf2ee2123a2d066740",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "COORDINADOR COBRANZA GESTIÓN LEGAL REMEDIAL",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac565cf2ee2123a2d066740",
+      "isIT": false,
+      "firstSeen": "2026-10-24"
     },
     {
       "id": "pagueya-6adb733bec92bbdc1eb7dd74",
@@ -987,30 +1058,6 @@
       "firstSeen": "2026-10-26"
     },
     {
-      "id": "pichincha-1336376562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO SERVICIOS EMPRESARIALES - RECAUDACIONES",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-07",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-SERVICIOS-EMPRESARIALES-RECAUDACIONES-QUIT-CELULA-REC/1336376562/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337265062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO DESARROLLO ESTRATEGIA NEGOCIO - EMPRESAS",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-07",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-DESARROLLO-ESTRATEGIA-NEGOCIO-EMPRESAS-QUIT-SEGMENTO-E/1337265062/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
       "source": "cacpeco",
       "institution": "CACPECO",
@@ -1105,17 +1152,17 @@
       "closedOn": "2026-11-04"
     },
     {
-      "id": "pichincha-1337867062",
+      "id": "pichincha-1337862862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL INMOBILIARIO A - CUENCA",
-      "province": "AZUAY",
-      "city": "CUENCA",
-      "publishedAt": "2026-10-30",
-      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-INMOBILIARIO-A-CUENCA-CUEN-REGION-SUR/1337867062/",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-29",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-ANALITICA/1337862862/",
       "isIT": false,
       "firstSeen": "2026-10-30",
-      "closedOn": "2026-11-04"
+      "closedOn": "2026-11-05"
     },
     {
       "id": "pichincha-1332901862",
@@ -1209,6 +1256,19 @@
       "closedOn": "2026-10-30"
     },
     {
+      "id": "pichincha-1337737262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-26",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-GOBIERNO-R/1337737262/",
+      "isIT": false,
+      "firstSeen": "2026-10-26",
+      "closedOn": "2026-11-05"
+    },
+    {
       "id": "pichincha-1337740962",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1284,18 +1344,6 @@
       "isIT": true,
       "firstSeen": "2026-10-26",
       "closedOn": "2026-10-27"
-    },
-    {
-      "id": "pagueya-6ac565cf2ee2123a2d066740",
-      "source": "pagueya",
-      "institution": "Pague Ya (Grupo Pichincha)",
-      "title": "COORDINADOR COBRANZA GESTIÓN LEGAL REMEDIAL",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac565cf2ee2123a2d066740",
-      "isIT": false,
-      "firstSeen": "2026-10-24",
-      "closedOn": "2026-11-02"
     },
     {
       "id": "pichincha-1337720062",

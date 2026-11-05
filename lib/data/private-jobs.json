@@ -2,6 +2,50 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "tigo-R135561",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas Norte - Temporal",
+      "city": "Quito",
+      "publishedAt": "2026-11-05",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Ejecutivo-de-Tiendas-Norte---Temporal_R135561",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "tigo-R135728",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas-1",
+      "city": "Quito",
+      "publishedAt": "2026-11-05",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Ejecutivo-de-Tiendas-1_R135728",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "tigo-R135347",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "(EVENTUAL) Pasante",
+      "city": "Quito",
+      "publishedAt": "2026-11-05",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135347",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "pronaca-26919",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "ADMIN. ALMACEN (AGR) (20003121)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26919",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
       "id": "arca-1427282000",
       "source": "arca",
       "company": "Arca Continental",
@@ -11,17 +55,6 @@
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-TECNICO-MECANICO-PLANTA-GUAYAQUIL-60000/1427282000/",
       "isIT": false,
       "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1447812000",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI PORTOVIEJO",
-      "city": null,
-      "publishedAt": "2026-11-04",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-PORTOVIEJO/1447812000/",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
     },
     {
       "id": "arca-1447653800",
@@ -42,39 +75,6 @@
       "city": null,
       "publishedAt": "2026-11-04",
       "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1816",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "tigo-R135561",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Ejecutivo de Tiendas Norte - Temporal",
-      "city": "Quito",
-      "publishedAt": "2026-11-04",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Ejecutivo-de-Tiendas-Norte---Temporal_R135561",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "tigo-R135728",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Ejecutivo de Tiendas-1",
-      "city": "Quito",
-      "publishedAt": "2026-11-04",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Ejecutivo-de-Tiendas-1_R135728",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "tigo-R135347",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "(EVENTUAL) Pasante",
-      "city": "Quito",
-      "publishedAt": "2026-11-04",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135347",
       "isIT": false,
       "firstSeen": "2026-11-04"
     },
@@ -843,7 +843,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Ejecutivo de Tiendas-1",
       "city": "Ambato",
-      "publishedAt": "2026-10-30",
+      "publishedAt": "2026-10-31",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Ambato/Ejecutivo-de-Tiendas-1_R135682",
       "isIT": false,
       "firstSeen": "2026-11-03"
@@ -3231,6 +3231,17 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "holcim-1363959657",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Base de talento - Operador/a de Mixer",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Base-de-talento-Operadora-de-Mixer/1363959657/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "claro-1803",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -5615,6 +5626,18 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "arca-1447812000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI PORTOVIEJO",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-PORTOVIEJO/1447812000/",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-05"
+    },
+    {
       "id": "netlife-ejecutivo-de-ventas-campo-guayaquil-guayaquil",
       "source": "netlife",
       "company": "Netlife",
@@ -5983,18 +6006,6 @@
       "publishedAt": null,
       "url": "https://corporaciongpf.hiringroom.com/jobs/get_vacancy/6a85f185b0e745b4ba91cd79",
       "isIT": true,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-11-04"
-    },
-    {
-      "id": "holcim-1363959657",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Base de talento - Operador/a de Mixer",
-      "city": "EC",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Base-de-talento-Operadora-de-Mixer/1363959657/",
-      "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-11-04"
     },
