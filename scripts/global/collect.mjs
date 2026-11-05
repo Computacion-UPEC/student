@@ -48,10 +48,24 @@ const EXTRA_IT = /data scientist|site reliability|\bSRE\b|security (analyst|engi
 const isIT = (title) => !NOT_IT.test(title) && (isITRole(title) || EXTRA_IT.test(title))
 const plain = (html = "") => html.replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&amp;/g, "&").replace(/<[^>]+>/g, " ").replace(/&nbsp;|&#\d+;/g, " ")
 
-/** "remoto", "patrocinio" o null según dónde es y lo que dice el aviso. */
-function routeOf(location, text, remote) {
+const CANADA = /\b(canada|toronto|vancouver|montr[eé]al|ottawa|calgary|waterloo|ontario|british columbia|qu[eé]bec)\b/i
+
+// Puestos de TI con LMIA aprobado en Canadá por empresa (lib/data/visa-sponsors.json, scripts/global/sponsors.mjs)
+const SPONSORS_FILE = path.resolve(here, "../../lib/data/visa-sponsors.json")
+const canadaSponsors = existsSync(SPONSORS_FILE) ? JSON.parse(readFileSync(SPONSORS_FILE, "utf8")).canada : []
+const escape = (text) => text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+function canadaSponsor(company) {
+  const matches = canadaSponsors.filter((entry) => new RegExp(`^${escape(company)}\\b`, "i").test(entry.name))
+  const positions = matches.reduce((sum, entry) => sum + entry.positions, 0)
+  return positions ? { positions, globalTalent: matches.some((entry) => entry.globalTalent) } : null
+}
+
+/** "remoto", "patrocinio" o null según dónde es, lo que dice el aviso y si la empresa ha patrocinado visas en Canadá. */
+function routeOf(location, text, remote, sponsor) {
   if ((OPEN_TO_ECUADOR.test(location) && !US_ONLY.test(location)) || (remote && /\b(latam|latin america)\b/i.test(text))) return "remoto"
-  if (NORTH_AMERICA.test(location) && SPONSORS.test(text) && !NO_SPONSOR.test(text)) return "patrocinio"
+  if (NO_SPONSOR.test(text)) return null
+  if (NORTH_AMERICA.test(location) && SPONSORS.test(text)) return "patrocinio"
+  if (sponsor && CANADA.test(location)) return "patrocinio"
   return null
 }
 
@@ -88,14 +102,15 @@ for (const { company, jobs, error } of results) {
   if (error) { console.log(`::warning::${company.name}: ${error.message}`); summary.push(`${company.name}: error`); continue }
   const prefix = `${company.ats}-${company.account}-`
   const seen = new Set()
+  const sponsor = canadaSponsor(company.name)
   for (const job of jobs) {
     if (!isIT(job.title)) continue
-    const route = routeOf(job.location, job.text, job.remote)
+    const route = routeOf(job.location, job.text, job.remote, sponsor)
     if (!route) continue
     const id = prefix + job.key
     seen.add(id)
     const { firstSeen = today } = byId.get(id) ?? {}
-    byId.set(id, { id, company: company.name, title: job.title.trim(), location: job.location.trim(), route, publishedAt: job.publishedAt, url: job.url, firstSeen })
+    byId.set(id, { id, company: company.name, title: job.title.trim(), location: job.location.trim(), route, ...(route === "patrocinio" && sponsor && CANADA.test(job.location) ? { canadaLmia: sponsor.positions } : {}), publishedAt: job.publishedAt, url: job.url, firstSeen })
   }
   for (const job of byId.values()) if (job.id.startsWith(prefix) && !seen.has(job.id) && !job.closedOn) byId.set(job.id, { ...job, closedOn: today })
   if (seen.size) summary.push(`${company.name}: ${seen.size}`)

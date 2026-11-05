@@ -1,0 +1,2484 @@
+{
+  "source": "https://open.canada.ca/data/dataset/90fed587-1364-4f33-a9ee-208181dc0b97",
+  "quarters": [
+    "2025-T3",
+    "2025-T4",
+    "2026-T1",
+    "2026-T2"
+  ],
+  "canada": [
+    {
+      "name": "Amazon Development Centre Canada ULC",
+      "positions": 107,
+      "globalTalent": true,
+      "cities": [
+        "Vancouver"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Computer engineers (except software engineers and designers)",
+        "Cybersecurity specialists",
+        "Data scientists"
+      ]
+    },
+    {
+      "name": "Groupe Technologies Desjardins inc.",
+      "positions": 54,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Computer systems developers and programmers",
+        "Data scientists"
+      ]
+    },
+    {
+      "name": "Conseillers en gestion et informatique CGI Inc.",
+      "positions": 53,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Computer network and web technicians",
+        "Computer systems developers and programmers"
+      ]
+    },
+    {
+      "name": "CGI Information Systems & Management Consultants Inc.",
+      "positions": 41,
+      "globalTalent": true,
+      "cities": [
+        "Montreal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer systems developers and programmers",
+        "Database analysts and data administrators",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "ATI Technologies ULC",
+      "positions": 35,
+      "globalTalent": true,
+      "cities": [
+        "Markham"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Computer engineers (except software engineers and designers)",
+        "Cybersecurity specialists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Fortinet Technologies (Canada) ULC",
+      "positions": 35,
+      "globalTalent": true,
+      "cities": [
+        "Burnaby"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Computer systems developers and programmers",
+        "Cybersecurity specialists",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "COFOMO DÉVELOPPEMENT INC.",
+      "positions": 32,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer systems developers and programmers",
+        "Cybersecurity specialists",
+        "Database analysts and data administrators"
+      ]
+    },
+    {
+      "name": "Nokia",
+      "positions": 32,
+      "globalTalent": true,
+      "cities": [
+        "Kanata"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Computer engineers (except software engineers and designers)",
+        "Computer network and web technicians",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Autodesk Canada Co.",
+      "positions": 31,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Data scientists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Neo Financial",
+      "positions": 28,
+      "globalTalent": true,
+      "cities": [
+        "Winnipeg"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Information systems specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Morgan Stanley Services Canada Corp",
+      "positions": 25,
+      "globalTalent": true,
+      "cities": [
+        "Montreal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer systems developers and programmers",
+        "Cybersecurity specialists",
+        "Database analysts and data administrators"
+      ]
+    },
+    {
+      "name": "ALTEN Canada Inc.",
+      "positions": 24,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Computer network and web technicians",
+        "Computer systems developers and programmers"
+      ]
+    },
+    {
+      "name": "Loblaws Inc.",
+      "positions": 23,
+      "globalTalent": true,
+      "cities": [
+        "Brampton"
+      ],
+      "occupations": [
+        "Computer systems developers and programmers",
+        "Cybersecurity specialists",
+        "Data scientists",
+        "Database analysts and data administrators"
+      ]
+    },
+    {
+      "name": "Ubisoft Divertissements Inc.",
+      "positions": 22,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Computer network and web technicians",
+        "Cybersecurity specialists"
+      ]
+    },
+    {
+      "name": "Electronic Arts (Canada), Inc.",
+      "positions": 20,
+      "globalTalent": true,
+      "cities": [
+        "Burnaby"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Cybersecurity specialists",
+        "Data scientists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Levio Conseils",
+      "positions": 20,
+      "globalTalent": true,
+      "cities": [
+        "QUÉBEC"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Cybersecurity specialists",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "MobSquad",
+      "positions": 18,
+      "globalTalent": true,
+      "cities": [
+        "CALGARY"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Cybersecurity specialists",
+        "Data scientists",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "Royal Bank of Canada",
+      "positions": 18,
+      "globalTalent": true,
+      "cities": [
+        "TORONTO"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Data scientists",
+        "Database analysts and data administrators"
+      ]
+    },
+    {
+      "name": "SOTI Inc",
+      "positions": 18,
+      "globalTalent": true,
+      "cities": [
+        "Mississauga"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Computer engineers (except software engineers and designers)",
+        "Computer systems developers and programmers"
+      ]
+    },
+    {
+      "name": "Stripe",
+      "positions": 17,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Database analysts and data administrators",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Xanadu Quantum Technologies Inc",
+      "positions": 14,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Computer engineers (except software engineers and designers)",
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "ASTEK Canada Inc.",
+      "positions": 13,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer systems developers and programmers",
+        "Cybersecurity specialists",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "Amazon Web Services Canada, Inc.",
+      "positions": 12,
+      "globalTalent": true,
+      "cities": [
+        "Vancouver"
+      ],
+      "occupations": [
+        "Cybersecurity specialists",
+        "Information systems specialists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "LGS",
+      "positions": 12,
+      "globalTalent": true,
+      "cities": [
+        "Québec"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Computer systems developers and programmers",
+        "Data scientists",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "Salesforce.com Canada Corp.",
+      "positions": 12,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Data scientists",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "Behaviour Interactive Inc.",
+      "positions": 11,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "FPT Canada Inc.",
+      "positions": 11,
+      "globalTalent": true,
+      "cities": [
+        "Boucherville"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Database analysts and data administrators",
+        "Information systems testing technicians",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Quanteam Canada",
+      "positions": 11,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Cybersecurity specialists",
+        "Information systems specialists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Agence du Revenu du Québec",
+      "positions": 10,
+      "globalTalent": true,
+      "cities": [
+        "Québec"
+      ],
+      "occupations": [
+        "Database analysts and data administrators",
+        "Information systems specialists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Ericsson Canada Inc.",
+      "positions": 10,
+      "globalTalent": true,
+      "cities": [
+        "Mississauga"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer engineers (except software engineers and designers)",
+        "Information systems specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "General Motors of Canada Company",
+      "positions": 10,
+      "globalTalent": true,
+      "cities": [
+        "Oshawa"
+      ],
+      "occupations": [
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Laboratoires Acumatica Canada",
+      "positions": 10,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Data scientists",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "MESONS TECHNOLOGIES INC.",
+      "positions": 10,
+      "globalTalent": false,
+      "cities": [
+        "Scarborough"
+      ],
+      "occupations": [
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Shopify Inc.",
+      "positions": 10,
+      "globalTalent": true,
+      "cities": [
+        "Ottawa"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Computer network and web technicians",
+        "Computer systems developers and programmers",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Alithya Canada Inc.",
+      "positions": 9,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Information systems specialists",
+        "Software developers and programmers",
+        "Web designers"
+      ]
+    },
+    {
+      "name": "EPAM Systems Canada ULC.",
+      "positions": 9,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Computer systems developers and programmers",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "GFT Canada",
+      "positions": 9,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Capgemini Solutions Canada Inc",
+      "positions": 8,
+      "globalTalent": true,
+      "cities": [
+        "Mississauga"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Database analysts and data administrators",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "Cohere Inc.",
+      "positions": 8,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Cybersecurity specialists",
+        "Data scientists",
+        "Information systems specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Ebates Canada, Inc.",
+      "positions": 8,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Data scientists",
+        "Database analysts and data administrators",
+        "Information systems testing technicians",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Fédération des caisses Desjardins du Québec",
+      "positions": 8,
+      "globalTalent": true,
+      "cities": [
+        "Lévis"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Cybersecurity specialists",
+        "Data scientists",
+        "Database analysts and data administrators"
+      ]
+    },
+    {
+      "name": "SYNECHRON CANADA INTÉGRATION DE SYSTÈMES INC.",
+      "positions": 8,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Information systems specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Velocity Global International Ltd.",
+      "positions": 8,
+      "globalTalent": true,
+      "cities": [
+        "OTTAWA"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "ZAFIN LABS AMERICAS INC",
+      "positions": 8,
+      "globalTalent": true,
+      "cities": [
+        "Vancouver"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Information systems specialists",
+        "Information systems testing technicians",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Banque Nationale du Canada / National Bank of Canada",
+      "positions": 7,
+      "globalTalent": false,
+      "cities": [
+        "Montreal"
+      ],
+      "occupations": [
+        "Information systems specialists",
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Huawei Technologies Canada Co., Ltd.",
+      "positions": 7,
+      "globalTalent": true,
+      "cities": [
+        "Markham"
+      ],
+      "occupations": [
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "KeyData Associates Inc.",
+      "positions": 7,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Cybersecurity specialists",
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Loblaw Inc.",
+      "positions": 7,
+      "globalTalent": true,
+      "cities": [
+        "Brampton"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Database analysts and data administrators",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "Phreesia Inc.",
+      "positions": 7,
+      "globalTalent": false,
+      "cities": [
+        "Kanata"
+      ],
+      "occupations": [
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Tata Consultancy Services Canada",
+      "positions": 7,
+      "globalTalent": false,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Computer network and web technicians",
+        "Information systems specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "TS Imagine",
+      "positions": 7,
+      "globalTalent": true,
+      "cities": [
+        "Montreal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Data scientists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Vancouver City Savings Credit Union",
+      "positions": 7,
+      "globalTalent": true,
+      "cities": [
+        "Vancouver"
+      ],
+      "occupations": [
+        "Computer engineers (except software engineers and designers)",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Visionet Canada Inc",
+      "positions": 7,
+      "globalTalent": true,
+      "cities": [
+        "Mississauga"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Information systems specialists",
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "agileDSS",
+      "positions": 6,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Database analysts and data administrators"
+      ]
+    },
+    {
+      "name": "BNP Paribas Solutions TI Canada Inc.",
+      "positions": 6,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "Capgemini Canada",
+      "positions": 6,
+      "globalTalent": true,
+      "cities": [
+        "Mississauga"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Information systems specialists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "CS GROUP-Canada Inc.",
+      "positions": 6,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Cybersecurity specialists",
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Davidson Canada Inc",
+      "positions": 6,
+      "globalTalent": false,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Information systems specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "GlobalLogic Canada ULC",
+      "positions": 6,
+      "globalTalent": true,
+      "cities": [
+        "Mississauga"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Information systems specialists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "KPMG LLP",
+      "positions": 6,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Information systems specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "MHWirth AS",
+      "positions": 6,
+      "globalTalent": false,
+      "cities": [
+        "Kristiansand"
+      ],
+      "occupations": [
+        "Computer engineers (except software engineers and designers)",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Micro Logic Sainte-Foy Ltée",
+      "positions": 6,
+      "globalTalent": false,
+      "cities": [
+        "Quebec"
+      ],
+      "occupations": [
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "REDspace Inc.",
+      "positions": 6,
+      "globalTalent": true,
+      "cities": [
+        "Bedford"
+      ],
+      "occupations": [
+        "Data scientists",
+        "Information systems specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "RingCentral Canada Inc.",
+      "positions": 6,
+      "globalTalent": true,
+      "cities": [
+        "OTTAWA"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Information systems specialists",
+        "Software engineers and designers",
+        "Web developers and programmers"
+      ]
+    },
+    {
+      "name": "Syntronic Research and Development Canada Inc.",
+      "positions": 6,
+      "globalTalent": true,
+      "cities": [
+        "Ottawa"
+      ],
+      "occupations": [
+        "Computer engineers (except software engineers and designers)",
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "ACENSI CONSULTANTS INC",
+      "positions": 5,
+      "globalTalent": false,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Information systems specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Affirm Canada Holdings Ltd.",
+      "positions": 5,
+      "globalTalent": false,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Data scientists",
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "ALSTOM Transport Canada Inc",
+      "positions": 5,
+      "globalTalent": true,
+      "cities": [
+        "St-Bruno-de-Montarville"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Information systems specialists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Amazon Canada Fulfillment Services, ULC",
+      "positions": 5,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Database analysts and data administrators",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Audensiel Canada Développement",
+      "positions": 5,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Information systems specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "DoorDash Technologies Canada Inc.",
+      "positions": 5,
+      "globalTalent": false,
+      "cities": [
+        "Vancouver"
+      ],
+      "occupations": [
+        "Data scientists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Faire",
+      "positions": 5,
+      "globalTalent": true,
+      "cities": [
+        "Kitchener"
+      ],
+      "occupations": [
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Frima Studio inc.",
+      "positions": 5,
+      "globalTalent": true,
+      "cities": [
+        "Québec"
+      ],
+      "occupations": [
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "HURON ADVISORS CANADA LIMITED",
+      "positions": 5,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "League",
+      "positions": 5,
+      "globalTalent": false,
+      "cities": [
+        "TORONTO"
+      ],
+      "occupations": [
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Logiciels Etiya Canada Inc",
+      "positions": 5,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Information systems specialists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "mobileLIVE Inc",
+      "positions": 5,
+      "globalTalent": true,
+      "cities": [
+        "Richmond Hill",
+        "Toronto"
+      ],
+      "occupations": [
+        "Computer systems developers and programmers",
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "NAVBLUE INC",
+      "positions": 5,
+      "globalTalent": true,
+      "cities": [
+        "Waterloo"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Information systems specialists",
+        "Information systems testing technicians"
+      ]
+    },
+    {
+      "name": "Nuages Consulting Inc",
+      "positions": 5,
+      "globalTalent": false,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Business system specialists"
+      ]
+    },
+    {
+      "name": "Pollard Banknote Ltd.",
+      "positions": 5,
+      "globalTalent": true,
+      "cities": [
+        "Winnipeg"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Computer systems developers and programmers",
+        "Information systems specialists",
+        "Web designers"
+      ]
+    },
+    {
+      "name": "Scotiabank",
+      "positions": 5,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Data scientists",
+        "Information systems testing technicians",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Virtusa Consulting & Services Inc.",
+      "positions": 5,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Database analysts and data administrators",
+        "Information systems specialists",
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "2188005 Ontario Inc.",
+      "positions": 4,
+      "globalTalent": false,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Database analysts and data administrators",
+        "Software developers and programmers",
+        "Web designers"
+      ]
+    },
+    {
+      "name": "360.Agency",
+      "positions": 4,
+      "globalTalent": false,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Information systems specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "9208-3401 Québec inc.",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Québec"
+      ],
+      "occupations": [
+        "Computer systems developers and programmers"
+      ]
+    },
+    {
+      "name": "Accenture Inc.",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Avenza Systems Inc",
+      "positions": 4,
+      "globalTalent": false,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "AXSource Inc.",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Oakville"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "BDO Canada LLP",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Data scientists",
+        "Database analysts and data administrators",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Bell Cyber Inc.",
+      "positions": 4,
+      "globalTalent": false,
+      "cities": [
+        "Mississauga"
+      ],
+      "occupations": [
+        "Cybersecurity specialists"
+      ]
+    },
+    {
+      "name": "Beneva",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Québec"
+      ],
+      "occupations": [
+        "Cybersecurity specialists",
+        "Information systems specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "BrainRidge Consulting Inc.",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Ciena Corp",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Ottawa"
+      ],
+      "occupations": [
+        "Computer engineers (except software engineers and designers)",
+        "Database analysts and data administrators",
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Clientserver Tech Systems Inc.",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Mississauga"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Data scientists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Epsilon Solutions LTD.",
+      "positions": 4,
+      "globalTalent": false,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Fujitsu Consulting (Canada) Inc.",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Montreal"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Computer engineers (except software engineers and designers)",
+        "Computer systems developers and programmers"
+      ]
+    },
+    {
+      "name": "Geotab Inc.",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Oakville"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "GFT Technologies Canada Inc.",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Québec"
+      ],
+      "occupations": [
+        "Information systems specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Groupe Atos Québec inc.",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "MONTRÉAL"
+      ],
+      "occupations": [
+        "Cybersecurity specialists"
+      ]
+    },
+    {
+      "name": "I-TRACING Cybersécurité Inc",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Cybersecurity specialists"
+      ]
+    },
+    {
+      "name": "IAMConcepts Security Solution Inc.",
+      "positions": 4,
+      "globalTalent": false,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Cybersecurity specialists"
+      ]
+    },
+    {
+      "name": "J&M Group Inc.",
+      "positions": 4,
+      "globalTalent": false,
+      "cities": [
+        "Mississauga"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Jobeyze Limited",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Moncton"
+      ],
+      "occupations": [
+        "Web developers and programmers"
+      ]
+    },
+    {
+      "name": "Keyrus",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Montrèal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Data scientists",
+        "Database analysts and data administrators",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Kinaxis",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Ottawa"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer network and web technicians",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Koho Financial Inc.",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Cybersecurity specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Larian Québec Inc.",
+      "positions": 4,
+      "globalTalent": false,
+      "cities": [
+        "Québec"
+      ],
+      "occupations": [
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "LayerZero Labs Canada Inc.",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Vancouver"
+      ],
+      "occupations": [
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Les Services Conseils Systematix Inc.",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Québec"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer systems developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Maplr Consulting Inc.",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Maximizer",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Vancouver"
+      ],
+      "occupations": [
+        "Computer systems developers and programmers",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Netflix Animation Studios Canada ULC",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Vancouver",
+        "Yaletown"
+      ],
+      "occupations": [
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "OPAL-RT TECHNOLOGIES",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Photonic Inc.",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Coquitlam"
+      ],
+      "occupations": [
+        "Computer engineers (except software engineers and designers)"
+      ]
+    },
+    {
+      "name": "ShoreWise Consulting LLC",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Mississauga"
+      ],
+      "occupations": [
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "SkipTheDishes",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Winnipeg"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Snowed In Studios Inc.",
+      "positions": 4,
+      "globalTalent": false,
+      "cities": [
+        "Ottawa"
+      ],
+      "occupations": [
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "SOCIETE POUR L'INFORMATIQUE INDUSTRIELLE SII INC.",
+      "positions": 4,
+      "globalTalent": false,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Information systems specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "SPACEA INFOTECH INC.",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "MISSISSAUGA",
+        "Toronto"
+      ],
+      "occupations": [
+        "Computer network and web technicians",
+        "Database analysts and data administrators"
+      ]
+    },
+    {
+      "name": "Squarepoint",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Talan",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "TeamWork Canada",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "Tempo",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Tile Network Canada ULC",
+      "positions": 4,
+      "globalTalent": true,
+      "cities": [
+        "Vancouver"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Unisystech Consulting inc.",
+      "positions": 4,
+      "globalTalent": false,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "11864017 canada inc",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Laval"
+      ],
+      "occupations": [
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "2526874 Alberta Inc.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Calgary"
+      ],
+      "occupations": [
+        "Database analysts and data administrators",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "750908 N.B. INC",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Fredericton"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer network and web technicians"
+      ]
+    },
+    {
+      "name": "Adastra Corporation",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Data scientists",
+        "Database analysts and data administrators",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "AIM1221 TECH SOLUTIONS INC.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Edmonton"
+      ],
+      "occupations": [
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Alithya Services Conseils Inc.",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Cybersecurity specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Alten Canada MDC",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Computer systems developers and programmers",
+        "Cybersecurity specialists"
+      ]
+    },
+    {
+      "name": "American Bankers Insurance Company of Florida",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Arista Networks",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Burnaby"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Information systems specialists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Ateko",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "Bay Controls LLC",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Maumee"
+      ],
+      "occupations": [
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "BitGo Canada, Inc.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Black & McDonald Limited",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Scarborough"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Information systems testing technicians"
+      ]
+    },
+    {
+      "name": "Bombardier Aviation",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "MONTRÉAL"
+      ],
+      "occupations": [
+        "Cybersecurity specialists",
+        "Software developers and programmers",
+        "Web developers and programmers"
+      ]
+    },
+    {
+      "name": "BRP",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Valcourt"
+      ],
+      "occupations": [
+        "Information systems specialists",
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "BTA Design Services Inc.",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Kanata"
+      ],
+      "occupations": [
+        "Computer engineers (except software engineers and designers)"
+      ]
+    },
+    {
+      "name": "CAE Inc",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "mississauga"
+      ],
+      "occupations": [
+        "Information systems testing technicians",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Canada Workday ULC",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Victoria"
+      ],
+      "occupations": [
+        "Software developers and programmers",
+        "Software engineers and designers",
+        "Web designers"
+      ]
+    },
+    {
+      "name": "Carta Maple Technologies Inc",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "KITCHENER"
+      ],
+      "occupations": [
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Ceridian Dayforce Inc",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "North York"
+      ],
+      "occupations": [
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Coveo Solutions, Inc",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Québec"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Software engineers and designers",
+        "Web designers"
+      ]
+    },
+    {
+      "name": "Databricks Canada ULC",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Efovinity Inc",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Cambridge",
+        "Oakville"
+      ],
+      "occupations": [
+        "Database analysts and data administrators",
+        "Software engineers and designers",
+        "User support technicians"
+      ]
+    },
+    {
+      "name": "EPI-USE Canada, Inc",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Mississauga"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "ESI Conseil",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Cybersecurity specialists",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "EXL Service Canada Inc.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Hamilton"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "FISPAN",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Vancouver"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Software developers and programmers",
+        "User support technicians"
+      ]
+    },
+    {
+      "name": "GDE Grocery Delivery E-Services Canada Inc.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "GlassHouse Systems",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "North York"
+      ],
+      "occupations": [
+        "Computer network and web technicians",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "Glo3D Inc.",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Computer systems developers and programmers",
+        "Data scientists",
+        "Web developers and programmers"
+      ]
+    },
+    {
+      "name": "Industrielle Alliance, Assurances et services financiers inc.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Québec"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Cybersecurity specialists",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Infinite Computer Solutions Canada Inc.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Computer and information systems managers",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Intelcom Courrier Canada",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Computer network and web technicians",
+        "Database analysts and data administrators",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "IP Infusion Canada Inc",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "GATINEAU"
+      ],
+      "occupations": [
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Les servies conseils ABna",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Québec"
+      ],
+      "occupations": [
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "Loop Financial Inc.",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "LTM CANADA LTD.",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Mississauga"
+      ],
+      "occupations": [
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Lumentum",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Ottawa"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Database analysts and data administrators"
+      ]
+    },
+    {
+      "name": "Marvell Semiconductor Canada Inc.",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Kanata"
+      ],
+      "occupations": [
+        "Computer engineers (except software engineers and designers)"
+      ]
+    },
+    {
+      "name": "Mellenger Interactive Ltd.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Surrey"
+      ],
+      "occupations": [
+        "Software developers and programmers",
+        "Web developers and programmers"
+      ]
+    },
+    {
+      "name": "Microsemi Storage Solutions Ltd.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Burnaby"
+      ],
+      "occupations": [
+        "Computer engineers (except software engineers and designers)",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "OVHcloud",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Beauharnois",
+        "Montréal"
+      ],
+      "occupations": [
+        "Computer network and web technicians",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "PAMT Consulting Inc",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Computer network and web technicians",
+        "Web developers and programmers"
+      ]
+    },
+    {
+      "name": "Persona Identities Canada Inc.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Information systems specialists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "QVYON Technologies INC.",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "MONTRÉAL"
+      ],
+      "occupations": [
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "SAP Canada Inc",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Information systems specialists",
+        "Web developers and programmers"
+      ]
+    },
+    {
+      "name": "Slalom Consulting ULC",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Snowflake Computing Canada ULC",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "TORONTO"
+      ],
+      "occupations": [
+        "Information systems specialists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Société en commandite Airbus Canada",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Mirabel"
+      ],
+      "occupations": [
+        "Database analysts and data administrators"
+      ]
+    },
+    {
+      "name": "Solutions Softway Medical Inc.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Information systems specialists",
+        "Software developers and programmers",
+        "Web developers and programmers"
+      ]
+    },
+    {
+      "name": "Suger Inc.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Vancouver"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Syncomint Technologies Inc",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Syncoria Incorporated",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Information systems testing technicians"
+      ]
+    },
+    {
+      "name": "SYSTÈMES SYNTAX LTÉE",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Montreal"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Information systems specialists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Tactable",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Oakville"
+      ],
+      "occupations": [
+        "Data scientists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "TEKsystems",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Montreal"
+      ],
+      "occupations": [
+        "Database analysts and data administrators",
+        "Information systems specialists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "TELUS",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Vancouver"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Database analysts and data administrators",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Thomson Reuters",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "TORONTO"
+      ],
+      "occupations": [
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "TickTrade Systems Inc.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Tower Research Capital",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Transperfect",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Vancouver"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Information systems specialists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Tredence",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Computer and information systems managers",
+        "Database analysts and data administrators"
+      ]
+    },
+    {
+      "name": "Trisotech services conseils en informatique",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Laval"
+      ],
+      "occupations": [
+        "Computer engineers (except software engineers and designers)"
+      ]
+    },
+    {
+      "name": "Turbulent Média inc.",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Montréal"
+      ],
+      "occupations": [
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Twyce Inc.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Laval"
+      ],
+      "occupations": [
+        "Computer network and web technicians",
+        "Information systems specialists"
+      ]
+    },
+    {
+      "name": "VALUE CREED MANAGED SERVICES LTD",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Fredericton"
+      ],
+      "occupations": [
+        "Business system specialists"
+      ]
+    },
+    {
+      "name": "Veeva Software Systems, Inc.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Business system specialists",
+        "Information systems specialists",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "Venuiti Solutions Inc.",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "Waterloo"
+      ],
+      "occupations": [
+        "Software developers and programmers",
+        "Web developers and programmers"
+      ]
+    },
+    {
+      "name": "Verily Canada",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Kitchener"
+      ],
+      "occupations": [
+        "Software developers and programmers"
+      ]
+    },
+    {
+      "name": "Volanté Software Inc.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Information systems testing technicians"
+      ]
+    },
+    {
+      "name": "Waabi Canada Inc.",
+      "positions": 3,
+      "globalTalent": true,
+      "cities": [
+        "Toronto"
+      ],
+      "occupations": [
+        "Software developers and programmers",
+        "Software engineers and designers"
+      ]
+    },
+    {
+      "name": "ZS Associates Canada Consulting ULC",
+      "positions": 3,
+      "globalTalent": false,
+      "cities": [
+        "TORONTO",
+        "Toronto"
+      ],
+      "occupations": [
+        "Data scientists",
+        "Database analysts and data administrators"
+      ]
+    }
+  ]
+}

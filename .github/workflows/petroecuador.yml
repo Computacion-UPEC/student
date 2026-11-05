@@ -68,6 +68,11 @@ jobs:
         continue-on-error: true
         run: node scripts/tech/collect.mjs 2>&1 | tee -a "$RUNNER_TEMP/recolectores.log"
 
+      - name: Actualizar empresas que patrocinan visas de TI en Canadá (LMIA)
+        id: visas
+        continue-on-error: true
+        run: node scripts/global/sponsors.mjs 2>&1 | tee -a "$RUNNER_TEMP/recolectores.log"
+
       - name: Recolectar vacantes remotas y con visa de empresas grandes
         id: exterior
         continue-on-error: true
@@ -112,6 +117,7 @@ jobs:
           Bancos=${{ steps.finanzas.outcome }}
           Software=${{ steps.software.outcome }}
           Exterior=${{ steps.exterior.outcome }}
+          Visas=${{ steps.visas.outcome }}
           Privadas=${{ steps.privadas.outcome }}
           INEC=${{ steps.inec.outcome }}
           Concursos=${{ steps.concursos.outcome }}
@@ -119,13 +125,13 @@ jobs:
 
       - name: Guardar cambios
         run: |
-          if git diff --quiet -- lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/tech-jobs.json lib/data/global-jobs.json lib/data/inec-jobs.json lib/data/public-jobs.json lib/data/private-jobs.json lib/data/celec-jobs.json lib/data/celec-all.json lib/data/scrape-status.json; then
+          if git diff --quiet -- lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/tech-jobs.json lib/data/global-jobs.json lib/data/visa-sponsors.json lib/data/inec-jobs.json lib/data/public-jobs.json lib/data/private-jobs.json lib/data/celec-jobs.json lib/data/celec-all.json lib/data/scrape-status.json; then
             echo "Sin cambios en las convocatorias."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/tech-jobs.json lib/data/global-jobs.json lib/data/inec-jobs.json lib/data/public-jobs.json lib/data/private-jobs.json lib/data/celec-jobs.json lib/data/celec-all.json lib/data/scrape-status.json
+          git add lib/data/petroecuador-jobs.json lib/data/finance-jobs.json lib/data/tech-jobs.json lib/data/global-jobs.json lib/data/visa-sponsors.json lib/data/inec-jobs.json lib/data/public-jobs.json lib/data/private-jobs.json lib/data/celec-jobs.json lib/data/celec-all.json lib/data/scrape-status.json
           git commit -m "Update job offers"
           # Si main avanzó durante la recolección (p. ej. se fusionó un PR), se integra antes de subir
           for intento in 1 2 3; do
@@ -145,6 +151,7 @@ jobs:
             Bancos=${{ steps.finanzas.outcome }}
             Software=${{ steps.software.outcome }}
             Exterior=${{ steps.exterior.outcome }}
+            Visas=${{ steps.visas.outcome }}
             Privadas=${{ steps.privadas.outcome }}
             INEC=${{ steps.inec.outcome }}
             Concursos=${{ steps.concursos.outcome }}
