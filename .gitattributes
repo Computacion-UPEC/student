@@ -1,2 +1,4 @@
 ﻿# Los .cmd de Windows necesitan CRLF
 *.cmd text eol=crlf
+# Los scripts de bash se rompen con CRLF (el runner de Ecuador clona en Windows)
+*.sh text eol=lf
