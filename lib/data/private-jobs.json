@@ -2,39 +2,6 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
-      "id": "tigo-R135561",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Ejecutivo de Tiendas Norte - Temporal",
-      "city": "Quito",
-      "publishedAt": "2026-11-05",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Ejecutivo-de-Tiendas-Norte---Temporal_R135561",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "tigo-R135728",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Ejecutivo de Tiendas-1",
-      "city": "Quito",
-      "publishedAt": "2026-11-05",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Ejecutivo-de-Tiendas-1_R135728",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "tigo-R135347",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "(EVENTUAL) Pasante",
-      "city": "Quito",
-      "publishedAt": "2026-11-05",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135347",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
-    },
-    {
       "id": "pronaca-26919",
       "source": "pronaca",
       "company": "Pronaca",
@@ -42,6 +9,94 @@
       "city": null,
       "publishedAt": null,
       "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26919",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "arca-1438000900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ASISTENTE DE COMPRAS | PLANTA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-ASISTENTE-DE-COMPRAS-PLANTA-GUAYAQUIL-60000/1438000900/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "arca-1448176600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "Operador de Montacargas (12127)",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-Operador-de-Montacargas-%2812127%29-1/1448176600/",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "arca-1448156200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "Auxiliar de Producción",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-Auxiliar-de-Producci%C3%B3n-1/1448156200/",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "difare-auxiliar-de-punto-de-venta-2026-sierra",
+      "source": "difare",
+      "company": "Difare",
+      "title": "AUXILIAR DE PUNTO DE VENTA 2026 SIERRA",
+      "city": "QUITO",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/auxiliar-de-punto-de-venta-2026-sierra/",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "pronaca-26975",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "SUP. MANT. (VAL) (20000996)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26975",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "puntonet-8672938",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "Pasante de Operaciones de Red - Quito",
+      "city": "Quito",
+      "publishedAt": "2026-11-05",
+      "url": "https://puntonet.teamtailor.com/jobs/8672938-pasante-de-operaciones-de-red-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "tigo-R135875",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "(EVENTUAL) Pasante",
+      "city": "Quito",
+      "publishedAt": "2026-11-05",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135875",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "nestle-1454867733",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Pasante de Brand Experience",
+      "city": "Quito",
+      "publishedAt": "2026-11-05",
+      "url": "https://jobdetails.nestle.com/job/Quito-Pasante-de-Brand-Experience-17-03-4574/1454867733/",
       "isIT": false,
       "firstSeen": "2026-11-05"
     },
@@ -152,17 +207,6 @@
       "city": null,
       "publishedAt": "2026-11-04",
       "url": "https://careers.arcacontal.com/job/IMB-Ibarra-AYUDANTE-DE-DESPACHO-CEDI-IBARRA-Dip-Ibar/1447884400/",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "arca-1447883300",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "AYUDANTE DE DESPACHO | CEDI IBARRA",
-      "city": null,
-      "publishedAt": "2026-11-04",
-      "url": "https://careers.arcacontal.com/job/IMB-Ibarra-AYUDANTE-DE-DESPACHO-CEDI-IBARRA-Dip-Ibar/1447883300/",
       "isIT": false,
       "firstSeen": "2026-11-04"
     },
@@ -783,28 +827,6 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "pronaca-26605",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "PASANTE (20009405)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26605",
-      "isIT": false,
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "pronaca-26923",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "SUP. CAMPO AGROFORESTAL (20002448)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26923",
-      "isIT": false,
-      "firstSeen": "2026-11-02"
-    },
-    {
       "id": "pronaca-26921",
       "source": "pronaca",
       "company": "Pronaca",
@@ -843,7 +865,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Ejecutivo de Tiendas-1",
       "city": "Ambato",
-      "publishedAt": "2026-10-31",
+      "publishedAt": "2026-10-30",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Ambato/Ejecutivo-de-Tiendas-1_R135682",
       "isIT": false,
       "firstSeen": "2026-11-03"
@@ -926,17 +948,6 @@
       "firstSeen": "2026-10-30"
     },
     {
-      "id": "arca-1446571100",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-10-30",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-GUAYAQUIL-SUR/1446571100/",
-      "isIT": false,
-      "firstSeen": "2026-10-31"
-    },
-    {
       "id": "arca-1446578700",
       "source": "arca",
       "company": "Arca Continental",
@@ -978,17 +989,6 @@
       "city": "PICHINCHA",
       "publishedAt": null,
       "url": "https://difare.evaluar.com/trabajo/trabajador-social/",
-      "isIT": false,
-      "firstSeen": "2026-10-29"
-    },
-    {
-      "id": "arca-1445052900",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR UNIVERSAL | CEDI IBARRA",
-      "city": null,
-      "publishedAt": "2026-10-29",
-      "url": "https://careers.arcacontal.com/job/IMB-Ibarra-VENDEDOR-UNIVERSAL-CEDI-IBARRA-Dip-Ibar/1445052900/",
       "isIT": false,
       "firstSeen": "2026-10-29"
     },
@@ -1114,17 +1114,6 @@
       "firstSeen": "2026-10-28"
     },
     {
-      "id": "arca-1425192200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "ESTIBADOR | CEDI PORTOVIEJO",
-      "city": null,
-      "publishedAt": "2026-10-28",
-      "url": "https://careers.arcacontal.com/job/ESTIBADOR-CEDI-PORTOVIEJO/1425192200/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "holcim-1376073157",
       "source": "holcim",
       "company": "Holcim Ecuador",
@@ -1143,17 +1132,6 @@
       "city": "EC",
       "publishedAt": null,
       "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Operadora-de-Mantenimiento-Manab%C3%AD/1376096057/",
-      "isIT": false,
-      "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "arca-1444649600",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI ESMERALDAS",
-      "city": null,
-      "publishedAt": "2026-10-28",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-ESMERALDAS/1444649600/",
       "isIT": false,
       "firstSeen": "2026-10-28"
     },
@@ -1301,17 +1279,6 @@
       "url": "https://puntonet.teamtailor.com/jobs/8625738-ingeniero-de-gestion-corporativa",
       "isIT": false,
       "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "arca-1444124400",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | CEDI IMBABURA",
-      "city": null,
-      "publishedAt": "2026-10-27",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-IMBABURA/1444124400/",
-      "isIT": false,
-      "firstSeen": "2026-10-27"
     },
     {
       "id": "arca-1443691500",
@@ -3555,17 +3522,6 @@
       "firstSeen": "2026-11-03"
     },
     {
-      "id": "nestle-1445832333",
-      "source": "nestle",
-      "company": "Nestlé Ecuador",
-      "title": "Pasante de Marketing Maggi",
-      "city": "Quito",
-      "publishedAt": "2026-10-08",
-      "url": "https://jobdetails.nestle.com/job/Quito-Pasante-de-Marketing-Maggi-17-03-4574/1445832333/",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
-    },
-    {
       "id": "nestle-1435079033",
       "source": "nestle",
       "company": "Nestlé Ecuador",
@@ -3575,17 +3531,6 @@
       "url": "https://jobdetails.nestle.com/job/Guayaquil-Distribution-Center-Supervisor-17-03-4574/1435079033/",
       "isIT": false,
       "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "arca-1438000900",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "ASISTENTE DE COMPRAS | PLANTA GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-10-07",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-ASISTENTE-DE-COMPRAS-PLANTA-GUAYAQUIL-60000/1438000900/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
     },
     {
       "id": "puntonet-8500528",
@@ -5626,6 +5571,54 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "tigo-R135561",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas Norte - Temporal",
+      "city": "Quito",
+      "publishedAt": "2026-11-05",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Ejecutivo-de-Tiendas-Norte---Temporal_R135561",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-05"
+    },
+    {
+      "id": "tigo-R135728",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas-1",
+      "city": "Quito",
+      "publishedAt": "2026-11-05",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Ejecutivo-de-Tiendas-1_R135728",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-05"
+    },
+    {
+      "id": "tigo-R135347",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "(EVENTUAL) Pasante",
+      "city": "Quito",
+      "publishedAt": "2026-11-05",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135347",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-05"
+    },
+    {
+      "id": "arca-1447883300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AYUDANTE DE DESPACHO | CEDI IBARRA",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://careers.arcacontal.com/job/IMB-Ibarra-AYUDANTE-DE-DESPACHO-CEDI-IBARRA-Dip-Ibar/1447883300/",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-05"
+    },
+    {
       "id": "arca-1447812000",
       "source": "arca",
       "company": "Arca Continental",
@@ -5650,6 +5643,42 @@
       "closedOn": "2026-11-04"
     },
     {
+      "id": "pronaca-26605",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "PASANTE (20009405)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26605",
+      "isIT": false,
+      "firstSeen": "2026-11-02",
+      "closedOn": "2026-11-05"
+    },
+    {
+      "id": "pronaca-26923",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "SUP. CAMPO AGROFORESTAL (20002448)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26923",
+      "isIT": false,
+      "firstSeen": "2026-11-02",
+      "closedOn": "2026-11-05"
+    },
+    {
+      "id": "arca-1446571100",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-30",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-GUAYAQUIL-SUR/1446571100/",
+      "isIT": false,
+      "firstSeen": "2026-10-31",
+      "closedOn": "2026-11-05"
+    },
+    {
       "id": "farmaenlace-1337880662",
       "source": "farmaenlace",
       "company": "Farmaenlace",
@@ -5672,6 +5701,18 @@
       "isIT": false,
       "firstSeen": "2026-10-26",
       "closedOn": "2026-10-31"
+    },
+    {
+      "id": "arca-1445052900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR UNIVERSAL | CEDI IBARRA",
+      "city": null,
+      "publishedAt": "2026-10-29",
+      "url": "https://careers.arcacontal.com/job/IMB-Ibarra-VENDEDOR-UNIVERSAL-CEDI-IBARRA-Dip-Ibar/1445052900/",
+      "isIT": false,
+      "firstSeen": "2026-10-29",
+      "closedOn": "2026-11-05"
     },
     {
       "id": "tigo-R135733",
@@ -5746,6 +5787,30 @@
       "closedOn": "2026-11-04"
     },
     {
+      "id": "arca-1425192200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ESTIBADOR | CEDI PORTOVIEJO",
+      "city": null,
+      "publishedAt": "2026-10-28",
+      "url": "https://careers.arcacontal.com/job/ESTIBADOR-CEDI-PORTOVIEJO/1425192200/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-05"
+    },
+    {
+      "id": "arca-1444649600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI ESMERALDAS",
+      "city": null,
+      "publishedAt": "2026-10-28",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-ESMERALDAS/1444649600/",
+      "isIT": false,
+      "firstSeen": "2026-10-28",
+      "closedOn": "2026-11-05"
+    },
+    {
       "id": "tigo-R135650",
       "source": "tigo",
       "company": "Tigo (ex Movistar)",
@@ -5792,6 +5857,18 @@
       "isIT": false,
       "firstSeen": "2026-10-29",
       "closedOn": "2026-10-30"
+    },
+    {
+      "id": "arca-1444124400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI IMBABURA",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-IMBABURA/1444124400/",
+      "isIT": false,
+      "firstSeen": "2026-10-27",
+      "closedOn": "2026-11-05"
     },
     {
       "id": "arca-1444380700",
@@ -6704,6 +6781,18 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "nestle-1445832333",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Pasante de Marketing Maggi",
+      "city": "Quito",
+      "publishedAt": "2026-10-08",
+      "url": "https://jobdetails.nestle.com/job/Quito-Pasante-de-Marketing-Maggi-17-03-4574/1445832333/",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-05"
     },
     {
       "id": "arca-1437866700",
