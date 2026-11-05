@@ -1,0 +1,1065 @@
+{
+  "collectedSince": "2026-11-05",
+  "jobs": [
+    {
+      "id": "ashby-supabase-985abb8d-cb2b-4f32-97d7-497e9f89e3ce",
+      "company": "Supabase",
+      "title": "Senior Developer Relations, Twitter Brand Rep",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-11-04",
+      "url": "https://jobs.ashbyhq.com/supabase/985abb8d-cb2b-4f32-97d7-497e9f89e3ce",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-fb0b563a-e541-43fd-8555-9eb6473aaa11",
+      "company": "Supabase",
+      "title": "Software Engineer - AI Tooling Infrastructure",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-10-31",
+      "url": "https://jobs.ashbyhq.com/supabase/fb0b563a-e541-43fd-8555-9eb6473aaa11",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-6f7656fc-9983-48be-bbd3-8b40e0e3027a",
+      "company": "Supabase",
+      "title": "Container Engineer",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-10-26",
+      "url": "https://jobs.ashbyhq.com/supabase/6f7656fc-9983-48be-bbd3-8b40e0e3027a",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+      "company": "Supabase",
+      "title": "Data API Engineer",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-10-24",
+      "url": "https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
+      "company": "Supabase",
+      "title": "Software Engineer - Storage",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-10-24",
+      "url": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
+      "company": "Supabase",
+      "title": "Software Engineer - Turso",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-10-21",
+      "url": "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-b65287c7-2071-4bc6-8717-58c090e2a372",
+      "company": "Supabase",
+      "title": "SDK Engineer - Python",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-10-16",
+      "url": "https://jobs.ashbyhq.com/supabase/b65287c7-2071-4bc6-8717-58c090e2a372",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-ed6cedb1-b9bf-4609-ac5c-c75c33b31bf3",
+      "company": "Supabase",
+      "title": "Site Reliability Engineer",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-10-15",
+      "url": "https://jobs.ashbyhq.com/supabase/ed6cedb1-b9bf-4609-ac5c-c75c33b31bf3",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
+      "company": "Supabase",
+      "title": "FinOps Data Engineer",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-10-14",
+      "url": "https://jobs.ashbyhq.com/supabase/73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-6b314e83-6617-49fc-8c73-021ebae9a757",
+      "company": "Supabase",
+      "title": "Platform Engineer - Compute",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-10-13",
+      "url": "https://jobs.ashbyhq.com/supabase/6b314e83-6617-49fc-8c73-021ebae9a757",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-9073c0cd-2545-473a-b2ac-63e4615c69b5",
+      "company": "Supabase",
+      "title": "Platform Engineer, Managed Postgres",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-10-09",
+      "url": "https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-5d09daeb-2d7e-42de-9151-81a1341195c4",
+      "company": "Supabase",
+      "title": "Cloud Platform Engineer",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-10-09",
+      "url": "https://jobs.ashbyhq.com/supabase/5d09daeb-2d7e-42de-9151-81a1341195c4",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-48950725-e0d9-4025-92d9-f75e1b60ce45",
+      "company": "Supabase",
+      "title": "Postgres Deployment Engineer",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-10-06",
+      "url": "https://jobs.ashbyhq.com/supabase/48950725-e0d9-4025-92d9-f75e1b60ce45",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-8249005",
+      "company": "Canonical",
+      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2026-10-05",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/8249005",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-fab1525f-3d89-4d1c-9094-84d21647415e",
+      "company": "Supabase",
+      "title": "FinOps Engineer",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-09-16",
+      "url": "https://jobs.ashbyhq.com/supabase/fab1525f-3d89-4d1c-9094-84d21647415e",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-6c9de03c-e289-4612-9045-492985d0274b",
+      "company": "Supabase",
+      "title": "Platform Engineer, Edge & Networking",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-09-14",
+      "url": "https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-4eb14408-51e6-4c58-812a-3782d5c0b045",
+      "company": "Supabase",
+      "title": "Platform Engineer - Compute Capacity",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-09-02",
+      "url": "https://jobs.ashbyhq.com/supabase/4eb14408-51e6-4c58-812a-3782d5c0b045",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-06752423-eebb-472c-95b5-c7ff2559fd60",
+      "company": "Supabase",
+      "title": "Software Engineer - Branching",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-09-02",
+      "url": "https://jobs.ashbyhq.com/supabase/06752423-eebb-472c-95b5-c7ff2559fd60",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-8fa1c7a0-a85c-4562-a1f5-4dd22cadae27",
+      "company": "Supabase",
+      "title": "Platform Security Engineer (AMER/APAC)",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-09-02",
+      "url": "https://jobs.ashbyhq.com/supabase/8fa1c7a0-a85c-4562-a1f5-4dd22cadae27",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-8130859",
+      "company": "Canonical",
+      "title": "Software Engineer - Secure Container Images",
+      "location": "Home Based - Americas; Home Based - APAC; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2026-08-14",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/8130859",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-59083a14-b2b6-4dd8-8037-739aa1ad1e22",
+      "company": "Supabase",
+      "title": "Senior Data Analyst - Marketing",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-08-04",
+      "url": "https://jobs.ashbyhq.com/supabase/59083a14-b2b6-4dd8-8037-739aa1ad1e22",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-3b5d54ca-741b-45ac-bd3f-31605a0d3541",
+      "company": "Supabase",
+      "title": "AI Platform Engineer",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-07-31",
+      "url": "https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-98ef6a11-9898-4960-9931-1264285849f3",
+      "company": "Supabase",
+      "title": "Performance Engineer - Performance Analysis & Tuning",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-07-28",
+      "url": "https://jobs.ashbyhq.com/supabase/98ef6a11-9898-4960-9931-1264285849f3",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-11beb619-0c25-4b11-9818-3f18e278c65b",
+      "company": "Supabase",
+      "title": "Performance Engineer - Benchmarking",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-07-28",
+      "url": "https://jobs.ashbyhq.com/supabase/11beb619-0c25-4b11-9818-3f18e278c65b",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-f6035bf8-4f44-4425-9944-d5509a3c8652",
+      "company": "Supabase",
+      "title": "Release Engineer",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-07-27",
+      "url": "https://jobs.ashbyhq.com/supabase/f6035bf8-4f44-4425-9944-d5509a3c8652",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-b75ba81e-54cc-4393-a575-bc41776b0113",
+      "company": "Supabase",
+      "title": "Software Engineer - Spark",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-07-17",
+      "url": "https://jobs.ashbyhq.com/supabase/b75ba81e-54cc-4393-a575-bc41776b0113",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-3ab0b926-c9b5-4197-aff2-88d5bf009e13",
+      "company": "Supabase",
+      "title": "Software Engineer - Functions (Compute)",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-05-13",
+      "url": "https://jobs.ashbyhq.com/supabase/3ab0b926-c9b5-4197-aff2-88d5bf009e13",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
+      "company": "Supabase",
+      "title": "Multigres Deployment Engineer",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-04-15",
+      "url": "https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-e569b7f7-fa8f-4139-86f6-4f52b456882d",
+      "company": "Supabase",
+      "title": "Software Engineer - Auth",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-04-08",
+      "url": "https://jobs.ashbyhq.com/supabase/e569b7f7-fa8f-4139-86f6-4f52b456882d",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-7774649",
+      "company": "Canonical",
+      "title": "Senior Software Engineer - Python/Golang - Kubernetes",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2026-04-02",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/7774649",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-7612825",
+      "company": "Canonical",
+      "title": "System Software Engineer - GCC/LLVM compiler, tooling, and ecosystem",
+      "location": "Home Based - Americas",
+      "route": "remoto",
+      "publishedAt": "2026-02-12",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/7612825",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-7490812",
+      "company": "Canonical",
+      "title": "Public Cloud Solution Architect",
+      "location": "Home Based - Americas",
+      "route": "remoto",
+      "publishedAt": "2026-01-23",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/7490812",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-7432750",
+      "company": "Canonical",
+      "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
+      "location": "Home Based - Americas; Home Based - APAC; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2025-11-28",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/7432750",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-7410479",
+      "company": "Canonical",
+      "title": "Cloud Field Engineering Manager",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2025-11-20",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/7410479",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-6707669",
+      "company": "Canonical",
+      "title": "Junior Ubuntu Software Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2025-11-07",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6707669",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-6707824",
+      "company": "Canonical",
+      "title": "Ubuntu Software Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2025-11-07",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6707824",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-6635671",
+      "company": "Canonical",
+      "title": "Software Engineer - L3 Support",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2025-07-14",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6635671",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-6635681",
+      "company": "Canonical",
+      "title": "Software Maintenance Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2025-07-14",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6635681",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-6635593",
+      "company": "Canonical",
+      "title": "Software Support Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2025-07-14",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6635593",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "ashby-supabase-2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+      "company": "Supabase",
+      "title": "Multigres Engineer",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2025-06-04",
+      "url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-6783943",
+      "company": "Canonical",
+      "title": "MLOps Field Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2025-04-10",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6783943",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5881447",
+      "company": "Canonical",
+      "title": "Software Architect - Containers / Virtualisation",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2025-02-27",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5881447",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-6448444",
+      "company": "Canonical",
+      "title": "Associate Linux Support Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2025-02-10",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6448444",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-6189337",
+      "company": "Canonical",
+      "title": "Embedded Linux Senior Software Engineer - Optimisation",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2025-02-10",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6189337",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-6485081",
+      "company": "Canonical",
+      "title": "Staff Security Operations Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2024-12-18",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6485081",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-6397940",
+      "company": "Canonical",
+      "title": "Software Alliance Ecosystem Manager",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2024-11-14",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6397940",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-6283017",
+      "company": "Canonical",
+      "title": "Cloud Professional Services Manager",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2024-10-28",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6283017",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-6222476",
+      "company": "Canonical",
+      "title": "Software Engineer - Python - Container Images",
+      "location": "Home Based - Americas; Home Based - APAC; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2024-08-30",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6222476",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-6132532",
+      "company": "Canonical",
+      "title": "Cloud Field Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2024-07-24",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6132532",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-6076909",
+      "company": "Canonical",
+      "title": "Ubuntu Linux Kernel Engineer - Silicon Enablement",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2024-06-27",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6076909",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-6062471",
+      "company": "Canonical",
+      "title": "Linux Platform Integration - Ubuntu Systems Senior Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2024-06-23",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6062471",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-6010955",
+      "company": "Canonical",
+      "title": "Lead Linux Kernel Engineer - Ubuntu",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2024-06-03",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6010955",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5703396",
+      "company": "Canonical",
+      "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2024-04-11",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5703396",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5792361",
+      "company": "Canonical",
+      "title": "Performance Engineer - Open Source",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2024-04-09",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5792361",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5660661",
+      "company": "Canonical",
+      "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU",
+      "location": "Home Based - Americas; Home Based - APAC; Office Based - Beijing, China; Office Based - Taipei, Taiwan",
+      "route": "remoto",
+      "publishedAt": "2024-03-20",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5660661",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5370815",
+      "company": "Canonical",
+      "title": "Junior Linux Kernel Engineer - Ubuntu",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2024-02-25",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5370815",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5667860",
+      "company": "Canonical",
+      "title": "Engineering Manager - Data Platform",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2024-02-02",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5667860",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5517891",
+      "company": "Canonical",
+      "title": "Senior Site Reliability / Gitops Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2023-11-20",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5517891",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5391149",
+      "company": "Canonical",
+      "title": "Senior Security Operations Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2023-11-09",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5391149",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5151903",
+      "company": "Canonical",
+      "title": "Linux Kernel Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2023-10-18",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5151903",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5191982",
+      "company": "Canonical",
+      "title": "Microservices Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2023-10-15",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5191982",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5146620",
+      "company": "Canonical",
+      "title": "Security Software Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2023-10-14",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5146620",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5211861",
+      "company": "Canonical",
+      "title": "Software Engineering Director",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2023-10-13",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5211861",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5146709",
+      "company": "Canonical",
+      "title": "Golang Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2023-10-12",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5146709",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5143074",
+      "company": "Canonical",
+      "title": "Python Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2023-10-11",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5143074",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5150422",
+      "company": "Canonical",
+      "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2023-10-11",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5150422",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5140562",
+      "company": "Canonical",
+      "title": "Linux Devices Software Engineer",
+      "location": "Home based - Worldwide; Office Based - Taipei, Taiwan",
+      "route": "remoto",
+      "publishedAt": "2023-10-09",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5140562",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5103218",
+      "company": "Canonical",
+      "title": "Staff Engineer, Development Lifecycle",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2023-10-04",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5103218",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5172247",
+      "company": "Canonical",
+      "title": "Containerization & Virtualisation Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2023-09-24",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5172247",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-5142887",
+      "company": "Canonical",
+      "title": "Senior/Staff/Principal Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2023-09-22",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5142887",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-4581200",
+      "company": "Canonical",
+      "title": "Distributed Systems Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2023-07-19",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/4581200",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-4960407",
+      "company": "Canonical",
+      "title": "Golang System Software Engineer - Containers / Virtualisation",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2023-03-29",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/4960407",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-4398031",
+      "company": "Canonical",
+      "title": "Software Engineer - Cloud Images",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2023-02-03",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/4398031",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-4732475",
+      "company": "Canonical",
+      "title": "Public Cloud Project Manager",
+      "location": "Home Based - Americas",
+      "route": "remoto",
+      "publishedAt": "2022-12-05",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/4732475",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-4717512",
+      "company": "Canonical",
+      "title": "Linux Cryptography and Security Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2022-11-23",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/4717512",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-4676649",
+      "company": "Canonical",
+      "title": "Cloud Engineering Manager",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2022-11-03",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/4676649",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-4647417",
+      "company": "Canonical",
+      "title": "Software Developer (Backend SaaS)",
+      "location": "Home Based - Americas",
+      "route": "remoto",
+      "publishedAt": "2022-10-20",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/4647417",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-4468036",
+      "company": "Canonical",
+      "title": "Site Reliability Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2022-08-08",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/4468036",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-4283003",
+      "company": "Canonical",
+      "title": "Software Engineering Manager (Backend SaaS)",
+      "location": "Home Based - Americas",
+      "route": "remoto",
+      "publishedAt": "2022-07-26",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/4283003",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-4086684",
+      "company": "Canonical",
+      "title": "Software Engineering Manager - Container and Virtualisation Infrastructure",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2022-07-18",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/4086684",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-4410480",
+      "company": "Canonical",
+      "title": "Software Engineering Manager - Sustaining Engineering",
+      "location": "Home Based - Americas",
+      "route": "remoto",
+      "publishedAt": "2022-07-17",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/4410480",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-4394058",
+      "company": "Canonical",
+      "title": "Linux devices software engineer - snapd",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2022-07-13",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/4394058",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-3880952",
+      "company": "Canonical",
+      "title": "Staff Software Engineer for Identity Management (Go/Golang)",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2022-07-13",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/3880952",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-4272811",
+      "company": "Canonical",
+      "title": "Software Engineer - Ubuntu Server Certification",
+      "location": "Home Based - Americas",
+      "route": "remoto",
+      "publishedAt": "2022-05-25",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/4272811",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-3748266",
+      "company": "Canonical",
+      "title": "Telco Cloud Field Engineer",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2022-04-25",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/3748266",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-4144793",
+      "company": "Canonical",
+      "title": "Engineering Manager - Public Cloud, Python, Golang",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2022-04-15",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/4144793",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-3821346",
+      "company": "Canonical",
+      "title": "Embedded & Desktop Linux Systems Engineer - Optimisation",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2022-03-26",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/3821346",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-3752633",
+      "company": "Canonical",
+      "title": "Software Engineer - Python and K8s",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2022-02-23",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/3752633",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-3737190",
+      "company": "Canonical",
+      "title": "Sustaining Operations Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2021-12-13",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/3737190",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-3275433",
+      "company": "Canonical",
+      "title": "Community Engineer (multiple roles and seniority levels)",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2021-09-16",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/3275433",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-3159992",
+      "company": "Canonical",
+      "title": "Software Engineer - App Stores",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2021-09-07",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/3159992",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-3362765",
+      "company": "Canonical",
+      "title": "Embedded Linux Field Engineer for Devices/IoT",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2021-08-04",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/3362765",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-3326693",
+      "company": "Canonical",
+      "title": "Software Engineer, Sustaining Engineering",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2021-07-22",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/3326693",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-3290946",
+      "company": "Canonical",
+      "title": "Software Engineer - Solutions Engineering",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2021-07-11",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/3290946",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-3062022",
+      "company": "Canonical",
+      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2021-07-09",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/3062022",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-3257589",
+      "company": "Canonical",
+      "title": "Software Engineer - Python - Cloud - graduate level",
+      "location": "Home Based - Americas",
+      "route": "remoto",
+      "publishedAt": "2021-06-28",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/3257589",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-3029798",
+      "company": "Canonical",
+      "title": "Senior Site Reliability Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2021-03-31",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/3029798",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-3003389",
+      "company": "Canonical",
+      "title": "Senior Software Engineer - MAAS",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2021-03-29",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/3003389",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-2969042",
+      "company": "Canonical",
+      "title": "Distributed Systems Testing Software Engineer, Python / Go",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2021-03-18",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/2969042",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-2925180",
+      "company": "Canonical",
+      "title": "Ubuntu Security Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2021-03-02",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/2925180",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-2928962",
+      "company": "Canonical",
+      "title": "Software Engineer - Python/Golang - Kubernetes",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2021-02-19",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/2928962",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-2579550",
+      "company": "Canonical",
+      "title": "Software Engineer - OpenStack",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2021-01-21",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/2579550",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-2456563",
+      "company": "Canonical",
+      "title": "Cloud Support Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2020-11-19",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/2456563",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-2413329",
+      "company": "Canonical",
+      "title": "Software Engineer (Python/Linux/Packaging)",
+      "location": "Home Based - Americas",
+      "route": "remoto",
+      "publishedAt": "2020-11-16",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/2413329",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-1861978",
+      "company": "Canonical",
+      "title": "Software Engineer, Ceph & Distributed Storage",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "route": "remoto",
+      "publishedAt": "2019-09-23",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/1861978",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-canonical-1747487",
+      "company": "Canonical",
+      "title": "Site Reliability / Gitops Engineer",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2019-06-27",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/1747487",
+      "firstSeen": "2026-11-05"
+    }
+  ]
+}

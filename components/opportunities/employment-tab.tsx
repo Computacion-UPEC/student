@@ -1,7 +1,7 @@
 "use client"
 
 import { useEffect, useState, type ReactNode } from "react"
-import { Building2, CircleDot, Code2, Factory, GraduationCap, History, Landmark, Zap } from "lucide-react"
+import { Building2, CircleDot, Code2, Globe2, Factory, GraduationCap, History, Landmark, Zap } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import { CelecAllCalls } from "@/components/opportunities/celec-all-calls"
 import { CelecJobs } from "@/components/opportunities/celec-jobs"
@@ -17,6 +17,7 @@ import { PublicPortals } from "@/components/opportunities/public-portals"
 import { PublicRoutes } from "@/components/opportunities/public-routes"
 import { TechJobs, countOpenTechITJobs } from "@/components/opportunities/tech-jobs"
 import { EncuentraEmpleoJobs, countOpenEncuentraEmpleoJobs } from "@/components/opportunities/encuentra-empleo-jobs"
+import { GlobalJobs, countOpenGlobalJobs } from "@/components/opportunities/global-jobs"
 import { EntryLevelJobs } from "@/components/opportunities/entry-level-jobs"
 import { EmploymentStageNotice } from "@/components/opportunities/stage-picker"
 import { ScrapedPlatforms } from "@/components/opportunities/scraped-platforms"
@@ -30,13 +31,14 @@ import type { Stage } from "@/lib/student-stages"
 
 const ENTRY_KEY = "oportunidades.recien-graduados"
 
-type Sector = "tecnologia" | "privado" | "energia" | "financiero" | "publico"
+type Sector = "tecnologia" | "exterior" | "privado" | "energia" | "financiero" | "publico"
 
 const sectors: { id: Sector; label: string; icon: typeof Zap; ownership: string; count: number; unit: string; description: string }[] = [
   { id: "tecnologia", label: "Tecnología / Software", icon: Code2, ownership: "Privado", count: countOpenTechITJobs(), unit: "vacantes", description: "Vacantes de TI en Ecuador de empresas de software (Devsu, Stack Builders) y ofertas de TI de todo el país en Encuentra Empleo." },
   { id: "privado", label: "Empresas privadas", icon: Factory, ownership: "Privado", count: privatePortals.length, unit: "empresas", description: privateITJobs.length ? "Ofertas de TI y portales oficiales de las empresas privadas más grandes del país (retail, telecomunicaciones, consumo, industria)." : "Portales oficiales de las empresas privadas más grandes del país: retail, telecomunicaciones, consumo e industria." },
   { id: "energia", label: "Energía", icon: Zap, ownership: "Empresas públicas", count: celecJobs.length + petroecuadorITJobs.length, unit: "ofertas", description: petroecuadorITJobs.length ? "Convocatorias reales de CELEC EP (electricidad) y cargos de TI de EP Petroecuador (petróleo)." : "Convocatorias reales de CELEC EP (electricidad). Los cargos de TI de Petroecuador aparecerán cuando publique alguno." },
   { id: "financiero", label: "Financiero", icon: Landmark, ownership: "Públicos y privados", count: financePortals.length, unit: "portales", description: financeITJobs.length ? "Ofertas de TI de bancos y cooperativas, y sus portales oficiales de empleo." : "Portales oficiales de empleo de bancos y cooperativas." },
+  { id: "exterior", label: "Remoto y en el extranjero", icon: Globe2, ownership: "Privado", count: countOpenGlobalJobs(), unit: "vacantes", description: "Vacantes de TI de empresas grandes que contratan desde Ecuador en remoto, o que patrocinan la visa para Canadá y EE. UU." },
   { id: "publico", label: "Sector público", icon: Building2, ownership: "Público", count: publicOpportunities.length + publicPortals.length + encuentraEmpleoInstitutions.length, unit: "rutas", description: inecITJobs.length || publicITJobs.length ? "Cargos de TI del INEC, de CNT y de los concursos públicos de Encuentra Empleo, dónde publica cada institución y plataformas del Estado para docencia y consultoría." : "Dónde publica cada institución pública y plataformas del Estado para docencia, cargos públicos y consultoría." },
 ]
 
@@ -90,6 +92,7 @@ export function EmploymentTab({ stage }: { stage: Stage | null }) {
     {visible("privado") && <SectorGroup sector={sectors.find((item) => item.id === "privado")!}><PrivateJobs {...filters} /><PrivatePortals /></SectorGroup>}
     {visible("energia") && <SectorGroup sector={sectors.find((item) => item.id === "energia")!}><PetroecuadorJobs {...filters} /><CelecJobs {...filters} /><CelecAllCalls /></SectorGroup>}
     {visible("financiero") && <SectorGroup sector={sectors.find((item) => item.id === "financiero")!}><FinanceJobs {...filters} /><FinancePortals /></SectorGroup>}
+    {visible("exterior") && <SectorGroup sector={sectors.find((item) => item.id === "exterior")!}><GlobalJobs {...filters} /></SectorGroup>}
     {visible("publico") && <SectorGroup sector={sectors.find((item) => item.id === "publico")!}><InecJobs {...filters} /><PublicITJobs {...filters} /><PublicPortals /><PublicRoutes /></SectorGroup>}
     <InstitutionSocials />
   </div>
