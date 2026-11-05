@@ -24,6 +24,7 @@ import path from "node:path"
 import { fileURLToPath } from "node:url"
 import { hiringRoom } from "../lib/hiringroom.mjs"
 import { successFactorsXml } from "../lib/successfactors-xml.mjs"
+import { trackSource } from "../lib/status.mjs"
 import { isITRole } from "../lib/it-roles.mjs"
 
 const here = path.dirname(fileURLToPath(import.meta.url))
@@ -110,11 +111,12 @@ for (const source of SOURCES) {
   try {
     found = await source.collect()
   } catch (error) {
-    // Si una fuente falla no se cierra ninguna de sus ofertas; se avisa en el registro de GitHub Actions
-    console.log(`::warning::${source.institution}: ${error.message}`)
+    // Si una fuente falla no se cierra ninguna de sus ofertas; si sigue fallando varias corridas, se avisa en el issue
+    trackSource(source.institution, false, error)
     summary.push(`${source.institution}: error`)
     continue
   }
+  trackSource(source.institution, true)
   const seen = new Set()
   for (const item of found) {
     const id = `${source.id}-${item.key}`

@@ -8,6 +8,7 @@ import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
 import { isITRole } from "../lib/it-roles.mjs"
+import { trackSource } from "../lib/status.mjs"
 
 const here = path.dirname(fileURLToPath(import.meta.url))
 const OUT = path.resolve(here, "../../lib/data/tech-jobs.json")
@@ -43,11 +44,12 @@ for (const company of COMPANIES) {
   try {
     found = await collect(company)
   } catch (error) {
-    // Si una fuente falla no se cierra ninguna de sus ofertas; se avisa en el registro de GitHub Actions
-    console.log(`::warning::${company.name}: ${error.message}`)
+    // Si una fuente falla no se cierra ninguna de sus ofertas; si sigue fallando varias corridas, se avisa en el issue
+    trackSource(company.name, false, error)
     summary.push(`${company.name}: error`)
     continue
   }
+  trackSource(company.name, true)
   const seen = new Set()
   for (const { key, ...data } of found) {
     const id = `${company.id}-${key}`
