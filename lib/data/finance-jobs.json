@@ -2,6 +2,72 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "bce-6aed597a5782670c140896b7",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Especialista de Gestión Operativa, Conciliación y Control",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed597a5782670c140896b7",
+      "isIT": false,
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "bce-6aed6033300ecaa69da326a2",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Experto de Riesgos Financieros",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed6033300ecaa69da326a2",
+      "isIT": false,
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "bce-6aed6f2d6116b196e62a80e3",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Especialista de Infraestructura y Operaciones TI - Plataformas Cloud Native",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed6f2d6116b196e62a80e3",
+      "isIT": true,
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "bce-6aed6afb5782670c1408a1a8",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Especialista de Infraestructura y Operaciones TI - Plataformas y Servicios de Datos Cloud Native",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed6afb5782670c1408a1a8",
+      "isIT": true,
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "bce-6aed66623259aa458ec5adc7",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Especialista de Seguridad Informática/Operaciones de Clave Pública",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed66623259aa458ec5adc7",
+      "isIT": true,
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "bce-6aed64360a3597d4c60182a1",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Especialista de Análisis de Sistemas Transaccionales",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed64360a3597d4c60182a1",
+      "isIT": false,
+      "firstSeen": "2026-11-06"
+    },
+    {
       "id": "pichincha-1336376562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -261,18 +327,6 @@
       "city": "BABAHOYO",
       "publishedAt": "2026-10-31",
       "url": "https://vacantes.pichincha.com/job/BABAHOYO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-LOS-RIOS-BABA-ZONA-COSTA/1337143562/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337081062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE OPERACIONES DE TALENTO HUMANO - CUENCA",
-      "province": "AZUAY",
-      "city": "CUENCA",
-      "publishedAt": "2026-10-30",
-      "url": "https://vacantes.pichincha.com/job/CUENCA-PASANTE-OPERACIONES-DE-TALENTO-HUMANO-CUENCA-CUEN-SERVICIOS/1337081062/",
       "isIT": false,
       "firstSeen": "2026-10-16"
     },
@@ -1210,6 +1264,19 @@
       "isIT": false,
       "firstSeen": "2026-10-31",
       "closedOn": "2026-11-04"
+    },
+    {
+      "id": "pichincha-1337081062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE OPERACIONES DE TALENTO HUMANO - CUENCA",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-10-30",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-PASANTE-OPERACIONES-DE-TALENTO-HUMANO-CUENCA-CUEN-SERVICIOS/1337081062/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-11-06"
     },
     {
       "id": "pichincha-1337862862",

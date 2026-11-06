@@ -2,6 +2,28 @@
   "collectedSince": "2026-11-05",
   "jobs": [
     {
+      "id": "greenhouse-affirm-8011132003",
+      "company": "Affirm",
+      "title": "Analytics Lead, Full Stack",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-06",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8011132003",
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "greenhouse-affirm-8035736003",
+      "company": "Affirm",
+      "title": "Senior Product Security Engineer",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-06",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8035736003",
+      "firstSeen": "2026-11-06"
+    },
+    {
       "id": "greenhouse-affirm-8162558003",
       "company": "Affirm",
       "title": "Staff Software Engineer, Fullstack (Account Management)",
@@ -427,17 +449,6 @@
       "canadaLmia": 17,
       "publishedAt": "2026-10-09",
       "url": "https://stripe.com/jobs/search?gh_jid=8268059",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-affirm-8012043003",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Online Storage)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-10-08",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8012043003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -1211,17 +1222,6 @@
       "route": "remoto",
       "publishedAt": "2026-02-12",
       "url": "https://job-boards.greenhouse.io/canonical/jobs/7612825",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-affirm-7590373003",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Partner Merchant Interface)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-01-27",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7590373003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2127,6 +2127,30 @@
       "canadaLmia": 5,
       "publishedAt": "2026-10-09",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8010615003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-06"
+    },
+    {
+      "id": "greenhouse-affirm-8012043003",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Online Storage)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-10-08",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8012043003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-06"
+    },
+    {
+      "id": "greenhouse-affirm-7590373003",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Partner Merchant Interface)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-01-27",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7590373003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-06"
     }
