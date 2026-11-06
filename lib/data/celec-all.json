@@ -2,6 +2,14 @@
   "source": "https://www.celec.gob.ec",
   "calls": [
     {
+      "unit": "Hidrotoapi",
+      "role": "Especialista de Jurídico",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-05",
+      "closesAt": "2026-11-06",
+      "url": "https://www.celec.gob.ec/hidrotoapi/wp-content/uploads/2026/11/CONVOCATORIA_ESPECIALISTA_JURIDICO.pdf"
+    },
+    {
       "unit": "CELEC SUR",
       "role": "ASISTENTE ADM 7 – ASISTENTE DE GESTIÓN SOCIAL Y AMBIENTAL",
       "eligibility": "No aplica",

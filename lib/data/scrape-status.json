@@ -80,11 +80,5 @@
       "lastSuccess": "2026-11-05",
       "ok": true
     }
-  },
-  "failing": {
-    "Tiendas Tuti": {
-      "since": "2026-11-05",
-      "runs": 2
-    }
   }
 }

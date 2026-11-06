@@ -385,6 +385,18 @@
       "firstSeen": "2026-10-28"
     },
     {
+      "id": "pichincha-1337799362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASISTENTE CREDITO EMPRESAS - GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-10-28",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-ASISTENTE-CREDITO-EMPRESAS-GUAYAQUIL-GUAY-CREDITO-EM/1337799362/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
       "id": "pichincha-1335668362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -547,18 +559,6 @@
       "firstSeen": "2026-10-23"
     },
     {
-      "id": "pichincha-1337683862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO PRODUCTO MEDIOS DE PAGO - EVENTUAL",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-22",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PRODUCTO-MEDIOS-DE-PAGO-EVENTUAL-QUIT-TRIBU-MEDI/1337683862/",
-      "isIT": false,
-      "firstSeen": "2026-10-23"
-    },
-    {
       "id": "pichincha-1337683662",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -687,6 +687,18 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-SR-STREAM-ACTIVO-EMPRESAS-QUIT-CELULA-FIN/1337604362/",
       "isIT": false,
       "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "pichincha-1337582162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES - SANTO DOMINGO (EVENTUAL)",
+      "province": "SANTO DOMINGO DE LOS TSACHILAS",
+      "city": "SANTO DOMINGO",
+      "publishedAt": "2026-10-20",
+      "url": "https://vacantes.pichincha.com/job/SANTO-DOMINGO-EJECUTIVO-SERVICIOS-TRANSACCIONALES-SANTO-DOMINGO-%28EVENTUAL%29-SANT-ZONA-ESMER/1337582162/",
+      "isIT": false,
+      "firstSeen": "2026-10-20"
     },
     {
       "id": "pichincha-1332558062",
@@ -1265,19 +1277,6 @@
       "closedOn": "2026-10-31"
     },
     {
-      "id": "pichincha-1337799362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ASISTENTE CREDITO EMPRESAS - GUAYAQUIL",
-      "province": "GUAYAS",
-      "city": "GUAYAQUIL",
-      "publishedAt": "2026-10-28",
-      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-ASISTENTE-CREDITO-EMPRESAS-GUAYAQUIL-GUAY-CREDITO-EM/1337799362/",
-      "isIT": false,
-      "firstSeen": "2026-10-28",
-      "closedOn": "2026-10-29"
-    },
-    {
       "id": "pichincha-1337753562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1444,6 +1443,19 @@
       "isIT": false,
       "firstSeen": "2026-10-24",
       "closedOn": "2026-10-28"
+    },
+    {
+      "id": "pichincha-1337683862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO PRODUCTO MEDIOS DE PAGO - EVENTUAL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PRODUCTO-MEDIOS-DE-PAGO-EVENTUAL-QUIT-TRIBU-MEDI/1337683862/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-11-06"
     },
     {
       "id": "pagueya-6ac569aff89824fde814a923",
@@ -1617,19 +1629,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-COMERCIAL-Y-SERVICIOS-AG_-CUMBAYA-QUIT-ZONA-ORIEN/1337622562/",
       "isIT": false,
       "firstSeen": "2026-10-21",
-      "closedOn": "2026-10-24"
-    },
-    {
-      "id": "pichincha-1337582162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES - SANTO DOMINGO (EVENTUAL)",
-      "province": "SANTO DOMINGO DE LOS TSACHILAS",
-      "city": "SANTO DOMINGO",
-      "publishedAt": "2026-10-20",
-      "url": "https://vacantes.pichincha.com/job/SANTO-DOMINGO-EJECUTIVO-SERVICIOS-TRANSACCIONALES-SANTO-DOMINGO-%28EVENTUAL%29-SANT-ZONA-ESMER/1337582162/",
-      "isIT": false,
-      "firstSeen": "2026-10-20",
       "closedOn": "2026-10-24"
     },
     {

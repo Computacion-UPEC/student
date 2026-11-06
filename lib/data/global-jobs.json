@@ -110,6 +110,17 @@
       "firstSeen": "2026-11-05"
     },
     {
+      "id": "greenhouse-affirm-8057950003",
+      "company": "Affirm",
+      "title": "Senior Staff Software Engineer, Backend (Compute Platform)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-10-30",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8057950003",
+      "firstSeen": "2026-11-06"
+    },
+    {
       "id": "greenhouse-affirm-8016932003",
       "company": "Affirm",
       "title": "Product Security Engineer II - IAM",
@@ -224,17 +235,6 @@
       "canadaLmia": 5,
       "publishedAt": "2026-10-20",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8017505003",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-affirm-8017509003",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Purchasing Power - Core)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-10-20",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017509003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -372,17 +372,6 @@
       "route": "remoto",
       "publishedAt": "2026-10-09",
       "url": "https://jobs.ashbyhq.com/supabase/5d09daeb-2d7e-42de-9151-81a1341195c4",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-affirm-8010615003",
-      "company": "Affirm",
-      "title": "Senior Software Engineer, Backend (Marketing & Privacy)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-10-09",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8010615003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2116,6 +2105,30 @@
       "publishedAt": "2019-06-27",
       "url": "https://job-boards.greenhouse.io/canonical/jobs/1747487",
       "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-affirm-8017509003",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Purchasing Power - Core)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-10-20",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017509003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-06"
+    },
+    {
+      "id": "greenhouse-affirm-8010615003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (Marketing & Privacy)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-10-09",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8010615003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-06"
     }
   ]
 }

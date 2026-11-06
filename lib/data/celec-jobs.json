@@ -1,6 +1,6 @@
 {
   "source": "https://www.celec.gob.ec",
-  "exportedAt": "2026-11-05",
+  "exportedAt": "2026-11-06",
   "jobs": [
     {
       "id": "celec-48e5318a17",
@@ -320,7 +320,7 @@
       "openings": "1",
       "publishedAt": "2026-11-04",
       "closesAt": "2026-11-05",
-      "statusAtScrape": "Abierta",
+      "statusAtScrape": "Cerrada",
       "code": "CSR-SAD-035",
       "url": "https://www.celec.gob.ec/celecsur/wp-content/uploads/2026/11/8-CONVOCATORIA-ASISTENTE-DE-BODEGA-E-INVENTARIOS.pdf",
       "firstSeen": "2026-11-05"

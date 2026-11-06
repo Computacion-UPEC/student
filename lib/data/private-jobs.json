@@ -2,6 +2,72 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "tigo-R135875",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Gestión Operativa",
+      "city": "Quito",
+      "publishedAt": "2026-11-06",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135875",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "nestle-1435079033",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Distribution Center Supervisor",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-06",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-Distribution-Center-Supervisor-17-03-4574/1435079033/",
+      "isIT": false,
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "holcim-1376855057",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Gestor/a de Expansión - Santo Domingo",
+      "city": "Santo Domingo, Santo Domingo, EC, 230202",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Santo-Domingo-Gestora-de-Expansi%C3%B3n-Santo-Domingo-Sant-230202/1376855057/",
+      "isIT": false,
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "difare-tecnico-para-seguridad-electronica-2",
+      "source": "difare",
+      "company": "Difare",
+      "title": "TECNICO PARA SEGURIDAD ELECTRONICA",
+      "city": "QUITO",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/tecnico-para-seguridad-electronica-2/",
+      "isIT": false,
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "difare-analista-planificador",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ANALISTA PLANIFICADOR",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/analista-planificador/",
+      "isIT": false,
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "pronaca-26617",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "PASANTE TALENTO Y CULTURA",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26617",
+      "isIT": false,
+      "firstSeen": "2026-11-06"
+    },
+    {
       "id": "pronaca-26919",
       "source": "pronaca",
       "company": "Pronaca",
@@ -75,17 +141,6 @@
       "city": "Quito",
       "publishedAt": "2026-11-05",
       "url": "https://puntonet.teamtailor.com/jobs/8672938-pasante-de-operaciones-de-red-quito",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "tigo-R135875",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "(EVENTUAL) Pasante",
-      "city": "Quito",
-      "publishedAt": "2026-11-05",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135875",
       "isIT": false,
       "firstSeen": "2026-11-05"
     },
@@ -211,6 +266,28 @@
       "firstSeen": "2026-11-05"
     },
     {
+      "id": "claro-1766",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ASESOR CENTRO DE ATENCIÓN AL CLIENTE",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1766",
+      "isIT": false,
+      "firstSeen": "2026-10-29"
+    },
+    {
+      "id": "arca-1448382000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "Coordinador de Modelo de Servicios (JC012054)",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://careers.arcacontal.com/job/AZU-Cuenca-Coordinador-de-Modelo-de-Servicios-%28JC012054%29-Dip-Cuen/1448382000/",
+      "isIT": false,
+      "firstSeen": "2026-11-06"
+    },
+    {
       "id": "arca-1427282000",
       "source": "arca",
       "company": "Arca Continental",
@@ -253,17 +330,6 @@
       "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1813",
       "isIT": true,
       "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "arca-1447951000",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI LA TRONCAL",
-      "city": null,
-      "publishedAt": "2026-11-04",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-LA-TRONCAL/1447951000/",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
     },
     {
       "id": "arca-1447953200",
@@ -964,7 +1030,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Ejecutivo de Tiendas-1",
       "city": "Ambato",
-      "publishedAt": "2026-10-30",
+      "publishedAt": "2026-10-31",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Ambato/Ejecutivo-de-Tiendas-1_R135682",
       "isIT": false,
       "firstSeen": "2026-11-03"
@@ -1530,17 +1596,6 @@
       "city": "Guayaquil",
       "publishedAt": null,
       "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Guayaquil-Pasante-de-Control-de-Calidad-Guayaquil-G-90902/1375133857/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "holcim-1375146757",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Gestor/a de Expansión - Cuenca",
-      "city": "Cuenca",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Cuenca-Gestora-de-Expansi%C3%B3n-Cuenca-A-10107/1375146757/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -3418,17 +3473,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1420559000",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "ADMINISTRADOR DE CENTRO DE ACOPIO | SANTO DOMINGO",
-      "city": null,
-      "publishedAt": "2026-10-15",
-      "url": "https://careers.arcacontal.com/job/SDO-Santo-Domingo-ADMINISTRADOR-DE-CENTRO-DE-ACOPIO-SANTO-DOMINGO-Ton-Sant/1420559000/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "arca-1440655500",
       "source": "arca",
       "company": "Arca Continental",
@@ -3608,17 +3652,6 @@
       "url": "https://puntonet.teamtailor.com/jobs/8520191-pasante-de-instalacion-masiva-quito",
       "isIT": false,
       "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "nestle-1435079033",
-      "source": "nestle",
-      "company": "Nestlé Ecuador",
-      "title": "Distribution Center Supervisor",
-      "city": "Guayaquil",
-      "publishedAt": "2026-10-08",
-      "url": "https://jobdetails.nestle.com/job/Guayaquil-Distribution-Center-Supervisor-17-03-4574/1435079033/",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
     },
     {
       "id": "puntonet-8500528",
@@ -5695,6 +5728,18 @@
       "closedOn": "2026-11-05"
     },
     {
+      "id": "arca-1447951000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI LA TRONCAL",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-LA-TRONCAL/1447951000/",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-06"
+    },
+    {
       "id": "arca-1447953300",
       "source": "arca",
       "company": "Arca Continental",
@@ -5921,18 +5966,6 @@
       "isIT": false,
       "firstSeen": "2026-11-03",
       "closedOn": "2026-11-04"
-    },
-    {
-      "id": "claro-1766",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "ASESOR CENTRO DE ATENCIÓN AL CLIENTE",
-      "city": null,
-      "publishedAt": "2026-10-28",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1766",
-      "isIT": false,
-      "firstSeen": "2026-10-29",
-      "closedOn": "2026-10-31"
     },
     {
       "id": "holcim-1376086457",
@@ -6173,6 +6206,18 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "holcim-1375146757",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Gestor/a de Expansión - Cuenca",
+      "city": "Cuenca",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Cuenca-Gestora-de-Expansi%C3%B3n-Cuenca-A-10107/1375146757/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-06"
     },
     {
       "id": "gpf-6a84bf1f15b8cf3be164cd3f",
@@ -6677,6 +6722,18 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-27"
+    },
+    {
+      "id": "arca-1420559000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ADMINISTRADOR DE CENTRO DE ACOPIO | SANTO DOMINGO",
+      "city": null,
+      "publishedAt": "2026-10-15",
+      "url": "https://careers.arcacontal.com/job/SDO-Santo-Domingo-ADMINISTRADOR-DE-CENTRO-DE-ACOPIO-SANTO-DOMINGO-Ton-Sant/1420559000/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-06"
     },
     {
       "id": "arca-1440630100",
