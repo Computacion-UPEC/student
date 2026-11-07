@@ -14,16 +14,40 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1335641962",
+      "id": "pichincha-1338081162",
       "source": "pichincha",
       "institution": "Banco Pichincha",
-      "title": "LIDER TECNICO DE TRIBU- Administración de Crédito (Quito)",
+      "title": "EJECUTIVO DE CREDITO C - AMBATO",
+      "province": "TUNGURAHUA",
+      "city": "AMBATO",
+      "publishedAt": "2026-11-07",
+      "url": "https://vacantes.pichincha.com/job/AMBATO-EJECUTIVO-DE-CREDITO-C-AMBATO-AMBA-ZONA-SIERR/1338081162/",
+      "isIT": false,
+      "firstSeen": "2026-11-07"
+    },
+    {
+      "id": "pichincha-1338081262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - AG. TUMBACO",
       "province": "PICHINCHA",
       "city": "QUITO",
       "publishedAt": "2026-11-07",
-      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-TECNICO-DE-TRIBU-Administraci%C3%B3n-de-Cr%C3%A9dito-%28Quito%29-QUIT-TECNICO-TR/1335641962/",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-AG_-TUMBACO-QUIT-ZONA-QUITO/1338081262/",
       "isIT": false,
-      "firstSeen": "2026-10-26"
+      "firstSeen": "2026-11-07"
+    },
+    {
+      "id": "pichincha-1338081362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO C - AG. CALDERON",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-07",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-DE-CREDITO-C-AG_-CALDERON-QUIT-ZONA-QUITO/1338081362/",
+      "isIT": false,
+      "firstSeen": "2026-11-07"
     },
     {
       "id": "bce-6aed597a5782670c140896b7",
@@ -176,18 +200,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "pichincha-1338022362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-05",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-CELULA-CAN/1338022362/",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "pichincha-1338022662",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -246,18 +258,6 @@
       "url": "https://vacantes.pichincha.com/job/LA-TRONCAL-EJECUTIVO-DE-CREDITO-B-LA-TRONCAL-AZOG-ZONA-COSTA/1338032462/",
       "isIT": false,
       "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "pichincha-1337975562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-04",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-COMERCIAL/1337975562/",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
     },
     {
       "id": "pichincha-1337974862",
@@ -509,30 +509,6 @@
       "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-ASISTENTE-CREDITO-EMPRESAS-GUAYAQUIL-GUAY-CREDITO-EM/1337799362/",
       "isIT": false,
       "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "pichincha-1335668362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "LIDER TECNICO DE TRIBU / FINANZAS (QUITO)",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-27",
-      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-TECNICO-DE-TRIBU-FINANZAS-%28QUITO%29-QUIT-TRIBU-AREA/1335668362/",
-      "isIT": false,
-      "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "pichincha-1335195462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO INGENIERIA SEGURIDAD TECNOLOGICA - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-27",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-INGENIERIA-SEGURIDAD-TECNOLOGICA-QUITO-QUIT-INGENIERIA/1335195462/",
-      "isIT": false,
-      "firstSeen": "2026-10-27"
     },
     {
       "id": "pagueya-6ae0c9e4a2045997eaee439c",
@@ -1184,6 +1160,18 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1337267262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO C - AG. PEDRO VICENTE MALDONADO",
+      "province": "PICHINCHA",
+      "city": "PEDRO VICENTE MALDONADO",
+      "publishedAt": "2026-10-07",
+      "url": "https://vacantes.pichincha.com/job/PEDRO-VICENTE-MALDONADO-EJECUTIVO-DE-CREDITO-C-AG_-PEDRO-VICENTE-MALDONADO-QUIT-ZONA-QUITO/1337267262/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
       "source": "cacpeco",
       "institution": "CACPECO",
@@ -1204,6 +1192,45 @@
       "url": "https://quierolaburo.com/empresas/cacpeco",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "pichincha-1335641962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "LIDER TECNICO DE TRIBU- Administración de Crédito (Quito)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-07",
+      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-TECNICO-DE-TRIBU-Administraci%C3%B3n-de-Cr%C3%A9dito-%28Quito%29-QUIT-TECNICO-TR/1335641962/",
+      "isIT": false,
+      "firstSeen": "2026-10-26",
+      "closedOn": "2026-11-07"
+    },
+    {
+      "id": "pichincha-1338022362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-05",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-CELULA-CAN/1338022362/",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-07"
+    },
+    {
+      "id": "pichincha-1337975562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-04",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-COMERCIAL/1337975562/",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-07"
     },
     {
       "id": "bce-6ae51231a2e187baf106e30e",
@@ -1354,6 +1381,32 @@
       "isIT": false,
       "firstSeen": "2026-10-28",
       "closedOn": "2026-10-31"
+    },
+    {
+      "id": "pichincha-1335668362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "LIDER TECNICO DE TRIBU / FINANZAS (QUITO)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-27",
+      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-TECNICO-DE-TRIBU-FINANZAS-%28QUITO%29-QUIT-TRIBU-AREA/1335668362/",
+      "isIT": false,
+      "firstSeen": "2026-10-26",
+      "closedOn": "2026-11-07"
+    },
+    {
+      "id": "pichincha-1335195462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO INGENIERIA SEGURIDAD TECNOLOGICA - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-27",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-INGENIERIA-SEGURIDAD-TECNOLOGICA-QUITO-QUIT-INGENIERIA/1335195462/",
+      "isIT": false,
+      "firstSeen": "2026-10-27",
+      "closedOn": "2026-11-07"
     },
     {
       "id": "pichincha-1337753562",
@@ -2229,19 +2282,6 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-31"
-    },
-    {
-      "id": "pichincha-1337267262",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO DE CREDITO C - AG. PEDRO VICENTE MALDONADO",
-      "province": "PICHINCHA",
-      "city": "PEDRO VICENTE MALDONADO",
-      "publishedAt": "2026-10-07",
-      "url": "https://vacantes.pichincha.com/job/PEDRO-VICENTE-MALDONADO-EJECUTIVO-DE-CREDITO-C-AG_-PEDRO-VICENTE-MALDONADO-QUIT-ZONA-QUITO/1337267262/",
-      "isIT": false,
-      "firstSeen": "2026-10-16",
-      "closedOn": "2026-10-23"
     },
     {
       "id": "pichincha-1336381162",

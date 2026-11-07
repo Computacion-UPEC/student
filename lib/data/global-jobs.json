@@ -15,7 +15,7 @@
     {
       "id": "greenhouse-affirm-8035736003",
       "company": "Affirm",
-      "title": "Senior Product Security Engineer",
+      "title": "Senior Security Engineer - Insider Threat",
       "location": "Remote Canada",
       "route": "patrocinio",
       "canadaLmia": 5,
@@ -687,17 +687,6 @@
       "route": "remoto",
       "publishedAt": "2026-09-14",
       "url": "https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-affirm-7985907003",
-      "company": "Affirm",
-      "title": "Software Engineer I, Frontend (Upfunnel)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-09-11",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2143,6 +2132,18 @@
       "canadaLmia": 5,
       "publishedAt": "2026-09-14",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7989061003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-07"
+    },
+    {
+      "id": "greenhouse-affirm-7985907003",
+      "company": "Affirm",
+      "title": "Software Engineer I, Frontend (Upfunnel)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-09-11",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-07"
     },

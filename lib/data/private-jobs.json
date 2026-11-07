@@ -2,12 +2,23 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "pronaca-26951",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "JEFE MARCA (20009293)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26951",
+      "isIT": false,
+      "firstSeen": "2026-11-07"
+    },
+    {
       "id": "tigo-R135783",
       "source": "tigo",
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Data Customer Experience",
       "city": "Quito",
-      "publishedAt": "2026-11-07",
+      "publishedAt": "2026-11-06",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Data-Customer-Experience_R135783",
       "isIT": true,
       "firstSeen": "2026-11-06"
@@ -18,7 +29,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Back Office",
       "city": "Quito",
-      "publishedAt": "2026-11-07",
+      "publishedAt": "2026-11-06",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Back-Office_R135886",
       "isIT": false,
       "firstSeen": "2026-11-06"
@@ -29,21 +40,10 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Desarrollo de Producto Digital B2B",
       "city": "Quito",
-      "publishedAt": "2026-11-07",
+      "publishedAt": "2026-11-06",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Desarrollo-de-Producto-Digital-B2B_R135867",
       "isIT": false,
       "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "pronaca-26951",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "JEFE MARCA (20009293)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26951",
-      "isIT": false,
-      "firstSeen": "2026-11-07"
     },
     {
       "id": "nestle-1435079033",
@@ -233,17 +233,6 @@
       "firstSeen": "2026-11-06"
     },
     {
-      "id": "tigo-R135875",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Gestión Operativa",
-      "city": "Quito",
-      "publishedAt": "2026-11-06",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135875",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "claro-1832",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -264,6 +253,17 @@
       "url": "https://puntonet.teamtailor.com/jobs/8684685-tecnico-de-instalacion-masiva-ambato",
       "isIT": false,
       "firstSeen": "2026-11-07"
+    },
+    {
+      "id": "tigo-R135875",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Gestión Operativa",
+      "city": "Quito",
+      "publishedAt": "2026-11-05",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135875",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
     },
     {
       "id": "pronaca-26919",
@@ -508,17 +508,6 @@
       "firstSeen": "2026-11-04"
     },
     {
-      "id": "claro-1813",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "ANALISTA DATA MINING",
-      "city": null,
-      "publishedAt": "2026-11-04",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1813",
-      "isIT": true,
-      "firstSeen": "2026-10-28"
-    },
-    {
       "id": "arca-1447953200",
       "source": "arca",
       "company": "Arca Continental",
@@ -649,39 +638,6 @@
       "url": "https://www.linkedin.com/jobs/view/4447851152/",
       "isIT": false,
       "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "arca-1447429200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "SUPERVISOR DE VENTAS | CEDI GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-11-03",
-      "url": "https://careers.arcacontal.com/job/SUPERVISOR-DE-VENTAS-CEDI-GUAYAQUIL-SUR/1447429200/",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "arca-1447440600",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-11-03",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-GUAYAQUIL-SUR/1447440600/",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "arca-1447443400",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-11-03",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-GUAYAQUIL-SUR/1447443400/",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
     },
     {
       "id": "netlife-ejecutivo-de-venta-cuenca-cuenca",
@@ -970,17 +926,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "pronaca-26916",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "ASIST. TALENTO Y CULTURA (20011524)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26916",
-      "isIT": false,
-      "firstSeen": "2026-11-02"
-    },
-    {
       "id": "pronaca-26770",
       "source": "pronaca",
       "company": "Pronaca",
@@ -1047,28 +992,6 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "pronaca-26803",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "LIDER ABAST. COLABORATIVO (20012298)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26803",
-      "isIT": false,
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "pronaca-26777",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "MECANICO PLANTA (AVE) (20001917)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26777",
-      "isIT": false,
-      "firstSeen": "2026-11-02"
-    },
-    {
       "id": "pronaca-26876",
       "source": "pronaca",
       "company": "Pronaca",
@@ -1087,17 +1010,6 @@
       "city": null,
       "publishedAt": null,
       "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26875",
-      "isIT": false,
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "pronaca-26726",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "PASANTE (20008445)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26726",
       "isIT": false,
       "firstSeen": "2026-11-02"
     },
@@ -1140,7 +1052,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Ejecutivo de Tiendas-1",
       "city": "Ambato",
-      "publishedAt": "2026-10-31",
+      "publishedAt": "2026-10-30",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Ambato/Ejecutivo-de-Tiendas-1_R135682",
       "isIT": false,
       "firstSeen": "2026-11-03"
@@ -1199,17 +1111,6 @@
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AUDITOR-DE-CALIDAD-HIGIENE-PLANTA-GUAYAQUIL-60000/1446352400/",
       "isIT": false,
       "firstSeen": "2026-10-30"
-    },
-    {
-      "id": "arca-1446578700",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-10-30",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-GUAYAQUIL-Dip-Guay/1446578700/",
-      "isIT": false,
-      "firstSeen": "2026-10-31"
     },
     {
       "id": "elrosado-12483",
@@ -3429,28 +3330,6 @@
       "firstSeen": "2026-10-24"
     },
     {
-      "id": "nestle-1450070433",
-      "source": "nestle",
-      "company": "Nestlé Ecuador",
-      "title": "Category Management Specialist",
-      "city": "Quito",
-      "publishedAt": "2026-10-21",
-      "url": "https://jobdetails.nestle.com/job/Quito-Category-Management-Specialist-17-03-4574/1450070433/",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "nestle-1450071333",
-      "source": "nestle",
-      "company": "Nestlé Ecuador",
-      "title": "Jefe/a Zonal de Ventas",
-      "city": "Quito",
-      "publishedAt": "2026-10-21",
-      "url": "https://jobdetails.nestle.com/job/Quito-Jefea-Zonal-de-Ventas-17-03-4574/1450071333/",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
-    },
-    {
       "id": "arca-1442052200",
       "source": "arca",
       "company": "Arca Continental",
@@ -3458,17 +3337,6 @@
       "city": null,
       "publishedAt": "2026-10-20",
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AUXILIAR-ADMINISTRATIVA-PLANTA-GUAYAQUIL-60000/1442052200/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1441406200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "COORDINADOR TÉCNICO REGIONAL | PLANTA QUITO",
-      "city": null,
-      "publishedAt": "2026-10-19",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-COORDINADOR-T%C3%89CNICO-REGIONAL-PLANTA-QUITO-1/1441406200/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -5795,6 +5663,18 @@
       "closedOn": "2026-11-05"
     },
     {
+      "id": "claro-1813",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ANALISTA DATA MINING",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1813",
+      "isIT": true,
+      "firstSeen": "2026-10-28",
+      "closedOn": "2026-11-07"
+    },
+    {
       "id": "arca-1447951000",
       "source": "arca",
       "company": "Arca Continental",
@@ -5841,6 +5721,42 @@
       "isIT": false,
       "firstSeen": "2026-11-04",
       "closedOn": "2026-11-05"
+    },
+    {
+      "id": "arca-1447429200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "SUPERVISOR DE VENTAS | CEDI GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-11-03",
+      "url": "https://careers.arcacontal.com/job/SUPERVISOR-DE-VENTAS-CEDI-GUAYAQUIL-SUR/1447429200/",
+      "isIT": false,
+      "firstSeen": "2026-11-03",
+      "closedOn": "2026-11-07"
+    },
+    {
+      "id": "arca-1447440600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-11-03",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-GUAYAQUIL-SUR/1447440600/",
+      "isIT": false,
+      "firstSeen": "2026-11-03",
+      "closedOn": "2026-11-07"
+    },
+    {
+      "id": "arca-1447443400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-11-03",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-GUAYAQUIL-SUR/1447443400/",
+      "isIT": false,
+      "firstSeen": "2026-11-03",
+      "closedOn": "2026-11-07"
     },
     {
       "id": "netlife-pasante-de-operación-y-experiencia-digital-riobamba-riobamba",
@@ -5939,6 +5855,54 @@
       "closedOn": "2026-11-04"
     },
     {
+      "id": "pronaca-26916",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "ASIST. TALENTO Y CULTURA (20011524)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26916",
+      "isIT": false,
+      "firstSeen": "2026-11-02",
+      "closedOn": "2026-11-07"
+    },
+    {
+      "id": "pronaca-26803",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "LIDER ABAST. COLABORATIVO (20012298)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26803",
+      "isIT": false,
+      "firstSeen": "2026-11-02",
+      "closedOn": "2026-11-07"
+    },
+    {
+      "id": "pronaca-26777",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "MECANICO PLANTA (AVE) (20001917)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26777",
+      "isIT": false,
+      "firstSeen": "2026-11-02",
+      "closedOn": "2026-11-07"
+    },
+    {
+      "id": "pronaca-26726",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "PASANTE (20008445)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26726",
+      "isIT": false,
+      "firstSeen": "2026-11-02",
+      "closedOn": "2026-11-07"
+    },
+    {
       "id": "pronaca-26605",
       "source": "pronaca",
       "company": "Pronaca",
@@ -5961,6 +5925,18 @@
       "isIT": false,
       "firstSeen": "2026-11-02",
       "closedOn": "2026-11-05"
+    },
+    {
+      "id": "arca-1446578700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-30",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-GUAYAQUIL-Dip-Guay/1446578700/",
+      "isIT": false,
+      "firstSeen": "2026-10-31",
+      "closedOn": "2026-11-07"
     },
     {
       "id": "arca-1446293000",
@@ -6755,6 +6731,30 @@
       "closedOn": "2026-10-22"
     },
     {
+      "id": "nestle-1450070433",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Category Management Specialist",
+      "city": "Quito",
+      "publishedAt": "2026-10-21",
+      "url": "https://jobdetails.nestle.com/job/Quito-Category-Management-Specialist-17-03-4574/1450070433/",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-07"
+    },
+    {
+      "id": "nestle-1450071333",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Jefe/a Zonal de Ventas",
+      "city": "Quito",
+      "publishedAt": "2026-10-21",
+      "url": "https://jobdetails.nestle.com/job/Quito-Jefea-Zonal-de-Ventas-17-03-4574/1450071333/",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-07"
+    },
+    {
       "id": "arca-1442520200",
       "source": "arca",
       "company": "Arca Continental",
@@ -6813,6 +6813,18 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-23"
+    },
+    {
+      "id": "arca-1441406200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "COORDINADOR TÉCNICO REGIONAL | PLANTA QUITO",
+      "city": null,
+      "publishedAt": "2026-10-19",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-COORDINADOR-T%C3%89CNICO-REGIONAL-PLANTA-QUITO-1/1441406200/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-07"
     },
     {
       "id": "claro-1574",
