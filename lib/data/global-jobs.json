@@ -24,6 +24,17 @@
       "firstSeen": "2026-11-06"
     },
     {
+      "id": "greenhouse-affirm-8196114003",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-06",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196114003",
+      "firstSeen": "2026-11-07"
+    },
+    {
       "id": "greenhouse-affirm-8162558003",
       "company": "Affirm",
       "title": "Staff Software Engineer, Fullstack (Account Management)",
@@ -527,17 +538,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "greenhouse-affirm-8005077003",
-      "company": "Affirm",
-      "title": "Senior Software Engineer",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-10-02",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8005077003",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "greenhouse-stripe-8194287",
       "company": "Stripe",
       "title": "Data Analyst, Intern",
@@ -626,17 +626,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "greenhouse-affirm-7994795003",
-      "company": "Affirm",
-      "title": "Senior Software Engineer, Backend (Consumer Authentication Platform)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-09-23",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7994795003",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "greenhouse-stripe-8212314",
       "company": "Stripe",
       "title": "Design Engineer, Expansion",
@@ -698,17 +687,6 @@
       "route": "remoto",
       "publishedAt": "2026-09-14",
       "url": "https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-affirm-7989061003",
-      "company": "Affirm",
-      "title": "Senior Software Engineer, Backend (Consumer Data Platform)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-09-14",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7989061003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -1138,16 +1116,6 @@
       "canadaLmia": 5,
       "publishedAt": "2026-04-30",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7701911003",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "ashby-supabase-f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
-      "company": "Supabase",
-      "title": "Multigres Deployment Engineer",
-      "location": "Remote, Global",
-      "route": "remoto",
-      "publishedAt": "2026-04-15",
-      "url": "https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2141,6 +2109,53 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8012043003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-06"
+    },
+    {
+      "id": "greenhouse-affirm-8005077003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-10-02",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8005077003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-07"
+    },
+    {
+      "id": "greenhouse-affirm-7994795003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (Consumer Authentication Platform)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-09-23",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7994795003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-07"
+    },
+    {
+      "id": "greenhouse-affirm-7989061003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (Consumer Data Platform)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-09-14",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7989061003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-07"
+    },
+    {
+      "id": "ashby-supabase-f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
+      "company": "Supabase",
+      "title": "Multigres Deployment Engineer",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-04-15",
+      "url": "https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-07"
     },
     {
       "id": "greenhouse-affirm-7590373003",

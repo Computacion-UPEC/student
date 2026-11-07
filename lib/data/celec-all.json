@@ -2,6 +2,14 @@
   "source": "https://www.celec.gob.ec",
   "calls": [
     {
+      "unit": "Electroguayas",
+      "role": "CONVOCATORIA PROCESO DE SELECCIÓN SIMPLE ELECTROGUAYAS",
+      "eligibility": "Sin requisitos legibles - revisar",
+      "publishedAt": "2026-11-06",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/electroguayas/noticias/convocatoria-proceso-de-seleccion-simple-electroguayas/"
+    },
+    {
       "unit": "Hidrotoapi",
       "role": "Especialista de Jurídico",
       "eligibility": "No aplica",

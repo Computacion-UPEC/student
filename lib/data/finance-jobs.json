@@ -2,6 +2,30 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1335624762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA INTELIGENCIA DE NEGOCIOS - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-07",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-INTELIGENCIA-DE-NEGOCIOS-QUITO-QUIT-INTELIGENC/1335624762/",
+      "isIT": true,
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1335641962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "LIDER TECNICO DE TRIBU- Administración de Crédito (Quito)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-07",
+      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-TECNICO-DE-TRIBU-Administraci%C3%B3n-de-Cr%C3%A9dito-%28Quito%29-QUIT-TECNICO-TR/1335641962/",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
+    },
+    {
       "id": "bce-6aed597a5782670c140896b7",
       "source": "bce",
       "institution": "Banco Central del Ecuador",
@@ -66,6 +90,42 @@
       "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed64360a3597d4c60182a1",
       "isIT": false,
       "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "pichincha-1338071762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - EL EMPALME",
+      "province": "GUAYAS",
+      "city": "EL EMPALME",
+      "publishedAt": "2026-11-06",
+      "url": "https://vacantes.pichincha.com/job/EL-EMPALME-OFICIAL-COMERCIAL-Y-SERVICIOS-EL-EMPALME-GUAY-ZONA-COSTA/1338071762/",
+      "isIT": false,
+      "firstSeen": "2026-11-07"
+    },
+    {
+      "id": "pichincha-1338079762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ANALISTA ATRACCION TALENTO HUMANO - GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-11-06",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-ANALISTA-ATRACCION-TALENTO-HUMANO-GUAYAQUIL-GUAY-ATRACCION/1338079762/",
+      "isIT": false,
+      "firstSeen": "2026-11-07"
+    },
+    {
+      "id": "pichincha-1338075862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL EMPRESARIAL B",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-11-06",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-EMPRESARIAL-B-CUEN-BANCA-CORP/1338075862/",
+      "isIT": false,
+      "firstSeen": "2026-11-07"
     },
     {
       "id": "pichincha-1336376562",
@@ -498,18 +558,6 @@
       "firstSeen": "2026-10-28"
     },
     {
-      "id": "pichincha-1337737862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE (CREDITO PERSONAS) - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-26",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28CREDITO-PERSONAS%29-QUITO-QUIT-GESTION-Y/1337737862/",
-      "isIT": false,
-      "firstSeen": "2026-10-26"
-    },
-    {
       "id": "pagueya-6adf733ff42c7d19476c1683",
       "source": "pagueya",
       "institution": "Pague Ya (Grupo Pichincha)",
@@ -610,18 +658,6 @@
       "publishedAt": "2026-10-22",
       "url": "https://vacantes.pichincha.com/job/QUITO-INGENIERO-INTELIGENCIA-ARTIFICIAL-QUITO-QUIT-DESARROLLO/1337683762/",
       "isIT": true,
-      "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "pichincha-1337683662",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE (CREDIO AUTOMOTRIZ) - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-22",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28CREDIO-AUTOMOTRIZ%29-QUITO-QUIT-CREDITO-PE/1337683662/",
-      "isIT": false,
       "firstSeen": "2026-10-23"
     },
     {
@@ -1148,30 +1184,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1335624762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ESPECIALISTA INTELIGENCIA DE NEGOCIOS - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-09",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-INTELIGENCIA-DE-NEGOCIOS-QUITO-QUIT-INTELIGENC/1335624762/",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1335641962",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "LIDER TECNICO DE TRIBU- Administración de Crédito (Quito)",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-09",
-      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-TECNICO-DE-TRIBU-Administraci%C3%B3n-de-Cr%C3%A9dito-%28Quito%29-QUIT-TECNICO-TR/1335641962/",
-      "isIT": false,
-      "firstSeen": "2026-10-26"
-    },
-    {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
       "source": "cacpeco",
       "institution": "CACPECO",
@@ -1383,6 +1395,19 @@
       "closedOn": "2026-10-30"
     },
     {
+      "id": "pichincha-1337737862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE (CREDITO PERSONAS) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-26",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28CREDITO-PERSONAS%29-QUITO-QUIT-GESTION-Y/1337737862/",
+      "isIT": false,
+      "firstSeen": "2026-10-26",
+      "closedOn": "2026-11-07"
+    },
+    {
       "id": "pichincha-1337744262",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1510,6 +1535,19 @@
       "isIT": false,
       "firstSeen": "2026-10-24",
       "closedOn": "2026-10-28"
+    },
+    {
+      "id": "pichincha-1337683662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE (CREDIO AUTOMOTRIZ) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28CREDIO-AUTOMOTRIZ%29-QUITO-QUIT-CREDITO-PE/1337683662/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-11-07"
     },
     {
       "id": "pichincha-1337683862",

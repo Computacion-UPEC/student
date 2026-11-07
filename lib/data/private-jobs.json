@@ -2,6 +2,50 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "tigo-R135783",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Data Customer Experience",
+      "city": "Quito",
+      "publishedAt": "2026-11-07",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Data-Customer-Experience_R135783",
+      "isIT": true,
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "tigo-R135886",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Back Office",
+      "city": "Quito",
+      "publishedAt": "2026-11-07",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Back-Office_R135886",
+      "isIT": false,
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "tigo-R135867",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Desarrollo de Producto Digital B2B",
+      "city": "Quito",
+      "publishedAt": "2026-11-07",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Desarrollo-de-Producto-Digital-B2B_R135867",
+      "isIT": false,
+      "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "pronaca-26951",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "JEFE MARCA (20009293)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26951",
+      "isIT": false,
+      "firstSeen": "2026-11-07"
+    },
+    {
       "id": "nestle-1435079033",
       "source": "nestle",
       "company": "Nestlé Ecuador",
@@ -145,39 +189,6 @@
       "firstSeen": "2026-11-06"
     },
     {
-      "id": "tigo-R135783",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Data Customer Experience",
-      "city": "Quito",
-      "publishedAt": "2026-11-06",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Data-Customer-Experience_R135783",
-      "isIT": true,
-      "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "tigo-R135886",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Back Office",
-      "city": "Quito",
-      "publishedAt": "2026-11-06",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Back-Office_R135886",
-      "isIT": false,
-      "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "tigo-R135867",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Desarrollo de Producto Digital B2B",
-      "city": "Quito",
-      "publishedAt": "2026-11-06",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Desarrollo-de-Producto-Digital-B2B_R135867",
-      "isIT": false,
-      "firstSeen": "2026-11-06"
-    },
-    {
       "id": "netlife-coordinador-regional-de-ventas-cuenca",
       "source": "netlife",
       "company": "Netlife",
@@ -227,10 +238,32 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Gestión Operativa",
       "city": "Quito",
-      "publishedAt": "2026-11-05",
+      "publishedAt": "2026-11-06",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135875",
       "isIT": false,
       "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "claro-1832",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "INGENIERO DE CONTROL DE FRAUDE TECNOLÓGICO",
+      "city": null,
+      "publishedAt": "2026-11-06",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1832",
+      "isIT": false,
+      "firstSeen": "2026-11-07"
+    },
+    {
+      "id": "puntonet-8684685",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "Técnico de Instalación Masiva - Ambato",
+      "city": "Ambato",
+      "publishedAt": "2026-11-06",
+      "url": "https://puntonet.teamtailor.com/jobs/8684685-tecnico-de-instalacion-masiva-ambato",
+      "isIT": false,
+      "firstSeen": "2026-11-07"
     },
     {
       "id": "pronaca-26919",
@@ -1107,7 +1140,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Ejecutivo de Tiendas-1",
       "city": "Ambato",
-      "publishedAt": "2026-10-30",
+      "publishedAt": "2026-10-31",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Ambato/Ejecutivo-de-Tiendas-1_R135682",
       "isIT": false,
       "firstSeen": "2026-11-03"
@@ -1153,17 +1186,6 @@
       "city": null,
       "publishedAt": "2026-10-30",
       "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LATACUNGA/1446305700/",
-      "isIT": false,
-      "firstSeen": "2026-10-30"
-    },
-    {
-      "id": "arca-1446293000",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR | CEDI RIOBAMBA",
-      "city": null,
-      "publishedAt": "2026-10-30",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-CEDI-RIOBAMBA/1446293000/",
       "isIT": false,
       "firstSeen": "2026-10-30"
     },
@@ -1321,6 +1343,17 @@
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-COORDINADOR-DE-PLANEACI%C3%93N-ESTRATEGICA-STAFF-QUITO-CALDER%C3%93N-00000/1444971200/",
       "isIT": false,
       "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "arca-1435540300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI TENA",
+      "city": null,
+      "publishedAt": "2026-10-29",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-TENA/1435540300/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
     },
     {
       "id": "difare-sub-gerente-de-producto-dyvenpro",
@@ -3374,13 +3407,13 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "holcim-1363959657",
+      "id": "holcim-1374480957",
       "source": "holcim",
       "company": "Holcim Ecuador",
-      "title": "Base de talento - Operador/a de Mixer",
+      "title": "Analista De Categorías - Guayaquil",
       "city": "EC",
       "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Base-de-talento-Operadora-de-Mixer/1363959657/",
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Analista-De-Categor%C3%ADas-Guayaquil/1374480957/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -5930,6 +5963,18 @@
       "closedOn": "2026-11-05"
     },
     {
+      "id": "arca-1446293000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR | CEDI RIOBAMBA",
+      "city": null,
+      "publishedAt": "2026-10-30",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-CEDI-RIOBAMBA/1446293000/",
+      "isIT": false,
+      "firstSeen": "2026-10-30",
+      "closedOn": "2026-11-07"
+    },
+    {
       "id": "arca-1435621600",
       "source": "arca",
       "company": "Arca Continental",
@@ -6048,18 +6093,6 @@
       "isIT": false,
       "firstSeen": "2026-10-30",
       "closedOn": "2026-11-02"
-    },
-    {
-      "id": "arca-1435540300",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI TENA",
-      "city": null,
-      "publishedAt": "2026-10-29",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-TENA/1435540300/",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-11-01"
     },
     {
       "id": "holcim-1358229557",
@@ -6374,16 +6407,16 @@
       "closedOn": "2026-10-24"
     },
     {
-      "id": "holcim-1374480957",
+      "id": "holcim-1363959657",
       "source": "holcim",
       "company": "Holcim Ecuador",
-      "title": "Analista De Categorías - Guayaquil",
+      "title": "Base de talento - Operador/a de Mixer",
       "city": "EC",
       "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Analista-De-Categor%C3%ADas-Guayaquil/1374480957/",
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Base-de-talento-Operadora-de-Mixer/1363959657/",
       "isIT": false,
       "firstSeen": "2026-10-22",
-      "closedOn": "2026-11-06"
+      "closedOn": "2026-11-07"
     },
     {
       "id": "holcim-1375146757",
