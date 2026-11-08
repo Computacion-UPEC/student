@@ -1,11 +1,12 @@
 // Becas: seleccionadas de la base de MultiAgentic-becas (github.com/Computacion-UPEC/MultiAgentic-becas),
 // solo las que aceptan postulantes de Ecuador o internacionales y con fuente oficial verificada (oct 2026).
 // Internships: programas recurrentes de open source y empresas, abiertos a estudiantes de cualquier país salvo que se indique.
+// Vacaciones y trabajo: visas de hasta un año para trabajar y viajar, por convenios de Ecuador con otros países.
 // Las fechas cambian cada año: el campo `timing` describe el ciclo habitual, no una fecha garantizada.
 
 import type { Stage } from "@/lib/student-stages"
 
-export type ProgramKind = "Beca" | "Internship"
+export type ProgramKind = "Beca" | "Internship" | "Vacaciones y trabajo"
 
 /**
  * Ciclo de convocatoria: en qué meses se suele poder postular (1 = enero).
@@ -514,6 +515,51 @@ export const programs: Program[] = [
   },
 
   // --- Internships recurrentes
+  {
+    id: "vvt-francia",
+    kind: "Vacaciones y trabajo",
+    name: "Programa Vacaciones-Trabajo en Francia",
+    provider: "Convenio Ecuador–Francia (Cancillería y Embajada de Francia en Quito)",
+    place: "Francia (y viajes por el espacio Schengen)",
+    level: "Jóvenes de 18 a 30 años; no exige título",
+    funding: "No es beca: la visa es gratuita y permite trabajar en empleos temporales para costear el viaje. Hay que llegar con unos €2.500 de solvencia, pasaje de ida y vuelta (o fondos para comprarlo) y seguro médico.",
+    eligibility: "Ecuatorianos de 18 a 30 años, con pasaporte vigente por más de 15 meses, que no hayan usado antes el programa. Unos 300 cupos al año. La visa dura un año y no se renueva; se tramita solo en la Embajada de Francia en Quito, con cita.",
+    timing: "Convocatoria anual anunciada por la Cancillería (la de 2025 abrió en julio). Confirma la fecha en la Embajada de Francia.",
+    url: "https://ec.ambafrance.org/",
+    cycle: { frequency: "anual", months: [7], approx: true },
+    stages: ["mitad", "final", "graduado"],
+    tags: ["Francia", "Europa", "Visa de trabajo", "Francés"],
+  },
+  {
+    id: "work-holiday-australia",
+    kind: "Vacaciones y trabajo",
+    name: "Work and Holiday visa (subclass 462) en Australia",
+    provider: "Department of Home Affairs, Gobierno de Australia",
+    place: "Australia",
+    level: "Jóvenes de 18 a 30 años con estudios superiores",
+    funding: "No es beca: permite trabajar en cualquier empleo durante el año para costear el viaje. Hay que demostrar fondos para mantenerse al llegar y pagar la tasa de la visa.",
+    eligibility: "Ecuador es país socio del subclass 462. Se pide inglés funcional (por ejemplo, un IELTS), estudios superiores (título o al menos 2 años de universidad), salud y antecedentes, no viajar con hijos dependientes y postular desde fuera de Australia. Cupos limitados por año. Trabajar 3 meses en zonas regionales permite pedir una segunda visa.",
+    timing: "Los cupos de cada país se abren por año del programa (desde julio) y se llenan rápido. Revisa el estado de los cupos en la página oficial.",
+    url: "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462",
+    cycle: { frequency: "anual", months: [7], approx: true },
+    stages: ["mitad", "final", "graduado"],
+    tags: ["Australia", "Visa de trabajo", "Inglés"],
+  },
+  {
+    id: "working-holiday-hungria",
+    kind: "Vacaciones y trabajo",
+    name: "Programa de Vacaciones y Trabajo en Hungría",
+    provider: "Convenio Ecuador–Hungría (Cancillería del Ecuador)",
+    place: "Hungría",
+    level: "Jóvenes de 18 a 30 años; no exige título",
+    funding: "No es beca: permite trabajar para costear la estadía. Hay que demostrar fondos, seguro médico y pasaje.",
+    eligibility: "Ecuatorianos residentes en Ecuador, de 18 a 30 años. Estadía de hasta 12 meses, con trabajo de hasta 6 meses en total. Unos 100 cupos al año. Confirma los requisitos con la Cancillería o la embajada de Hungría que atiende a Ecuador.",
+    timing: "Convenio vigente en 2026; se postula durante el año mientras haya cupos.",
+    url: "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-convenio-vacaciones-trabajo-ecuador-hungria",
+    warning: "El enlace es el trámite del convenio en gob.ec (para jóvenes húngaros que vienen a Ecuador); los ecuatorianos piden su visa a Hungría.",
+    stages: ["mitad", "final", "graduado"],
+    tags: ["Hungría", "Europa", "Visa de trabajo"],
+  },
   {
     id: "gsoc",
     kind: "Internship",
