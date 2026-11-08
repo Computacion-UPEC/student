@@ -2,6 +2,17 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "arca-1448804200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI CHONE",
+      "city": null,
+      "publishedAt": "2026-11-08",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-CHONE/1448804200/",
+      "isIT": false,
+      "firstSeen": "2026-11-08"
+    },
+    {
       "id": "pronaca-26951",
       "source": "pronaca",
       "company": "Pronaca",
@@ -18,7 +29,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Data Customer Experience",
       "city": "Quito",
-      "publishedAt": "2026-11-06",
+      "publishedAt": "2026-11-07",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Data-Customer-Experience_R135783",
       "isIT": true,
       "firstSeen": "2026-11-06"
@@ -29,7 +40,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Back Office",
       "city": "Quito",
-      "publishedAt": "2026-11-06",
+      "publishedAt": "2026-11-07",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Back-Office_R135886",
       "isIT": false,
       "firstSeen": "2026-11-06"
@@ -40,10 +51,43 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Desarrollo de Producto Digital B2B",
       "city": "Quito",
-      "publishedAt": "2026-11-06",
+      "publishedAt": "2026-11-07",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Desarrollo-de-Producto-Digital-B2B_R135867",
       "isIT": false,
       "firstSeen": "2026-11-06"
+    },
+    {
+      "id": "arca-1448802500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PASANTE DE CAPITAL HUMANO | CEDI PORTOVIEJO",
+      "city": null,
+      "publishedAt": "2026-11-07",
+      "url": "https://careers.arcacontal.com/job/PASANTE-DE-CAPITAL-HUMANO-CEDI-PORTOVIEJO/1448802500/",
+      "isIT": false,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "id": "arca-1448803200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI PORTOVIEJO",
+      "city": null,
+      "publishedAt": "2026-11-07",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-PORTOVIEJO/1448803200/",
+      "isIT": false,
+      "firstSeen": "2026-11-08"
+    },
+    {
+      "id": "arca-1448803700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI MANTA",
+      "city": null,
+      "publishedAt": "2026-11-07",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-MANTA/1448803700/",
+      "isIT": false,
+      "firstSeen": "2026-11-08"
     },
     {
       "id": "nestle-1435079033",
@@ -260,7 +304,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Gestión Operativa",
       "city": "Quito",
-      "publishedAt": "2026-11-05",
+      "publishedAt": "2026-11-06",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135875",
       "isIT": false,
       "firstSeen": "2026-11-05"
@@ -1052,7 +1096,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Ejecutivo de Tiendas-1",
       "city": "Ambato",
-      "publishedAt": "2026-10-30",
+      "publishedAt": "2026-10-31",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Ambato/Ejecutivo-de-Tiendas-1_R135682",
       "isIT": false,
       "firstSeen": "2026-11-03"
