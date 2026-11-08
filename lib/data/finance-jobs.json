@@ -2,6 +2,18 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1337267262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO C - AG. PEDRO VICENTE MALDONADO",
+      "province": "PICHINCHA",
+      "city": "PEDRO VICENTE MALDONADO",
+      "publishedAt": "2026-11-08",
+      "url": "https://vacantes.pichincha.com/job/PEDRO-VICENTE-MALDONADO-EJECUTIVO-DE-CREDITO-C-AG_-PEDRO-VICENTE-MALDONADO-QUIT-ZONA-QUITO/1337267262/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "pichincha-1335624762",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -377,18 +389,6 @@
       "url": "https://vacantes.pichincha.com/job/MACHALA-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-HUAQUILLAS-MACH-ZONA-COSTA/1337144262/",
       "isIT": false,
       "firstSeen": "2026-10-17"
-    },
-    {
-      "id": "pichincha-1337143562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - LOS RIOS",
-      "province": "LOS RIOS",
-      "city": "BABAHOYO",
-      "publishedAt": "2026-10-31",
-      "url": "https://vacantes.pichincha.com/job/BABAHOYO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-LOS-RIOS-BABA-ZONA-COSTA/1337143562/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
     },
     {
       "id": "pichincha-1336197062",
@@ -1160,18 +1160,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337267262",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO DE CREDITO C - AG. PEDRO VICENTE MALDONADO",
-      "province": "PICHINCHA",
-      "city": "PEDRO VICENTE MALDONADO",
-      "publishedAt": "2026-10-07",
-      "url": "https://vacantes.pichincha.com/job/PEDRO-VICENTE-MALDONADO-EJECUTIVO-DE-CREDITO-C-AG_-PEDRO-VICENTE-MALDONADO-QUIT-ZONA-QUITO/1337267262/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
       "source": "cacpeco",
       "institution": "CACPECO",
@@ -1231,6 +1219,19 @@
       "isIT": false,
       "firstSeen": "2026-11-04",
       "closedOn": "2026-11-07"
+    },
+    {
+      "id": "pichincha-1337143562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - LOS RIOS",
+      "province": "LOS RIOS",
+      "city": "BABAHOYO",
+      "publishedAt": "2026-10-31",
+      "url": "https://vacantes.pichincha.com/job/BABAHOYO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-LOS-RIOS-BABA-ZONA-COSTA/1337143562/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-11-08"
     },
     {
       "id": "bce-6ae51231a2e187baf106e30e",
