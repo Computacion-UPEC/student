@@ -2,6 +2,28 @@
   "collectedSince": "2026-11-05",
   "jobs": [
     {
+      "id": "greenhouse-affirm-8197327003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (Consumer)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-09",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8197327003",
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "greenhouse-affirm-8197336003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (Trust & Safety)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-09",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8197336003",
+      "firstSeen": "2026-11-09"
+    },
+    {
       "id": "greenhouse-affirm-8011132003",
       "company": "Affirm",
       "title": "Analytics Lead, Full Stack",
@@ -64,17 +86,6 @@
       "canadaLmia": 5,
       "publishedAt": "2026-11-02",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8040273003",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-stripe-8346778",
-      "company": "Stripe",
-      "title": "Data Scientist, FX Quantitative Research",
-      "location": "Toronto",
-      "route": "patrocinio",
-      "canadaLmia": 17,
-      "publishedAt": "2026-11-02",
-      "url": "https://stripe.com/jobs/search?gh_jid=8346778",
       "firstSeen": "2026-11-05"
     },
     {
@@ -257,17 +268,6 @@
       "canadaLmia": 17,
       "publishedAt": "2026-10-21",
       "url": "https://stripe.com/jobs/search?gh_jid=8304725",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-affirm-8017505003",
-      "company": "Affirm",
-      "title": "Senior Software Engineer, Backend (Identity Data)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-10-20",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017505003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -499,7 +499,7 @@
       "id": "greenhouse-stripe-8203975",
       "company": "Stripe",
       "title": "Integration Engineer",
-      "location": "Toronto, Canada",
+      "location": "Toronto or Chicago",
       "route": "patrocinio",
       "canadaLmia": 17,
       "publishedAt": "2026-10-07",
@@ -826,17 +826,6 @@
       "canadaLmia": 17,
       "publishedAt": "2026-08-11",
       "url": "https://stripe.com/jobs/search?gh_jid=8120494",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-affirm-7822389003",
-      "company": "Affirm",
-      "title": "Machine Learning Engineer II (Underwriting ML)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-08-06",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7822389003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2064,6 +2053,30 @@
       "firstSeen": "2026-11-05"
     },
     {
+      "id": "greenhouse-stripe-8346778",
+      "company": "Stripe",
+      "title": "Data Scientist, FX Quantitative Research",
+      "location": "Toronto",
+      "route": "patrocinio",
+      "canadaLmia": 17,
+      "publishedAt": "2026-11-02",
+      "url": "https://stripe.com/jobs/search?gh_jid=8346778",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-09"
+    },
+    {
+      "id": "greenhouse-affirm-8017505003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (Identity Data)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-10-20",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017505003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-09"
+    },
+    {
       "id": "greenhouse-affirm-8017509003",
       "company": "Affirm",
       "title": "Software Engineer II, Backend (Purchasing Power - Core)",
@@ -2146,6 +2159,18 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-07"
+    },
+    {
+      "id": "greenhouse-affirm-7822389003",
+      "company": "Affirm",
+      "title": "Machine Learning Engineer II (Underwriting ML)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-08-06",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7822389003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-09"
     },
     {
       "id": "ashby-supabase-f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",

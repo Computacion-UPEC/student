@@ -2,6 +2,75 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1338106262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - QUEVEDO/LA MANA",
+      "province": "LOS RIOS",
+      "city": "BABAHOYO",
+      "publishedAt": "2026-11-09",
+      "url": "https://vacantes.pichincha.com/job/BABAHOYO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-QUEVEDOLA-MANA-BABA-ZONA-COSTA/1338106262/",
+      "isIT": false,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "pichincha-1338094062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL ANALISIS DE CREDITO - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-09",
+      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-ANALISIS-DE-CREDITO-QUITO-QUIT-CREDITO-PE/1338094062/",
+      "isIT": false,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "pichincha-1338092762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ARQUITECTO SRE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-09",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ARQUITECTO-SRE-QUIT-INGENIERIA/1338092762/",
+      "isIT": false,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "bancoloja-6a7f80a7b46faf095c50f0c4",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Cajero",
+      "city": "Loja",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6a7f80a7b46faf095c50f0c4",
+      "isIT": false,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "bancoloja-6a739197fd656f3c39247a31",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Asesor Banca Personas - Agencia Quito",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6a739197fd656f3c39247a31",
+      "isIT": false,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "bce-6aecf11aad7a1245cf47be6d",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Médico Ocupacional",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aecf11aad7a1245cf47be6d",
+      "isIT": false,
+      "firstSeen": "2026-11-09"
+    },
+    {
       "id": "pichincha-1337267262",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -62,72 +131,6 @@
       "firstSeen": "2026-11-07"
     },
     {
-      "id": "bce-6aed597a5782670c140896b7",
-      "source": "bce",
-      "institution": "Banco Central del Ecuador",
-      "title": "Especialista de Gestión Operativa, Conciliación y Control",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed597a5782670c140896b7",
-      "isIT": false,
-      "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "bce-6aed6033300ecaa69da326a2",
-      "source": "bce",
-      "institution": "Banco Central del Ecuador",
-      "title": "Experto de Riesgos Financieros",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed6033300ecaa69da326a2",
-      "isIT": false,
-      "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "bce-6aed6f2d6116b196e62a80e3",
-      "source": "bce",
-      "institution": "Banco Central del Ecuador",
-      "title": "Especialista de Infraestructura y Operaciones TI - Plataformas Cloud Native",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed6f2d6116b196e62a80e3",
-      "isIT": true,
-      "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "bce-6aed6afb5782670c1408a1a8",
-      "source": "bce",
-      "institution": "Banco Central del Ecuador",
-      "title": "Especialista de Infraestructura y Operaciones TI - Plataformas y Servicios de Datos Cloud Native",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed6afb5782670c1408a1a8",
-      "isIT": true,
-      "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "bce-6aed66623259aa458ec5adc7",
-      "source": "bce",
-      "institution": "Banco Central del Ecuador",
-      "title": "Especialista de Seguridad Informática/Operaciones de Clave Pública",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed66623259aa458ec5adc7",
-      "isIT": true,
-      "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "bce-6aed64360a3597d4c60182a1",
-      "source": "bce",
-      "institution": "Banco Central del Ecuador",
-      "title": "Especialista de Análisis de Sistemas Transaccionales",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed64360a3597d4c60182a1",
-      "isIT": false,
-      "firstSeen": "2026-11-06"
-    },
-    {
       "id": "pichincha-1338071762",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -136,18 +139,6 @@
       "city": "EL EMPALME",
       "publishedAt": "2026-11-06",
       "url": "https://vacantes.pichincha.com/job/EL-EMPALME-OFICIAL-COMERCIAL-Y-SERVICIOS-EL-EMPALME-GUAY-ZONA-COSTA/1338071762/",
-      "isIT": false,
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "pichincha-1338079762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ANALISTA ATRACCION TALENTO HUMANO - GUAYAQUIL",
-      "province": "GUAYAS",
-      "city": "GUAYAQUIL",
-      "publishedAt": "2026-11-06",
-      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-ANALISTA-ATRACCION-TALENTO-HUMANO-GUAYAQUIL-GUAY-ATRACCION/1338079762/",
       "isIT": false,
       "firstSeen": "2026-11-07"
     },
@@ -534,15 +525,16 @@
       "firstSeen": "2026-10-28"
     },
     {
-      "id": "pagueya-6adf733ff42c7d19476c1683",
-      "source": "pagueya",
-      "institution": "Pague Ya (Grupo Pichincha)",
-      "title": "INGENIERO DE SOLUCIONES TI",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6adf733ff42c7d19476c1683",
-      "isIT": true,
-      "firstSeen": "2026-10-26"
+      "id": "pichincha-1335195462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO INGENIERIA SEGURIDAD TECNOLOGICA - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-27",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-INGENIERIA-SEGURIDAD-TECNOLOGICA-QUITO-QUIT-INGENIERIA/1335195462/",
+      "isIT": false,
+      "firstSeen": "2026-10-27"
     },
     {
       "id": "bancoloja-6ac7daeef7d65014043aa02a",
@@ -622,18 +614,6 @@
       "publishedAt": "2026-10-22",
       "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-COMERCIAL-CASH-MANAGEMENT-B-QUITO-QUIT-REGION-NOR/1337683362/",
       "isIT": false,
-      "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "pichincha-1337683762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "INGENIERO INTELIGENCIA ARTIFICIAL - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-22",
-      "url": "https://vacantes.pichincha.com/job/QUITO-INGENIERO-INTELIGENCIA-ARTIFICIAL-QUITO-QUIT-DESARROLLO/1337683762/",
-      "isIT": true,
       "firstSeen": "2026-10-23"
     },
     {
@@ -777,18 +757,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-REDES-Y-COMUNICACIONES-QUIT-INFRAESTRU/1332558062/",
       "isIT": true,
       "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337548462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL RIESGO CIBERSEGURIDAD - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-19",
-      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-RIESGO-CIBERSEGURIDAD-QUITO-QUIT-RIESGO-TEC/1337548462/",
-      "isIT": true,
-      "firstSeen": "2026-10-19"
     },
     {
       "id": "jep-gerente de agencia – la troncal",
@@ -1112,6 +1080,18 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1337515662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DISENADOR DE EXPERIENCIA - UIO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-16",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-UIO-QUIT-DISENO-DE/1337515662/",
+      "isIT": true,
+      "firstSeen": "2026-10-17"
+    },
+    {
       "id": "pichincha-1337474462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1121,18 +1101,6 @@
       "publishedAt": "2026-10-15",
       "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-DE-GESTI%C3%93N-DE-REDES-SOCIALES-Y-CANALES-DIGITALES-QUIT-CONTENIDO/1337474462/",
       "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337483862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "INGENIERO INTELIGENCIA ARTIFICIAL - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-15",
-      "url": "https://vacantes.pichincha.com/job/QUITO-INGENIERO-INTELIGENCIA-ARTIFICIAL-QUITO-QUIT-DESARROLLO/1337483862/",
-      "isIT": true,
       "firstSeen": "2026-10-16"
     },
     {
@@ -1158,6 +1126,18 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-SMO-QUITO-QUIT-SERVICIOS/1337422862/",
       "isIT": true,
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1336492862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE LEGAL - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-09-10",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-LEGAL-QUITO-QUIT-CONTROL-PR/1336492862/",
+      "isIT": false,
+      "firstSeen": "2026-11-09"
     },
     {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
@@ -1193,6 +1173,91 @@
       "isIT": false,
       "firstSeen": "2026-10-26",
       "closedOn": "2026-11-07"
+    },
+    {
+      "id": "bce-6aed597a5782670c140896b7",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Especialista de Gestión Operativa, Conciliación y Control",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed597a5782670c140896b7",
+      "isIT": false,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-09"
+    },
+    {
+      "id": "bce-6aed6033300ecaa69da326a2",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Experto de Riesgos Financieros",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed6033300ecaa69da326a2",
+      "isIT": false,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-09"
+    },
+    {
+      "id": "bce-6aed6f2d6116b196e62a80e3",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Especialista de Infraestructura y Operaciones TI - Plataformas Cloud Native",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed6f2d6116b196e62a80e3",
+      "isIT": true,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-09"
+    },
+    {
+      "id": "bce-6aed6afb5782670c1408a1a8",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Especialista de Infraestructura y Operaciones TI - Plataformas y Servicios de Datos Cloud Native",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed6afb5782670c1408a1a8",
+      "isIT": true,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-09"
+    },
+    {
+      "id": "bce-6aed66623259aa458ec5adc7",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Especialista de Seguridad Informática/Operaciones de Clave Pública",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed66623259aa458ec5adc7",
+      "isIT": true,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-09"
+    },
+    {
+      "id": "bce-6aed64360a3597d4c60182a1",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Especialista de Análisis de Sistemas Transaccionales",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aed64360a3597d4c60182a1",
+      "isIT": false,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-09"
+    },
+    {
+      "id": "pichincha-1338079762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ANALISTA ATRACCION TALENTO HUMANO - GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-11-06",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-ANALISTA-ATRACCION-TALENTO-HUMANO-GUAYAQUIL-GUAY-ATRACCION/1338079762/",
+      "isIT": false,
+      "firstSeen": "2026-11-07",
+      "closedOn": "2026-11-09"
     },
     {
       "id": "pichincha-1338022362",
@@ -1397,19 +1462,6 @@
       "closedOn": "2026-11-07"
     },
     {
-      "id": "pichincha-1335195462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO INGENIERIA SEGURIDAD TECNOLOGICA - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-27",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-INGENIERIA-SEGURIDAD-TECNOLOGICA-QUITO-QUIT-INGENIERIA/1335195462/",
-      "isIT": false,
-      "firstSeen": "2026-10-27",
-      "closedOn": "2026-11-07"
-    },
-    {
       "id": "pichincha-1337753562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1447,6 +1499,18 @@
       "isIT": false,
       "firstSeen": "2026-10-27",
       "closedOn": "2026-10-30"
+    },
+    {
+      "id": "pagueya-6adf733ff42c7d19476c1683",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "INGENIERO DE SOLUCIONES TI",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6adf733ff42c7d19476c1683",
+      "isIT": true,
+      "firstSeen": "2026-10-26",
+      "closedOn": "2026-11-09"
     },
     {
       "id": "pichincha-1337737862",
@@ -1589,6 +1653,19 @@
       "isIT": false,
       "firstSeen": "2026-10-24",
       "closedOn": "2026-10-28"
+    },
+    {
+      "id": "pichincha-1337683762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "INGENIERO INTELIGENCIA ARTIFICIAL - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-INGENIERO-INTELIGENCIA-ARTIFICIAL-QUITO-QUIT-DESARROLLO/1337683762/",
+      "isIT": true,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-11-09"
     },
     {
       "id": "pichincha-1337683662",
@@ -1804,6 +1881,19 @@
       "closedOn": "2026-10-24"
     },
     {
+      "id": "pichincha-1337548462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL RIESGO CIBERSEGURIDAD - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-19",
+      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-RIESGO-CIBERSEGURIDAD-QUITO-QUIT-RIESGO-TEC/1337548462/",
+      "isIT": true,
+      "firstSeen": "2026-10-19",
+      "closedOn": "2026-11-09"
+    },
+    {
       "id": "pichincha-1337533762",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1921,19 +2011,6 @@
       "closedOn": "2026-10-31"
     },
     {
-      "id": "pichincha-1337515662",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DISENADOR DE EXPERIENCIA - UIO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-16",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-UIO-QUIT-DISENO-DE/1337515662/",
-      "isIT": true,
-      "firstSeen": "2026-10-17",
-      "closedOn": "2026-10-30"
-    },
-    {
       "id": "pichincha-1336675962",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1971,6 +2048,19 @@
       "isIT": false,
       "firstSeen": "2026-10-17",
       "closedOn": "2026-10-20"
+    },
+    {
+      "id": "pichincha-1337483862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "INGENIERO INTELIGENCIA ARTIFICIAL - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-15",
+      "url": "https://vacantes.pichincha.com/job/QUITO-INGENIERO-INTELIGENCIA-ARTIFICIAL-QUITO-QUIT-DESARROLLO/1337483862/",
+      "isIT": true,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-11-09"
     },
     {
       "id": "pichincha-1336150162",

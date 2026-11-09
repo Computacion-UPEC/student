@@ -2,6 +2,62 @@
   "source": "https://www.celec.gob.ec",
   "calls": [
     {
+      "unit": "CELEC EP Matriz",
+      "role": "Especialista de Soporte Tecnológico/ Especialista Administrativo 4",
+      "eligibility": "Directa (Computación/Sistemas/TI)",
+      "publishedAt": "2026-11-10",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/wp-content/uploads/2026/11/Convocatoria-10-de-noviembre-de-2026-143.pdf"
+    },
+    {
+      "unit": "CELEC EP Matriz",
+      "role": "Especialista Administrativo / Especialista Administrativo 4",
+      "eligibility": "Directa (Computación/Sistemas/TI)",
+      "publishedAt": "2026-11-10",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/wp-content/uploads/2026/11/Convocatoria-de-10-de-noviembre-de-2026.pdf"
+    },
+    {
+      "unit": "CELEC EP Matriz",
+      "role": "Analista de Cumplimiento Antisoborno/ Especialista Administrativo 3",
+      "eligibility": "Posible (carrera afín / ingeniería)",
+      "publishedAt": "2026-11-10",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/wp-content/uploads/2026/11/Convocatoria-10-de-noviembre-de-2026-140-141-142.pdf"
+    },
+    {
+      "unit": "CELEC EP Matriz",
+      "role": "Especialista de Investigación Antisoborno / Especialista Administrativo 4",
+      "eligibility": "Posible (carrera afín / ingeniería)",
+      "publishedAt": "2026-11-10",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/wp-content/uploads/2026/11/Convocatoria-10-de-noviembre-de-2026-140-141-142.pdf"
+    },
+    {
+      "unit": "CELEC EP Matriz",
+      "role": "Auditor Lider Antisoborno / Especialista Administrativo 4",
+      "eligibility": "Posible (carrera afín / ingeniería)",
+      "publishedAt": "2026-11-10",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/wp-content/uploads/2026/11/Convocatoria-10-de-noviembre-de-2026-140-141-142.pdf"
+    },
+    {
+      "unit": "CELEC SUR",
+      "role": "ESPECIALISTA ADM 5 – ESPECIALISTA DE SALUD OCUPACIONAL Y SEGURIDAD LABORAL",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-09",
+      "closesAt": "2026-11-10",
+      "url": "https://www.celec.gob.ec/celecsur/wp-content/uploads/2026/11/8-CONVOCATORIA-ESP.-SALUD.OCUP_.-Y-SEG.LAB_.pdf"
+    },
+    {
+      "unit": "Coca Codo Sinclair",
+      "role": "Jefe de talento humano",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-09",
+      "closesAt": "2026-11-10",
+      "url": "https://www.celec.gob.ec/cocacodo/wp-content/uploads/2026/11/09_CONVOCATORIA_PSS_COD_2026_67.pdf"
+    },
+    {
       "unit": "Electroguayas",
       "role": "CONVOCATORIA PROCESO DE SELECCIÓN SIMPLE ELECTROGUAYAS",
       "eligibility": "Sin requisitos legibles - revisar",
