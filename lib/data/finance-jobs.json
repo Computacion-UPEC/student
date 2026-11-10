@@ -2,6 +2,40 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1336492862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE LEGAL - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-10",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-LEGAL-QUITO-QUIT-CONTROL-PR/1336492862/",
+      "isIT": false,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "bce-6af26f0fcfc7037c48d627c2",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Especialista de Riesgos de Operaciones 1",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6af26f0fcfc7037c48d627c2",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "bce-6af251253e8a631dd6465d34",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Odontólogo",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6af251253e8a631dd6465d34",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
       "id": "pichincha-1338106262",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -69,6 +103,18 @@
       "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aecf11aad7a1245cf47be6d",
       "isIT": false,
       "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "pichincha-1338125162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-09",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-TRIBU-PLAT/1338125162/",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
     },
     {
       "id": "pichincha-1337267262",
@@ -545,6 +591,17 @@
       "publishedAt": null,
       "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ac7daeef7d65014043aa02a",
       "isIT": false,
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "pagueya-6adf733ff42c7d19476c1683",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "INGENIERO DE SOLUCIONES TI",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6adf733ff42c7d19476c1683",
+      "isIT": true,
       "firstSeen": "2026-10-26"
     },
     {
@@ -1128,18 +1185,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1336492862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE LEGAL - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-09-10",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-LEGAL-QUITO-QUIT-CONTROL-PR/1336492862/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
       "source": "cacpeco",
       "institution": "CACPECO",
@@ -1499,18 +1544,6 @@
       "isIT": false,
       "firstSeen": "2026-10-27",
       "closedOn": "2026-10-30"
-    },
-    {
-      "id": "pagueya-6adf733ff42c7d19476c1683",
-      "source": "pagueya",
-      "institution": "Pague Ya (Grupo Pichincha)",
-      "title": "INGENIERO DE SOLUCIONES TI",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6adf733ff42c7d19476c1683",
-      "isIT": true,
-      "firstSeen": "2026-10-26",
-      "closedOn": "2026-11-09"
     },
     {
       "id": "pichincha-1337737862",
