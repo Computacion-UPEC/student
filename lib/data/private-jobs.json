@@ -585,17 +585,6 @@
       "firstSeen": "2026-11-06"
     },
     {
-      "id": "netlife-analista-de-continuidad-del-negocio-quito",
-      "source": "netlife",
-      "company": "Netlife",
-      "title": "ANALISTA DE CONTINUIDAD DEL NEGOCIO",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
-      "isIT": false,
-      "firstSeen": "2026-11-06"
-    },
-    {
       "id": "netlife-ejecutivo-de-ventas-quito-quito",
       "source": "netlife",
       "company": "Netlife",
@@ -1103,17 +1092,6 @@
     },
     {
       "id": "netlife-asesor-de-operación-y-experiencia-digital-manta",
-      "source": "netlife",
-      "company": "Netlife",
-      "title": "Asesor de Operación y Experiencia Digital",
-      "city": "Manta",
-      "publishedAt": null,
-      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "netlife-asesor-de-operación-y-experiencia-digital-manta-2",
       "source": "netlife",
       "company": "Netlife",
       "title": "Asesor de Operación y Experiencia Digital",
@@ -5850,6 +5828,18 @@
       "closedOn": "2026-11-10"
     },
     {
+      "id": "netlife-analista-de-continuidad-del-negocio-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "ANALISTA DE CONTINUIDAD DEL NEGOCIO",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-10"
+    },
+    {
       "id": "claro-1824",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -6064,6 +6054,18 @@
       "isIT": false,
       "firstSeen": "2026-11-04",
       "closedOn": "2026-11-05"
+    },
+    {
+      "id": "netlife-asesor-de-operación-y-experiencia-digital-manta-2",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Asesor de Operación y Experiencia Digital",
+      "city": "Manta",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03",
+      "closedOn": "2026-11-10"
     },
     {
       "id": "netlife-ejecutivo-de-ventas-guayaquil-guayaquil",
