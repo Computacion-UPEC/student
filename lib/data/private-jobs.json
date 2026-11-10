@@ -2,6 +2,105 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "netlife-ejecutivo-de-ventas-puerta-a-puerta-guayaquil-guayaquil",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTAS (PUERTA A PUERTA) - GUAYAQUIL",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "netlife-pasante-de-desarrollo-organizacional-guayaquil-guayaquil",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "PASANTE DE DESARROLLO ORGANIZACIONAL - GUAYAQUIL",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "netlife-pasante-de-selección-y-reclutamiento-guayaquil",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "PASANTE DE SELECCIÓN y RECLUTAMIENTO",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "netlife-pasante-de-experiencia-y-atencion-al-cliente-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Pasante de Experiencia y Atencion al Cliente",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "netlife-pasante-de-sostenibilidad-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "PASANTE DE SOSTENIBILIDAD",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "netlife-pasante-de-desarrollo-organizacional-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "PASANTE DE DESARROLLO ORGANIZACIONAL",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "netlife-pasante-de-innovación-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "PASANTE DE INNOVACIÓN",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "netlife-pasante-de-cobranzas-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "PASANTE DE COBRANZAS",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "netlife-especialista-de-nuevos-negocios-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "ESPECIALISTA DE NUEVOS NEGOCIOS",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
       "id": "difare-auxiliar-de-laboratorio-2",
       "source": "difare",
       "company": "Difare",
@@ -948,17 +1047,6 @@
       "firstSeen": "2026-11-03"
     },
     {
-      "id": "netlife-ejecutivo-de-ventas-guayaquil-guayaquil",
-      "source": "netlife",
-      "company": "Netlife",
-      "title": "EJECUTIVO DE VENTAS - GUAYAQUIL",
-      "city": "Guayaquil",
-      "publishedAt": null,
-      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
-    },
-    {
       "id": "netlife-ejecutivo-de-ventas-ibarra-ibarra",
       "source": "netlife",
       "company": "Netlife",
@@ -1074,17 +1162,6 @@
       "company": "Netlife",
       "title": "EJECUTIVO DE VENTAS - PUYO/PASTAZA",
       "city": "Pastaza",
-      "publishedAt": null,
-      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "netlife-gestor-de-bodega-con-discapacidad-tiempo-completo-quito",
-      "source": "netlife",
-      "company": "Netlife",
-      "title": "GESTOR DE BODEGA CON DISCAPACIDAD TIEMPO COMPLETO",
-      "city": "Quito",
       "publishedAt": null,
       "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
       "isIT": false,
@@ -5911,6 +5988,30 @@
       "isIT": false,
       "firstSeen": "2026-11-04",
       "closedOn": "2026-11-05"
+    },
+    {
+      "id": "netlife-ejecutivo-de-ventas-guayaquil-guayaquil",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "EJECUTIVO DE VENTAS - GUAYAQUIL",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03",
+      "closedOn": "2026-11-10"
+    },
+    {
+      "id": "netlife-gestor-de-bodega-con-discapacidad-tiempo-completo-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "GESTOR DE BODEGA CON DISCAPACIDAD TIEMPO COMPLETO",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-03",
+      "closedOn": "2026-11-10"
     },
     {
       "id": "arca-1447429200",
