@@ -36,6 +36,18 @@
       "firstSeen": "2026-11-10"
     },
     {
+      "id": "pichincha-1338137062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ARQUITECTO INTEGRACION",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-10",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ARQUITECTO-INTEGRACION-QUIT-ARQUITECTU/1338137062/",
+      "isIT": true,
+      "firstSeen": "2026-11-10"
+    },
+    {
       "id": "pichincha-1338106262",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -108,12 +120,12 @@
       "id": "pichincha-1338125162",
       "source": "pichincha",
       "institution": "Banco Pichincha",
-      "title": "PASANTE",
+      "title": "PASANTE TECNOLOGIA SISTEMAS E INFRAESTRUCTURA",
       "province": "PICHINCHA",
       "city": "QUITO",
       "publishedAt": "2026-11-09",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-TRIBU-PLAT/1338125162/",
-      "isIT": false,
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-TECNOLOGIA-SISTEMAS-E-INFRAESTRUCTURA-QUIT-TRIBU-PLAT/1338125162/",
+      "isIT": true,
       "firstSeen": "2026-11-10"
     },
     {
@@ -285,18 +297,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "pichincha-1338032862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL CORPORATIVO B - CUENCA",
-      "province": "AZUAY",
-      "city": "CUENCA",
-      "publishedAt": "2026-11-05",
-      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-CORPORATIVO-B-CUENCA-CUEN-BANCA-CORP/1338032862/",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "pichincha-1338032462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -452,18 +452,6 @@
       "firstSeen": "2026-10-30"
     },
     {
-      "id": "pichincha-1337867062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL INMOBILIARIO A - CUENCA",
-      "province": "AZUAY",
-      "city": "CUENCA",
-      "publishedAt": "2026-10-30",
-      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-INMOBILIARIO-A-CUENCA-CUEN-REGION-SUR/1337867062/",
-      "isIT": false,
-      "firstSeen": "2026-10-30"
-    },
-    {
       "id": "pichincha-1337044862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -533,18 +521,6 @@
       "publishedAt": "2026-10-28",
       "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-MARCO-NORMATIVO-CIBERSEGURIDAD-QUITO-QUIT-MARCO-NORM/1337801462/",
       "isIT": true,
-      "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "pichincha-1337799362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ASISTENTE CREDITO EMPRESAS - GUAYAQUIL",
-      "province": "GUAYAS",
-      "city": "GUAYAQUIL",
-      "publishedAt": "2026-10-28",
-      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-ASISTENTE-CREDITO-EMPRESAS-GUAYAQUIL-GUAY-CREDITO-EM/1337799362/",
-      "isIT": false,
       "firstSeen": "2026-10-28"
     },
     {
@@ -708,30 +684,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "pichincha-1337638862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL CASH MANAGEMENT B - AMBATO",
-      "province": "TUNGURAHUA",
-      "city": "AMBATO",
-      "publishedAt": "2026-10-21",
-      "url": "https://vacantes.pichincha.com/job/AMBATO-OFICIAL-COMERCIAL-CASH-MANAGEMENT-B-AMBATO-AMBA-REGION-CEN/1337638862/",
-      "isIT": false,
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "pichincha-1337642062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DUENO DE PRODUCTO SR - CANALES",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-21",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-SR-CANALES-QUIT-CELULA-APP/1337642062/",
-      "isIT": false,
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "pichincha-1337644762",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -756,18 +708,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "pichincha-1331808962",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "CHAPTER LEAD DESARROLLO TI - MOBILE (QUITO)",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-20",
-      "url": "https://vacantes.pichincha.com/job/QUITO-CHAPTER-LEAD-DESARROLLO-TI-MOBILE-%28QUITO%29-QUIT-DESARROLLO/1331808962/",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1337609962",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -778,30 +718,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-ANALISTA-CREDITO-PERSONAS-%28TEMPORAL%29-QUITO-QUIT-CREDITO-PE/1337609962/",
       "isIT": false,
       "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "pichincha-1337604362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DUENO DE PRODUCTO SR - STREAM ACTIVO - EMPRESAS",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-20",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-SR-STREAM-ACTIVO-EMPRESAS-QUIT-CELULA-FIN/1337604362/",
-      "isIT": false,
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "pichincha-1337582162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES - SANTO DOMINGO (EVENTUAL)",
-      "province": "SANTO DOMINGO DE LOS TSACHILAS",
-      "city": "SANTO DOMINGO",
-      "publishedAt": "2026-10-20",
-      "url": "https://vacantes.pichincha.com/job/SANTO-DOMINGO-EJECUTIVO-SERVICIOS-TRANSACCIONALES-SANTO-DOMINGO-%28EVENTUAL%29-SANT-ZONA-ESMER/1337582162/",
-      "isIT": false,
-      "firstSeen": "2026-10-20"
     },
     {
       "id": "pichincha-1332558062",
@@ -1185,6 +1101,18 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1331181562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DUENO DE PRODUCTO / MICROSERVICIOS Y APIS (QUITO)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-05-07",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-MICROSERVICIOS-Y-APIS-%28QUITO%29-QUIT-TRIBU-INTE/1331181562/",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
       "source": "cacpeco",
       "institution": "CACPECO",
@@ -1305,6 +1233,19 @@
       "closedOn": "2026-11-09"
     },
     {
+      "id": "pichincha-1338032862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL CORPORATIVO B - CUENCA",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-11-05",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-CORPORATIVO-B-CUENCA-CUEN-BANCA-CORP/1338032862/",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-10"
+    },
+    {
       "id": "pichincha-1338022362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1416,6 +1357,19 @@
       "closedOn": "2026-11-04"
     },
     {
+      "id": "pichincha-1337867062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL INMOBILIARIO A - CUENCA",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-10-30",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-INMOBILIARIO-A-CUENCA-CUEN-REGION-SUR/1337867062/",
+      "isIT": false,
+      "firstSeen": "2026-10-30",
+      "closedOn": "2026-11-10"
+    },
+    {
       "id": "pichincha-1337081062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1466,6 +1420,19 @@
       "isIT": false,
       "firstSeen": "2026-10-21",
       "closedOn": "2026-11-01"
+    },
+    {
+      "id": "pichincha-1337799362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASISTENTE CREDITO EMPRESAS - GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-10-28",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-ASISTENTE-CREDITO-EMPRESAS-GUAYAQUIL-GUAY-CREDITO-EM/1337799362/",
+      "isIT": false,
+      "firstSeen": "2026-10-28",
+      "closedOn": "2026-11-10"
     },
     {
       "id": "pichincha-1337799462",
@@ -1836,6 +1803,32 @@
       "closedOn": "2026-10-24"
     },
     {
+      "id": "pichincha-1337638862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL CASH MANAGEMENT B - AMBATO",
+      "province": "TUNGURAHUA",
+      "city": "AMBATO",
+      "publishedAt": "2026-10-21",
+      "url": "https://vacantes.pichincha.com/job/AMBATO-OFICIAL-COMERCIAL-CASH-MANAGEMENT-B-AMBATO-AMBA-REGION-CEN/1337638862/",
+      "isIT": false,
+      "firstSeen": "2026-10-21",
+      "closedOn": "2026-11-10"
+    },
+    {
+      "id": "pichincha-1337642062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DUENO DE PRODUCTO SR - CANALES",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-21",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-SR-CANALES-QUIT-CELULA-APP/1337642062/",
+      "isIT": false,
+      "firstSeen": "2026-10-21",
+      "closedOn": "2026-11-10"
+    },
+    {
       "id": "pichincha-1337646062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1899,6 +1892,45 @@
       "isIT": false,
       "firstSeen": "2026-10-21",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "pichincha-1331808962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "CHAPTER LEAD DESARROLLO TI - MOBILE (QUITO)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-20",
+      "url": "https://vacantes.pichincha.com/job/QUITO-CHAPTER-LEAD-DESARROLLO-TI-MOBILE-%28QUITO%29-QUIT-DESARROLLO/1331808962/",
+      "isIT": true,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-11-10"
+    },
+    {
+      "id": "pichincha-1337604362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DUENO DE PRODUCTO SR - STREAM ACTIVO - EMPRESAS",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-20",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-SR-STREAM-ACTIVO-EMPRESAS-QUIT-CELULA-FIN/1337604362/",
+      "isIT": false,
+      "firstSeen": "2026-10-21",
+      "closedOn": "2026-11-10"
+    },
+    {
+      "id": "pichincha-1337582162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO SERVICIOS TRANSACCIONALES - SANTO DOMINGO (EVENTUAL)",
+      "province": "SANTO DOMINGO DE LOS TSACHILAS",
+      "city": "SANTO DOMINGO",
+      "publishedAt": "2026-10-20",
+      "url": "https://vacantes.pichincha.com/job/SANTO-DOMINGO-EJECUTIVO-SERVICIOS-TRANSACCIONALES-SANTO-DOMINGO-%28EVENTUAL%29-SANT-ZONA-ESMER/1337582162/",
+      "isIT": false,
+      "firstSeen": "2026-10-20",
+      "closedOn": "2026-11-10"
     },
     {
       "id": "pichincha-1337600662",

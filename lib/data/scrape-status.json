@@ -1,8 +1,8 @@
 {
   "platforms": {
     "Bancos": {
-      "lastRun": "2026-11-09",
-      "lastSuccess": "2026-11-09",
+      "lastRun": "2026-11-10",
+      "lastSuccess": "2026-11-10",
       "ok": true
     },
     "CACPECO": {
@@ -11,8 +11,8 @@
       "ok": true
     },
     "CELEC": {
-      "lastRun": "2026-11-09",
-      "lastSuccess": "2026-11-09",
+      "lastRun": "2026-11-10",
+      "lastSuccess": "2026-11-10",
       "ok": true
     },
     "CNT": {
@@ -21,8 +21,8 @@
       "ok": true
     },
     "Concursos": {
-      "lastRun": "2026-11-09",
-      "lastSuccess": "2026-11-09",
+      "lastRun": "2026-11-10",
+      "lastSuccess": "2026-11-10",
       "ok": true
     },
     "Educa-Empleo": {
@@ -46,23 +46,23 @@
       "ok": true
     },
     "Exterior": {
-      "lastRun": "2026-11-09",
-      "lastSuccess": "2026-11-09",
+      "lastRun": "2026-11-10",
+      "lastSuccess": "2026-11-10",
       "ok": true
     },
     "INEC": {
-      "lastRun": "2026-11-09",
-      "lastSuccess": "2026-11-09",
+      "lastRun": "2026-11-10",
+      "lastSuccess": "2026-11-10",
       "ok": true
     },
     "Petroecuador": {
-      "lastRun": "2026-11-09",
-      "lastSuccess": "2026-11-09",
+      "lastRun": "2026-11-10",
+      "lastSuccess": "2026-11-10",
       "ok": true
     },
     "Privadas": {
-      "lastRun": "2026-11-09",
-      "lastSuccess": "2026-11-09",
+      "lastRun": "2026-11-10",
+      "lastSuccess": "2026-11-10",
       "ok": true
     },
     "Remotas": {
@@ -71,20 +71,20 @@
       "ok": true
     },
     "Software": {
-      "lastRun": "2026-11-09",
-      "lastSuccess": "2026-11-09",
+      "lastRun": "2026-11-10",
+      "lastSuccess": "2026-11-10",
       "ok": true
     },
     "Visas": {
-      "lastRun": "2026-11-09",
+      "lastRun": "2026-11-10",
       "lastSuccess": "2026-11-09",
-      "ok": true
+      "ok": false
     }
   },
   "failing": {
     "Tiendas Tuti": {
       "since": "2026-11-09",
-      "runs": 2
+      "runs": 3
     }
   }
 }

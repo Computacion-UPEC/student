@@ -101,17 +101,6 @@
       "firstSeen": "2026-11-10"
     },
     {
-      "id": "tigo-R135879",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Ejecutivo de Tiendas Sur",
-      "city": "Guayaquil",
-      "publishedAt": "2026-11-10",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/Ejecutivo-de-Tiendas-Sur_R135879",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "tigo-R135186",
       "source": "tigo",
       "company": "Tigo (ex Movistar)",
@@ -123,28 +112,6 @@
       "firstSeen": "2026-11-09"
     },
     {
-      "id": "tigo-R135870",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Ejecutivo de Tiendas Sur",
-      "city": "Tienda San Marino",
-      "publishedAt": "2026-11-10",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-San-Marino/Ejecutivo-de-Tiendas-Sur_R135870",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "tigo-R135799",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Ejecutivo de Tiendas Sur-6",
-      "city": "Guayaquil",
-      "publishedAt": "2026-11-10",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/Ejecutivo-de-Tiendas-Sur-6_R135799",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "unilever-99469988832",
       "source": "unilever",
       "company": "Unilever",
@@ -152,6 +119,83 @@
       "city": "Guayaquil, Provincia del Guayas",
       "publishedAt": null,
       "url": "https://careers.unilever.com/en/job/guayaquil/jefe-de-mantenimiento/34155/99469988832",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "tigo-R135733",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Gestión Económica",
+      "city": "Quito",
+      "publishedAt": "2026-11-10",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Gestin-Econmica_R135733",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "arca-1449418500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "OPERADOR DE MONTACARGAS | CEDI PIÑAS",
+      "city": null,
+      "publishedAt": "2026-11-10",
+      "url": "https://careers.arcacontal.com/job/OPERADOR-DE-MONTACARGAS-CEDI-PI%C3%91AS/1449418500/",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "arca-1449556900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ESTIBADOR | CEDI RIOBAMBA",
+      "city": null,
+      "publishedAt": "2026-11-10",
+      "url": "https://careers.arcacontal.com/job/ESTIBADOR-CEDI-RIOBAMBA/1449556900/",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "arca-1449474400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AYUDANTE DE DESPACHO | CEDI QUITO NORTE",
+      "city": null,
+      "publishedAt": "2026-11-10",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-AYUDANTE-DE-DESPACHO-CEDI-QUITO-NORTE-Dip-Quit/1449474400/",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "gpf-6af3554436de1da839c80a14",
+      "source": "gpf",
+      "company": "FEMSA Salud (GPF)",
+      "title": "AUXILIAR DE FARMACIA (VENTAS) - SANTA ROSA, EL ORO",
+      "city": "Cantón Santa Rosa",
+      "publishedAt": null,
+      "url": "https://corporaciongpf.hiringroom.com/jobs/get_vacancy/6af3554436de1da839c80a14",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "difare-asesor-comercial-aplicaciones",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ASESOR COMERCIAL -APLICACIONES",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/asesor-comercial-aplicaciones/",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "tigo-R135887",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Comisiones",
+      "city": "Quito",
+      "publishedAt": "2026-11-10",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Comisiones_R135887",
       "isIT": false,
       "firstSeen": "2026-11-10"
     },
@@ -288,17 +332,6 @@
       "firstSeen": "2026-11-09"
     },
     {
-      "id": "difare-asistente-de-nomina",
-      "source": "difare",
-      "company": "Difare",
-      "title": "ASISTENTE DE NÓMINA",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/asistente-de-nomina/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "pronaca-26976",
       "source": "pronaca",
       "company": "Pronaca",
@@ -392,7 +425,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Data Customer Experience",
       "city": "Quito",
-      "publishedAt": "2026-11-07",
+      "publishedAt": "2026-11-06",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Data-Customer-Experience_R135783",
       "isIT": true,
       "firstSeen": "2026-11-06"
@@ -403,7 +436,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Back Office",
       "city": "Quito",
-      "publishedAt": "2026-11-07",
+      "publishedAt": "2026-11-06",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Back-Office_R135886",
       "isIT": false,
       "firstSeen": "2026-11-06"
@@ -414,7 +447,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Desarrollo de Producto Digital B2B",
       "city": "Quito",
-      "publishedAt": "2026-11-07",
+      "publishedAt": "2026-11-06",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Desarrollo-de-Producto-Digital-B2B_R135867",
       "isIT": false,
       "firstSeen": "2026-11-06"
@@ -519,28 +552,6 @@
       "firstSeen": "2026-11-06"
     },
     {
-      "id": "claro-1824",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "ESPECIALISTA DE SEGURIDAD DE LA INFORMACIÓN",
-      "city": null,
-      "publishedAt": "2026-11-06",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1824",
-      "isIT": true,
-      "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "claro-1823",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "INGENIERO DE SEGURIDAD DE LA INFORMACIÓN",
-      "city": null,
-      "publishedAt": "2026-11-06",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1823",
-      "isIT": true,
-      "firstSeen": "2026-11-06"
-    },
-    {
       "id": "puntonet-8684567",
       "source": "puntonet",
       "company": "PuntoNet",
@@ -618,17 +629,6 @@
       "firstSeen": "2026-11-07"
     },
     {
-      "id": "arca-1448493700",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | CEDI LAGO AGRIO",
-      "city": null,
-      "publishedAt": "2026-11-06",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LAGO-AGRIO/1448493700/",
-      "isIT": false,
-      "firstSeen": "2026-11-06"
-    },
-    {
       "id": "arca-1448762400",
       "source": "arca",
       "company": "Arca Continental",
@@ -645,7 +645,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Gestión Operativa",
       "city": "Quito",
-      "publishedAt": "2026-11-06",
+      "publishedAt": "2026-11-05",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135875",
       "isIT": false,
       "firstSeen": "2026-11-05"
@@ -658,28 +658,6 @@
       "city": null,
       "publishedAt": null,
       "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26919",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "arca-1448176600",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "Operador de Montacargas (12127)",
-      "city": null,
-      "publishedAt": "2026-11-05",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-Operador-de-Montacargas-%2812127%29-1/1448176600/",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "arca-1448156200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "Auxiliar de Producción",
-      "city": null,
-      "publishedAt": "2026-11-05",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-Auxiliar-de-Producci%C3%B3n-1/1448156200/",
       "isIT": false,
       "firstSeen": "2026-11-05"
     },
@@ -746,17 +724,6 @@
       "city": null,
       "publishedAt": "2026-11-05",
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-PASANTE-ESCUELA-COMERCIAL-STAFF-QUITO-CALDER%C3%93N-00000/1448285900/",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "claro-1820",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "INGENIERO DE MEJORA CONTINUA Y TRANSFORMACION DIGITAL",
-      "city": null,
-      "publishedAt": "2026-11-05",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1820",
       "isIT": false,
       "firstSeen": "2026-11-05"
     },
@@ -1360,7 +1327,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Ejecutivo de Tiendas-1",
       "city": "Ambato",
-      "publishedAt": "2026-10-31",
+      "publishedAt": "2026-10-30",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Ambato/Ejecutivo-de-Tiendas-1_R135682",
       "isIT": false,
       "firstSeen": "2026-11-03"
@@ -1431,6 +1398,17 @@
       "url": "https://jobdetails.nestle.com/job/Quito-Analista-de-Datos-17-03-4574/1453117333/",
       "isIT": true,
       "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "arca-1446305700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI LATACUNGA",
+      "city": null,
+      "publishedAt": "2026-10-30",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LATACUNGA/1446305700/",
+      "isIT": false,
+      "firstSeen": "2026-10-30"
     },
     {
       "id": "difare-trabajador-social",
@@ -1508,17 +1486,6 @@
       "url": "https://jobdetails.nestle.com/job/Guayaquil-Auxiliar-de-Producci%C3%B3n-17-03-4574/1452721733/",
       "isIT": false,
       "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "arca-1444971200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "COORDINADOR DE PLANEACIÓN ESTRATEGICA | STAFF QUITO CALDERÓN",
-      "city": null,
-      "publishedAt": "2026-10-29",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-COORDINADOR-DE-PLANEACI%C3%93N-ESTRATEGICA-STAFF-QUITO-CALDER%C3%93N-00000/1444971200/",
-      "isIT": false,
-      "firstSeen": "2026-11-06"
     },
     {
       "id": "arca-1445179900",
@@ -1785,17 +1752,6 @@
       "url": "https://puntonet.teamtailor.com/jobs/8611001-planner-digital",
       "isIT": false,
       "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "nestle-1450943933",
-      "source": "nestle",
-      "company": "Nestlé Ecuador",
-      "title": "Técnico/a Electrico/a",
-      "city": "Guayaquil",
-      "publishedAt": "2026-10-23",
-      "url": "https://jobdetails.nestle.com/job/Guayaquil-T%C3%A9cnicoa-Electricoa-17-03-4574/1450943933/",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
     },
     {
       "id": "holcim-1372996257",
@@ -2744,17 +2700,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "novacero-6a6a8db8d1955c4cee0ae000",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "ASISTENTE DE TESORERIA (EVENTUAL)",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a6a8db8d1955c4cee0ae000",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "novacero-6a6a71dc22d11e53a7489271",
       "source": "novacero",
       "company": "Novacero",
@@ -2982,17 +2927,6 @@
       "city": "Quito",
       "publishedAt": null,
       "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69272a269d5e11732f8d4b1c",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-68efbcbfb3192023d0024d26",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Analista de Tesorería (Eventual)",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/68efbcbfb3192023d0024d26",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -3625,6 +3559,17 @@
       "url": "https://puntonet.teamtailor.com/jobs/8564652-ejecutivo-de-trade-marketing-guayaquil",
       "isIT": false,
       "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "arca-1431318700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "COORDINADOR REGIONAL DE LOGISTICA | CEDI AMBATO",
+      "city": null,
+      "publishedAt": "2026-10-16",
+      "url": "https://careers.arcacontal.com/job/COORDINADOR-REGIONAL-DE-LOGISTICA-CEDI-AMBATO/1431318700/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
     },
     {
       "id": "arca-1440655500",
@@ -5857,6 +5802,126 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "tigo-R135879",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas Sur",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-10",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/Ejecutivo-de-Tiendas-Sur_R135879",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-10"
+    },
+    {
+      "id": "tigo-R135870",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas Sur",
+      "city": "Tienda San Marino",
+      "publishedAt": "2026-11-10",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-San-Marino/Ejecutivo-de-Tiendas-Sur_R135870",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-10"
+    },
+    {
+      "id": "tigo-R135799",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas Sur-6",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-10",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/Ejecutivo-de-Tiendas-Sur-6_R135799",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-10"
+    },
+    {
+      "id": "difare-asistente-de-nomina",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ASISTENTE DE NÓMINA",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/asistente-de-nomina/",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-10"
+    },
+    {
+      "id": "claro-1824",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ESPECIALISTA DE SEGURIDAD DE LA INFORMACIÓN",
+      "city": null,
+      "publishedAt": "2026-11-06",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1824",
+      "isIT": true,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-10"
+    },
+    {
+      "id": "claro-1823",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "INGENIERO DE SEGURIDAD DE LA INFORMACIÓN",
+      "city": null,
+      "publishedAt": "2026-11-06",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1823",
+      "isIT": true,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-10"
+    },
+    {
+      "id": "arca-1448493700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI LAGO AGRIO",
+      "city": null,
+      "publishedAt": "2026-11-06",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LAGO-AGRIO/1448493700/",
+      "isIT": false,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-10"
+    },
+    {
+      "id": "arca-1448176600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "Operador de Montacargas (12127)",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-Operador-de-Montacargas-%2812127%29-1/1448176600/",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-10"
+    },
+    {
+      "id": "arca-1448156200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "Auxiliar de Producción",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-Auxiliar-de-Producci%C3%B3n-1/1448156200/",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-10"
+    },
+    {
+      "id": "claro-1820",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "INGENIERO DE MEJORA CONTINUA Y TRANSFORMACION DIGITAL",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1820",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-10"
+    },
+    {
       "id": "arca-1448270400",
       "source": "arca",
       "company": "Arca Continental",
@@ -6253,18 +6318,6 @@
       "closedOn": "2026-11-05"
     },
     {
-      "id": "arca-1446305700",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | CEDI LATACUNGA",
-      "city": null,
-      "publishedAt": "2026-10-30",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LATACUNGA/1446305700/",
-      "isIT": false,
-      "firstSeen": "2026-10-30",
-      "closedOn": "2026-11-08"
-    },
-    {
       "id": "arca-1446578700",
       "source": "arca",
       "company": "Arca Continental",
@@ -6337,6 +6390,18 @@
       "closedOn": "2026-10-31"
     },
     {
+      "id": "arca-1444971200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "COORDINADOR DE PLANEACIÓN ESTRATEGICA | STAFF QUITO CALDERÓN",
+      "city": null,
+      "publishedAt": "2026-10-29",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-COORDINADOR-DE-PLANEACI%C3%93N-ESTRATEGICA-STAFF-QUITO-CALDER%C3%93N-00000/1444971200/",
+      "isIT": false,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-10"
+    },
+    {
       "id": "arca-1435540300",
       "source": "arca",
       "company": "Arca Continental",
@@ -6407,18 +6472,6 @@
       "isIT": false,
       "firstSeen": "2026-10-29",
       "closedOn": "2026-11-05"
-    },
-    {
-      "id": "tigo-R135733",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Gestión Económica",
-      "city": "Quito",
-      "publishedAt": "2026-10-29",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Gestin-Econmica_R135733",
-      "isIT": false,
-      "firstSeen": "2026-11-03",
-      "closedOn": "2026-11-04"
     },
     {
       "id": "tigo-R135769",
@@ -6721,6 +6774,18 @@
       "closedOn": "2026-10-27"
     },
     {
+      "id": "nestle-1450943933",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Técnico/a Electrico/a",
+      "city": "Guayaquil",
+      "publishedAt": "2026-10-23",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-T%C3%A9cnicoa-Electricoa-17-03-4574/1450943933/",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-10"
+    },
+    {
       "id": "arca-1443141500",
       "source": "arca",
       "company": "Arca Continental",
@@ -6755,6 +6820,30 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "novacero-6a6a8db8d1955c4cee0ae000",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "ASISTENTE DE TESORERIA (EVENTUAL)",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a6a8db8d1955c4cee0ae000",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-10"
+    },
+    {
+      "id": "novacero-68efbcbfb3192023d0024d26",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Analista de Tesorería (Eventual)",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/68efbcbfb3192023d0024d26",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-10"
     },
     {
       "id": "holcim-1351295757",
@@ -7319,18 +7408,6 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-31"
-    },
-    {
-      "id": "arca-1431318700",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "COORDINADOR REGIONAL DE LOGISTICA | CEDI AMBATO",
-      "city": null,
-      "publishedAt": "2026-10-16",
-      "url": "https://careers.arcacontal.com/job/COORDINADOR-REGIONAL-DE-LOGISTICA-CEDI-AMBATO/1431318700/",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-11-01"
     },
     {
       "id": "arca-1440781700",

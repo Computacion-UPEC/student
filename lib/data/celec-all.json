@@ -2,6 +2,22 @@
   "source": "https://www.celec.gob.ec",
   "calls": [
     {
+      "unit": "CELEC SUR",
+      "role": "ESPECIALISTA ADM 1 – ENFERMERO",
+      "eligibility": "Sin requisitos legibles - revisar",
+      "publishedAt": "2026-11-10",
+      "closesAt": "2026-11-11",
+      "url": "https://www.celec.gob.ec/celecsur/wp-content/uploads/2026/11/8-CONVOCATORIA-ESPECIALISTA-ADM-1-â-ENFERMERO.pdf"
+    },
+    {
+      "unit": "CELEC SUR",
+      "role": "ESPECIALISTA ADM 5/ESPECIALISTA DE SERVICIOS GENERALES",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-10",
+      "closesAt": "2026-11-11",
+      "url": "https://www.celec.gob.ec/celecsur/wp-content/uploads/2026/11/13.-CONVOCATORIA-ESPECIALISTA-ESPECIALISTA-SERVICIOS-GENERALES.pdf"
+    },
+    {
       "unit": "CELEC EP Matriz",
       "role": "Especialista de Soporte Tecnológico/ Especialista Administrativo 4",
       "eligibility": "Directa (Computación/Sistemas/TI)",
@@ -40,6 +56,30 @@
       "publishedAt": "2026-11-10",
       "closesAt": null,
       "url": "https://www.celec.gob.ec/wp-content/uploads/2026/11/Convocatoria-10-de-noviembre-de-2026-140-141-142.pdf"
+    },
+    {
+      "unit": "Termopichincha",
+      "role": "Convocatoria para el Proceso de Selección simple Especialista de Bodega e Inventarios (1).",
+      "eligibility": "Directa (Computación/Sistemas/TI)",
+      "publishedAt": "2026-11-10",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/termopichincha/uncategorized/convocatoria-para-el-proceso-de-seleccion-simple-especialista-de-bodega-e-inventarios-1/"
+    },
+    {
+      "unit": "Termopichincha",
+      "role": "Convocatoria para el Proceso de Selección simple Auxiliar de Servicios Misceláneo (1).",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-10",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/termopichincha/uncategorized/convocatoria-para-el-proceso-de-seleccion-simple-auxiliar-de-servicios-miscelaneo-1/"
+    },
+    {
+      "unit": "Termopichincha",
+      "role": "Convocatoria para el Proceso de Selección simple Jefe de Seguridad y Salud Ocupacional (1).",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-10",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/termopichincha/uncategorized/convocatoria-para-el-proceso-de-seleccion-simple-jefe-de-seguridad-y-salud-ocupacional-1/"
     },
     {
       "unit": "CELEC SUR",

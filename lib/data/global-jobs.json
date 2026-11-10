@@ -2,6 +2,27 @@
   "collectedSince": "2026-11-05",
   "jobs": [
     {
+      "id": "greenhouse-affirm-8042371003",
+      "company": "Affirm",
+      "title": "Software Engineer II, Fullstack (Contact Channels)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-10",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8042371003",
+      "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "ashby-supabase-0055f731-cffa-4c74-9c00-8abfa579873d",
+      "company": "Supabase",
+      "title": "Software Engineer - AI Tooling",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-11-10",
+      "url": "https://jobs.ashbyhq.com/supabase/0055f731-cffa-4c74-9c00-8abfa579873d",
+      "firstSeen": "2026-11-10"
+    },
+    {
       "id": "greenhouse-affirm-8197327003",
       "company": "Affirm",
       "title": "Senior Software Engineer, Backend (Consumer)",
@@ -430,17 +451,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "greenhouse-affirm-8003030003",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Batch Developer Experience)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-10-09",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003030003",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "greenhouse-affirm-8016868003",
       "company": "Affirm",
       "title": "Software Engineer II, Fullstack (Ads Platform)",
@@ -514,17 +524,6 @@
       "route": "remoto",
       "publishedAt": "2026-10-06",
       "url": "https://jobs.ashbyhq.com/supabase/48950725-e0d9-4025-92d9-f75e1b60ce45",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-affirm-8003018003",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Decisions Orchestration)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-10-06",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003018003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -710,16 +709,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "ashby-supabase-8fa1c7a0-a85c-4562-a1f5-4dd22cadae27",
-      "company": "Supabase",
-      "title": "Platform Security Engineer (AMER/APAC)",
-      "location": "Remote, Global",
-      "route": "remoto",
-      "publishedAt": "2026-09-02",
-      "url": "https://jobs.ashbyhq.com/supabase/8fa1c7a0-a85c-4562-a1f5-4dd22cadae27",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "greenhouse-stripe-8165259",
       "company": "Stripe",
       "title": "UX Research Manager, Payments",
@@ -862,16 +851,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "ashby-supabase-59083a14-b2b6-4dd8-8037-739aa1ad1e22",
-      "company": "Supabase",
-      "title": "Senior Data Analyst - Marketing",
-      "location": "Remote, Global",
-      "route": "remoto",
-      "publishedAt": "2026-08-04",
-      "url": "https://jobs.ashbyhq.com/supabase/59083a14-b2b6-4dd8-8037-739aa1ad1e22",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "ashby-supabase-3b5d54ca-741b-45ac-bd3f-31605a0d3541",
       "company": "Supabase",
       "title": "AI Platform Engineer",
@@ -977,17 +956,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "greenhouse-affirm-7727322003",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Test Infra)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-07-10",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "greenhouse-stripe-8022713",
       "company": "Stripe",
       "title": "ML Engineer Manager, AI Conversation Platform",
@@ -1072,17 +1040,6 @@
       "canadaLmia": 17,
       "publishedAt": "2026-05-11",
       "url": "https://stripe.com/jobs/search?gh_jid=7913700",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-affirm-7719649003",
-      "company": "Affirm",
-      "title": "Staff Software Engineer, Backend (Capacity Modeling)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-05-07",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7719649003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2089,6 +2046,18 @@
       "closedOn": "2026-11-06"
     },
     {
+      "id": "greenhouse-affirm-8003030003",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Batch Developer Experience)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-10-09",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003030003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-10"
+    },
+    {
       "id": "greenhouse-affirm-8010615003",
       "company": "Affirm",
       "title": "Senior Software Engineer, Backend (Marketing & Privacy)",
@@ -2111,6 +2080,18 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8012043003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-06"
+    },
+    {
+      "id": "greenhouse-affirm-8003018003",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Decisions Orchestration)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-10-06",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003018003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-10"
     },
     {
       "id": "greenhouse-affirm-8005077003",
@@ -2161,6 +2142,17 @@
       "closedOn": "2026-11-07"
     },
     {
+      "id": "ashby-supabase-8fa1c7a0-a85c-4562-a1f5-4dd22cadae27",
+      "company": "Supabase",
+      "title": "Platform Security Engineer (AMER/APAC)",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-09-02",
+      "url": "https://jobs.ashbyhq.com/supabase/8fa1c7a0-a85c-4562-a1f5-4dd22cadae27",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-10"
+    },
+    {
       "id": "greenhouse-affirm-7822389003",
       "company": "Affirm",
       "title": "Machine Learning Engineer II (Underwriting ML)",
@@ -2171,6 +2163,41 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7822389003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-09"
+    },
+    {
+      "id": "ashby-supabase-59083a14-b2b6-4dd8-8037-739aa1ad1e22",
+      "company": "Supabase",
+      "title": "Senior Data Analyst - Marketing",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-08-04",
+      "url": "https://jobs.ashbyhq.com/supabase/59083a14-b2b6-4dd8-8037-739aa1ad1e22",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-10"
+    },
+    {
+      "id": "greenhouse-affirm-7727322003",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Test Infra)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-07-10",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-10"
+    },
+    {
+      "id": "greenhouse-affirm-7719649003",
+      "company": "Affirm",
+      "title": "Staff Software Engineer, Backend (Capacity Modeling)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-05-07",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7719649003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-10"
     },
     {
       "id": "ashby-supabase-f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",

@@ -1,6 +1,6 @@
 {
   "source": "https://www.celec.gob.ec",
-  "exportedAt": "2026-11-09",
+  "exportedAt": "2026-11-10",
   "jobs": [
     {
       "id": "celec-69c0110861",
@@ -856,6 +856,25 @@
       "code": "",
       "url": "https://www.celec.gob.ec/wp-content/uploads/2026/11/Convocatoria-de-10-de-noviembre-de-2026.pdf",
       "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "celec-4ec0ff465e",
+      "unit": "Termopichincha",
+      "role": "Convocatoria para el Proceso de Selección simple Especialista de Bodega e Inventarios (1).",
+      "fit": "Directa",
+      "isIT": false,
+      "fitDetail": "Directa (Computación/Sistemas/TI)",
+      "minExperienceMonths": 36,
+      "experience": "Tiempo de experiencia: 3 años en cargos similares, 4 años En cargos de Asistentes, relacionadas con el área. Departamento de Talento Humano Subgerencia Administrativa",
+      "education": "Formación académica: Tercer Nivel de Grado: Licenciatura y títulos Profesionales, Mínimo 8 semestres, Administración de Empresas, Contabilidad, Comercial, Industrial, Sistemas, Eléctrica, Electrónica; o carreras afines en función de la formación.",
+      "salary": "$2,025.00",
+      "openings": "",
+      "publishedAt": "2026-11-10",
+      "closesAt": null,
+      "statusAtScrape": "Reciente - revisar",
+      "code": "",
+      "url": "https://www.celec.gob.ec/termopichincha/uncategorized/convocatoria-para-el-proceso-de-seleccion-simple-especialista-de-bodega-e-inventarios-1/",
+      "firstSeen": "2026-11-10"
     },
     {
       "id": "celec-319ee41c7f",
