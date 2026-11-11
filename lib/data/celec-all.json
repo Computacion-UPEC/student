@@ -11,6 +11,14 @@
     },
     {
       "unit": "CELEC SUR",
+      "role": "ESPECIALISTA ADM 4 – ESPECIALISTA DE ADQUISICIONES",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-10",
+      "closesAt": "2026-11-11",
+      "url": "https://www.celec.gob.ec/celecsur/wp-content/uploads/2026/11/8-CONVOCATORIA-ESPECIALISTA-DE-ADQUISICIONES.pdf"
+    },
+    {
+      "unit": "CELEC SUR",
       "role": "ESPECIALISTA ADM 5/ESPECIALISTA DE SERVICIOS GENERALES",
       "eligibility": "No aplica",
       "publishedAt": "2026-11-10",
@@ -56,6 +64,14 @@
       "publishedAt": "2026-11-10",
       "closesAt": null,
       "url": "https://www.celec.gob.ec/wp-content/uploads/2026/11/Convocatoria-10-de-noviembre-de-2026-140-141-142.pdf"
+    },
+    {
+      "unit": "Electroguayas",
+      "role": "CONVOCATORIA PROCESO DE SELECCIÓN SIMPLE ELECTROGUAYAS",
+      "eligibility": "Sin requisitos legibles - revisar",
+      "publishedAt": "2026-11-10",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/electroguayas/noticias/convocatoria-proceso-de-seleccion-simple-electroguayas-2/"
     },
     {
       "unit": "Termopichincha",

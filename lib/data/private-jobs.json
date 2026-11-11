@@ -2,6 +2,39 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "tigo-R135186",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Call Center y Canales Digitales",
+      "city": "Quito",
+      "publishedAt": "2026-11-11",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Call-Center-y-Canales-Digitales_R135186",
+      "isIT": false,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "tigo-R135733",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Gestión Económica",
+      "city": "Quito",
+      "publishedAt": "2026-11-11",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Gestin-Econmica_R135733",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "tigo-R135887",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Comisiones",
+      "city": "Quito",
+      "publishedAt": "2026-11-11",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Comisiones_R135887",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
       "id": "netlife-ejecutivo-de-ventas-puerta-a-puerta-guayaquil-guayaquil",
       "source": "netlife",
       "company": "Netlife",
@@ -101,17 +134,6 @@
       "firstSeen": "2026-11-10"
     },
     {
-      "id": "tigo-R135186",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Call Center y Canales Digitales",
-      "city": "Quito",
-      "publishedAt": "2026-11-10",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Call-Center-y-Canales-Digitales_R135186",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "unilever-99469988832",
       "source": "unilever",
       "company": "Unilever",
@@ -121,17 +143,6 @@
       "url": "https://careers.unilever.com/en/job/guayaquil/jefe-de-mantenimiento/34155/99469988832",
       "isIT": false,
       "firstSeen": "2026-11-10"
-    },
-    {
-      "id": "tigo-R135733",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Gestión Económica",
-      "city": "Quito",
-      "publishedAt": "2026-11-10",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Gestin-Econmica_R135733",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
     },
     {
       "id": "arca-1449418500",
@@ -189,15 +200,37 @@
       "firstSeen": "2026-11-10"
     },
     {
-      "id": "tigo-R135887",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Comisiones",
-      "city": "Quito",
+      "id": "arca-1449653000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR AVANCE | GUAYAQUIL SUR",
+      "city": null,
       "publishedAt": "2026-11-10",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Comisiones_R135887",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-AVANCE-GUAYAQUIL-SUR/1449653000/",
       "isIT": false,
-      "firstSeen": "2026-11-10"
+      "firstSeen": "2026-11-11"
+    },
+    {
+      "id": "claro-1835",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ANALISTA DE COMISIONES",
+      "city": null,
+      "publishedAt": "2026-11-10",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1835",
+      "isIT": false,
+      "firstSeen": "2026-11-11"
+    },
+    {
+      "id": "claro-1834",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ANALISTA DE CRÉDITO",
+      "city": null,
+      "publishedAt": "2026-11-10",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1834",
+      "isIT": false,
+      "firstSeen": "2026-11-11"
     },
     {
       "id": "difare-auxiliar-de-laboratorio-2",
@@ -284,17 +317,6 @@
       "city": null,
       "publishedAt": "2026-11-09",
       "url": "https://careers.arcacontal.com/job/VENDEDOR-GUAYAQUIL-NORTE/1449182600/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "arca-1449184000",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI LA TRONCAL",
-      "city": null,
-      "publishedAt": "2026-11-09",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-LA-TRONCAL/1449184000/",
       "isIT": false,
       "firstSeen": "2026-11-09"
     },
@@ -425,7 +447,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Data Customer Experience",
       "city": "Quito",
-      "publishedAt": "2026-11-06",
+      "publishedAt": "2026-11-07",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Data-Customer-Experience_R135783",
       "isIT": true,
       "firstSeen": "2026-11-06"
@@ -436,7 +458,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Back Office",
       "city": "Quito",
-      "publishedAt": "2026-11-06",
+      "publishedAt": "2026-11-07",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Back-Office_R135886",
       "isIT": false,
       "firstSeen": "2026-11-06"
@@ -447,7 +469,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Desarrollo de Producto Digital B2B",
       "city": "Quito",
-      "publishedAt": "2026-11-06",
+      "publishedAt": "2026-11-07",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Desarrollo-de-Producto-Digital-B2B_R135867",
       "isIT": false,
       "firstSeen": "2026-11-06"
@@ -634,7 +656,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Gestión Operativa",
       "city": "Quito",
-      "publishedAt": "2026-11-05",
+      "publishedAt": "2026-11-06",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135875",
       "isIT": false,
       "firstSeen": "2026-11-05"
@@ -691,17 +713,6 @@
       "city": "Quito",
       "publishedAt": "2026-11-05",
       "url": "https://jobdetails.nestle.com/job/Quito-Pasante-de-Brand-Experience-17-03-4574/1454867733/",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "arca-1448269200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | CEDI BABAHOYO",
-      "city": null,
-      "publishedAt": "2026-11-05",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-BABAHOYO/1448269200/",
       "isIT": false,
       "firstSeen": "2026-11-05"
     },
@@ -1305,7 +1316,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Ejecutivo de Tiendas-1",
       "city": "Ambato",
-      "publishedAt": "2026-10-30",
+      "publishedAt": "2026-10-31",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Ambato/Ejecutivo-de-Tiendas-1_R135682",
       "isIT": false,
       "firstSeen": "2026-11-03"
@@ -1589,17 +1600,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "arca-1444000300",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR AVANCE | CEDI BABAHOYO",
-      "city": null,
-      "publishedAt": "2026-10-27",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-AVANCE-CEDI-BABAHOYO/1444000300/",
-      "isIT": false,
-      "firstSeen": "2026-10-27"
-    },
-    {
       "id": "puntonet-8627041",
       "source": "puntonet",
       "company": "PuntoNet",
@@ -1761,17 +1761,6 @@
       "city": "EC",
       "publishedAt": null,
       "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Operadora-de-Mixer-Guayaquil/1355907257/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "holcim-1375133857",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Pasante de Control de Calidad - Guayaquil",
-      "city": "Guayaquil",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Guayaquil-Pasante-de-Control-de-Calidad-Guayaquil-G-90902/1375133857/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -3473,6 +3462,17 @@
       "firstSeen": "2026-10-22"
     },
     {
+      "id": "holcim-1367032057",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Supervisor/a de Cantera - Planta Guayaquil",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Supervisora-de-Cantera-Planta-Guayaquil/1367032057/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "arca-1442052200",
       "source": "arca",
       "company": "Arca Continental",
@@ -3639,17 +3639,6 @@
       "city": null,
       "publishedAt": "2026-10-14",
       "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-BABAHOYO/1440034800/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "arca-1440041500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | BABAHOYO",
-      "city": null,
-      "publishedAt": "2026-10-14",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-BABAHOYO/1440041500/",
       "isIT": false,
       "firstSeen": "2026-11-09"
     },
@@ -5816,6 +5805,18 @@
       "closedOn": "2026-11-10"
     },
     {
+      "id": "arca-1449184000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI LA TRONCAL",
+      "city": null,
+      "publishedAt": "2026-11-09",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-LA-TRONCAL/1449184000/",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-11"
+    },
+    {
       "id": "difare-asistente-de-nomina",
       "source": "difare",
       "company": "Difare",
@@ -5874,6 +5875,18 @@
       "isIT": false,
       "firstSeen": "2026-11-06",
       "closedOn": "2026-11-10"
+    },
+    {
+      "id": "arca-1448269200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI BABAHOYO",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-BABAHOYO/1448269200/",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-11"
     },
     {
       "id": "arca-1448176600",
@@ -6584,6 +6597,18 @@
       "closedOn": "2026-10-30"
     },
     {
+      "id": "arca-1444000300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR AVANCE | CEDI BABAHOYO",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-AVANCE-CEDI-BABAHOYO/1444000300/",
+      "isIT": false,
+      "firstSeen": "2026-10-27",
+      "closedOn": "2026-11-11"
+    },
+    {
       "id": "arca-1444179700",
       "source": "arca",
       "company": "Arca Continental",
@@ -6824,6 +6849,18 @@
       "closedOn": "2026-10-24"
     },
     {
+      "id": "holcim-1375133857",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Pasante de Control de Calidad - Guayaquil",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Guayaquil-Pasante-de-Control-de-Calidad-Guayaquil-G-90902/1375133857/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-11"
+    },
+    {
       "id": "novacero-6a6a8db8d1955c4cee0ae000",
       "source": "novacero",
       "company": "Novacero",
@@ -6870,18 +6907,6 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-11-09"
-    },
-    {
-      "id": "holcim-1367032057",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Supervisor/a de Cantera - Planta Guayaquil",
-      "city": "EC",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Supervisora-de-Cantera-Planta-Guayaquil/1367032057/",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-11-08"
     },
     {
       "id": "holcim-1375146757",
@@ -7530,6 +7555,18 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-28"
+    },
+    {
+      "id": "arca-1440041500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | BABAHOYO",
+      "city": null,
+      "publishedAt": "2026-10-14",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-BABAHOYO/1440041500/",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-11"
     },
     {
       "id": "arca-1440067800",

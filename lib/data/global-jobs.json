@@ -1085,17 +1085,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "greenhouse-affirm-7663436003",
-      "company": "Affirm",
-      "title": "Senior Software Engineer, Fullstack (Consumer Engineering)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-03-18",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7663436003",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "greenhouse-stripe-7476555",
       "company": "Stripe",
       "title": "Backend Engineer, Developer & End-user Experience Platform",
@@ -2209,6 +2198,18 @@
       "url": "https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-07"
+    },
+    {
+      "id": "greenhouse-affirm-7663436003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Fullstack (Consumer Engineering)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-03-18",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7663436003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-11"
     },
     {
       "id": "greenhouse-affirm-7590373003",

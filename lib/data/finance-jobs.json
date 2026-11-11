@@ -2,6 +2,18 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1331181562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DUENO DE PRODUCTO / MICROSERVICIOS Y APIS (QUITO)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-11",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-MICROSERVICIOS-Y-APIS-%28QUITO%29-QUIT-TRIBU-INTE/1331181562/",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
+    },
+    {
       "id": "pichincha-1336492862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -138,18 +150,6 @@
       "publishedAt": "2026-11-08",
       "url": "https://vacantes.pichincha.com/job/PEDRO-VICENTE-MALDONADO-EJECUTIVO-DE-CREDITO-C-AG_-PEDRO-VICENTE-MALDONADO-QUIT-ZONA-QUITO/1337267262/",
       "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1335624762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ESPECIALISTA INTELIGENCIA DE NEGOCIOS - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-07",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-INTELIGENCIA-DE-NEGOCIOS-QUITO-QUIT-INTELIGENC/1335624762/",
-      "isIT": true,
       "firstSeen": "2026-10-16"
     },
     {
@@ -476,18 +476,6 @@
       "firstSeen": "2026-10-29"
     },
     {
-      "id": "pichincha-1337846462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "SOPORTE ADMINISTRATIVO TEMPORAL ( RECUPERACION Y COBRANZA )",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-29",
-      "url": "https://vacantes.pichincha.com/job/QUITO-SOPORTE-ADMINISTRATIVO-TEMPORAL-%28-RECUPERACION-Y-COBRANZA-%29-QUIT-SEGUIMIENT/1337846462/",
-      "isIT": false,
-      "firstSeen": "2026-10-29"
-    },
-    {
       "id": "pichincha-1337859462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -601,18 +589,6 @@
       "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6adb733bec92bbdc1eb7dd74",
       "isIT": false,
       "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "pichincha-1336004062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ESPECIALISTA MARKETING PERFORMANCE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-22",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-MARKETING-PERFORMANCE-QUIT-MARKETING/1336004062/",
-      "isIT": false,
-      "firstSeen": "2026-10-21"
     },
     {
       "id": "pagueya-6aa302897cddc35f18e263e7",
@@ -1101,18 +1077,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1331181562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DUENO DE PRODUCTO / MICROSERVICIOS Y APIS (QUITO)",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-05-07",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-MICROSERVICIOS-Y-APIS-%28QUITO%29-QUIT-TRIBU-INTE/1331181562/",
-      "isIT": false,
-      "firstSeen": "2026-11-10"
-    },
-    {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
       "source": "cacpeco",
       "institution": "CACPECO",
@@ -1133,6 +1097,19 @@
       "url": "https://quierolaburo.com/empresas/cacpeco",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "pichincha-1335624762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA INTELIGENCIA DE NEGOCIOS - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-07",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-INTELIGENCIA-DE-NEGOCIOS-QUITO-QUIT-INTELIGENC/1335624762/",
+      "isIT": true,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-11-11"
     },
     {
       "id": "pichincha-1335641962",
@@ -1381,6 +1358,19 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-11-06"
+    },
+    {
+      "id": "pichincha-1337846462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "SOPORTE ADMINISTRATIVO TEMPORAL ( RECUPERACION Y COBRANZA )",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-29",
+      "url": "https://vacantes.pichincha.com/job/QUITO-SOPORTE-ADMINISTRATIVO-TEMPORAL-%28-RECUPERACION-Y-COBRANZA-%29-QUIT-SEGUIMIENT/1337846462/",
+      "isIT": false,
+      "firstSeen": "2026-10-29",
+      "closedOn": "2026-11-11"
     },
     {
       "id": "pichincha-1337862862",
@@ -1653,6 +1643,19 @@
       "isIT": false,
       "firstSeen": "2026-10-24",
       "closedOn": "2026-10-28"
+    },
+    {
+      "id": "pichincha-1336004062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA MARKETING PERFORMANCE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-MARKETING-PERFORMANCE-QUIT-MARKETING/1336004062/",
+      "isIT": false,
+      "firstSeen": "2026-10-21",
+      "closedOn": "2026-11-11"
     },
     {
       "id": "pichincha-1337683762",
