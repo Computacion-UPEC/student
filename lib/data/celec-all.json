@@ -2,6 +2,14 @@
   "source": "https://www.celec.gob.ec",
   "calls": [
     {
+      "unit": "Hidronación",
+      "role": "Convocatoria para el Proceso de Selección Simple – Especialista de Salud Ocupacional",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-11",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/hidronacion/uncategorized/convocatoria-para-el-proceso-de-seleccion-simple-especialista-de-salud-ocupacional/"
+    },
+    {
       "unit": "CELEC SUR",
       "role": "ESPECIALISTA ADM 1 – ENFERMERO",
       "eligibility": "Sin requisitos legibles - revisar",
@@ -224,14 +232,6 @@
       "publishedAt": "2026-10-22",
       "closesAt": null,
       "url": "https://www.celec.gob.ec/gensur/uncategorized/convocatoria-especialista-de-metrologia-en-generacion-hidraulica/"
-    },
-    {
-      "unit": "Hidronación",
-      "role": "Convocatoria para el Proceso de Selección Simple – Especialista de Salud Ocupacional",
-      "eligibility": "Sin requisitos legibles - revisar",
-      "publishedAt": "2026-10-22",
-      "closesAt": null,
-      "url": "https://www.celec.gob.ec/hidronacion/uncategorized/convocatoria-para-el-proceso-de-seleccion-simple-especialista-de-salud-ocupacional/"
     },
     {
       "unit": "CELEC SUR",

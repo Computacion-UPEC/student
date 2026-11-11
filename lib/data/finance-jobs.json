@@ -201,18 +201,6 @@
       "firstSeen": "2026-11-07"
     },
     {
-      "id": "pichincha-1338075862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL EMPRESARIAL B",
-      "province": "AZUAY",
-      "city": "CUENCA",
-      "publishedAt": "2026-11-06",
-      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-EMPRESARIAL-B-CUEN-BANCA-CORP/1338075862/",
-      "isIT": false,
-      "firstSeen": "2026-11-07"
-    },
-    {
       "id": "pichincha-1336376562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -285,18 +273,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "pichincha-1338032162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL Y SERVICIOS - PUYO",
-      "province": "PASTAZA",
-      "city": "PASTAZA",
-      "publishedAt": "2026-11-05",
-      "url": "https://vacantes.pichincha.com/job/PASTAZA-OFICIAL-COMERCIAL-Y-SERVICIOS-PUYO-PUYO-ZONA-CENTR/1338032162/",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "pichincha-1338032462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -309,18 +285,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "pichincha-1337974862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE (CREDITO EMPRESAS) - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-04",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28CREDITO-EMPRESAS%29-QUITO-QUIT-CREDITO-EM/1337974862/",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
-    },
-    {
       "id": "pichincha-1337984062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -331,30 +295,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-ADMINISTRADOR-PORTAL-WEB-QUIT-CONTENIDO/1337984062/",
       "isIT": false,
       "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "pichincha-1337996162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-04",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-ANALISIS-Y/1337996162/",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "pichincha-1337996362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-04",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-ANALISIS-Y/1337996362/",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
     },
     {
       "id": "pichincha-1338003562",
@@ -600,30 +540,6 @@
       "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6aa302897cddc35f18e263e7",
       "isIT": false,
       "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "pichincha-1337683162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DUENO DE PRODUCTO - COMPRA DE CARTERA",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-22",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-COMPRA-DE-CARTERA-QUIT-CELULA-MAN/1337683162/",
-      "isIT": false,
-      "firstSeen": "2026-10-23"
-    },
-    {
-      "id": "pichincha-1337683362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL CASH MANAGEMENT B - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-22",
-      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-COMERCIAL-CASH-MANAGEMENT-B-QUITO-QUIT-REGION-NOR/1337683362/",
-      "isIT": false,
-      "firstSeen": "2026-10-23"
     },
     {
       "id": "pagueya-6ad27e72e8eca271255a745c",
@@ -1041,6 +957,18 @@
       "firstSeen": "2026-10-17"
     },
     {
+      "id": "pichincha-1337501462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "TRABAJADOR SOCIAL - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-16",
+      "url": "https://vacantes.pichincha.com/job/QUITO-TRABAJADOR-SOCIAL-QUITO-QUIT-BIENESTAR/1337501462/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "pichincha-1337474462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1123,6 +1051,19 @@
       "isIT": false,
       "firstSeen": "2026-10-26",
       "closedOn": "2026-11-07"
+    },
+    {
+      "id": "pichincha-1338075862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL EMPRESARIAL B",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-11-06",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-OFICIAL-COMERCIAL-EMPRESARIAL-B-CUEN-BANCA-CORP/1338075862/",
+      "isIT": false,
+      "firstSeen": "2026-11-07",
+      "closedOn": "2026-11-11"
     },
     {
       "id": "bce-6aed597a5782670c140896b7",
@@ -1210,6 +1151,19 @@
       "closedOn": "2026-11-09"
     },
     {
+      "id": "pichincha-1338032162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - PUYO",
+      "province": "PASTAZA",
+      "city": "PASTAZA",
+      "publishedAt": "2026-11-05",
+      "url": "https://vacantes.pichincha.com/job/PASTAZA-OFICIAL-COMERCIAL-Y-SERVICIOS-PUYO-PUYO-ZONA-CENTR/1338032162/",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-11"
+    },
+    {
       "id": "pichincha-1338032862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1234,6 +1188,45 @@
       "isIT": false,
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-07"
+    },
+    {
+      "id": "pichincha-1337974862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE (CREDITO EMPRESAS) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-04",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28CREDITO-EMPRESAS%29-QUITO-QUIT-CREDITO-EM/1337974862/",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-11"
+    },
+    {
+      "id": "pichincha-1337996162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-04",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-ANALISIS-Y/1337996162/",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-11"
+    },
+    {
+      "id": "pichincha-1337996362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-04",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-ANALISIS-Y/1337996362/",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-11"
     },
     {
       "id": "pichincha-1337975562",
@@ -1645,6 +1638,32 @@
       "closedOn": "2026-10-28"
     },
     {
+      "id": "pichincha-1337683162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DUENO DE PRODUCTO - COMPRA DE CARTERA",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-COMPRA-DE-CARTERA-QUIT-CELULA-MAN/1337683162/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-11-11"
+    },
+    {
+      "id": "pichincha-1337683362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL CASH MANAGEMENT B - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-COMERCIAL-CASH-MANAGEMENT-B-QUITO-QUIT-REGION-NOR/1337683362/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-11-11"
+    },
+    {
       "id": "pichincha-1336004062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -2038,19 +2057,6 @@
       "isIT": false,
       "firstSeen": "2026-10-20",
       "closedOn": "2026-10-23"
-    },
-    {
-      "id": "pichincha-1337501462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "TRABAJADOR SOCIAL - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-16",
-      "url": "https://vacantes.pichincha.com/job/QUITO-TRABAJADOR-SOCIAL-QUITO-QUIT-BIENESTAR/1337501462/",
-      "isIT": false,
-      "firstSeen": "2026-10-16",
-      "closedOn": "2026-11-01"
     },
     {
       "id": "pichincha-1336680662",

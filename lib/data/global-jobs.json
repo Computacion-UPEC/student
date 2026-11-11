@@ -2,6 +2,17 @@
   "collectedSince": "2026-11-05",
   "jobs": [
     {
+      "id": "greenhouse-stripe-8205126",
+      "company": "Stripe",
+      "title": "Product Designer, Treasury",
+      "location": "US / Canada",
+      "route": "patrocinio",
+      "canadaLmia": 17,
+      "publishedAt": "2026-11-11",
+      "url": "https://stripe.com/jobs/search?gh_jid=8205126",
+      "firstSeen": "2026-11-11"
+    },
+    {
       "id": "greenhouse-affirm-8042371003",
       "company": "Affirm",
       "title": "Software Engineer II, Fullstack (Contact Channels)",
