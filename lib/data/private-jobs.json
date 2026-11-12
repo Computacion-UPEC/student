@@ -2,28 +2,6 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
-      "id": "tigo-R135915",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Store Operations",
-      "city": "Quito",
-      "publishedAt": "2026-11-12",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Store-Operations_R135915",
-      "isIT": false,
-      "firstSeen": "2026-11-11"
-    },
-    {
-      "id": "tigo-R134810",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Coordinador Contable",
-      "city": "Quito",
-      "publishedAt": "2026-11-12",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Coordinador-Contable_R134810",
-      "isIT": false,
-      "firstSeen": "2026-11-11"
-    },
-    {
       "id": "novacero-6af4d5c56973bc90e1c6b049",
       "source": "novacero",
       "company": "Novacero",
@@ -46,15 +24,70 @@
       "firstSeen": "2026-11-12"
     },
     {
-      "id": "tigo-R135461",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Desarrollo de Producto",
-      "city": "Quito",
+      "id": "arca-1440034800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI BABAHOYO",
+      "city": null,
       "publishedAt": "2026-11-12",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Desarrollo-de-Producto_R135461",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-BABAHOYO/1440034800/",
+      "isIT": false,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "gpf-6af61d3315be95c6b9a162ff",
+      "source": "gpf",
+      "company": "FEMSA Salud (GPF)",
+      "title": "COORDINADOR DE SELECCIÓN",
+      "city": "Amaguaña",
+      "publishedAt": null,
+      "url": "https://corporaciongpf.hiringroom.com/jobs/get_vacancy/6af61d3315be95c6b9a162ff",
       "isIT": false,
       "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "pronaca-27042",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "ASISTENTE COMERCIAL",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27042",
+      "isIT": false,
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "puntonet-8723756",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "Pasante Regulación y Legal - UIO",
+      "city": "Quito",
+      "publishedAt": "2026-11-12",
+      "url": "https://puntonet.teamtailor.com/jobs/8723756-pasante-regulacion-y-legal-uio",
+      "isIT": false,
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "puntonet-8723530",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "PASANTE POSTVENTA - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-11-12",
+      "url": "https://puntonet.teamtailor.com/jobs/8723530-pasante-postventa-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "tigo-R135915",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Store Operations",
+      "city": "Quito",
+      "publishedAt": "2026-11-11",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Store-Operations_R135915",
+      "isIT": false,
+      "firstSeen": "2026-11-11"
     },
     {
       "id": "arca-1449750100",
@@ -64,17 +97,6 @@
       "city": null,
       "publishedAt": "2026-11-11",
       "url": "https://careers.arcacontal.com/job/PREVENDEDOR-AVANCE-CEDI-LATACUNGA/1449750100/",
-      "isIT": false,
-      "firstSeen": "2026-11-11"
-    },
-    {
-      "id": "arca-1449871900",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI SANTO DOMINGO",
-      "city": null,
-      "publishedAt": "2026-11-11",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-SANTO-DOMINGO/1449871900/",
       "isIT": false,
       "firstSeen": "2026-11-11"
     },
@@ -145,17 +167,6 @@
       "firstSeen": "2026-11-11"
     },
     {
-      "id": "tigo-R135887",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Comisiones",
-      "city": "Quito",
-      "publishedAt": "2026-11-11",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Comisiones_R135887",
-      "isIT": false,
-      "firstSeen": "2026-11-10"
-    },
-    {
       "id": "claro-1820",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -176,6 +187,17 @@
       "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1838",
       "isIT": false,
       "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "tigo-R135887",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Comisiones",
+      "city": "Quito",
+      "publishedAt": "2026-11-10",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Comisiones_R135887",
+      "isIT": false,
+      "firstSeen": "2026-11-10"
     },
     {
       "id": "netlife-ejecutivo-de-ventas-puerta-a-puerta-guayaquil-guayaquil",
@@ -343,17 +365,6 @@
       "firstSeen": "2026-11-10"
     },
     {
-      "id": "arca-1449653000",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR AVANCE | GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-11-10",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-AVANCE-GUAYAQUIL-SUR/1449653000/",
-      "isIT": false,
-      "firstSeen": "2026-11-11"
-    },
-    {
       "id": "claro-1835",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -449,17 +460,6 @@
       "city": null,
       "publishedAt": "2026-11-09",
       "url": "https://careers.arcacontal.com/job/OPERADOR-DE-MONTACARGAS-CEDI-MACAS/1449026100/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "arca-1449182600",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | GUAYAQUIL NORTE",
-      "city": null,
-      "publishedAt": "2026-11-09",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-GUAYAQUIL-NORTE/1449182600/",
       "isIT": false,
       "firstSeen": "2026-11-09"
     },
@@ -590,7 +590,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Data Customer Experience",
       "city": "Quito",
-      "publishedAt": "2026-11-07",
+      "publishedAt": "2026-11-06",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Data-Customer-Experience_R135783",
       "isIT": true,
       "firstSeen": "2026-11-06"
@@ -601,7 +601,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Back Office",
       "city": "Quito",
-      "publishedAt": "2026-11-07",
+      "publishedAt": "2026-11-06",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Back-Office_R135886",
       "isIT": false,
       "firstSeen": "2026-11-06"
@@ -612,7 +612,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Desarrollo de Producto Digital B2B",
       "city": "Quito",
-      "publishedAt": "2026-11-07",
+      "publishedAt": "2026-11-06",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Desarrollo-de-Producto-Digital-B2B_R135867",
       "isIT": false,
       "firstSeen": "2026-11-06"
@@ -783,28 +783,6 @@
       "firstSeen": "2026-11-09"
     },
     {
-      "id": "arca-1448493700",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | CEDI LAGO AGRIO",
-      "city": null,
-      "publishedAt": "2026-11-06",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LAGO-AGRIO/1448493700/",
-      "isIT": false,
-      "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "tigo-R135875",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Gestión Operativa",
-      "city": "Quito",
-      "publishedAt": "2026-11-06",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135875",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "pronaca-26919",
       "source": "pronaca",
       "company": "Pronaca",
@@ -959,17 +937,6 @@
       "firstSeen": "2026-11-06"
     },
     {
-      "id": "arca-1448156200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "Auxiliar de Producción",
-      "city": null,
-      "publishedAt": "2026-11-05",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-Auxiliar-de-Producci%C3%B3n-1/1448156200/",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "arca-1427282000",
       "source": "arca",
       "company": "Arca Continental",
@@ -979,17 +946,6 @@
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-TECNICO-MECANICO-PLANTA-GUAYAQUIL-60000/1427282000/",
       "isIT": false,
       "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1447653800",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "Coordinador de Gobierno de Compras",
-      "city": null,
-      "publishedAt": "2026-11-04",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-Coordinador-de-Gobierno-de-Compras-1/1447653800/",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
     },
     {
       "id": "claro-1816",
@@ -1388,28 +1344,6 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "pronaca-26844",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "GER. GESTION CALIDAD INTEGRAL (20000093)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26844",
-      "isIT": false,
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "pronaca-26728",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "GER. PLANEACION Y ANALISIS FINANCIERO (20012395)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26728",
-      "isIT": false,
-      "firstSeen": "2026-11-02"
-    },
-    {
       "id": "pronaca-26861",
       "source": "pronaca",
       "company": "Pronaca",
@@ -1428,6 +1362,17 @@
       "city": null,
       "publishedAt": null,
       "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26876",
+      "isIT": false,
+      "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "pronaca-26777",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "MECANICO PLANTA (AVE) (20001917)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26777",
       "isIT": false,
       "firstSeen": "2026-11-02"
     },
@@ -1574,17 +1519,6 @@
       "url": "https://jobdetails.nestle.com/job/Guayaquil-Auxiliar-de-Producci%C3%B3n-17-03-4574/1452721733/",
       "isIT": false,
       "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "arca-1445179900",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR AVANCE | CEDI GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-10-29",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-AVANCE-CEDI-GUAYAQUIL-SUR/1445179900/",
-      "isIT": false,
-      "firstSeen": "2026-10-30"
     },
     {
       "id": "difare-sub-gerente-de-producto-dyvenpro",
@@ -1853,17 +1787,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "holcim-1371887357",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Operador/ra de Mantenimiento - Daule, Loma Alta",
-      "city": "Daule",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Operadorra-de-Mantenimiento-Daule%2C-Loma-Alta/1371887357/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "holcim-804121202",
       "source": "holcim",
       "company": "Holcim Ecuador",
@@ -1915,17 +1838,6 @@
       "city": "Quito • Quito",
       "publishedAt": null,
       "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Quito-Pasante-Administrativo-Gerencia-General-Quito-Norte-P-170138/1373386557/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "holcim-1367943657",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Pasante Comercial - Ambato",
-      "city": "EC",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-Comercial-Ambato/1367943657/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -3316,28 +3228,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "difare-trabajador-social-guayaquil",
-      "source": "difare",
-      "company": "Difare",
-      "title": "TRABAJADOR SOCIAL GUAYAQUIL",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/trabajador-social-guayaquil/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-analista-de-data-e-inteligencia-comemercial-guayaquil",
-      "source": "difare",
-      "company": "Difare",
-      "title": "ANALISTA DE DATA E INTELIGENCIA COMEMERCIAL GUAYAQUIL",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/analista-de-data-e-inteligencia-comemercial-guayaquil/",
-      "isIT": true,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "difare-analista-de-jefatura-de-producto",
       "source": "difare",
       "company": "Difare",
@@ -3550,6 +3440,17 @@
       "firstSeen": "2026-10-22"
     },
     {
+      "id": "holcim-1375017857",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Pasante Comercial - Cuenca",
+      "city": "Cuenca",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-Comercial-Cuenca/1375017857/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "arca-1442052200",
       "source": "arca",
       "company": "Arca Continental",
@@ -3616,17 +3517,6 @@
       "firstSeen": "2026-11-03"
     },
     {
-      "id": "arca-1440655500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PASANTE | GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-10-15",
-      "url": "https://careers.arcacontal.com/job/PASANTE-GUAYAQUIL-SUR/1440655500/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "elrosado-12273",
       "source": "elrosado",
       "company": "Corporación El Rosado",
@@ -3687,17 +3577,6 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "arca-1440034800",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI BABAHOYO",
-      "city": null,
-      "publishedAt": "2026-10-14",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-BABAHOYO/1440034800/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "puntonet-8541945",
       "source": "puntonet",
       "company": "PuntoNet",
@@ -3740,6 +3619,17 @@
       "url": "https://puntonet.teamtailor.com/jobs/8541929-analista-de-salud-y-seguridad-ocupacional-quito",
       "isIT": false,
       "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "arca-1439349900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AUXILIAR ADMINISTRATIVO (D) | CEDI LA LIBERTAD",
+      "city": null,
+      "publishedAt": "2026-10-12",
+      "url": "https://careers.arcacontal.com/job/AUXILIAR-ADMINISTRATIVO-%28D%29-CEDI-LA-LIBERTAD/1439349900/",
+      "isIT": false,
+      "firstSeen": "2026-10-24"
     },
     {
       "id": "puntonet-8520202",
@@ -5824,6 +5714,42 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "tigo-R134810",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Coordinador Contable",
+      "city": "Quito",
+      "publishedAt": "2026-11-12",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Coordinador-Contable_R134810",
+      "isIT": false,
+      "firstSeen": "2026-11-11",
+      "closedOn": "2026-11-12"
+    },
+    {
+      "id": "tigo-R135461",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Desarrollo de Producto",
+      "city": "Quito",
+      "publishedAt": "2026-11-12",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Desarrollo-de-Producto_R135461",
+      "isIT": false,
+      "firstSeen": "2026-11-12",
+      "closedOn": "2026-11-12"
+    },
+    {
+      "id": "arca-1449871900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI SANTO DOMINGO",
+      "city": null,
+      "publishedAt": "2026-11-11",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-SANTO-DOMINGO/1449871900/",
+      "isIT": false,
+      "firstSeen": "2026-11-11",
+      "closedOn": "2026-11-12"
+    },
+    {
       "id": "tigo-R135186",
       "source": "tigo",
       "company": "Tigo (ex Movistar)",
@@ -5846,6 +5772,18 @@
       "isIT": false,
       "firstSeen": "2026-11-03",
       "closedOn": "2026-11-11"
+    },
+    {
+      "id": "arca-1449653000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR AVANCE | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-11-10",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-AVANCE-GUAYAQUIL-SUR/1449653000/",
+      "isIT": false,
+      "firstSeen": "2026-11-11",
+      "closedOn": "2026-11-12"
     },
     {
       "id": "tigo-R135879",
@@ -5884,6 +5822,18 @@
       "closedOn": "2026-11-10"
     },
     {
+      "id": "arca-1449182600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | GUAYAQUIL NORTE",
+      "city": null,
+      "publishedAt": "2026-11-09",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-GUAYAQUIL-NORTE/1449182600/",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-12"
+    },
+    {
       "id": "arca-1449184000",
       "source": "arca",
       "company": "Arca Continental",
@@ -5906,6 +5856,30 @@
       "isIT": false,
       "firstSeen": "2026-11-09",
       "closedOn": "2026-11-10"
+    },
+    {
+      "id": "arca-1448493700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI LAGO AGRIO",
+      "city": null,
+      "publishedAt": "2026-11-06",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LAGO-AGRIO/1448493700/",
+      "isIT": false,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-12"
+    },
+    {
+      "id": "tigo-R135875",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Gestión Operativa",
+      "city": "Quito",
+      "publishedAt": "2026-11-06",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135875",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-12"
     },
     {
       "id": "claro-1832",
@@ -5954,6 +5928,18 @@
       "isIT": true,
       "firstSeen": "2026-11-06",
       "closedOn": "2026-11-10"
+    },
+    {
+      "id": "arca-1448156200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "Auxiliar de Producción",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-Auxiliar-de-Producci%C3%B3n-1/1448156200/",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-12"
     },
     {
       "id": "arca-1448269200",
@@ -6038,6 +6024,18 @@
       "isIT": false,
       "firstSeen": "2026-11-04",
       "closedOn": "2026-11-05"
+    },
+    {
+      "id": "arca-1447653800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "Coordinador de Gobierno de Compras",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-Coordinador-de-Gobierno-de-Compras-1/1447653800/",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-12"
     },
     {
       "id": "arca-1447857600",
@@ -6304,6 +6302,30 @@
       "closedOn": "2026-11-04"
     },
     {
+      "id": "pronaca-26844",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "GER. GESTION CALIDAD INTEGRAL (20000093)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26844",
+      "isIT": false,
+      "firstSeen": "2026-11-02",
+      "closedOn": "2026-11-12"
+    },
+    {
+      "id": "pronaca-26728",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "GER. PLANEACION Y ANALISIS FINANCIERO (20012395)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26728",
+      "isIT": false,
+      "firstSeen": "2026-11-02",
+      "closedOn": "2026-11-12"
+    },
+    {
       "id": "pronaca-26921",
       "source": "pronaca",
       "company": "Pronaca",
@@ -6347,18 +6369,6 @@
       "city": null,
       "publishedAt": null,
       "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26803",
-      "isIT": false,
-      "firstSeen": "2026-11-02",
-      "closedOn": "2026-11-07"
-    },
-    {
-      "id": "pronaca-26777",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "MECANICO PLANTA (AVE) (20001917)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26777",
       "isIT": false,
       "firstSeen": "2026-11-02",
       "closedOn": "2026-11-07"
@@ -6506,6 +6516,18 @@
       "isIT": false,
       "firstSeen": "2026-10-26",
       "closedOn": "2026-10-31"
+    },
+    {
+      "id": "arca-1445179900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR AVANCE | CEDI GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-29",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-AVANCE-CEDI-GUAYAQUIL-SUR/1445179900/",
+      "isIT": false,
+      "firstSeen": "2026-10-30",
+      "closedOn": "2026-11-12"
     },
     {
       "id": "nestle-1452549133",
@@ -6988,6 +7010,54 @@
       "closedOn": "2026-10-24"
     },
     {
+      "id": "holcim-1371887357",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Operador/ra de Mantenimiento - Daule, Loma Alta",
+      "city": "Daule",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Operadorra-de-Mantenimiento-Daule%2C-Loma-Alta/1371887357/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-12"
+    },
+    {
+      "id": "holcim-1367943657",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Pasante Comercial - Ambato",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-Comercial-Ambato/1367943657/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-12"
+    },
+    {
+      "id": "difare-trabajador-social-guayaquil",
+      "source": "difare",
+      "company": "Difare",
+      "title": "TRABAJADOR SOCIAL GUAYAQUIL",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/trabajador-social-guayaquil/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-12"
+    },
+    {
+      "id": "difare-analista-de-data-e-inteligencia-comemercial-guayaquil",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ANALISTA DE DATA E INTELIGENCIA COMEMERCIAL GUAYAQUIL",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/analista-de-data-e-inteligencia-comemercial-guayaquil/",
+      "isIT": true,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-12"
+    },
+    {
       "id": "holcim-1371900057",
       "source": "holcim",
       "company": "Holcim Ecuador",
@@ -7034,18 +7104,6 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-11-10"
-    },
-    {
-      "id": "holcim-1375017857",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Pasante Comercial - Cuenca",
-      "city": "Cuenca",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-Comercial-Cuenca/1375017857/",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-11-09"
     },
     {
       "id": "holcim-1375146757",
@@ -7612,6 +7670,18 @@
       "closedOn": "2026-10-27"
     },
     {
+      "id": "arca-1440655500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PASANTE | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-15",
+      "url": "https://careers.arcacontal.com/job/PASANTE-GUAYAQUIL-SUR/1440655500/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-12"
+    },
+    {
       "id": "arca-1440678400",
       "source": "arca",
       "company": "Arca Continental",
@@ -7838,18 +7908,6 @@
       "isIT": true,
       "firstSeen": "2026-10-24",
       "closedOn": "2026-10-27"
-    },
-    {
-      "id": "arca-1439349900",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "AUXILIAR ADMINISTRATIVO (D) | CEDI LA LIBERTAD",
-      "city": null,
-      "publishedAt": "2026-10-12",
-      "url": "https://careers.arcacontal.com/job/AUXILIAR-ADMINISTRATIVO-%28D%29-CEDI-LA-LIBERTAD/1439349900/",
-      "isIT": false,
-      "firstSeen": "2026-10-24",
-      "closedOn": "2026-11-02"
     },
     {
       "id": "arca-1439225500",

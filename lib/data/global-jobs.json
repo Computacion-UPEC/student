@@ -2,6 +2,28 @@
   "collectedSince": "2026-11-05",
   "jobs": [
     {
+      "id": "greenhouse-affirm-8199421003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (ML Feature Platform)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-12",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8199421003",
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "greenhouse-affirm-8201465003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (ML Training and Serving)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-12",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8201465003",
+      "firstSeen": "2026-11-12"
+    },
+    {
       "id": "greenhouse-stripe-8205126",
       "company": "Stripe",
       "title": "Product Designer, Treasury",
@@ -494,17 +516,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "greenhouse-affirm-8010610003",
-      "company": "Affirm",
-      "title": "Software Engineer II, Frontend (Marketing and Privacy)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-10-08",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8010610003",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "greenhouse-stripe-8209967",
       "company": "Stripe",
       "title": "Staff Software Engineer, High Availability and Disaster Recovery",
@@ -513,17 +524,6 @@
       "canadaLmia": 17,
       "publishedAt": "2026-10-08",
       "url": "https://stripe.com/jobs/search?gh_jid=8209967",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-stripe-8260985",
-      "company": "Stripe",
-      "title": "Backend Engineer, Payments & Risk",
-      "location": "Toronto, Canada",
-      "route": "patrocinio",
-      "canadaLmia": 17,
-      "publishedAt": "2026-10-07",
-      "url": "https://stripe.com/jobs/search?gh_jid=8260985",
       "firstSeen": "2026-11-05"
     },
     {
@@ -974,6 +974,17 @@
       "route": "remoto",
       "publishedAt": "2026-07-17",
       "url": "https://jobs.ashbyhq.com/supabase/b75ba81e-54cc-4393-a575-bc41776b0113",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-affirm-7727322003",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Test Infra)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-07-10",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2080,6 +2091,18 @@
       "closedOn": "2026-11-06"
     },
     {
+      "id": "greenhouse-affirm-8010610003",
+      "company": "Affirm",
+      "title": "Software Engineer II, Frontend (Marketing and Privacy)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-10-08",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8010610003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-12"
+    },
+    {
       "id": "greenhouse-affirm-8012043003",
       "company": "Affirm",
       "title": "Software Engineer II, Backend (Online Storage)",
@@ -2090,6 +2113,18 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8012043003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-06"
+    },
+    {
+      "id": "greenhouse-stripe-8260985",
+      "company": "Stripe",
+      "title": "Backend Engineer, Payments & Risk",
+      "location": "Toronto, Canada",
+      "route": "patrocinio",
+      "canadaLmia": 17,
+      "publishedAt": "2026-10-07",
+      "url": "https://stripe.com/jobs/search?gh_jid=8260985",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-12"
     },
     {
       "id": "greenhouse-affirm-8003018003",
@@ -2182,18 +2217,6 @@
       "route": "remoto",
       "publishedAt": "2026-08-04",
       "url": "https://jobs.ashbyhq.com/supabase/59083a14-b2b6-4dd8-8037-739aa1ad1e22",
-      "firstSeen": "2026-11-05",
-      "closedOn": "2026-11-10"
-    },
-    {
-      "id": "greenhouse-affirm-7727322003",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Test Infra)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-07-10",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-10"
     },

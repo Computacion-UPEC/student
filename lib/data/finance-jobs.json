@@ -38,6 +38,18 @@
       "firstSeen": "2026-11-12"
     },
     {
+      "id": "pichincha-1338216062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS PYMES - TSACHILAS",
+      "province": "SANTO DOMINGO DE LOS TSACHILAS",
+      "city": "SANTO DOMINGO",
+      "publishedAt": "2026-11-12",
+      "url": "https://vacantes.pichincha.com/job/SANTO-DOMINGO-OFICIAL-COMERCIAL-Y-SERVICIOS-PYMES-TSACHILAS-SANT-ZONA-ESMER/1338216062/",
+      "isIT": false,
+      "firstSeen": "2026-11-12"
+    },
+    {
       "id": "pichincha-1331181562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -201,18 +213,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1338081162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO DE CREDITO C - AMBATO",
-      "province": "TUNGURAHUA",
-      "city": "AMBATO",
-      "publishedAt": "2026-11-07",
-      "url": "https://vacantes.pichincha.com/job/AMBATO-EJECUTIVO-DE-CREDITO-C-AMBATO-AMBA-ZONA-SIERR/1338081162/",
-      "isIT": false,
-      "firstSeen": "2026-11-07"
-    },
-    {
       "id": "pichincha-1338081262",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -233,18 +233,6 @@
       "city": "QUITO",
       "publishedAt": "2026-11-07",
       "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-DE-CREDITO-C-AG_-CALDERON-QUIT-ZONA-QUITO/1338081362/",
-      "isIT": false,
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "pichincha-1338071762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL Y SERVICIOS - EL EMPALME",
-      "province": "GUAYAS",
-      "city": "EL EMPALME",
-      "publishedAt": "2026-11-06",
-      "url": "https://vacantes.pichincha.com/job/EL-EMPALME-OFICIAL-COMERCIAL-Y-SERVICIOS-EL-EMPALME-GUAY-ZONA-COSTA/1338071762/",
       "isIT": false,
       "firstSeen": "2026-11-07"
     },
@@ -462,30 +450,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-CUMPLIMIENTO-NORMATIVO-Y-REGULATORIO-QUITO-QUIT-CUMPLIMIEN/1337859462/",
       "isIT": false,
       "firstSeen": "2026-10-30"
-    },
-    {
-      "id": "pichincha-1337805362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL RIESGO TECNOLOGICO - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-28",
-      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-RIESGO-TECNOLOGICO-QUITO-QUIT-RIESGO-TEC/1337805362/",
-      "isIT": false,
-      "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "pichincha-1337801462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO MARCO NORMATIVO CIBERSEGURIDAD - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-28",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-MARCO-NORMATIVO-CIBERSEGURIDAD-QUITO-QUIT-MARCO-NORM/1337801462/",
-      "isIT": true,
-      "firstSeen": "2026-10-28"
     },
     {
       "id": "pagueya-6ae0c9e4a2045997eaee439c",
@@ -993,18 +957,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337515662",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DISENADOR DE EXPERIENCIA - UIO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-16",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-UIO-QUIT-DISENO-DE/1337515662/",
-      "isIT": true,
-      "firstSeen": "2026-10-17"
-    },
-    {
       "id": "pichincha-1337501462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1029,6 +981,42 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1337283362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASISTENTE SERVICIOS COMPARTIDOS RRHH - EVENTUAL (UIO)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-08",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ASISTENTE-SERVICIOS-COMPARTIDOS-RRHH-EVENTUAL-%28UIO%29-QUIT-SERVICIOS/1337283362/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337185762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "JEFE COMERCIAL Y SERVICIOS - RIOBAMBA",
+      "province": "CHIMBORAZO",
+      "city": "RIOBAMBA",
+      "publishedAt": "2026-10-05",
+      "url": "https://vacantes.pichincha.com/job/RIOBAMBA-JEFE-COMERCIAL-Y-SERVICIOS-RIOBAMBA-RIOB-ZONA-SUR-O/1337185762/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1336860362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "JEFE COMERCIAL Y SERVICIOS - CENTRO DE NEGOCIOS LAS ABRAS (RIOBAMBA)",
+      "province": "CHIMBORAZO",
+      "city": "RIOBAMBA",
+      "publishedAt": "2026-09-23",
+      "url": "https://vacantes.pichincha.com/job/RIOBAMBA-JEFE-COMERCIAL-Y-SERVICIOS-CENTRO-DE-NEGOCIOS-LAS-ABRAS-%28RIOBAMBA%29-RIOB-ZONA-SUR-O/1336860362/",
+      "isIT": false,
+      "firstSeen": "2026-11-12"
+    },
+    {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
       "source": "cacpeco",
       "institution": "CACPECO",
@@ -1049,6 +1037,19 @@
       "url": "https://quierolaburo.com/empresas/cacpeco",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "pichincha-1338081162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO C - AMBATO",
+      "province": "TUNGURAHUA",
+      "city": "AMBATO",
+      "publishedAt": "2026-11-07",
+      "url": "https://vacantes.pichincha.com/job/AMBATO-EJECUTIVO-DE-CREDITO-C-AMBATO-AMBA-ZONA-SIERR/1338081162/",
+      "isIT": false,
+      "firstSeen": "2026-11-07",
+      "closedOn": "2026-11-12"
     },
     {
       "id": "pichincha-1335624762",
@@ -1075,6 +1076,19 @@
       "isIT": false,
       "firstSeen": "2026-10-26",
       "closedOn": "2026-11-07"
+    },
+    {
+      "id": "pichincha-1338071762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - EL EMPALME",
+      "province": "GUAYAS",
+      "city": "EL EMPALME",
+      "publishedAt": "2026-11-06",
+      "url": "https://vacantes.pichincha.com/job/EL-EMPALME-OFICIAL-COMERCIAL-Y-SERVICIOS-EL-EMPALME-GUAY-ZONA-COSTA/1338071762/",
+      "isIT": false,
+      "firstSeen": "2026-11-07",
+      "closedOn": "2026-11-12"
     },
     {
       "id": "pichincha-1338075862",
@@ -1440,6 +1454,32 @@
       "isIT": false,
       "firstSeen": "2026-10-21",
       "closedOn": "2026-11-01"
+    },
+    {
+      "id": "pichincha-1337805362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL RIESGO TECNOLOGICO - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-28",
+      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-RIESGO-TECNOLOGICO-QUITO-QUIT-RIESGO-TEC/1337805362/",
+      "isIT": false,
+      "firstSeen": "2026-10-28",
+      "closedOn": "2026-11-12"
+    },
+    {
+      "id": "pichincha-1337801462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO MARCO NORMATIVO CIBERSEGURIDAD - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-28",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-MARCO-NORMATIVO-CIBERSEGURIDAD-QUITO-QUIT-MARCO-NORM/1337801462/",
+      "isIT": true,
+      "firstSeen": "2026-10-28",
+      "closedOn": "2026-11-12"
     },
     {
       "id": "pichincha-1337799362",
@@ -2083,6 +2123,19 @@
       "closedOn": "2026-10-23"
     },
     {
+      "id": "pichincha-1337515662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DISENADOR DE EXPERIENCIA - UIO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-16",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-UIO-QUIT-DISENO-DE/1337515662/",
+      "isIT": true,
+      "firstSeen": "2026-10-17",
+      "closedOn": "2026-11-12"
+    },
+    {
       "id": "pichincha-1336680662",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -2395,19 +2448,6 @@
       "closedOn": "2026-10-17"
     },
     {
-      "id": "pichincha-1337283362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ASISTENTE SERVICIOS COMPARTIDOS RRHH - EVENTUAL (UIO)",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-08",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ASISTENTE-SERVICIOS-COMPARTIDOS-RRHH-EVENTUAL-%28UIO%29-QUIT-SERVICIOS/1337283362/",
-      "isIT": false,
-      "firstSeen": "2026-10-16",
-      "closedOn": "2026-10-31"
-    },
-    {
       "id": "pichincha-1337300662",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -2536,19 +2576,6 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337185762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "JEFE COMERCIAL Y SERVICIOS - RIOBAMBA",
-      "province": "CHIMBORAZO",
-      "city": "RIOBAMBA",
-      "publishedAt": "2026-10-05",
-      "url": "https://vacantes.pichincha.com/job/RIOBAMBA-JEFE-COMERCIAL-Y-SERVICIOS-RIOBAMBA-RIOB-ZONA-SUR-O/1337185762/",
-      "isIT": false,
-      "firstSeen": "2026-10-16",
-      "closedOn": "2026-10-24"
     },
     {
       "id": "pichincha-1337144362",

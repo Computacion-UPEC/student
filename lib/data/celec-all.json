@@ -2,6 +2,22 @@
   "source": "https://www.celec.gob.ec",
   "calls": [
     {
+      "unit": "Gensur",
+      "role": "CONVOCATORIA: ESPECIALISTA EN METROLOGÍA EN GENERACIÓN HIDRÁULICA",
+      "eligibility": "Sin requisitos legibles - revisar",
+      "publishedAt": "2026-11-12",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/gensur/uncategorized/convocatoria-especialista-en-metrologia-en-generacion-hidraulica/"
+    },
+    {
+      "unit": "Termopichincha",
+      "role": "Convocatoria para el Proceso de Selección simple Especialista Financiero (1).",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-12",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/termopichincha/uncategorized/convocatoria-para-el-proceso-de-seleccion-simple-especialista-financiero-1/"
+    },
+    {
       "unit": "Hidronación",
       "role": "Convocatoria para el Proceso de Selección Simple – Especialista de Salud Ocupacional",
       "eligibility": "No aplica",

@@ -79,17 +79,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "devsu-B9A9743D82",
-      "company": "Devsu",
-      "title": "Lider QA - Sector Financiero/Bancario",
-      "city": "Quito",
-      "remote": false,
-      "publishedAt": "2026-10-05",
-      "url": "https://apply.workable.com/j/B9A9743D82",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "stackbuilders-ABE1D9F356",
       "company": "Stack Builders",
       "title": "Product Engineering Manager - AI-first software delivery (Quito, Ecuador)",
@@ -244,17 +233,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "devsu-ED84C9DB19",
-      "company": "Devsu",
-      "title": "Sr Business Analyst - Sector Bancario",
-      "city": "Quito",
-      "remote": false,
-      "publishedAt": "2026-07-24",
-      "url": "https://apply.workable.com/j/ED84C9DB19",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "devsu-67342A72A1",
       "company": "Devsu",
       "title": "Senior QA Automation Engineer (Mobile & API Testing)",
@@ -358,6 +336,18 @@
       "closedOn": "2026-10-23"
     },
     {
+      "id": "devsu-B9A9743D82",
+      "company": "Devsu",
+      "title": "Lider QA - Sector Financiero/Bancario",
+      "city": "Quito",
+      "remote": false,
+      "publishedAt": "2026-10-05",
+      "url": "https://apply.workable.com/j/B9A9743D82",
+      "isIT": true,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-11-12"
+    },
+    {
       "id": "devsu-56D7514D0E",
       "company": "Devsu",
       "title": "IT Project Manager - Sector Financiero/Bancario",
@@ -380,6 +370,18 @@
       "isIT": true,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-20"
+    },
+    {
+      "id": "devsu-ED84C9DB19",
+      "company": "Devsu",
+      "title": "Sr Business Analyst - Sector Bancario",
+      "city": "Quito",
+      "remote": false,
+      "publishedAt": "2026-07-24",
+      "url": "https://apply.workable.com/j/ED84C9DB19",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-11-12"
     }
   ]
 }
