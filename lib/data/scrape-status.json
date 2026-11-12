@@ -84,7 +84,7 @@
   "failing": {
     "Tiendas Tuti": {
       "since": "2026-11-09",
-      "runs": 5
+      "runs": 6
     }
   }
 }

@@ -2,6 +2,20 @@
   "source": "https://www.ecuadorencifras.gob.ec/institucional/trabaja-con-nosotros/",
   "jobs": [
     {
+      "id": "Convocatoria_modernizacion_ac_11_nov.pdf#Servicio de transporte de camionetas",
+      "title": "Servicio de transporte de camionetas",
+      "group": "Servicio de transporte",
+      "contract": "Contratación pública",
+      "project": "Modernización de la Producción de Estadísticas Económicas Oficiales del Ecuador",
+      "place": "Administración Central",
+      "deadlineText": "Hasta las 16h00 del 19 de noviembre de 2026",
+      "closesAt": "2026-11-19T16:00:00-05:00",
+      "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Trabaja_con_Nosotros/2026/Convocatoria_modernizacion_ac_11_nov.pdf",
+      "isIT": false,
+      "firstSeen": "2026-11-12",
+      "applyUrl": null
+    },
+    {
       "id": "CONVOCATORIA_ADM_CENTRAL_IPC_11_nov.pdf#Supervisor de operativo de campo",
       "title": "Supervisor de operativo de campo",
       "group": "Civil",

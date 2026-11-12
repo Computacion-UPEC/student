@@ -2,6 +2,61 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "tigo-R135915",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Store Operations",
+      "city": "Quito",
+      "publishedAt": "2026-11-12",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Store-Operations_R135915",
+      "isIT": false,
+      "firstSeen": "2026-11-11"
+    },
+    {
+      "id": "tigo-R134810",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Coordinador Contable",
+      "city": "Quito",
+      "publishedAt": "2026-11-12",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Coordinador-Contable_R134810",
+      "isIT": false,
+      "firstSeen": "2026-11-11"
+    },
+    {
+      "id": "novacero-6af4d5c56973bc90e1c6b049",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "PASANTE DE ADMINISTRACIÓN DE PROYECTOS - GUAYAQUIL",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6af4d5c56973bc90e1c6b049",
+      "isIT": false,
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "difare-asistente-de-operaciones-guayaquil",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ASISTENTE DE OPERACIONES GUAYAQUIL",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/asistente-de-operaciones-guayaquil/",
+      "isIT": false,
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "tigo-R135461",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Desarrollo de Producto",
+      "city": "Quito",
+      "publishedAt": "2026-11-12",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Desarrollo-de-Producto_R135461",
+      "isIT": false,
+      "firstSeen": "2026-11-12"
+    },
+    {
       "id": "arca-1449750100",
       "source": "arca",
       "company": "Arca Continental",
@@ -68,28 +123,6 @@
       "firstSeen": "2026-11-11"
     },
     {
-      "id": "tigo-R135915",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Store Operations",
-      "city": "Quito",
-      "publishedAt": "2026-11-11",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Store-Operations_R135915",
-      "isIT": false,
-      "firstSeen": "2026-11-11"
-    },
-    {
-      "id": "tigo-R134810",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Coordinador Contable",
-      "city": "Quito",
-      "publishedAt": "2026-11-11",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Coordinador-Contable_R134810",
-      "isIT": false,
-      "firstSeen": "2026-11-11"
-    },
-    {
       "id": "nestle-1456478133",
       "source": "nestle",
       "company": "Nestlé Ecuador",
@@ -117,10 +150,32 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Comisiones",
       "city": "Quito",
-      "publishedAt": "2026-11-10",
+      "publishedAt": "2026-11-11",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Comisiones_R135887",
       "isIT": false,
       "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "claro-1820",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "INGENIERO DE MEJORA CONTINUA Y TRANSFORMACION DIGITAL",
+      "city": null,
+      "publishedAt": "2026-11-11",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1820",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "claro-1838",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ANALISTA DE PRODUCTO",
+      "city": null,
+      "publishedAt": "2026-11-11",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1838",
+      "isIT": false,
+      "firstSeen": "2026-11-12"
     },
     {
       "id": "netlife-ejecutivo-de-ventas-puerta-a-puerta-guayaquil-guayaquil",
@@ -535,7 +590,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Data Customer Experience",
       "city": "Quito",
-      "publishedAt": "2026-11-06",
+      "publishedAt": "2026-11-07",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Data-Customer-Experience_R135783",
       "isIT": true,
       "firstSeen": "2026-11-06"
@@ -546,7 +601,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Back Office",
       "city": "Quito",
-      "publishedAt": "2026-11-06",
+      "publishedAt": "2026-11-07",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Back-Office_R135886",
       "isIT": false,
       "firstSeen": "2026-11-06"
@@ -557,7 +612,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Desarrollo de Producto Digital B2B",
       "city": "Quito",
-      "publishedAt": "2026-11-06",
+      "publishedAt": "2026-11-07",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Desarrollo-de-Producto-Digital-B2B_R135867",
       "isIT": false,
       "firstSeen": "2026-11-06"
@@ -744,7 +799,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Gestión Operativa",
       "city": "Quito",
-      "publishedAt": "2026-11-05",
+      "publishedAt": "2026-11-06",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135875",
       "isIT": false,
       "firstSeen": "2026-11-05"
@@ -1587,28 +1642,6 @@
       "url": "https://empleo.elrosado.com/Postulante/frmAplicacionSociedad",
       "isIT": false,
       "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "nestle-1452322633",
-      "source": "nestle",
-      "company": "Nestlé Ecuador",
-      "title": "Pasante de Marketing Confites",
-      "city": "GUAYAQUIL",
-      "publishedAt": "2026-10-28",
-      "url": "https://jobdetails.nestle.com/job/GUAYAQUIL-Pasante-de-Marketing-Confites-17-03-4574/1452322633/",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "arca-1444654800",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR A. UNIVERSAL | CEDI SANTO DOMINGO",
-      "city": null,
-      "publishedAt": "2026-10-28",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-SANTO-DOMINGO/1444654800/",
-      "isIT": false,
-      "firstSeen": "2026-10-28"
     },
     {
       "id": "novacero-6adfbe9210f80e9c370a3b33",
@@ -3526,6 +3559,17 @@
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AUXILIAR-ADMINISTRATIVA-PLANTA-GUAYAQUIL-60000/1442052200/",
       "isIT": false,
       "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "arca-1441337200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ANALISTA DE NÓMINA | CEDI VALLE",
+      "city": null,
+      "publishedAt": "2026-10-19",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-ANALISTA-DE-N%C3%93MINA-CEDI-VALLE-Dip-Quit/1441337200/",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
     },
     {
       "id": "claro-1802",
@@ -5936,18 +5980,6 @@
       "closedOn": "2026-11-10"
     },
     {
-      "id": "claro-1820",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "INGENIERO DE MEJORA CONTINUA Y TRANSFORMACION DIGITAL",
-      "city": null,
-      "publishedAt": "2026-11-05",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1820",
-      "isIT": false,
-      "firstSeen": "2026-11-05",
-      "closedOn": "2026-11-10"
-    },
-    {
       "id": "arca-1448270400",
       "source": "arca",
       "company": "Arca Continental",
@@ -6606,6 +6638,30 @@
       "isIT": false,
       "firstSeen": "2026-11-03",
       "closedOn": "2026-11-04"
+    },
+    {
+      "id": "nestle-1452322633",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Pasante de Marketing Confites",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-10-28",
+      "url": "https://jobdetails.nestle.com/job/GUAYAQUIL-Pasante-de-Marketing-Confites-17-03-4574/1452322633/",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-12"
+    },
+    {
+      "id": "arca-1444654800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR A. UNIVERSAL | CEDI SANTO DOMINGO",
+      "city": null,
+      "publishedAt": "2026-10-28",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-SANTO-DOMINGO/1444654800/",
+      "isIT": false,
+      "firstSeen": "2026-10-28",
+      "closedOn": "2026-11-12"
     },
     {
       "id": "arca-1425192200",
@@ -7470,18 +7526,6 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-27"
-    },
-    {
-      "id": "arca-1441337200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "ANALISTA DE NÓMINA | CEDI VALLE",
-      "city": null,
-      "publishedAt": "2026-10-19",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-ANALISTA-DE-N%C3%93MINA-CEDI-VALLE-Dip-Quit/1441337200/",
-      "isIT": false,
-      "firstSeen": "2026-10-23",
-      "closedOn": "2026-10-26"
     },
     {
       "id": "claro-1809",

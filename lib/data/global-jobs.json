@@ -13,6 +13,16 @@
       "firstSeen": "2026-11-11"
     },
     {
+      "id": "ashby-supabase-26f7817d-ca92-4094-a2b5-f22e07a218c4",
+      "company": "Supabase",
+      "title": "Developer Relations Engineer",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-11-11",
+      "url": "https://jobs.ashbyhq.com/supabase/26f7817d-ca92-4094-a2b5-f22e07a218c4",
+      "firstSeen": "2026-11-12"
+    },
+    {
       "id": "greenhouse-affirm-8042371003",
       "company": "Affirm",
       "title": "Software Engineer II, Fullstack (Contact Channels)",
@@ -733,7 +743,7 @@
     {
       "id": "greenhouse-stripe-8130805",
       "company": "Stripe",
-      "title": "Software Engineer, Intern (Summer or Winter)",
+      "title": "Software Engineer, Intern (Summer)",
       "location": "Toronto",
       "route": "patrocinio",
       "canadaLmia": 17,
@@ -1793,7 +1803,7 @@
       "id": "greenhouse-canonical-3748266",
       "company": "Canonical",
       "title": "Telco Cloud Field Engineer",
-      "location": "Home Based - Americas; Home based - EMEA",
+      "location": "Home Based - Americas; Home Based - APAC; Home based - EMEA",
       "route": "remoto",
       "publishedAt": "2022-04-25",
       "url": "https://job-boards.greenhouse.io/canonical/jobs/3748266",

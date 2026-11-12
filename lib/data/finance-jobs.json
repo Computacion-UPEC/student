@@ -2,6 +2,42 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1337432862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-12",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUITO-QUIT-CREDITO-PE/1337432862/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337422862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "LIDER SMO - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-12",
+      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-SMO-QUITO-QUIT-SERVICIOS/1337422862/",
+      "isIT": true,
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1334998762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "GERENTE ANALITICA AVANZADA - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-12",
+      "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-ANALITICA-AVANZADA-QUITO-QUIT-ANALITICA/1334998762/",
+      "isIT": false,
+      "firstSeen": "2026-11-12"
+    },
+    {
       "id": "pichincha-1331181562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -12,6 +48,18 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-MICROSERVICIOS-Y-APIS-%28QUITO%29-QUIT-TRIBU-INTE/1331181562/",
       "isIT": false,
       "firstSeen": "2026-11-10"
+    },
+    {
+      "id": "pichincha-1338194162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA PRODUCTO MEDIOS DE PAGO - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-11",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-PRODUCTO-MEDIOS-DE-PAGO-QUITO-QUIT-CELULA-CRO/1338194162/",
+      "isIT": false,
+      "firstSeen": "2026-11-12"
     },
     {
       "id": "pichincha-1336492862",
@@ -233,18 +281,6 @@
       "city": "QUITO",
       "publishedAt": "2026-11-05",
       "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28RIESGO-TECNOLOGICO%29-QUITO-QUIT-RIESGO-TEC/1338016962/",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "pichincha-1338017162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-05",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-MERCADO-DE/1338017162/",
       "isIT": false,
       "firstSeen": "2026-11-05"
     },
@@ -562,6 +598,18 @@
       "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac56bb70ba3c4c66e7b725c",
       "isIT": false,
       "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "pichincha-1337683162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DUENO DE PRODUCTO - COMPRA DE CARTERA",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-COMPRA-DE-CARTERA-QUIT-CELULA-MAN/1337683162/",
+      "isIT": false,
+      "firstSeen": "2026-10-23"
     },
     {
       "id": "pichincha-1337621062",
@@ -981,30 +1029,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337432862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-14",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUITO-QUIT-CREDITO-PE/1337432862/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337422862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "LIDER SMO - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-14",
-      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-SMO-QUITO-QUIT-SERVICIOS/1337422862/",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
       "source": "cacpeco",
       "institution": "CACPECO",
@@ -1149,6 +1173,19 @@
       "isIT": false,
       "firstSeen": "2026-11-07",
       "closedOn": "2026-11-09"
+    },
+    {
+      "id": "pichincha-1338017162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-05",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-MERCADO-DE/1338017162/",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-12"
     },
     {
       "id": "pichincha-1338032162",
@@ -1636,19 +1673,6 @@
       "isIT": false,
       "firstSeen": "2026-10-24",
       "closedOn": "2026-10-28"
-    },
-    {
-      "id": "pichincha-1337683162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DUENO DE PRODUCTO - COMPRA DE CARTERA",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-22",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-COMPRA-DE-CARTERA-QUIT-CELULA-MAN/1337683162/",
-      "isIT": false,
-      "firstSeen": "2026-10-23",
-      "closedOn": "2026-11-11"
     },
     {
       "id": "pichincha-1337683362",
