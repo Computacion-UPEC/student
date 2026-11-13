@@ -2,6 +2,16 @@
   "collectedSince": "2026-11-05",
   "jobs": [
     {
+      "id": "greenhouse-lyft-8940409002",
+      "company": "Lyft",
+      "title": "Data Engineer, Marketplace",
+      "location": "Ukraine Anywhere",
+      "route": "remoto",
+      "publishedAt": "2026-11-13",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8940409002?gh_jid=8940409002",
+      "firstSeen": "2026-11-13"
+    },
+    {
       "id": "greenhouse-affirm-8199421003",
       "company": "Affirm",
       "title": "Senior Software Engineer, Backend (ML Feature Platform)",
@@ -551,7 +561,7 @@
     {
       "id": "greenhouse-stripe-8203975",
       "company": "Stripe",
-      "title": "Integration Engineer",
+      "title": "Integration Engineer, Professional Services",
       "location": "Toronto or Chicago",
       "route": "patrocinio",
       "canadaLmia": 17,

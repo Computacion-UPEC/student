@@ -181,17 +181,6 @@
       "firstSeen": "2026-11-10"
     },
     {
-      "id": "bce-6af251253e8a631dd6465d34",
-      "source": "bce",
-      "institution": "Banco Central del Ecuador",
-      "title": "Odontólogo",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6af251253e8a631dd6465d34",
-      "isIT": false,
-      "firstSeen": "2026-11-10"
-    },
-    {
       "id": "pichincha-1338137062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -258,17 +247,6 @@
       "city": "Quito",
       "publishedAt": null,
       "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6a739197fd656f3c39247a31",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "bce-6aecf11aad7a1245cf47be6d",
-      "source": "bce",
-      "institution": "Banco Central del Ecuador",
-      "title": "Médico Ocupacional",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aecf11aad7a1245cf47be6d",
       "isIT": false,
       "firstSeen": "2026-11-09"
     },
@@ -389,18 +367,6 @@
       "city": "QUITO",
       "publishedAt": "2026-11-05",
       "url": "https://vacantes.pichincha.com/job/QUITO-AUDITOR-B-QUITO-QUIT-AUDITORIA/1338020062/",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "pichincha-1338032462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO DE CREDITO B - LA TRONCAL",
-      "province": "CAÑAR",
-      "city": "LA TRONCAL",
-      "publishedAt": "2026-11-05",
-      "url": "https://vacantes.pichincha.com/job/LA-TRONCAL-EJECUTIVO-DE-CREDITO-B-LA-TRONCAL-AZOG-ZONA-COSTA/1338032462/",
       "isIT": false,
       "firstSeen": "2026-11-05"
     },
@@ -1087,6 +1053,30 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "bce-6af251253e8a631dd6465d34",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Odontólogo",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6af251253e8a631dd6465d34",
+      "isIT": false,
+      "firstSeen": "2026-11-10",
+      "closedOn": "2026-11-13"
+    },
+    {
+      "id": "bce-6aecf11aad7a1245cf47be6d",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Médico Ocupacional",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6aecf11aad7a1245cf47be6d",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-13"
+    },
+    {
       "id": "pichincha-1338081162",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1222,6 +1212,19 @@
       "isIT": false,
       "firstSeen": "2026-11-07",
       "closedOn": "2026-11-09"
+    },
+    {
+      "id": "pichincha-1338032462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO B - LA TRONCAL",
+      "province": "CAÑAR",
+      "city": "LA TRONCAL",
+      "publishedAt": "2026-11-05",
+      "url": "https://vacantes.pichincha.com/job/LA-TRONCAL-EJECUTIVO-DE-CREDITO-B-LA-TRONCAL-AZOG-ZONA-COSTA/1338032462/",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-13"
     },
     {
       "id": "pichincha-1338017162",

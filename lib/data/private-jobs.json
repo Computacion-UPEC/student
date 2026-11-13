@@ -2,28 +2,6 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
-      "id": "farmaenlace-1338233162",
-      "source": "farmaenlace",
-      "company": "Farmaenlace",
-      "title": "TECNICO DE SOPORTE JUNIOR",
-      "city": "Distrito",
-      "publishedAt": null,
-      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-TECNICO-DE-SOPORTE-JUNIOR-PICH/1338233162/",
-      "isIT": false,
-      "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "farmaenlace-1338233262",
-      "source": "farmaenlace",
-      "company": "Farmaenlace",
-      "title": "AUXILIAR DE LIMPIEZA",
-      "city": "Pichincha",
-      "publishedAt": null,
-      "url": "https://trabajaconnosotros.farmaenlace.com/job/Pichincha-AUXILIAR-DE-LIMPIEZA-PICH/1338233262/",
-      "isIT": false,
-      "firstSeen": "2026-11-13"
-    },
-    {
       "id": "pronaca-26983",
       "source": "pronaca",
       "company": "Pronaca",
@@ -31,6 +9,83 @@
       "city": null,
       "publishedAt": null,
       "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26983",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "arca-1450529500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | SANTO DOMINGO",
+      "city": null,
+      "publishedAt": "2026-11-13",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-SANTO-DOMINGO/1450529500/",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "arca-1450592700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "Vendedor (12424)",
+      "city": null,
+      "publishedAt": "2026-11-13",
+      "url": "https://careers.arcacontal.com/job/Vendedor-%2812424%29/1450592700/",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "arca-1450594200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI PLAYAS",
+      "city": null,
+      "publishedAt": "2026-11-13",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-PLAYAS/1450594200/",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "arca-1450560000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AYUDANTE DE BODEGA | CEDI BABAHOYO",
+      "city": null,
+      "publishedAt": "2026-11-13",
+      "url": "https://careers.arcacontal.com/job/RIO-Babahoyo-AYUDANTE-DE-BODEGA-CEDI-BABAHOYO-Dip-Baba/1450560000/",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "farmaenlace-1338253362",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "COSMETOLOGA",
+      "city": "Distrito",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-COSMETOLOGA/1338253362/",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "pronaca-27038",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "SUP. COMERCIAL TRADICIONAL (20000364)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27038",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "tigo-R135934",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas Austro",
+      "city": "Tienda Mall del Río",
+      "publishedAt": "2026-11-13",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-Mall-del-Ro/Ejecutivo-de-Tiendas-Austro_R135934",
       "isIT": false,
       "firstSeen": "2026-11-13"
     },
@@ -55,17 +110,6 @@
       "url": "https://difare.evaluar.com/trabajo/asistente-de-operaciones-guayaquil/",
       "isIT": false,
       "firstSeen": "2026-11-12"
-    },
-    {
-      "id": "arca-1440034800",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI BABAHOYO",
-      "city": null,
-      "publishedAt": "2026-11-12",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-BABAHOYO/1440034800/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
     },
     {
       "id": "gpf-6af61d3315be95c6b9a162ff",
@@ -112,17 +156,6 @@
       "firstSeen": "2026-11-12"
     },
     {
-      "id": "tigo-R135915",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Store Operations",
-      "city": "Quito",
-      "publishedAt": "2026-11-12",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Store-Operations_R135915",
-      "isIT": false,
-      "firstSeen": "2026-11-11"
-    },
-    {
       "id": "arca-1450364300",
       "source": "arca",
       "company": "Arca Continental",
@@ -167,6 +200,17 @@
       "firstSeen": "2026-11-13"
     },
     {
+      "id": "tigo-R135915",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Store Operations",
+      "city": "Quito",
+      "publishedAt": "2026-11-11",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Store-Operations_R135915",
+      "isIT": false,
+      "firstSeen": "2026-11-11"
+    },
+    {
       "id": "arca-1449750100",
       "source": "arca",
       "company": "Arca Continental",
@@ -178,17 +222,6 @@
       "firstSeen": "2026-11-11"
     },
     {
-      "id": "farmaenlace-1338174862",
-      "source": "farmaenlace",
-      "company": "Farmaenlace",
-      "title": "BIOQUIMICO ADMINISTRATIVO",
-      "city": "Distrito",
-      "publishedAt": null,
-      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-BIOQUIMICO-ADMINISTRATIVO-PICH/1338174862/",
-      "isIT": false,
-      "firstSeen": "2026-11-11"
-    },
-    {
       "id": "difare-subgerente-de-promocion-medica-2",
       "source": "difare",
       "company": "Difare",
@@ -196,17 +229,6 @@
       "city": "PICHINCHA",
       "publishedAt": null,
       "url": "https://difare.evaluar.com/trabajo/subgerente-de-promocion-medica-2/",
-      "isIT": false,
-      "firstSeen": "2026-11-11"
-    },
-    {
-      "id": "claro-1836",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "ASESOR SENIOR CENTRO ATENCIÓN AL CLIENTE",
-      "city": null,
-      "publishedAt": "2026-11-11",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1836",
       "isIT": false,
       "firstSeen": "2026-11-11"
     },
@@ -271,7 +293,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Comisiones",
       "city": "Quito",
-      "publishedAt": "2026-11-11",
+      "publishedAt": "2026-11-10",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Comisiones_R135887",
       "isIT": false,
       "firstSeen": "2026-11-10"
@@ -541,17 +563,6 @@
       "firstSeen": "2026-11-09"
     },
     {
-      "id": "arca-1449200900",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | GUAYAQUIL NORTE",
-      "city": null,
-      "publishedAt": "2026-11-09",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-GUAYAQUIL-NORTE/1449200900/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "arca-1449210500",
       "source": "arca",
       "company": "Arca Continental",
@@ -640,47 +651,14 @@
       "firstSeen": "2026-11-08"
     },
     {
-      "id": "arca-1448803200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI PORTOVIEJO",
-      "city": null,
-      "publishedAt": "2026-11-07",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-PORTOVIEJO/1448803200/",
-      "isIT": false,
-      "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "arca-1448803700",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | CEDI MANTA",
-      "city": null,
-      "publishedAt": "2026-11-07",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-MANTA/1448803700/",
-      "isIT": false,
-      "firstSeen": "2026-11-08"
-    },
-    {
       "id": "tigo-R135783",
       "source": "tigo",
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Data Customer Experience",
       "city": "Quito",
-      "publishedAt": "2026-11-07",
+      "publishedAt": "2026-11-06",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Data-Customer-Experience_R135783",
       "isIT": true,
-      "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "tigo-R135886",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Back Office",
-      "city": "Quito",
-      "publishedAt": "2026-11-07",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Back-Office_R135886",
-      "isIT": false,
       "firstSeen": "2026-11-06"
     },
     {
@@ -689,7 +667,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Desarrollo de Producto Digital B2B",
       "city": "Quito",
-      "publishedAt": "2026-11-07",
+      "publishedAt": "2026-11-06",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Desarrollo-de-Producto-Digital-B2B_R135867",
       "isIT": false,
       "firstSeen": "2026-11-06"
@@ -915,17 +893,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "arca-1448285900",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PASANTE ESCUELA COMERCIAL | STAFF QUITO CALDERÓN",
-      "city": null,
-      "publishedAt": "2026-11-05",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-PASANTE-ESCUELA-COMERCIAL-STAFF-QUITO-CALDER%C3%93N-00000/1448285900/",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "claro-1829",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -1001,17 +968,6 @@
       "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1766",
       "isIT": false,
       "firstSeen": "2026-10-29"
-    },
-    {
-      "id": "arca-1448382000",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "Coordinador de Modelo de Servicios (JC012054)",
-      "city": null,
-      "publishedAt": "2026-11-05",
-      "url": "https://careers.arcacontal.com/job/AZU-Cuenca-Coordinador-de-Modelo-de-Servicios-%28JC012054%29-Dip-Cuen/1448382000/",
-      "isIT": false,
-      "firstSeen": "2026-11-06"
     },
     {
       "id": "arca-1427282000",
@@ -1741,17 +1697,6 @@
       "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-MANTA/1443691500/",
       "isIT": false,
       "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "arca-1443783000",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "ESTIBADOR | CEDI CHONE",
-      "city": null,
-      "publishedAt": "2026-10-26",
-      "url": "https://careers.arcacontal.com/job/ESTIBADOR-CEDI-CHONE/1443783000/",
-      "isIT": false,
-      "firstSeen": "2026-10-27"
     },
     {
       "id": "puntonet-8615977",
@@ -3528,17 +3473,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "farmaenlace-1337477962",
-      "source": "farmaenlace",
-      "company": "Farmaenlace",
-      "title": "ANALISTA DE INFRAESTRUCTURA",
-      "city": "Distrito",
-      "publishedAt": null,
-      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-ANALISTA-DE-INFRAESTRUCTURA-PICH/1337477962/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "arca-1442052200",
       "source": "arca",
       "company": "Arca Continental",
@@ -3603,6 +3537,17 @@
       "url": "https://puntonet.teamtailor.com/jobs/8564652-ejecutivo-de-trade-marketing-guayaquil",
       "isIT": false,
       "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "arca-1440655500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PASANTE | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-10-15",
+      "url": "https://careers.arcacontal.com/job/PASANTE-GUAYAQUIL-SUR/1440655500/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
     },
     {
       "id": "elrosado-12273",
@@ -3707,17 +3652,6 @@
       "url": "https://puntonet.teamtailor.com/jobs/8541929-analista-de-salud-y-seguridad-ocupacional-quito",
       "isIT": false,
       "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "arca-1439349900",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "AUXILIAR ADMINISTRATIVO (D) | CEDI LA LIBERTAD",
-      "city": null,
-      "publishedAt": "2026-10-12",
-      "url": "https://careers.arcacontal.com/job/AUXILIAR-ADMINISTRATIVO-%28D%29-CEDI-LA-LIBERTAD/1439349900/",
-      "isIT": false,
-      "firstSeen": "2026-10-24"
     },
     {
       "id": "puntonet-8520202",
@@ -5791,6 +5725,42 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "farmaenlace-1338233162",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "TECNICO DE SOPORTE JUNIOR",
+      "city": "Distrito",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-TECNICO-DE-SOPORTE-JUNIOR-PICH/1338233162/",
+      "isIT": false,
+      "firstSeen": "2026-11-13",
+      "closedOn": "2026-11-13"
+    },
+    {
+      "id": "farmaenlace-1338233262",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "AUXILIAR DE LIMPIEZA",
+      "city": "Pichincha",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Pichincha-AUXILIAR-DE-LIMPIEZA-PICH/1338233262/",
+      "isIT": false,
+      "firstSeen": "2026-11-13",
+      "closedOn": "2026-11-13"
+    },
+    {
+      "id": "arca-1440034800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI BABAHOYO",
+      "city": null,
+      "publishedAt": "2026-11-12",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-BABAHOYO/1440034800/",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-13"
+    },
+    {
       "id": "tigo-R134810",
       "source": "tigo",
       "company": "Tigo (ex Movistar)",
@@ -5813,6 +5783,30 @@
       "isIT": false,
       "firstSeen": "2026-11-12",
       "closedOn": "2026-11-12"
+    },
+    {
+      "id": "farmaenlace-1338174862",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "BIOQUIMICO ADMINISTRATIVO",
+      "city": "Distrito",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-BIOQUIMICO-ADMINISTRATIVO-PICH/1338174862/",
+      "isIT": false,
+      "firstSeen": "2026-11-11",
+      "closedOn": "2026-11-13"
+    },
+    {
+      "id": "claro-1836",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ASESOR SENIOR CENTRO ATENCIÓN AL CLIENTE",
+      "city": null,
+      "publishedAt": "2026-11-11",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1836",
+      "isIT": false,
+      "firstSeen": "2026-11-11",
+      "closedOn": "2026-11-13"
     },
     {
       "id": "arca-1449871900",
@@ -5899,6 +5893,18 @@
       "closedOn": "2026-11-10"
     },
     {
+      "id": "arca-1449200900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | GUAYAQUIL NORTE",
+      "city": null,
+      "publishedAt": "2026-11-09",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-GUAYAQUIL-NORTE/1449200900/",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-13"
+    },
+    {
       "id": "arca-1449182600",
       "source": "arca",
       "company": "Arca Continental",
@@ -5933,6 +5939,42 @@
       "isIT": false,
       "firstSeen": "2026-11-09",
       "closedOn": "2026-11-10"
+    },
+    {
+      "id": "arca-1448803200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI PORTOVIEJO",
+      "city": null,
+      "publishedAt": "2026-11-07",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-PORTOVIEJO/1448803200/",
+      "isIT": false,
+      "firstSeen": "2026-11-08",
+      "closedOn": "2026-11-13"
+    },
+    {
+      "id": "arca-1448803700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI MANTA",
+      "city": null,
+      "publishedAt": "2026-11-07",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-MANTA/1448803700/",
+      "isIT": false,
+      "firstSeen": "2026-11-08",
+      "closedOn": "2026-11-13"
+    },
+    {
+      "id": "tigo-R135886",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Back Office",
+      "city": "Quito",
+      "publishedAt": "2026-11-07",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Back-Office_R135886",
+      "isIT": false,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-13"
     },
     {
       "id": "arca-1448493700",
@@ -6005,6 +6047,30 @@
       "isIT": true,
       "firstSeen": "2026-11-06",
       "closedOn": "2026-11-10"
+    },
+    {
+      "id": "arca-1448285900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PASANTE ESCUELA COMERCIAL | STAFF QUITO CALDERÓN",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-PASANTE-ESCUELA-COMERCIAL-STAFF-QUITO-CALDER%C3%93N-00000/1448285900/",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-13"
+    },
+    {
+      "id": "arca-1448382000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "Coordinador de Modelo de Servicios (JC012054)",
+      "city": null,
+      "publishedAt": "2026-11-05",
+      "url": "https://careers.arcacontal.com/job/AZU-Cuenca-Coordinador-de-Modelo-de-Servicios-%28JC012054%29-Dip-Cuen/1448382000/",
+      "isIT": false,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-13"
     },
     {
       "id": "arca-1448156200",
@@ -6967,6 +7033,18 @@
       "closedOn": "2026-10-30"
     },
     {
+      "id": "arca-1443783000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ESTIBADOR | CEDI CHONE",
+      "city": null,
+      "publishedAt": "2026-10-26",
+      "url": "https://careers.arcacontal.com/job/ESTIBADOR-CEDI-CHONE/1443783000/",
+      "isIT": false,
+      "firstSeen": "2026-10-27",
+      "closedOn": "2026-11-13"
+    },
+    {
       "id": "arca-1443632800",
       "source": "arca",
       "company": "Arca Continental",
@@ -7085,6 +7163,18 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "farmaenlace-1337477962",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "ANALISTA DE INFRAESTRUCTURA",
+      "city": "Distrito",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-ANALISTA-DE-INFRAESTRUCTURA-PICH/1337477962/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-13"
     },
     {
       "id": "holcim-1371887357",
@@ -7735,18 +7825,6 @@
       "closedOn": "2026-10-27"
     },
     {
-      "id": "arca-1440655500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PASANTE | GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-10-15",
-      "url": "https://careers.arcacontal.com/job/PASANTE-GUAYAQUIL-SUR/1440655500/",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-11-12"
-    },
-    {
       "id": "arca-1440678400",
       "source": "arca",
       "company": "Arca Continental",
@@ -7973,6 +8051,18 @@
       "isIT": true,
       "firstSeen": "2026-10-24",
       "closedOn": "2026-10-27"
+    },
+    {
+      "id": "arca-1439349900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AUXILIAR ADMINISTRATIVO (D) | CEDI LA LIBERTAD",
+      "city": null,
+      "publishedAt": "2026-10-12",
+      "url": "https://careers.arcacontal.com/job/AUXILIAR-ADMINISTRATIVO-%28D%29-CEDI-LA-LIBERTAD/1439349900/",
+      "isIT": false,
+      "firstSeen": "2026-10-24",
+      "closedOn": "2026-11-13"
     },
     {
       "id": "arca-1439225500",

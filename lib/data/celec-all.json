@@ -90,14 +90,6 @@
       "url": "https://www.celec.gob.ec/wp-content/uploads/2026/11/Convocatoria-10-de-noviembre-de-2026-140-141-142.pdf"
     },
     {
-      "unit": "Electroguayas",
-      "role": "CONVOCATORIA PROCESO DE SELECCIÓN SIMPLE ELECTROGUAYAS",
-      "eligibility": "Sin requisitos legibles - revisar",
-      "publishedAt": "2026-11-10",
-      "closesAt": null,
-      "url": "https://www.celec.gob.ec/electroguayas/noticias/convocatoria-proceso-de-seleccion-simple-electroguayas-2/"
-    },
-    {
       "unit": "Termopichincha",
       "role": "Convocatoria para el Proceso de Selección simple Especialista de Bodega e Inventarios (1).",
       "eligibility": "Directa (Computación/Sistemas/TI)",
@@ -120,6 +112,14 @@
       "publishedAt": "2026-11-10",
       "closesAt": null,
       "url": "https://www.celec.gob.ec/termopichincha/uncategorized/convocatoria-para-el-proceso-de-seleccion-simple-jefe-de-seguridad-y-salud-ocupacional-1/"
+    },
+    {
+      "unit": "Electroguayas",
+      "role": "CONVOCATORIA PROCESO DE SELECCIÓN SIMPLE ELECTROGUAYAS",
+      "eligibility": "Sin requisitos legibles - revisar",
+      "publishedAt": "2026-11-10",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/electroguayas/noticias/convocatoria-proceso-de-seleccion-simple-electroguayas-2/"
     },
     {
       "unit": "CELEC SUR",

@@ -1,8 +1,8 @@
 {
   "platforms": {
     "Bancos": {
-      "lastRun": "2026-11-12",
-      "lastSuccess": "2026-11-12",
+      "lastRun": "2026-11-13",
+      "lastSuccess": "2026-11-13",
       "ok": true
     },
     "CACPECO": {
@@ -11,8 +11,8 @@
       "ok": true
     },
     "CELEC": {
-      "lastRun": "2026-11-12",
-      "lastSuccess": "2026-11-12",
+      "lastRun": "2026-11-13",
+      "lastSuccess": "2026-11-13",
       "ok": true
     },
     "CNT": {
@@ -21,9 +21,9 @@
       "ok": true
     },
     "Concursos": {
-      "lastRun": "2026-11-12",
+      "lastRun": "2026-11-13",
       "lastSuccess": "2026-11-12",
-      "ok": true
+      "ok": false
     },
     "Educa-Empleo": {
       "lastRun": "2026-11-10",
@@ -46,23 +46,23 @@
       "ok": true
     },
     "Exterior": {
-      "lastRun": "2026-11-12",
-      "lastSuccess": "2026-11-12",
+      "lastRun": "2026-11-13",
+      "lastSuccess": "2026-11-13",
       "ok": true
     },
     "INEC": {
-      "lastRun": "2026-11-12",
-      "lastSuccess": "2026-11-12",
+      "lastRun": "2026-11-13",
+      "lastSuccess": "2026-11-13",
       "ok": true
     },
     "Petroecuador": {
-      "lastRun": "2026-11-12",
-      "lastSuccess": "2026-11-12",
+      "lastRun": "2026-11-13",
+      "lastSuccess": "2026-11-13",
       "ok": true
     },
     "Privadas": {
-      "lastRun": "2026-11-12",
-      "lastSuccess": "2026-11-12",
+      "lastRun": "2026-11-13",
+      "lastSuccess": "2026-11-13",
       "ok": true
     },
     "Remotas": {
@@ -71,20 +71,20 @@
       "ok": true
     },
     "Software": {
-      "lastRun": "2026-11-12",
-      "lastSuccess": "2026-11-12",
+      "lastRun": "2026-11-13",
+      "lastSuccess": "2026-11-13",
       "ok": true
     },
     "Visas": {
-      "lastRun": "2026-11-12",
-      "lastSuccess": "2026-11-12",
+      "lastRun": "2026-11-13",
+      "lastSuccess": "2026-11-13",
       "ok": true
     }
   },
   "failing": {
     "Tiendas Tuti": {
       "since": "2026-11-09",
-      "runs": 8
+      "runs": 9
     }
   }
 }
