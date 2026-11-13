@@ -2,6 +2,39 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "farmaenlace-1338233162",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "TECNICO DE SOPORTE JUNIOR",
+      "city": "Distrito",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-TECNICO-DE-SOPORTE-JUNIOR-PICH/1338233162/",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "farmaenlace-1338233262",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "AUXILIAR DE LIMPIEZA",
+      "city": "Pichincha",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Pichincha-AUXILIAR-DE-LIMPIEZA-PICH/1338233262/",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "pronaca-26983",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "JEFE TRADE MK. (COM) (20011604)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26983",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
+    },
+    {
       "id": "novacero-6af4d5c56973bc90e1c6b049",
       "source": "novacero",
       "company": "Novacero",
@@ -84,10 +117,54 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Store Operations",
       "city": "Quito",
-      "publishedAt": "2026-11-11",
+      "publishedAt": "2026-11-12",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Store-Operations_R135915",
       "isIT": false,
       "firstSeen": "2026-11-11"
+    },
+    {
+      "id": "arca-1450364300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ESTIBADOR | CEDI GUAYAQUIL NORTE",
+      "city": null,
+      "publishedAt": "2026-11-12",
+      "url": "https://careers.arcacontal.com/job/ESTIBADOR-CEDI-GUAYAQUIL-NORTE/1450364300/",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "arca-1450362100",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ESTIBADOR | CEDI PLAYAS",
+      "city": null,
+      "publishedAt": "2026-11-12",
+      "url": "https://careers.arcacontal.com/job/ESTIBADOR-CEDI-PLAYAS/1450362100/",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "puntonet-8723898",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "EJECUTIVO DE CALL CENTER MASIVO - UIO",
+      "city": "Quito",
+      "publishedAt": "2026-11-12",
+      "url": "https://puntonet.teamtailor.com/jobs/8723898-ejecutivo-de-call-center-masivo-uio",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "puntonet-8723878",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ESPECIALISTA DE PRODUCTO B2C - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-11-12",
+      "url": "https://puntonet.teamtailor.com/jobs/8723878-especialista-de-producto-b2c-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
     },
     {
       "id": "arca-1449750100",
@@ -194,7 +271,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Comisiones",
       "city": "Quito",
-      "publishedAt": "2026-11-10",
+      "publishedAt": "2026-11-11",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Comisiones_R135887",
       "isIT": false,
       "firstSeen": "2026-11-10"
@@ -590,7 +667,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Data Customer Experience",
       "city": "Quito",
-      "publishedAt": "2026-11-06",
+      "publishedAt": "2026-11-07",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Data-Customer-Experience_R135783",
       "isIT": true,
       "firstSeen": "2026-11-06"
@@ -601,7 +678,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Back Office",
       "city": "Quito",
-      "publishedAt": "2026-11-06",
+      "publishedAt": "2026-11-07",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Back-Office_R135886",
       "isIT": false,
       "firstSeen": "2026-11-06"
@@ -612,7 +689,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Desarrollo de Producto Digital B2B",
       "city": "Quito",
-      "publishedAt": "2026-11-06",
+      "publishedAt": "2026-11-07",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Desarrollo-de-Producto-Digital-B2B_R135867",
       "isIT": false,
       "firstSeen": "2026-11-06"
@@ -3451,6 +3528,17 @@
       "firstSeen": "2026-10-22"
     },
     {
+      "id": "farmaenlace-1337477962",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "ANALISTA DE INFRAESTRUCTURA",
+      "city": "Distrito",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-ANALISTA-DE-INFRAESTRUCTURA-PICH/1337477962/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "arca-1442052200",
       "source": "arca",
       "company": "Arca Continental",
@@ -3651,17 +3739,6 @@
       "publishedAt": "2026-10-08",
       "url": "https://puntonet.teamtailor.com/jobs/8520195-pasante-de-cloud-y-data-center",
       "isIT": true,
-      "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "puntonet-8520194",
-      "source": "puntonet",
-      "company": "PuntoNet",
-      "title": "ANALISTA DE CANALES COMERCIALES - QUITO",
-      "city": "Quito",
-      "publishedAt": "2026-10-08",
-      "url": "https://puntonet.teamtailor.com/jobs/8520194-analista-de-canales-comerciales-quito",
-      "isIT": false,
       "firstSeen": "2026-11-03"
     },
     {
@@ -7394,18 +7471,6 @@
       "closedOn": "2026-10-24"
     },
     {
-      "id": "farmaenlace-1337477962",
-      "source": "farmaenlace",
-      "company": "Farmaenlace",
-      "title": "ANALISTA DE INFRAESTRUCTURA",
-      "city": "Distrito",
-      "publishedAt": null,
-      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-ANALISTA-DE-INFRAESTRUCTURA-PICH/1337477962/",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-10-23"
-    },
-    {
       "id": "holcim-1375282757",
       "source": "holcim",
       "company": "Holcim Ecuador",
@@ -7932,6 +7997,18 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "puntonet-8520194",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ANALISTA DE CANALES COMERCIALES - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-10-08",
+      "url": "https://puntonet.teamtailor.com/jobs/8520194-analista-de-canales-comerciales-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-03",
+      "closedOn": "2026-11-13"
     },
     {
       "id": "nestle-1445832333",

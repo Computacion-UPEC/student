@@ -2,6 +2,66 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1337474462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE DE GESTIÓN DE REDES SOCIALES Y CANALES DIGITALES",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-13",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-DE-GESTI%C3%93N-DE-REDES-SOCIALES-Y-CANALES-DIGITALES-QUIT-CONTENIDO/1337474462/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337283362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASISTENTE SERVICIOS COMPARTIDOS RRHH - EVENTUAL (UIO)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-13",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ASISTENTE-SERVICIOS-COMPARTIDOS-RRHH-EVENTUAL-%28UIO%29-QUIT-SERVICIOS/1337283362/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337185762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "JEFE COMERCIAL Y SERVICIOS - RIOBAMBA",
+      "province": "CHIMBORAZO",
+      "city": "RIOBAMBA",
+      "publishedAt": "2026-11-13",
+      "url": "https://vacantes.pichincha.com/job/RIOBAMBA-JEFE-COMERCIAL-Y-SERVICIOS-RIOBAMBA-RIOB-ZONA-SUR-O/1337185762/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1336860362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "JEFE COMERCIAL Y SERVICIOS - CENTRO DE NEGOCIOS LAS ABRAS (RIOBAMBA)",
+      "province": "CHIMBORAZO",
+      "city": "RIOBAMBA",
+      "publishedAt": "2026-11-13",
+      "url": "https://vacantes.pichincha.com/job/RIOBAMBA-JEFE-COMERCIAL-Y-SERVICIOS-CENTRO-DE-NEGOCIOS-LAS-ABRAS-%28RIOBAMBA%29-RIOB-ZONA-SUR-O/1336860362/",
+      "isIT": false,
+      "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "pichincha-1336821262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA REQUERIMIENTOS ORGANISMOS DE CONTROL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-13",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-REQUERIMIENTOS-ORGANISMOS-DE-CONTROL-QUIT-SERVICIO-A/1336821262/",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
+    },
+    {
       "id": "pichincha-1337432862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -48,6 +108,30 @@
       "url": "https://vacantes.pichincha.com/job/SANTO-DOMINGO-OFICIAL-COMERCIAL-Y-SERVICIOS-PYMES-TSACHILAS-SANT-ZONA-ESMER/1338216062/",
       "isIT": false,
       "firstSeen": "2026-11-12"
+    },
+    {
+      "id": "pichincha-1338232062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASISTENTE GESTION OPERATIVA Y ADMINISTRATIVA CON DISCAPACIDAD",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-12",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ASISTENTE-GESTION-OPERATIVA-Y-ADMINISTRATIVA-CON-DISCAPACIDAD-QUIT-SECRETARIA/1338232062/",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "pichincha-1338228962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - PASEO SHOPPING MILAGRO",
+      "province": "GUAYAS",
+      "city": "MILAGRO",
+      "publishedAt": "2026-11-12",
+      "url": "https://vacantes.pichincha.com/job/MILAGRO-OFICIAL-COMERCIAL-Y-SERVICIOS-PASEO-SHOPPING-MILAGRO-GUAY-ZONA-COSTA/1338228962/",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
     },
     {
       "id": "pichincha-1331181562",
@@ -233,6 +317,18 @@
       "city": "QUITO",
       "publishedAt": "2026-11-07",
       "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-DE-CREDITO-C-AG_-CALDERON-QUIT-ZONA-QUITO/1338081362/",
+      "isIT": false,
+      "firstSeen": "2026-11-07"
+    },
+    {
+      "id": "pichincha-1338071762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - EL EMPALME",
+      "province": "GUAYAS",
+      "city": "EL EMPALME",
+      "publishedAt": "2026-11-06",
+      "url": "https://vacantes.pichincha.com/job/EL-EMPALME-OFICIAL-COMERCIAL-Y-SERVICIOS-EL-EMPALME-GUAY-ZONA-COSTA/1338071762/",
       "isIT": false,
       "firstSeen": "2026-11-07"
     },
@@ -969,54 +1065,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337474462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE DE GESTIÓN DE REDES SOCIALES Y CANALES DIGITALES",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-15",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-DE-GESTI%C3%93N-DE-REDES-SOCIALES-Y-CANALES-DIGITALES-QUIT-CONTENIDO/1337474462/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337283362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ASISTENTE SERVICIOS COMPARTIDOS RRHH - EVENTUAL (UIO)",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-08",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ASISTENTE-SERVICIOS-COMPARTIDOS-RRHH-EVENTUAL-%28UIO%29-QUIT-SERVICIOS/1337283362/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337185762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "JEFE COMERCIAL Y SERVICIOS - RIOBAMBA",
-      "province": "CHIMBORAZO",
-      "city": "RIOBAMBA",
-      "publishedAt": "2026-10-05",
-      "url": "https://vacantes.pichincha.com/job/RIOBAMBA-JEFE-COMERCIAL-Y-SERVICIOS-RIOBAMBA-RIOB-ZONA-SUR-O/1337185762/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1336860362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "JEFE COMERCIAL Y SERVICIOS - CENTRO DE NEGOCIOS LAS ABRAS (RIOBAMBA)",
-      "province": "CHIMBORAZO",
-      "city": "RIOBAMBA",
-      "publishedAt": "2026-09-23",
-      "url": "https://vacantes.pichincha.com/job/RIOBAMBA-JEFE-COMERCIAL-Y-SERVICIOS-CENTRO-DE-NEGOCIOS-LAS-ABRAS-%28RIOBAMBA%29-RIOB-ZONA-SUR-O/1336860362/",
-      "isIT": false,
-      "firstSeen": "2026-11-12"
-    },
-    {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
       "source": "cacpeco",
       "institution": "CACPECO",
@@ -1076,19 +1124,6 @@
       "isIT": false,
       "firstSeen": "2026-10-26",
       "closedOn": "2026-11-07"
-    },
-    {
-      "id": "pichincha-1338071762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL Y SERVICIOS - EL EMPALME",
-      "province": "GUAYAS",
-      "city": "EL EMPALME",
-      "publishedAt": "2026-11-06",
-      "url": "https://vacantes.pichincha.com/job/EL-EMPALME-OFICIAL-COMERCIAL-Y-SERVICIOS-EL-EMPALME-GUAY-ZONA-COSTA/1338071762/",
-      "isIT": false,
-      "firstSeen": "2026-11-07",
-      "closedOn": "2026-11-12"
     },
     {
       "id": "pichincha-1338075862",

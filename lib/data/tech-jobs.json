@@ -79,17 +79,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "stackbuilders-ABE1D9F356",
-      "company": "Stack Builders",
-      "title": "Product Engineering Manager - AI-first software delivery (Quito, Ecuador)",
-      "city": "Quito",
-      "remote": false,
-      "publishedAt": "2026-10-05",
-      "url": "https://apply.workable.com/j/ABE1D9F356",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "devsu-5CDB1D84C6",
       "company": "Devsu",
       "title": "Ingeniero DevOps - Sector Financiero/Bancario",
@@ -334,6 +323,18 @@
       "isIT": true,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-23"
+    },
+    {
+      "id": "stackbuilders-ABE1D9F356",
+      "company": "Stack Builders",
+      "title": "Product Engineering Manager - AI-first software delivery (Quito, Ecuador)",
+      "city": "Quito",
+      "remote": false,
+      "publishedAt": "2026-10-05",
+      "url": "https://apply.workable.com/j/ABE1D9F356",
+      "isIT": true,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-11-13"
     },
     {
       "id": "devsu-B9A9743D82",

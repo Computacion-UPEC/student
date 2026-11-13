@@ -24,6 +24,28 @@
       "firstSeen": "2026-11-12"
     },
     {
+      "id": "greenhouse-affirm-8181185003",
+      "company": "Affirm",
+      "title": "Software Engineer I, Backend (Continuous Delivery)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-12",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003",
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "greenhouse-affirm-8196749003",
+      "company": "Affirm",
+      "title": "Staff Software Engineer, Fullstack (Auth Experiences)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-12",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196749003",
+      "firstSeen": "2026-11-13"
+    },
+    {
       "id": "greenhouse-stripe-8205126",
       "company": "Stripe",
       "title": "Product Designer, Treasury",
@@ -863,7 +885,7 @@
     {
       "id": "greenhouse-affirm-7785814003",
       "company": "Affirm",
-      "title": "Senior Software Engineer, Backend (Batch Infrastructure)",
+      "title": "Senior Software Engineer",
       "location": "Remote Canada",
       "route": "patrocinio",
       "canadaLmia": 5,
