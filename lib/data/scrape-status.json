@@ -22,8 +22,8 @@
     },
     "Concursos": {
       "lastRun": "2026-11-13",
-      "lastSuccess": "2026-11-12",
-      "ok": false
+      "lastSuccess": "2026-11-13",
+      "ok": true
     },
     "Educa-Empleo": {
       "lastRun": "2026-11-10",
@@ -82,9 +82,17 @@
     }
   },
   "failing": {
+    "Holcim Ecuador": {
+      "since": "2026-11-13",
+      "runs": 1
+    },
+    "Nestlé Ecuador": {
+      "since": "2026-11-13",
+      "runs": 1
+    },
     "Tiendas Tuti": {
       "since": "2026-11-09",
-      "runs": 9
+      "runs": 10
     }
   }
 }

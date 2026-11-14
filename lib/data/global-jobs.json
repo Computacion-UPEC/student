@@ -623,17 +623,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "greenhouse-affirm-8003022003",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Streaming)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-09-30",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003022003",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "greenhouse-affirm-8005408003",
       "company": "Affirm",
       "title": "Staff Software Engineer, Backend (Search)",
@@ -868,17 +857,6 @@
       "canadaLmia": 17,
       "publishedAt": "2026-08-11",
       "url": "https://stripe.com/jobs/search?gh_jid=8120494",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-stripe-8113100",
-      "company": "Stripe",
-      "title": "Data Scientist, Fraud",
-      "location": "Toronto",
-      "route": "patrocinio",
-      "canadaLmia": 17,
-      "publishedAt": "2026-08-06",
-      "url": "https://stripe.com/jobs/search?gh_jid=8113100",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2183,6 +2161,18 @@
       "closedOn": "2026-11-07"
     },
     {
+      "id": "greenhouse-affirm-8003022003",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Streaming)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-09-30",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003022003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-14"
+    },
+    {
       "id": "greenhouse-affirm-7994795003",
       "company": "Affirm",
       "title": "Senior Software Engineer, Backend (Consumer Authentication Platform)",
@@ -2228,6 +2218,18 @@
       "url": "https://jobs.ashbyhq.com/supabase/8fa1c7a0-a85c-4562-a1f5-4dd22cadae27",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-10"
+    },
+    {
+      "id": "greenhouse-stripe-8113100",
+      "company": "Stripe",
+      "title": "Data Scientist, Fraud",
+      "location": "Toronto",
+      "route": "patrocinio",
+      "canadaLmia": 17,
+      "publishedAt": "2026-08-06",
+      "url": "https://stripe.com/jobs/search?gh_jid=8113100",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-14"
     },
     {
       "id": "greenhouse-affirm-7822389003",

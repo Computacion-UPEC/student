@@ -2,6 +2,39 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "tigo-R135934",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas Austro",
+      "city": "Tienda Mall del Río",
+      "publishedAt": "2026-11-14",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-Mall-del-Ro/Ejecutivo-de-Tiendas-Austro_R135934",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
+    },
+    {
+      "id": "pronaca-27051",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "OPER. PLANTA (AVE) (20009825)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27051",
+      "isIT": false,
+      "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "pronaca-27052",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "OPER. PLANTA (NGA) (20010668)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27052",
+      "isIT": false,
+      "firstSeen": "2026-11-14"
+    },
+    {
       "id": "pronaca-26983",
       "source": "pronaca",
       "company": "Pronaca",
@@ -79,15 +112,15 @@
       "firstSeen": "2026-11-13"
     },
     {
-      "id": "tigo-R135934",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Ejecutivo de Tiendas Austro",
-      "city": "Tienda Mall del Río",
+      "id": "claro-1517",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "JEFE CENTRO DE ATENCIÓN AL CLIENTE",
+      "city": null,
       "publishedAt": "2026-11-13",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-Mall-del-Ro/Ejecutivo-de-Tiendas-Austro_R135934",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1517",
       "isIT": false,
-      "firstSeen": "2026-11-13"
+      "firstSeen": "2026-11-14"
     },
     {
       "id": "novacero-6af4d5c56973bc90e1c6b049",
@@ -205,7 +238,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Store Operations",
       "city": "Quito",
-      "publishedAt": "2026-11-11",
+      "publishedAt": "2026-11-12",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Store-Operations_R135915",
       "isIT": false,
       "firstSeen": "2026-11-11"
@@ -293,7 +326,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Comisiones",
       "city": "Quito",
-      "publishedAt": "2026-11-10",
+      "publishedAt": "2026-11-11",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Comisiones_R135887",
       "isIT": false,
       "firstSeen": "2026-11-10"
@@ -656,7 +689,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Data Customer Experience",
       "city": "Quito",
-      "publishedAt": "2026-11-06",
+      "publishedAt": "2026-11-07",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Data-Customer-Experience_R135783",
       "isIT": true,
       "firstSeen": "2026-11-06"
@@ -667,7 +700,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Desarrollo de Producto Digital B2B",
       "city": "Quito",
-      "publishedAt": "2026-11-06",
+      "publishedAt": "2026-11-07",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Desarrollo-de-Producto-Digital-B2B_R135867",
       "isIT": false,
       "firstSeen": "2026-11-06"
@@ -1686,6 +1719,17 @@
       "url": "https://puntonet.teamtailor.com/jobs/8625738-ingeniero-de-gestion-corporativa",
       "isIT": false,
       "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "arca-1444380700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "CHOFER DE TRAILER | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-27",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-CHOFER-DE-TRAILER-CEDI-GUAYAQUIL-Dip-Guay/1444380700/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
     },
     {
       "id": "arca-1443691500",
@@ -6923,18 +6967,6 @@
       "isIT": false,
       "firstSeen": "2026-10-27",
       "closedOn": "2026-11-05"
-    },
-    {
-      "id": "arca-1444380700",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "CHOFER DE TRAILER | CEDI GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-10-27",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-CHOFER-DE-TRAILER-CEDI-GUAYAQUIL-Dip-Guay/1444380700/",
-      "isIT": false,
-      "firstSeen": "2026-10-28",
-      "closedOn": "2026-11-04"
     },
     {
       "id": "tigo-R135670",

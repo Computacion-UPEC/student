@@ -2,6 +2,18 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1337501462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "TRABAJADOR SOCIAL - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-14",
+      "url": "https://vacantes.pichincha.com/job/QUITO-TRABAJADOR-SOCIAL-QUITO-QUIT-BIENESTAR/1337501462/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "pichincha-1337474462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1015,18 +1027,6 @@
         "email": "seleccionjep@jep.coop",
         "subject": "Asesor Comercial Santo Domingo"
       },
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337501462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "TRABAJADOR SOCIAL - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-16",
-      "url": "https://vacantes.pichincha.com/job/QUITO-TRABAJADOR-SOCIAL-QUITO-QUIT-BIENESTAR/1337501462/",
       "isIT": false,
       "firstSeen": "2026-10-16"
     },
