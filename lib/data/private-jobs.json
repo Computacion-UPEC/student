@@ -2,17 +2,6 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
-      "id": "tigo-R135934",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Ejecutivo de Tiendas Austro",
-      "city": "Tienda Mall del Río",
-      "publishedAt": "2026-11-14",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-Mall-del-Ro/Ejecutivo-de-Tiendas-Austro_R135934",
-      "isIT": false,
-      "firstSeen": "2026-11-13"
-    },
-    {
       "id": "pronaca-27051",
       "source": "pronaca",
       "company": "Pronaca",
@@ -55,6 +44,28 @@
       "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
       "isIT": false,
       "firstSeen": "2026-11-14"
+    },
+    {
+      "id": "arca-1440655500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PASANTE | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-11-14",
+      "url": "https://careers.arcacontal.com/job/PASANTE-GUAYAQUIL-SUR/1440655500/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "tigo-R135934",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas Austro",
+      "city": "Tienda Mall del Río",
+      "publishedAt": "2026-11-13",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-Mall-del-Ro/Ejecutivo-de-Tiendas-Austro_R135934",
+      "isIT": false,
+      "firstSeen": "2026-11-13"
     },
     {
       "id": "pronaca-26983",
@@ -260,7 +271,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Store Operations",
       "city": "Quito",
-      "publishedAt": "2026-11-12",
+      "publishedAt": "2026-11-11",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Store-Operations_R135915",
       "isIT": false,
       "firstSeen": "2026-11-11"
@@ -348,7 +359,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Comisiones",
       "city": "Quito",
-      "publishedAt": "2026-11-11",
+      "publishedAt": "2026-11-10",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Comisiones_R135887",
       "isIT": false,
       "firstSeen": "2026-11-10"
@@ -453,17 +464,6 @@
       "firstSeen": "2026-11-10"
     },
     {
-      "id": "unilever-99469988832",
-      "source": "unilever",
-      "company": "Unilever",
-      "title": "Jefe de Mantenimiento",
-      "city": "Guayaquil, Provincia del Guayas",
-      "publishedAt": null,
-      "url": "https://careers.unilever.com/en/job/guayaquil/jefe-de-mantenimiento/34155/99469988832",
-      "isIT": false,
-      "firstSeen": "2026-11-10"
-    },
-    {
       "id": "arca-1449418500",
       "source": "arca",
       "company": "Arca Continental",
@@ -517,28 +517,6 @@
       "url": "https://difare.evaluar.com/trabajo/asesor-comercial-aplicaciones/",
       "isIT": false,
       "firstSeen": "2026-11-10"
-    },
-    {
-      "id": "claro-1835",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "ANALISTA DE COMISIONES",
-      "city": null,
-      "publishedAt": "2026-11-10",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1835",
-      "isIT": false,
-      "firstSeen": "2026-11-11"
-    },
-    {
-      "id": "claro-1834",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "ANALISTA DE CRÉDITO",
-      "city": null,
-      "publishedAt": "2026-11-10",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1834",
-      "isIT": false,
-      "firstSeen": "2026-11-11"
     },
     {
       "id": "difare-auxiliar-de-laboratorio-2",
@@ -618,17 +596,6 @@
       "firstSeen": "2026-11-09"
     },
     {
-      "id": "arca-1449210500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "COORDINADOR DE PLATAFORMAS DIGITALES | GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-11-09",
-      "url": "https://careers.arcacontal.com/job/COORDINADOR-DE-PLATAFORMAS-DIGITALES-GUAYAQUIL-SUR/1449210500/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "arca-1448882600",
       "source": "arca",
       "company": "Arca Continental",
@@ -684,17 +651,6 @@
       "firstSeen": "2026-11-08"
     },
     {
-      "id": "pronaca-26951",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "JEFE MARCA (20009293)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26951",
-      "isIT": false,
-      "firstSeen": "2026-11-07"
-    },
-    {
       "id": "arca-1448802500",
       "source": "arca",
       "company": "Arca Continental",
@@ -704,28 +660,6 @@
       "url": "https://careers.arcacontal.com/job/PASANTE-DE-CAPITAL-HUMANO-CEDI-PORTOVIEJO/1448802500/",
       "isIT": false,
       "firstSeen": "2026-11-08"
-    },
-    {
-      "id": "tigo-R135783",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Data Customer Experience",
-      "city": "Quito",
-      "publishedAt": "2026-11-07",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Data-Customer-Experience_R135783",
-      "isIT": true,
-      "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "tigo-R135867",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Desarrollo de Producto Digital B2B",
-      "city": "Quito",
-      "publishedAt": "2026-11-07",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Desarrollo-de-Producto-Digital-B2B_R135867",
-      "isIT": false,
-      "firstSeen": "2026-11-06"
     },
     {
       "id": "nestle-1435079033",
@@ -1366,17 +1300,6 @@
       "firstSeen": "2026-11-03"
     },
     {
-      "id": "arca-1417243400",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "JEFE DE TRAFICO | PLANTA GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-11-02",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-JEFE-DE-TRAFICO-PLANTA-GUAYAQUIL-00000/1417243400/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "pronaca-26770",
       "source": "pronaca",
       "company": "Pronaca",
@@ -1406,28 +1329,6 @@
       "city": null,
       "publishedAt": null,
       "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26920",
-      "isIT": false,
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "pronaca-26861",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "JEFE TRADE MK. EJECUCIÓN",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26861",
-      "isIT": false,
-      "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "pronaca-26876",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "OPER. AGRICOLA (20008924)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26876",
       "isIT": false,
       "firstSeen": "2026-11-02"
     },
@@ -3272,28 +3173,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "difare-asesor-comercial-especialidades",
-      "source": "difare",
-      "company": "Difare",
-      "title": "ASESOR COMERCIAL – ESPECIALIDADES",
-      "city": "PICHINCHA",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/asesor-comercial-especialidades/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-analista-de-microbiologia",
-      "source": "difare",
-      "company": "Difare",
-      "title": "ANALISTA DE MICROBIOLOGIA",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/analista-de-microbiologia/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "difare-analista-de-jefatura-de-producto",
       "source": "difare",
       "company": "Difare",
@@ -3581,17 +3460,6 @@
       "url": "https://puntonet.teamtailor.com/jobs/8564652-ejecutivo-de-trade-marketing-guayaquil",
       "isIT": false,
       "firstSeen": "2026-11-03"
-    },
-    {
-      "id": "arca-1440655500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PASANTE | GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-10-15",
-      "url": "https://careers.arcacontal.com/job/PASANTE-GUAYAQUIL-SUR/1440655500/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
     },
     {
       "id": "elrosado-12273",
@@ -5889,6 +5757,42 @@
       "closedOn": "2026-11-11"
     },
     {
+      "id": "unilever-99469988832",
+      "source": "unilever",
+      "company": "Unilever",
+      "title": "Jefe de Mantenimiento",
+      "city": "Guayaquil, Provincia del Guayas",
+      "publishedAt": null,
+      "url": "https://careers.unilever.com/en/job/guayaquil/jefe-de-mantenimiento/34155/99469988832",
+      "isIT": false,
+      "firstSeen": "2026-11-10",
+      "closedOn": "2026-11-14"
+    },
+    {
+      "id": "claro-1835",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ANALISTA DE COMISIONES",
+      "city": null,
+      "publishedAt": "2026-11-10",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1835",
+      "isIT": false,
+      "firstSeen": "2026-11-11",
+      "closedOn": "2026-11-14"
+    },
+    {
+      "id": "claro-1834",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ANALISTA DE CRÉDITO",
+      "city": null,
+      "publishedAt": "2026-11-10",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1834",
+      "isIT": false,
+      "firstSeen": "2026-11-11",
+      "closedOn": "2026-11-14"
+    },
+    {
       "id": "arca-1449653000",
       "source": "arca",
       "company": "Arca Continental",
@@ -5937,6 +5841,18 @@
       "closedOn": "2026-11-10"
     },
     {
+      "id": "arca-1449210500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "COORDINADOR DE PLATAFORMAS DIGITALES | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-11-09",
+      "url": "https://careers.arcacontal.com/job/COORDINADOR-DE-PLATAFORMAS-DIGITALES-GUAYAQUIL-SUR/1449210500/",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-14"
+    },
+    {
       "id": "arca-1449200900",
       "source": "arca",
       "company": "Arca Continental",
@@ -5983,6 +5899,42 @@
       "isIT": false,
       "firstSeen": "2026-11-09",
       "closedOn": "2026-11-10"
+    },
+    {
+      "id": "pronaca-26951",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "JEFE MARCA (20009293)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26951",
+      "isIT": false,
+      "firstSeen": "2026-11-07",
+      "closedOn": "2026-11-14"
+    },
+    {
+      "id": "tigo-R135783",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Data Customer Experience",
+      "city": "Quito",
+      "publishedAt": "2026-11-07",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Data-Customer-Experience_R135783",
+      "isIT": true,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-14"
+    },
+    {
+      "id": "tigo-R135867",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Desarrollo de Producto Digital B2B",
+      "city": "Quito",
+      "publishedAt": "2026-11-07",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Desarrollo-de-Producto-Digital-B2B_R135867",
+      "isIT": false,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-14"
     },
     {
       "id": "arca-1448803200",
@@ -6511,6 +6463,42 @@
       "isIT": false,
       "firstSeen": "2026-11-03",
       "closedOn": "2026-11-04"
+    },
+    {
+      "id": "arca-1417243400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "JEFE DE TRAFICO | PLANTA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-11-02",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-JEFE-DE-TRAFICO-PLANTA-GUAYAQUIL-00000/1417243400/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-14"
+    },
+    {
+      "id": "pronaca-26861",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "JEFE TRADE MK. EJECUCIÓN",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26861",
+      "isIT": false,
+      "firstSeen": "2026-11-02",
+      "closedOn": "2026-11-14"
+    },
+    {
+      "id": "pronaca-26876",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "OPER. AGRICOLA (20008924)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26876",
+      "isIT": false,
+      "firstSeen": "2026-11-02",
+      "closedOn": "2026-11-14"
     },
     {
       "id": "pronaca-26844",
@@ -7219,6 +7207,30 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "difare-asesor-comercial-especialidades",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ASESOR COMERCIAL – ESPECIALIDADES",
+      "city": "PICHINCHA",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/asesor-comercial-especialidades/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-14"
+    },
+    {
+      "id": "difare-analista-de-microbiologia",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ANALISTA DE MICROBIOLOGIA",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/analista-de-microbiologia/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-14"
     },
     {
       "id": "farmaenlace-1337477962",

@@ -74,18 +74,6 @@
       "firstSeen": "2026-11-13"
     },
     {
-      "id": "pichincha-1337432862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-12",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUITO-QUIT-CREDITO-PE/1337432862/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1337422862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -205,18 +193,6 @@
       "firstSeen": "2026-11-10"
     },
     {
-      "id": "pichincha-1338106262",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - QUEVEDO/LA MANA",
-      "province": "LOS RIOS",
-      "city": "BABAHOYO",
-      "publishedAt": "2026-11-09",
-      "url": "https://vacantes.pichincha.com/job/BABAHOYO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-QUEVEDOLA-MANA-BABA-ZONA-COSTA/1338106262/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "pichincha-1338094062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -295,18 +271,6 @@
       "city": "QUITO",
       "publishedAt": "2026-11-07",
       "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-AG_-TUMBACO-QUIT-ZONA-QUITO/1338081262/",
-      "isIT": false,
-      "firstSeen": "2026-11-07"
-    },
-    {
-      "id": "pichincha-1338081362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO DE CREDITO C - AG. CALDERON",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-07",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-DE-CREDITO-C-AG_-CALDERON-QUIT-ZONA-QUITO/1338081362/",
       "isIT": false,
       "firstSeen": "2026-11-07"
     },
@@ -438,18 +402,6 @@
       "city": "Loja",
       "publishedAt": null,
       "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ae50f88441151bb778e4def",
-      "isIT": false,
-      "firstSeen": "2026-10-31"
-    },
-    {
-      "id": "pichincha-1337905562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO DE CREDITO C - Ag. ATAHUALPA IBARRA (EVENTUAL)",
-      "province": "IMBABURA",
-      "city": "IBARRA",
-      "publishedAt": "2026-10-31",
-      "url": "https://vacantes.pichincha.com/job/IBARRA-EJECUTIVO-DE-CREDITO-C-Ag_-ATAHUALPA-IBARRA-%28EVENTUAL%29-IBAR-ZONA-SIERR/1337905562/",
       "isIT": false,
       "firstSeen": "2026-10-31"
     },
@@ -636,18 +588,6 @@
       "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac56bb70ba3c4c66e7b725c",
       "isIT": false,
       "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "pichincha-1337683162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DUENO DE PRODUCTO - COMPRA DE CARTERA",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-22",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-COMPRA-DE-CARTERA-QUIT-CELULA-MAN/1337683162/",
-      "isIT": false,
-      "firstSeen": "2026-10-23"
     },
     {
       "id": "pichincha-1337621062",
@@ -1053,6 +993,19 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "pichincha-1337432862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-12",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUITO-QUIT-CREDITO-PE/1337432862/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-11-14"
+    },
+    {
       "id": "bce-6af251253e8a631dd6465d34",
       "source": "bce",
       "institution": "Banco Central del Ecuador",
@@ -1065,6 +1018,19 @@
       "closedOn": "2026-11-13"
     },
     {
+      "id": "pichincha-1338106262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL C - QUEVEDO/LA MANA",
+      "province": "LOS RIOS",
+      "city": "BABAHOYO",
+      "publishedAt": "2026-11-09",
+      "url": "https://vacantes.pichincha.com/job/BABAHOYO-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-C-QUEVEDOLA-MANA-BABA-ZONA-COSTA/1338106262/",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-14"
+    },
+    {
       "id": "bce-6aecf11aad7a1245cf47be6d",
       "source": "bce",
       "institution": "Banco Central del Ecuador",
@@ -1075,6 +1041,19 @@
       "isIT": false,
       "firstSeen": "2026-11-09",
       "closedOn": "2026-11-13"
+    },
+    {
+      "id": "pichincha-1338081362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO C - AG. CALDERON",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-07",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-DE-CREDITO-C-AG_-CALDERON-QUIT-ZONA-QUITO/1338081362/",
+      "isIT": false,
+      "firstSeen": "2026-11-07",
+      "closedOn": "2026-11-14"
     },
     {
       "id": "pichincha-1338081162",
@@ -1329,6 +1308,19 @@
       "isIT": false,
       "firstSeen": "2026-11-04",
       "closedOn": "2026-11-07"
+    },
+    {
+      "id": "pichincha-1337905562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO C - Ag. ATAHUALPA IBARRA (EVENTUAL)",
+      "province": "IMBABURA",
+      "city": "IBARRA",
+      "publishedAt": "2026-10-31",
+      "url": "https://vacantes.pichincha.com/job/IBARRA-EJECUTIVO-DE-CREDITO-C-Ag_-ATAHUALPA-IBARRA-%28EVENTUAL%29-IBAR-ZONA-SIERR/1337905562/",
+      "isIT": false,
+      "firstSeen": "2026-10-31",
+      "closedOn": "2026-11-14"
     },
     {
       "id": "pichincha-1337143562",
@@ -1751,6 +1743,19 @@
       "isIT": false,
       "firstSeen": "2026-10-24",
       "closedOn": "2026-10-28"
+    },
+    {
+      "id": "pichincha-1337683162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DUENO DE PRODUCTO - COMPRA DE CARTERA",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-22",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-COMPRA-DE-CARTERA-QUIT-CELULA-MAN/1337683162/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-11-14"
     },
     {
       "id": "pichincha-1337683362",
