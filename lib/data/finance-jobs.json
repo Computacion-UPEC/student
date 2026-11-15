@@ -359,18 +359,6 @@
       "firstSeen": "2026-11-04"
     },
     {
-      "id": "pichincha-1338003562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL Y SERVICIOS - LATACUNGA",
-      "province": "COTOPAXI",
-      "city": "PUJILI",
-      "publishedAt": "2026-11-04",
-      "url": "https://vacantes.pichincha.com/job/PUJILI-OFICIAL-COMERCIAL-Y-SERVICIOS-LATACUNGA-LATA-ZONA-NOROR/1338003562/",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "pichincha-1337998962",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1256,6 +1244,19 @@
       "isIT": false,
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-07"
+    },
+    {
+      "id": "pichincha-1338003562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - LATACUNGA",
+      "province": "COTOPAXI",
+      "city": "PUJILI",
+      "publishedAt": "2026-11-04",
+      "url": "https://vacantes.pichincha.com/job/PUJILI-OFICIAL-COMERCIAL-Y-SERVICIOS-LATACUNGA-LATA-ZONA-NOROR/1338003562/",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-15"
     },
     {
       "id": "pichincha-1337974862",

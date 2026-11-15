@@ -73,7 +73,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Ejecutivo de Tiendas Austro",
       "city": "Tienda Mall del Río",
-      "publishedAt": "2026-11-14",
+      "publishedAt": "2026-11-13",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-Mall-del-Ro/Ejecutivo-de-Tiendas-Austro_R135934",
       "isIT": false,
       "firstSeen": "2026-11-13"
@@ -86,17 +86,6 @@
       "city": null,
       "publishedAt": null,
       "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26983",
-      "isIT": false,
-      "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "arca-1450529500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | SANTO DOMINGO",
-      "city": null,
-      "publishedAt": "2026-11-13",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-SANTO-DOMINGO/1450529500/",
       "isIT": false,
       "firstSeen": "2026-11-13"
     },
@@ -233,17 +222,6 @@
       "firstSeen": "2026-11-12"
     },
     {
-      "id": "arca-1450364300",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "ESTIBADOR | CEDI GUAYAQUIL NORTE",
-      "city": null,
-      "publishedAt": "2026-11-12",
-      "url": "https://careers.arcacontal.com/job/ESTIBADOR-CEDI-GUAYAQUIL-NORTE/1450364300/",
-      "isIT": false,
-      "firstSeen": "2026-11-13"
-    },
-    {
       "id": "arca-1450362100",
       "source": "arca",
       "company": "Arca Continental",
@@ -282,7 +260,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Store Operations",
       "city": "Quito",
-      "publishedAt": "2026-11-12",
+      "publishedAt": "2026-11-11",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Store-Operations_R135915",
       "isIT": false,
       "firstSeen": "2026-11-11"
@@ -370,7 +348,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Comisiones",
       "city": "Quito",
-      "publishedAt": "2026-11-11",
+      "publishedAt": "2026-11-10",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Comisiones_R135887",
       "isIT": false,
       "firstSeen": "2026-11-10"
@@ -5648,6 +5626,18 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "arca-1450529500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | SANTO DOMINGO",
+      "city": null,
+      "publishedAt": "2026-11-13",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-SANTO-DOMINGO/1450529500/",
+      "isIT": false,
+      "firstSeen": "2026-11-13",
+      "closedOn": "2026-11-15"
+    },
+    {
       "id": "farmaenlace-1338233162",
       "source": "farmaenlace",
       "company": "Farmaenlace",
@@ -5670,6 +5660,18 @@
       "isIT": false,
       "firstSeen": "2026-11-13",
       "closedOn": "2026-11-13"
+    },
+    {
+      "id": "arca-1450364300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ESTIBADOR | CEDI GUAYAQUIL NORTE",
+      "city": null,
+      "publishedAt": "2026-11-12",
+      "url": "https://careers.arcacontal.com/job/ESTIBADOR-CEDI-GUAYAQUIL-NORTE/1450364300/",
+      "isIT": false,
+      "firstSeen": "2026-11-13",
+      "closedOn": "2026-11-15"
     },
     {
       "id": "arca-1440034800",
