@@ -2,6 +2,38 @@
   "collectedSince": "2026-11-05",
   "jobs": [
     {
+      "id": "greenhouse-canonical-8379825",
+      "company": "Canonical",
+      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2026-11-16",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/8379825",
+      "firstSeen": "2026-11-16"
+    },
+    {
+      "id": "greenhouse-stripe-8360332",
+      "company": "Stripe",
+      "title": "Integration Reliability Engineer, Technical Operations",
+      "location": "Toronto",
+      "route": "patrocinio",
+      "canadaLmia": 17,
+      "publishedAt": "2026-11-16",
+      "url": "https://stripe.com/jobs/search?gh_jid=8360332",
+      "firstSeen": "2026-11-16"
+    },
+    {
+      "id": "greenhouse-stripe-8358071",
+      "company": "Stripe",
+      "title": "Product Integration Reliability Engineer, Money Management",
+      "location": "Toronto",
+      "route": "patrocinio",
+      "canadaLmia": 17,
+      "publishedAt": "2026-11-16",
+      "url": "https://stripe.com/jobs/search?gh_jid=8358071",
+      "firstSeen": "2026-11-16"
+    },
+    {
       "id": "greenhouse-lyft-8940409002",
       "company": "Lyft",
       "title": "Data Engineer, Marketplace",
@@ -263,7 +295,7 @@
     {
       "id": "greenhouse-affirm-8016932003",
       "company": "Affirm",
-      "title": "Product Security Engineer II - IAM",
+      "title": "Software Engineer II - Enterprise IAM",
       "location": "Remote Canada",
       "route": "patrocinio",
       "canadaLmia": 5,
@@ -577,16 +609,6 @@
       "route": "remoto",
       "publishedAt": "2026-10-06",
       "url": "https://jobs.ashbyhq.com/supabase/48950725-e0d9-4025-92d9-f75e1b60ce45",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-canonical-8249005",
-      "company": "Canonical",
-      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
-      "location": "Home based - Worldwide",
-      "route": "remoto",
-      "publishedAt": "2026-10-05",
-      "url": "https://job-boards.greenhouse.io/canonical/jobs/8249005",
       "firstSeen": "2026-11-05"
     },
     {
@@ -1017,17 +1039,6 @@
       "canadaLmia": 17,
       "publishedAt": "2026-06-30",
       "url": "https://stripe.com/jobs/search?gh_jid=7557899",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-stripe-8026689",
-      "company": "Stripe",
-      "title": "Internal Audit Data Analytics Lead",
-      "location": "Toronto, New York, San Francisco, Atlanta, Seattle",
-      "route": "patrocinio",
-      "canadaLmia": 17,
-      "publishedAt": "2026-06-26",
-      "url": "https://stripe.com/jobs/search?gh_jid=8026689",
       "firstSeen": "2026-11-05"
     },
     {
@@ -1611,7 +1622,7 @@
     {
       "id": "greenhouse-canonical-5150422",
       "company": "Canonical",
-      "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+      "title": "Web Engineer - JS, TS, Flutter",
       "location": "Home based - Worldwide",
       "route": "remoto",
       "publishedAt": "2023-10-11",
@@ -2149,6 +2160,17 @@
       "closedOn": "2026-11-10"
     },
     {
+      "id": "greenhouse-canonical-8249005",
+      "company": "Canonical",
+      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+      "location": "Home based - Worldwide",
+      "route": "remoto",
+      "publishedAt": "2026-10-05",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/8249005",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-16"
+    },
+    {
       "id": "greenhouse-affirm-8005077003",
       "company": "Affirm",
       "title": "Senior Software Engineer",
@@ -2253,6 +2275,18 @@
       "url": "https://jobs.ashbyhq.com/supabase/59083a14-b2b6-4dd8-8037-739aa1ad1e22",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-10"
+    },
+    {
+      "id": "greenhouse-stripe-8026689",
+      "company": "Stripe",
+      "title": "Internal Audit Data Analytics Lead",
+      "location": "Toronto, New York, San Francisco, Atlanta, Seattle",
+      "route": "patrocinio",
+      "canadaLmia": 17,
+      "publishedAt": "2026-06-26",
+      "url": "https://stripe.com/jobs/search?gh_jid=8026689",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-16"
     },
     {
       "id": "greenhouse-affirm-7719649003",

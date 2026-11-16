@@ -2,6 +2,42 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1338292262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA SEGUIMIENTO Y REFINANCIACION COBRANZA - EVENTUAL - TENA",
+      "province": "NAPO",
+      "city": "TENA",
+      "publishedAt": "2026-11-16",
+      "url": "https://vacantes.pichincha.com/job/TENA-ESPECIALISTA-SEGUIMIENTO-Y-REFINANCIACION-COBRANZA-EVENTUAL-TENA-TENA-SEGUIMIENT/1338292262/",
+      "isIT": false,
+      "firstSeen": "2026-11-16"
+    },
+    {
+      "id": "pichincha-1338291762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASISTENTE CREDITO PYME - GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-11-16",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-ASISTENTE-CREDITO-PYME-GUAYAQUIL-GUAY-CREDITO-PY/1338291762/",
+      "isIT": false,
+      "firstSeen": "2026-11-16"
+    },
+    {
+      "id": "pichincha-1338278962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO C - AG. MACHACHI",
+      "province": "PICHINCHA",
+      "city": "MEJIA",
+      "publishedAt": "2026-11-16",
+      "url": "https://vacantes.pichincha.com/job/MEJIA-EJECUTIVO-DE-CREDITO-C-AG_-MACHACHI-QUIT-ZONA-QUITO/1338278962/",
+      "isIT": false,
+      "firstSeen": "2026-11-16"
+    },
+    {
       "id": "pichincha-1337501462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -86,18 +122,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1334998762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "GERENTE ANALITICA AVANZADA - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-12",
-      "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-ANALITICA-AVANZADA-QUITO-QUIT-ANALITICA/1334998762/",
-      "isIT": false,
-      "firstSeen": "2026-11-12"
-    },
-    {
       "id": "pichincha-1338216062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -168,17 +192,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-LEGAL-QUITO-QUIT-CONTROL-PR/1336492862/",
       "isIT": false,
       "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "bce-6af26f0fcfc7037c48d627c2",
-      "source": "bce",
-      "institution": "Banco Central del Ecuador",
-      "title": "Especialista de Riesgos de Operaciones 1",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6af26f0fcfc7037c48d627c2",
-      "isIT": false,
-      "firstSeen": "2026-11-10"
     },
     {
       "id": "pichincha-1338137062",
@@ -452,18 +465,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-FUNCIONAL-DE-CREDITO-%28AVALUOS-Y-GARANTIAS%29-QUIT-CELULA-ADM/1337849062/",
       "isIT": false,
       "firstSeen": "2026-10-29"
-    },
-    {
-      "id": "pichincha-1337859462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "GERENTE CUMPLIMIENTO NORMATIVO Y REGULATORIO - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-29",
-      "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-CUMPLIMIENTO-NORMATIVO-Y-REGULATORIO-QUITO-QUIT-CUMPLIMIEN/1337859462/",
-      "isIT": false,
-      "firstSeen": "2026-10-30"
     },
     {
       "id": "pagueya-6ae0c9e4a2045997eaee439c",
@@ -959,6 +960,18 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1337043062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL COMPRA DE CARTERA - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-09-30",
+      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-COMERCIAL-COMPRA-DE-CARTERA-QUITO-QUIT-NEGOCIOS-E/1337043062/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
       "source": "cacpeco",
       "institution": "CACPECO",
@@ -981,6 +994,19 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "pichincha-1334998762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "GERENTE ANALITICA AVANZADA - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-12",
+      "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-ANALITICA-AVANZADA-QUITO-QUIT-ANALITICA/1334998762/",
+      "isIT": false,
+      "firstSeen": "2026-11-12",
+      "closedOn": "2026-11-16"
+    },
+    {
       "id": "pichincha-1337432862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -992,6 +1018,18 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-11-14"
+    },
+    {
+      "id": "bce-6af26f0fcfc7037c48d627c2",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Especialista de Riesgos de Operaciones 1",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6af26f0fcfc7037c48d627c2",
+      "isIT": false,
+      "firstSeen": "2026-11-10",
+      "closedOn": "2026-11-16"
     },
     {
       "id": "bce-6af251253e8a631dd6465d34",
@@ -1433,6 +1471,19 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-11-06"
+    },
+    {
+      "id": "pichincha-1337859462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "GERENTE CUMPLIMIENTO NORMATIVO Y REGULATORIO - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-29",
+      "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-CUMPLIMIENTO-NORMATIVO-Y-REGULATORIO-QUITO-QUIT-CUMPLIMIEN/1337859462/",
+      "isIT": false,
+      "firstSeen": "2026-10-30",
+      "closedOn": "2026-11-16"
     },
     {
       "id": "pichincha-1337846462",
@@ -2698,19 +2749,6 @@
       "isIT": false,
       "firstSeen": "2026-10-21",
       "closedOn": "2026-10-24"
-    },
-    {
-      "id": "pichincha-1337043062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL COMPRA DE CARTERA - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-09-30",
-      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-COMERCIAL-COMPRA-DE-CARTERA-QUITO-QUIT-NEGOCIOS-E/1337043062/",
-      "isIT": false,
-      "firstSeen": "2026-10-16",
-      "closedOn": "2026-10-21"
     },
     {
       "id": "pichincha-1337055562",
