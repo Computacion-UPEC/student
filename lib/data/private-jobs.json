@@ -73,7 +73,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Ejecutivo de Tiendas Austro",
       "city": "Tienda Mall del Río",
-      "publishedAt": "2026-11-13",
+      "publishedAt": "2026-11-14",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-Mall-del-Ro/Ejecutivo-de-Tiendas-Austro_R135934",
       "isIT": false,
       "firstSeen": "2026-11-13"
@@ -260,7 +260,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Store Operations",
       "city": "Quito",
-      "publishedAt": "2026-11-11",
+      "publishedAt": "2026-11-12",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Store-Operations_R135915",
       "isIT": false,
       "firstSeen": "2026-11-11"
@@ -348,7 +348,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Comisiones",
       "city": "Quito",
-      "publishedAt": "2026-11-10",
+      "publishedAt": "2026-11-11",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Comisiones_R135887",
       "isIT": false,
       "firstSeen": "2026-11-10"
@@ -3140,17 +3140,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "difare-jefe-de-laboratorio",
-      "source": "difare",
-      "company": "Difare",
-      "title": "JEFE DE LABORATORIO",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/jefe-de-laboratorio/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "difare-guardia-de-seguridad-polifuncional-quito-norte",
       "source": "difare",
       "company": "Difare",
@@ -3158,17 +3147,6 @@
       "city": "PICHINCHA",
       "publishedAt": null,
       "url": "https://difare.evaluar.com/trabajo/guardia-de-seguridad-polifuncional-quito-norte/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-analista-de-jefatura-de-producto",
-      "source": "difare",
-      "company": "Difare",
-      "title": "ANALISTA DE JEFATURA DE PRODUCTO",
-      "city": "PICHINCHA",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/analista-de-jefatura-de-producto/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -7220,6 +7198,30 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "difare-jefe-de-laboratorio",
+      "source": "difare",
+      "company": "Difare",
+      "title": "JEFE DE LABORATORIO",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/jefe-de-laboratorio/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-16"
+    },
+    {
+      "id": "difare-analista-de-jefatura-de-producto",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ANALISTA DE JEFATURA DE PRODUCTO",
+      "city": "PICHINCHA",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/analista-de-jefatura-de-producto/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-16"
     },
     {
       "id": "difare-asesor-comercial-especialidades",
