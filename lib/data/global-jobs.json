@@ -955,17 +955,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "greenhouse-affirm-7796530003",
-      "company": "Affirm",
-      "title": "Product Security Engineer II",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-07-27",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7796530003",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "greenhouse-affirm-7808386003",
       "company": "Affirm",
       "title": "Senior Software Engineer, Backend (PBA - Growth)",
@@ -2275,6 +2264,18 @@
       "url": "https://jobs.ashbyhq.com/supabase/59083a14-b2b6-4dd8-8037-739aa1ad1e22",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-10"
+    },
+    {
+      "id": "greenhouse-affirm-7796530003",
+      "company": "Affirm",
+      "title": "Product Security Engineer II",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-07-27",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7796530003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-17"
     },
     {
       "id": "greenhouse-stripe-8026689",

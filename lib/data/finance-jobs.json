@@ -2,6 +2,30 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1332558062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "LIDER REDES Y COMUNICACIONES",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-17",
+      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-REDES-Y-COMUNICACIONES-QUIT-INFRAESTRU/1332558062/",
+      "isIT": true,
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1337043062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL COMPRA DE CARTERA - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-17",
+      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-COMERCIAL-COMPRA-DE-CARTERA-QUITO-QUIT-NEGOCIOS-E/1337043062/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "pichincha-1338292262",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -36,6 +60,18 @@
       "url": "https://vacantes.pichincha.com/job/MEJIA-EJECUTIVO-DE-CREDITO-C-AG_-MACHACHI-QUIT-ZONA-QUITO/1338278962/",
       "isIT": false,
       "firstSeen": "2026-11-16"
+    },
+    {
+      "id": "pichincha-1338293162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA SEGUIMIENTO Y REFINANCIACION COBRANZA - IBARRA",
+      "province": "IMBABURA",
+      "city": "IBARRA",
+      "publishedAt": "2026-11-16",
+      "url": "https://vacantes.pichincha.com/job/IBARRA-ESPECIALISTA-SEGUIMIENTO-Y-REFINANCIACION-COBRANZA-IBARRA-IBAR-SEGUIMIENT/1338293162/",
+      "isIT": false,
+      "firstSeen": "2026-11-17"
     },
     {
       "id": "pichincha-1337501462",
@@ -627,18 +663,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "pichincha-1332558062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "LIDER REDES Y COMUNICACIONES",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-19",
-      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-REDES-Y-COMUNICACIONES-QUIT-INFRAESTRU/1332558062/",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "jep-gerente de agencia – la troncal",
       "source": "jep",
       "institution": "Cooperativa JEP",
@@ -956,18 +980,6 @@
         "email": "seleccionjep@jep.coop",
         "subject": "Asesor Comercial Santo Domingo"
       },
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337043062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL COMPRA DE CARTERA - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-09-30",
-      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-COMERCIAL-COMPRA-DE-CARTERA-QUITO-QUIT-NEGOCIOS-E/1337043062/",
       "isIT": false,
       "firstSeen": "2026-10-16"
     },

@@ -2,24 +2,35 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
-      "id": "arca-1450937200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | CEDI LA TRONCAL",
-      "city": null,
-      "publishedAt": "2026-11-16",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LA-TRONCAL/1450937200/",
+      "id": "tigo-R135871",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas Sur",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-17",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/Ejecutivo-de-Tiendas-Sur_R135871",
       "isIT": false,
       "firstSeen": "2026-11-16"
     },
     {
-      "id": "arca-1450940700",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | CEDI LA TRONCAL",
-      "city": null,
-      "publishedAt": "2026-11-16",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LA-TRONCAL/1450940700/",
+      "id": "tigo-R135804",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas Sur",
+      "city": "Tienda San Marino",
+      "publishedAt": "2026-11-17",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-San-Marino/Ejecutivo-de-Tiendas-Sur_R135804",
+      "isIT": false,
+      "firstSeen": "2026-11-16"
+    },
+    {
+      "id": "tigo-R135601",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas Sur",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-17",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/Ejecutivo-de-Tiendas-Sur_R135601",
       "isIT": false,
       "firstSeen": "2026-11-16"
     },
@@ -163,39 +174,6 @@
       "city": "Manta",
       "publishedAt": "2026-11-16",
       "url": "https://puntonet.teamtailor.com/jobs/8751169-ayudante-de-instalacion-masiva",
-      "isIT": false,
-      "firstSeen": "2026-11-16"
-    },
-    {
-      "id": "tigo-R135871",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Ejecutivo de Tiendas Sur",
-      "city": "Guayaquil",
-      "publishedAt": "2026-11-16",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/Ejecutivo-de-Tiendas-Sur_R135871",
-      "isIT": false,
-      "firstSeen": "2026-11-16"
-    },
-    {
-      "id": "tigo-R135804",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Ejecutivo de Tiendas Sur",
-      "city": "Tienda San Marino",
-      "publishedAt": "2026-11-16",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-San-Marino/Ejecutivo-de-Tiendas-Sur_R135804",
-      "isIT": false,
-      "firstSeen": "2026-11-16"
-    },
-    {
-      "id": "tigo-R135601",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Ejecutivo de Tiendas Sur",
-      "city": "Guayaquil",
-      "publishedAt": "2026-11-16",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/Ejecutivo-de-Tiendas-Sur_R135601",
       "isIT": false,
       "firstSeen": "2026-11-16"
     },
@@ -447,7 +425,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Store Operations",
       "city": "Quito",
-      "publishedAt": "2026-11-11",
+      "publishedAt": "2026-11-12",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Store-Operations_R135915",
       "isIT": false,
       "firstSeen": "2026-11-11"
@@ -535,7 +513,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Comisiones",
       "city": "Quito",
-      "publishedAt": "2026-11-10",
+      "publishedAt": "2026-11-11",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Comisiones_R135887",
       "isIT": false,
       "firstSeen": "2026-11-10"
@@ -3539,6 +3517,17 @@
       "firstSeen": "2026-10-22"
     },
     {
+      "id": "arca-1440630100",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-10-15",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-GUAYAQUIL-Dip-Guay/1440630100/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
       "id": "elrosado-12273",
       "source": "elrosado",
       "company": "Corporación El Rosado",
@@ -5712,6 +5701,30 @@
       "url": "https://empleo.elrosado.com/Postulante/frmAplicacionSociedad",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "arca-1450937200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI LA TRONCAL",
+      "city": null,
+      "publishedAt": "2026-11-16",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LA-TRONCAL/1450937200/",
+      "isIT": false,
+      "firstSeen": "2026-11-16",
+      "closedOn": "2026-11-17"
+    },
+    {
+      "id": "arca-1450940700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI LA TRONCAL",
+      "city": null,
+      "publishedAt": "2026-11-16",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LA-TRONCAL/1450940700/",
+      "isIT": false,
+      "firstSeen": "2026-11-16",
+      "closedOn": "2026-11-17"
     },
     {
       "id": "arca-1440655500",
@@ -8160,18 +8173,6 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-11-06"
-    },
-    {
-      "id": "arca-1440630100",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-10-15",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-GUAYAQUIL-Dip-Guay/1440630100/",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-10-31"
     },
     {
       "id": "arca-1440636600",
