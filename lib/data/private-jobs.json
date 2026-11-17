@@ -1278,6 +1278,17 @@
       "firstSeen": "2026-10-29"
     },
     {
+      "id": "netlife-pasante-de-soporte-técnico-guayaquil-guayaquil",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Pasante de Soporte Técnico - Guayaquil",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": true,
+      "firstSeen": "2026-11-05"
+    },
+    {
       "id": "arca-1427282000",
       "source": "arca",
       "company": "Arca Continental",
@@ -6442,18 +6453,6 @@
       "isIT": false,
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-17"
-    },
-    {
-      "id": "netlife-pasante-de-soporte-técnico-guayaquil-guayaquil",
-      "source": "netlife",
-      "company": "Netlife",
-      "title": "Pasante de Soporte Técnico - Guayaquil",
-      "city": "Guayaquil",
-      "publishedAt": null,
-      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
-      "isIT": true,
-      "firstSeen": "2026-11-05",
-      "closedOn": "2026-11-14"
     },
     {
       "id": "arca-1448285900",
