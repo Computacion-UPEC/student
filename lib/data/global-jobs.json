@@ -2,6 +2,50 @@
   "collectedSince": "2026-11-05",
   "jobs": [
     {
+      "id": "greenhouse-affirm-8075414003",
+      "company": "Affirm",
+      "title": "IT Product Manager",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-17",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8075414003",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "greenhouse-affirm-8197744003",
+      "company": "Affirm",
+      "title": "Manager, Software Engineering (Code Standards)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-17",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8197744003",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "greenhouse-affirm-8181193003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (Continuous Delivery)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-17",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8181193003",
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "greenhouse-affirm-8203805003",
+      "company": "Affirm",
+      "title": "Staff Partner Engineer",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-17",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8203805003",
+      "firstSeen": "2026-11-17"
+    },
+    {
       "id": "greenhouse-canonical-8379825",
       "company": "Canonical",
       "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
@@ -397,6 +441,17 @@
       "publishedAt": "2026-10-21",
       "url": "https://stripe.com/jobs/search?gh_jid=8304725",
       "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-affirm-8017286003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (Workload Safety)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-10-21",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017286003",
+      "firstSeen": "2026-11-17"
     },
     {
       "id": "greenhouse-stripe-8301379",
@@ -846,17 +901,6 @@
       "route": "remoto",
       "publishedAt": "2026-08-14",
       "url": "https://job-boards.greenhouse.io/canonical/jobs/8130859",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-affirm-7829429003",
-      "company": "Affirm",
-      "title": "Staff Software Engineer, Mobile (App Infrastructure)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-08-14",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2229,6 +2273,18 @@
       "url": "https://jobs.ashbyhq.com/supabase/8fa1c7a0-a85c-4562-a1f5-4dd22cadae27",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-10"
+    },
+    {
+      "id": "greenhouse-affirm-7829429003",
+      "company": "Affirm",
+      "title": "Staff Software Engineer, Mobile (App Infrastructure)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-08-14",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-17"
     },
     {
       "id": "greenhouse-stripe-8113100",

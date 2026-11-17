@@ -26,6 +26,42 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1338303162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO DE CREDITO B - AG. MACHACHI",
+      "province": "PICHINCHA",
+      "city": "MEJIA",
+      "publishedAt": "2026-11-17",
+      "url": "https://vacantes.pichincha.com/job/MEJIA-EJECUTIVO-DE-CREDITO-B-AG_-MACHACHI-QUIT-ZONA-QUITO/1338303162/",
+      "isIT": false,
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "pichincha-1338316262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "GESTOR BANCARIO DIGITAL - AG. CARAPUNGO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-17",
+      "url": "https://vacantes.pichincha.com/job/QUITO-GESTOR-BANCARIO-DIGITAL-AG_-CARAPUNGO-QUIT-ZONA-NORTE/1338316262/",
+      "isIT": false,
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "pichincha-1338314462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DATA STEWARD - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-17",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DATA-STEWARD-QUITO-QUIT-GOBIERNO-D/1338314462/",
+      "isIT": true,
+      "firstSeen": "2026-11-17"
+    },
+    {
       "id": "pichincha-1338292262",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -146,18 +182,6 @@
       "firstSeen": "2026-11-13"
     },
     {
-      "id": "pichincha-1337422862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "LIDER SMO - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-12",
-      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-SMO-QUITO-QUIT-SERVICIOS/1337422862/",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1338216062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -178,18 +202,6 @@
       "city": "QUITO",
       "publishedAt": "2026-11-12",
       "url": "https://vacantes.pichincha.com/job/QUITO-ASISTENTE-GESTION-OPERATIVA-Y-ADMINISTRATIVA-CON-DISCAPACIDAD-QUIT-SECRETARIA/1338232062/",
-      "isIT": false,
-      "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "pichincha-1338228962",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL Y SERVICIOS - PASEO SHOPPING MILAGRO",
-      "province": "GUAYAS",
-      "city": "MILAGRO",
-      "publishedAt": "2026-11-12",
-      "url": "https://vacantes.pichincha.com/job/MILAGRO-OFICIAL-COMERCIAL-Y-SERVICIOS-PASEO-SHOPPING-MILAGRO-GUAY-ZONA-COSTA/1338228962/",
       "isIT": false,
       "firstSeen": "2026-11-13"
     },
@@ -324,18 +336,6 @@
       "firstSeen": "2026-11-07"
     },
     {
-      "id": "pichincha-1338071762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL Y SERVICIOS - EL EMPALME",
-      "province": "GUAYAS",
-      "city": "EL EMPALME",
-      "publishedAt": "2026-11-06",
-      "url": "https://vacantes.pichincha.com/job/EL-EMPALME-OFICIAL-COMERCIAL-Y-SERVICIOS-EL-EMPALME-GUAY-ZONA-COSTA/1338071762/",
-      "isIT": false,
-      "firstSeen": "2026-11-07"
-    },
-    {
       "id": "pichincha-1336376562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -420,18 +420,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "pichincha-1335907362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO PROCESOS IA",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-01",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PROCESOS-IA-QUIT-TRANSFORMA/1335907362/",
-      "isIT": true,
-      "firstSeen": "2026-10-29"
-    },
-    {
       "id": "bancoloja-6ae50f88441151bb778e4def",
       "source": "bancoloja",
       "institution": "Banco de Loja",
@@ -455,18 +443,6 @@
       "firstSeen": "2026-10-17"
     },
     {
-      "id": "pichincha-1336197062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ESPECIALISTA OPERACIONES EMPRESAS - QUITO (PYMES)",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-30",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-OPERACIONES-EMPRESAS-QUITO-%28PYMES%29-QUIT-OPERACIONE/1336197062/",
-      "isIT": false,
-      "firstSeen": "2026-10-30"
-    },
-    {
       "id": "pichincha-1337888662",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -477,18 +453,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-SOSTENIBILIDAD-QUIT-SOSTENIBIL/1337888662/",
       "isIT": false,
       "firstSeen": "2026-10-30"
-    },
-    {
-      "id": "pichincha-1337044862",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ANALISTA UNIDAD ATENCION AL CLIENTE - EVENTUAL",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-29",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ANALISTA-UNIDAD-ATENCION-AL-CLIENTE-EVENTUAL-QUIT-SERVICIO-A/1337044862/",
-      "isIT": false,
-      "firstSeen": "2026-10-29"
     },
     {
       "id": "pichincha-1337849062",
@@ -517,11 +481,11 @@
       "id": "pichincha-1337777462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
-      "title": "PASANTE ADMINISTRATIVO",
+      "title": "PASANTE DE PROCESOS - TRIBU CANALES",
       "province": "PICHINCHA",
       "city": "QUITO",
       "publishedAt": "2026-10-27",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-ADMINISTRATIVO-QUIT-TRIBU-CANA/1337777462/",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-DE-PROCESOS-TRIBU-CANALES-QUIT-TRIBU-CANA/1337777462/",
       "isIT": false,
       "firstSeen": "2026-10-28"
     },
@@ -625,18 +589,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-TRAINEE-%28RIESGO-OPERATIVO%29-QUITO-QUIT-RIESGO-OPE/1337621062/",
       "isIT": false,
       "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "pichincha-1337644762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "INGENIERO CALIDAD - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-21",
-      "url": "https://vacantes.pichincha.com/job/QUITO-INGENIERO-CALIDAD-QUITO-QUIT-CALIDAD-TI/1337644762/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
     },
     {
       "id": "pichincha-1335783562",
@@ -1006,6 +958,32 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "pichincha-1337422862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "LIDER SMO - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-12",
+      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-SMO-QUITO-QUIT-SERVICIOS/1337422862/",
+      "isIT": true,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-11-17"
+    },
+    {
+      "id": "pichincha-1338228962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - PASEO SHOPPING MILAGRO",
+      "province": "GUAYAS",
+      "city": "MILAGRO",
+      "publishedAt": "2026-11-12",
+      "url": "https://vacantes.pichincha.com/job/MILAGRO-OFICIAL-COMERCIAL-Y-SERVICIOS-PASEO-SHOPPING-MILAGRO-GUAY-ZONA-COSTA/1338228962/",
+      "isIT": false,
+      "firstSeen": "2026-11-13",
+      "closedOn": "2026-11-17"
+    },
+    {
       "id": "pichincha-1334998762",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1131,6 +1109,19 @@
       "isIT": false,
       "firstSeen": "2026-10-26",
       "closedOn": "2026-11-07"
+    },
+    {
+      "id": "pichincha-1338071762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - EL EMPALME",
+      "province": "GUAYAS",
+      "city": "EL EMPALME",
+      "publishedAt": "2026-11-06",
+      "url": "https://vacantes.pichincha.com/job/EL-EMPALME-OFICIAL-COMERCIAL-Y-SERVICIOS-EL-EMPALME-GUAY-ZONA-COSTA/1338071762/",
+      "isIT": false,
+      "firstSeen": "2026-11-07",
+      "closedOn": "2026-11-17"
     },
     {
       "id": "pichincha-1338075862",
@@ -1361,6 +1352,19 @@
       "closedOn": "2026-11-07"
     },
     {
+      "id": "pichincha-1335907362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO PROCESOS IA",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-01",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PROCESOS-IA-QUIT-TRANSFORMA/1335907362/",
+      "isIT": true,
+      "firstSeen": "2026-10-29",
+      "closedOn": "2026-11-17"
+    },
+    {
       "id": "pichincha-1337905562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1459,6 +1463,19 @@
       "closedOn": "2026-11-04"
     },
     {
+      "id": "pichincha-1336197062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA OPERACIONES EMPRESAS - QUITO (PYMES)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-30",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-OPERACIONES-EMPRESAS-QUITO-%28PYMES%29-QUIT-OPERACIONE/1336197062/",
+      "isIT": false,
+      "firstSeen": "2026-10-30",
+      "closedOn": "2026-11-17"
+    },
+    {
       "id": "pichincha-1337867062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1483,6 +1500,19 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-11-06"
+    },
+    {
+      "id": "pichincha-1337044862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ANALISTA UNIDAD ATENCION AL CLIENTE - EVENTUAL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-29",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ANALISTA-UNIDAD-ATENCION-AL-CLIENTE-EVENTUAL-QUIT-SERVICIO-A/1337044862/",
+      "isIT": false,
+      "firstSeen": "2026-10-29",
+      "closedOn": "2026-11-17"
     },
     {
       "id": "pichincha-1337859462",
@@ -1994,6 +2024,19 @@
       "isIT": true,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "pichincha-1337644762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "INGENIERO CALIDAD - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-21",
+      "url": "https://vacantes.pichincha.com/job/QUITO-INGENIERO-CALIDAD-QUITO-QUIT-CALIDAD-TI/1337644762/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-17"
     },
     {
       "id": "pichincha-1337638862",

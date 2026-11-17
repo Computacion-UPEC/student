@@ -1,8 +1,8 @@
 {
   "platforms": {
     "Bancos": {
-      "lastRun": "2026-11-16",
-      "lastSuccess": "2026-11-16",
+      "lastRun": "2026-11-17",
+      "lastSuccess": "2026-11-17",
       "ok": true
     },
     "CACPECO": {
@@ -11,8 +11,8 @@
       "ok": true
     },
     "CELEC": {
-      "lastRun": "2026-11-16",
-      "lastSuccess": "2026-11-16",
+      "lastRun": "2026-11-17",
+      "lastSuccess": "2026-11-17",
       "ok": true
     },
     "CNT": {
@@ -21,8 +21,8 @@
       "ok": true
     },
     "Concursos": {
-      "lastRun": "2026-11-16",
-      "lastSuccess": "2026-11-16",
+      "lastRun": "2026-11-17",
+      "lastSuccess": "2026-11-17",
       "ok": true
     },
     "Educa-Empleo": {
@@ -46,23 +46,23 @@
       "ok": true
     },
     "Exterior": {
-      "lastRun": "2026-11-16",
-      "lastSuccess": "2026-11-16",
+      "lastRun": "2026-11-17",
+      "lastSuccess": "2026-11-17",
       "ok": true
     },
     "INEC": {
-      "lastRun": "2026-11-16",
-      "lastSuccess": "2026-11-16",
+      "lastRun": "2026-11-17",
+      "lastSuccess": "2026-11-17",
       "ok": true
     },
     "Petroecuador": {
-      "lastRun": "2026-11-16",
-      "lastSuccess": "2026-11-16",
+      "lastRun": "2026-11-17",
+      "lastSuccess": "2026-11-17",
       "ok": true
     },
     "Privadas": {
-      "lastRun": "2026-11-16",
-      "lastSuccess": "2026-11-16",
+      "lastRun": "2026-11-17",
+      "lastSuccess": "2026-11-17",
       "ok": true
     },
     "Remotas": {
@@ -71,20 +71,24 @@
       "ok": true
     },
     "Software": {
-      "lastRun": "2026-11-16",
-      "lastSuccess": "2026-11-16",
+      "lastRun": "2026-11-17",
+      "lastSuccess": "2026-11-17",
       "ok": true
     },
     "Visas": {
-      "lastRun": "2026-11-16",
-      "lastSuccess": "2026-11-16",
+      "lastRun": "2026-11-17",
+      "lastSuccess": "2026-11-17",
       "ok": true
     }
   },
   "failing": {
+    "Nestlé Ecuador": {
+      "since": "2026-11-17",
+      "runs": 1
+    },
     "Tiendas Tuti": {
       "since": "2026-11-09",
-      "runs": 16
+      "runs": 17
     }
   }
 }

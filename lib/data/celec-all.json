@@ -2,6 +2,22 @@
   "source": "https://www.celec.gob.ec",
   "calls": [
     {
+      "unit": "Termogas Machala",
+      "role": "ASISTENTE ADMINISTRATIVO",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-17",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/termogasmachala/wp-content/uploads/2026/11/M15.P01.S02-F03-Convocatoria-Asistente-Administrativo.pdf"
+    },
+    {
+      "unit": "Termogas Machala",
+      "role": "ASISTENTE DE TALENTO HUMANO",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-17",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/termogasmachala/wp-content/uploads/2026/11/M15.P01.S02-F03-Convocatoria-Asistente-de-Talento-Humano.pdf"
+    },
+    {
       "unit": "CELEC SUR",
       "role": "ESPECIALISTA ADM 1 – ENFERMERO",
       "eligibility": "Sin requisitos legibles - revisar",
