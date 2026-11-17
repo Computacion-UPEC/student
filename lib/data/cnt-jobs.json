@@ -2,6 +2,42 @@
   "source": "https://empleo.cnt.gob.ec/",
   "jobs": [
     {
+      "id": "cnt-cmo-2026-004-analista-de-trafico",
+      "title": "ANALISTA DE TRAFICO",
+      "url": "https://empleo.cnt.gob.ec/concursos/cnt-cmo-2026-004-analista-de-trafico",
+      "publishedOn": "2026-11-17",
+      "closesOn": "2026-11-19",
+      "isIT": false,
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "cnt-ps-2026-003-operador-de-operacion-outsourcing-guayaquil",
+      "title": "OPERADOR DE OPERACIÓN OUTSOURCING - GUAYAQUIL",
+      "url": "https://empleo.cnt.gob.ec/concursos/cnt-ps-2026-003-operador-de-operacion-outsourcing-guayaquil",
+      "publishedOn": "2026-11-17",
+      "closesOn": "2026-11-18",
+      "isIT": false,
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "cnt-cmo-2026-002-analista-juridico-provincia-mediana-manabi",
+      "title": "ANALISTA JURIDICO PROVINCIA MEDIANA - MANABÍ",
+      "url": "https://empleo.cnt.gob.ec/concursos/cnt-cmo-2026-002-analista-juridico-provincia-mediana-manabi",
+      "publishedOn": "2026-11-17",
+      "closesOn": "2026-11-19",
+      "isIT": false,
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "cnt-ps-2026-002-analista-de-ejecucion-de-proyectos",
+      "title": "ANALISTA DE EJECUCIÓN DE PROYECTOS",
+      "url": "https://empleo.cnt.gob.ec/concursos/cnt-ps-2026-002-analista-de-ejecucion-de-proyectos",
+      "publishedOn": "2026-11-17",
+      "closesOn": "2026-11-18",
+      "isIT": false,
+      "firstSeen": "2026-11-17"
+    },
+    {
       "id": "tecnico-integral-la-troncal-2",
       "title": "TÉCNICO INTEGRAL / LA TRONCAL",
       "url": "https://empleo.cnt.gob.ec/job/tecnico-integral-la-troncal-2/",
