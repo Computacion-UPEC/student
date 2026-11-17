@@ -29,7 +29,7 @@ export type PublicPortal = {
 
 export const publicPortals: PublicPortal[] = [
   { id: "inec", name: "INEC", kind: "Instituto", links: [{ label: "Ver convocatorias", url: "https://www.ecuadorencifras.gob.ec/institucional/trabaja-con-nosotros/" }], note: "Convocatorias casi semanales para encuestas y proyectos: analistas de datos, bases de datos y aplicaciones. Cada una abre de 1 a 3 días; las de TI aparecen arriba con su botón Postular.", collected: true },
-  { id: "cnt", name: "CNT EP", kind: "Empresa pública", links: [{ label: "Procesos de selección", url: "https://empleo.cnt.gob.ec/procesos/" }, { label: "Concursos", url: "https://empleo.cnt.gob.ec/concursos/" }, { label: "Crear cuenta", url: "https://empleo.cnt.gob.ec/user-login/" }], note: "Portal CNT Empleo. Revisamos sus vacantes cada noche: las de TI aparecen arriba. Se postula con una cuenta propia en el mismo portal.", collected: true },
+  { id: "cnt", name: "CNT EP", kind: "Empresa pública", links: [{ label: "Concursos", url: "https://empleo.cnt.gob.ec/" }, { label: "Crear cuenta", url: "https://empleo.cnt.gob.ec/registro" }, { label: "Ingresar", url: "https://empleo.cnt.gob.ec/ingresar" }], note: "Portal CNT Empleo. Revisamos sus vacantes cada noche: las de TI aparecen arriba. Se postula con una cuenta propia en el mismo portal.", collected: true },
   // El formulario es de Google y pide iniciar sesión con una cuenta de Google
   { id: "arcotel", name: "ARCOTEL", kind: "Agencia de regulación", links: [{ label: "Registrar hoja de vida", url: "https://docs.google.com/forms/d/e/1FAIpQLSe82Pp63of_-KZJvFgGekcZ3VE0jP6pyJUv086_eDcIIu2ceQ/viewform" }], note: "Bolsa de empleo: formulario oficial para dejar tus datos; te consideran cuando abren una vacante. Sus concursos van por Encuentra Empleo." },
   // Jueces, notarios y servidores judiciales: concursos propios del Consejo de la Judicatura (no van por Encuentra Empleo)
@@ -63,7 +63,7 @@ export type InecJob = {
   firstSeen: string
 }
 
-/** Vacante de CNT EP (lib/data/cnt-jobs.json). Se postula en su página ("Aplicar al trabajo"). */
+/** Vacante de CNT EP (lib/data/cnt-jobs.json). Se postula en su página (/concursos/<slug>) con una cuenta de candidato. */
 export type CntJob = {
   id: string
   title: string
