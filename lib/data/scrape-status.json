@@ -16,8 +16,8 @@
       "ok": true
     },
     "CNT": {
-      "lastRun": "2026-11-10",
-      "lastSuccess": "2026-11-10",
+      "lastRun": "2026-11-16",
+      "lastSuccess": "2026-11-16",
       "ok": true
     },
     "Concursos": {
@@ -27,8 +27,8 @@
     },
     "Educa-Empleo": {
       "lastRun": "2026-11-16",
-      "lastSuccess": "2026-11-02",
-      "ok": false
+      "lastSuccess": "2026-11-16",
+      "ok": true
     },
     "El-Rosado": {
       "lastRun": "2026-11-02",

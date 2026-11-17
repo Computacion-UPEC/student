@@ -2,6 +2,15 @@
   "source": "https://educacion.gob.ec/educa-empleo/",
   "calls": [
     {
+      "key": "2026-11",
+      "title": "EDUCA EMPLEO NOVIEMBRE 2026 – RÉGIMEN SIERRA-AMAZONÍA Y COSTA-GALÁPAGOS",
+      "firstSeen": "2026-11-17",
+      "documents": [
+        "https://educacion.gob.ec/wp-content/uploads/downloads/2026/10/manual-usuario-educa-empleo-octubre-2026.pdf",
+        "https://educacion.gob.ec/wp-content/uploads/downloads/2026/11/lineamientos-educa-empleo-noviembre-2026.pdf"
+      ]
+    },
+    {
       "key": "2026-10",
       "title": "EDUCA EMPLEO OCTUBRE 2026 – RÉGIMEN SIERRA-AMAZONÍA Y COSTA-GALÁPAGOS",
       "firstSeen": "2026-10-16",
