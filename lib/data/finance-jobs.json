@@ -2,6 +2,29 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1337609962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ANALISTA CREDITO PERSONAS (TEMPORAL) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-18",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ANALISTA-CREDITO-PERSONAS-%28TEMPORAL%29-QUITO-QUIT-CREDITO-PE/1337609962/",
+      "isIT": false,
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "bce-6afcdd7bbf2f7deb83fe280b",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Analista de Bienestar Laboral y Seguridad y Salud Ocupacional",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6afcdd7bbf2f7deb83fe280b",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
+    },
+    {
       "id": "pichincha-1332558062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -60,6 +83,66 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-DATA-STEWARD-QUITO-QUIT-GOBIERNO-D/1338314462/",
       "isIT": true,
       "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "pichincha-1338323362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-17",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-CELULA-TAR/1338323362/",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "id": "pichincha-1338322762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE (TRIBU ADMINISTRACION CREDITO Y RECUPERACION) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-17",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28TRIBU-ADMINISTRACION-CREDITO-Y-RECUPERACION%29-QUITO-QUIT-TRIBU-ADMI/1338322762/",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "id": "pichincha-1338322362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DATA ANALYST SR (ACV SQUAD) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-17",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DATA-ANALYST-SR-%28ACV-SQUAD%29-QUITO-QUIT-ACV-SQUAD/1338322362/",
+      "isIT": true,
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "id": "pichincha-1338322062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO RIESGO MODELOS - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-17",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-RIESGO-MODELOS-QUITO-QUIT-RIESGO-MER/1338322062/",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "id": "pichincha-1338323562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "GESTOR BANCARIO DIGITAL",
+      "province": "IMBABURA",
+      "city": "OTAVALO",
+      "publishedAt": "2026-11-17",
+      "url": "https://vacantes.pichincha.com/job/OTAVALO-GESTOR-BANCARIO-DIGITAL-IBAR-ZONA-NORTE/1338323562/",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
     },
     {
       "id": "pichincha-1338292262",
@@ -599,18 +682,6 @@
       "city": "QUITO",
       "publishedAt": "2026-10-21",
       "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-COMEX-QUIT-CELULA-COM/1335783562/",
-      "isIT": false,
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "pichincha-1337609962",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ANALISTA CREDITO PERSONAS (TEMPORAL) - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-20",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ANALISTA-CREDITO-PERSONAS-%28TEMPORAL%29-QUITO-QUIT-CREDITO-PE/1337609962/",
       "isIT": false,
       "firstSeen": "2026-10-21"
     },

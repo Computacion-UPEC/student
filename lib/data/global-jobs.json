@@ -46,6 +46,17 @@
       "firstSeen": "2026-11-17"
     },
     {
+      "id": "greenhouse-affirm-8207671003",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-17",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8207671003",
+      "firstSeen": "2026-11-18"
+    },
+    {
       "id": "greenhouse-canonical-8379825",
       "company": "Canonical",
       "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
@@ -216,17 +227,6 @@
       "publishedAt": "2026-11-06",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8035736003",
       "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "greenhouse-affirm-8196114003",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-11-06",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196114003",
-      "firstSeen": "2026-11-07"
     },
     {
       "id": "greenhouse-affirm-8162558003",
@@ -1061,17 +1061,6 @@
       "canadaLmia": 17,
       "publishedAt": "2026-07-07",
       "url": "https://stripe.com/jobs/search?gh_jid=8022713",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-stripe-7557899",
-      "company": "Stripe",
-      "title": "Backend Engineer, Developer SDKs",
-      "location": "Toronto, NY, SEA, SF",
-      "route": "patrocinio",
-      "canadaLmia": 17,
-      "publishedAt": "2026-06-30",
-      "url": "https://stripe.com/jobs/search?gh_jid=7557899",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2085,6 +2074,18 @@
       "firstSeen": "2026-11-05"
     },
     {
+      "id": "greenhouse-affirm-8196114003",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-06",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196114003",
+      "firstSeen": "2026-11-07",
+      "closedOn": "2026-11-18"
+    },
+    {
       "id": "greenhouse-stripe-8346778",
       "company": "Stripe",
       "title": "Data Scientist, FX Quantitative Research",
@@ -2332,6 +2333,18 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7796530003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-17"
+    },
+    {
+      "id": "greenhouse-stripe-7557899",
+      "company": "Stripe",
+      "title": "Backend Engineer, Developer SDKs",
+      "location": "Toronto, NY, SEA, SF",
+      "route": "patrocinio",
+      "canadaLmia": 17,
+      "publishedAt": "2026-06-30",
+      "url": "https://stripe.com/jobs/search?gh_jid=7557899",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-18"
     },
     {
       "id": "greenhouse-stripe-8026689",
