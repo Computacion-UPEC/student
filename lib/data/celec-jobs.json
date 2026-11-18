@@ -326,25 +326,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "celec-cf00fe5567",
-      "unit": "Termogas Machala",
-      "role": "ASISTENTE DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN",
-      "fit": "Directa",
-      "isIT": true,
-      "fitDetail": "Directa (Computación/Sistemas/TI)",
-      "minExperienceMonths": 24,
-      "experience": "Alternativa 1: 2 años en cargos similares ; Alternativa 2: 3 años en cargos de Ayudantes / Auxiliares. Lugar y fecha de la convocatoria: Bajo Alto 16 de noviembre de 2026",
-      "education": "Tercer Nivel Tecnológico: Tecnológico Superior ó más de 2 años en título de Tercer Nivel de Grado / Sistemas, o Tecnologías de la Información; o carreras afines en función de la formación.",
-      "salary": "$1,170.00",
-      "openings": "",
-      "publishedAt": "2026-11-16",
-      "closesAt": null,
-      "statusAtScrape": "Reciente - revisar",
-      "code": "",
-      "url": "https://www.celec.gob.ec/termogasmachala/wp-content/uploads/2026/11/M15.P01.S02-F03-Convocatoria-ASISTENTE-DE-TECNOLOGIA-DE-LA-INFORMACION-Y-COMUNICACION.pdf",
-      "firstSeen": "2026-11-16"
-    },
-    {
       "id": "celec-608a764835",
       "unit": "CELEC SUR",
       "role": "ASISTENTE ADM 7 – ASISTENTE DE BODEGA E INVENTARIOS",
@@ -1521,6 +1502,25 @@
       "code": "",
       "url": "https://www.celec.gob.ec/gensur/uncategorized/convocatoria-especialista-electronico-de-mantenimiento/",
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "celec-cf00fe5567",
+      "unit": "Termogas Machala",
+      "role": "ASISTENTE DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN",
+      "fit": "Directa",
+      "isIT": true,
+      "fitDetail": "Directa (Computación/Sistemas/TI)",
+      "minExperienceMonths": 24,
+      "experience": "Alternativa 1: 2 años en cargos similares ; Alternativa 2: 3 años en cargos de Ayudantes / Auxiliares. Lugar y fecha de la convocatoria: Bajo Alto 16 de noviembre de 2026",
+      "education": "Tercer Nivel Tecnológico: Tecnológico Superior ó más de 2 años en título de Tercer Nivel de Grado / Sistemas, o Tecnologías de la Información; o carreras afines en función de la formación.",
+      "salary": "$1,170.00",
+      "openings": "",
+      "publishedAt": "2026-11-16",
+      "closesAt": null,
+      "statusAtScrape": "Reciente - revisar",
+      "code": "",
+      "url": "https://www.celec.gob.ec/termogasmachala/wp-content/uploads/2026/11/M15.P01.S02-F03-Convocatoria-ASISTENTE-DE-TECNOLOGIA-DE-LA-INFORMACION-Y-COMUNICACION.pdf",
+      "firstSeen": "2026-11-16"
     },
     {
       "id": "celec-2ed98f3c79",

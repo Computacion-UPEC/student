@@ -2,6 +2,14 @@
   "source": "https://www.celec.gob.ec",
   "calls": [
     {
+      "unit": "Termopichincha",
+      "role": "Convocatoria para el Proceso de Selección simple un Especialista de Comunicación (1).",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-17",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/termopichincha/uncategorized/convocatoria-para-el-proceso-de-seleccion-simple-un-especialista-de-comunicacion-1/"
+    },
+    {
       "unit": "Termogas Machala",
       "role": "ASISTENTE ADMINISTRATIVO",
       "eligibility": "No aplica",
@@ -16,14 +24,6 @@
       "publishedAt": "2026-11-17",
       "closesAt": null,
       "url": "https://www.celec.gob.ec/termogasmachala/wp-content/uploads/2026/11/M15.P01.S02-F03-Convocatoria-Asistente-de-Talento-Humano.pdf"
-    },
-    {
-      "unit": "Termopichincha",
-      "role": "Convocatoria para el Proceso de Selección simple un Especialista de Comunicación (1).",
-      "eligibility": "No aplica",
-      "publishedAt": "2026-11-17",
-      "closesAt": null,
-      "url": "https://www.celec.gob.ec/termopichincha/uncategorized/convocatoria-para-el-proceso-de-seleccion-simple-un-especialista-de-comunicacion-1/"
     },
     {
       "unit": "CELEC SUR",

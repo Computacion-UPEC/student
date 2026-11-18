@@ -2,6 +2,17 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "devsu-E2DF095E86",
+      "company": "Devsu",
+      "title": "Senior Desarrollador Java (Spring) - Sector Financiero/Bancario",
+      "city": "Quito",
+      "remote": false,
+      "publishedAt": "2026-11-18",
+      "url": "https://apply.workable.com/j/E2DF095E86",
+      "isIT": true,
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "devsu-41942D3953",
       "company": "Devsu",
       "title": "Líder de Transformación y Desempeño Organizacional - Sector Bancario",
@@ -171,7 +182,7 @@
       "company": "Devsu",
       "title": "Senior Account Manager - Latam",
       "city": "Quito",
-      "remote": false,
+      "remote": true,
       "publishedAt": "2026-08-18",
       "url": "https://apply.workable.com/j/E554D058D2",
       "isIT": false,
@@ -356,18 +367,6 @@
       "remote": false,
       "publishedAt": "2026-09-28",
       "url": "https://apply.workable.com/j/56D7514D0E",
-      "isIT": true,
-      "firstSeen": "2026-10-16",
-      "closedOn": "2026-10-20"
-    },
-    {
-      "id": "devsu-E2DF095E86",
-      "company": "Devsu",
-      "title": "Senior Desarrollador Java (Spring) - Sector Financiero/Bancario",
-      "city": "Quito",
-      "remote": false,
-      "publishedAt": "2026-09-28",
-      "url": "https://apply.workable.com/j/E2DF095E86",
       "isIT": true,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-20"

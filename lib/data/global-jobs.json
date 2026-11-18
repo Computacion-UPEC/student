@@ -2,6 +2,27 @@
   "collectedSince": "2026-11-05",
   "jobs": [
     {
+      "id": "greenhouse-affirm-8205744003",
+      "company": "Affirm",
+      "title": "Manager, Machine Learning Engineering",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-18",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8205744003",
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "id": "greenhouse-canonical-6448580",
+      "company": "Canonical",
+      "title": "Engineering Manager - Developer Tools (Starcraft)",
+      "location": "Home Based - Americas",
+      "route": "remoto",
+      "publishedAt": "2026-11-18",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6448580",
+      "firstSeen": "2026-11-18"
+    },
+    {
       "id": "greenhouse-affirm-8075414003",
       "company": "Affirm",
       "title": "IT Product Manager",
@@ -1703,17 +1724,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "greenhouse-databricks-6865698002",
-      "company": "Databricks",
-      "title": "Software Engineer - New Grad (2027 Start)",
-      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
-      "route": "patrocinio",
-      "canadaLmia": 3,
-      "publishedAt": "2023-08-04",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "greenhouse-canonical-4581200",
       "company": "Canonical",
       "title": "Distributed Systems Engineer",
@@ -2404,6 +2414,18 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7590373003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-06"
+    },
+    {
+      "id": "greenhouse-databricks-6865698002",
+      "company": "Databricks",
+      "title": "Software Engineer - New Grad (2027 Start)",
+      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+      "route": "patrocinio",
+      "canadaLmia": 3,
+      "publishedAt": "2023-08-04",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-18"
     }
   ]
 }

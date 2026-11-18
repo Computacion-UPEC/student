@@ -2,12 +2,89 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "holcim-1377772957",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Pasante de Calidad y Producción - Quito Norte",
+      "city": "Quito • Quito",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Quito-Pasante-de-Calidad-y-Producci%C3%B3n-Quito-Norte-P-170138/1377772957/",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "id": "arca-1451753300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI AMBATO",
+      "city": null,
+      "publishedAt": "2026-11-18",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-AMBATO/1451753300/",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "id": "arca-1451754000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI AMBATO",
+      "city": null,
+      "publishedAt": "2026-11-18",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-AMBATO/1451754000/",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "id": "arca-1451749100",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "JEFE DE VENTAS | CEDI PORTOVIEJO",
+      "city": null,
+      "publishedAt": "2026-11-18",
+      "url": "https://careers.arcacontal.com/job/MAN-Portoviejo-JEFE-DE-VENTAS-CEDI-PORTOVIEJO-Dip-Port/1451749100/",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "id": "arca-1451819300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR BASE | CEDI LAGO AGRIO",
+      "city": null,
+      "publishedAt": "2026-11-18",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-BASE-CEDI-LAGO-AGRIO-Dip-Lago/1451819300/",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "id": "pronaca-26950",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "JEFE CORP. DATOS (20000199)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26950",
+      "isIT": true,
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "id": "tigo-R135671",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "(EVENTUAL) Pasante",
+      "city": "Quito",
+      "publishedAt": "2026-11-18",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135671",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
+    },
+    {
       "id": "tigo-R135958",
       "source": "tigo",
       "company": "Tigo (ex Movistar)",
       "title": "(EVENTUAL) Pasante",
       "city": "Guayaquil",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-17",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/XMLNAME--EVENTUAL--Pasante_R135958",
       "isIT": false,
       "firstSeen": "2026-11-17"
@@ -18,32 +95,10 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante en Ingeniería de Datos",
       "city": "Quito",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-17",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-en-Ingeniera-de-Datos_R135776",
       "isIT": true,
       "firstSeen": "2026-11-17"
-    },
-    {
-      "id": "tigo-R135809",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Ejecutivo de Tiendas Norte-6",
-      "city": "Guayaquil",
-      "publishedAt": "2026-11-18",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/Ejecutivo-de-Tiendas-Norte-6_R135809",
-      "isIT": false,
-      "firstSeen": "2026-11-17"
-    },
-    {
-      "id": "holcim-1377772957",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Pasante de Calidad y Producción - Quito Norte",
-      "city": "Quito • Quito",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Quito-Pasante-de-Calidad-y-Producci%C3%B3n-Quito-Norte-P-170138/1377772957/",
-      "isIT": false,
-      "firstSeen": "2026-11-18"
     },
     {
       "id": "arca-1441337200",
@@ -475,6 +530,17 @@
       "firstSeen": "2026-11-18"
     },
     {
+      "id": "arca-1450870300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "JEFE DE VENTAS | GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-11-16",
+      "url": "https://careers.arcacontal.com/job/JEFE-DE-VENTAS-GUAYAQUIL/1450870300/",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
+    },
+    {
       "id": "difare-analista-de-experiencia-al-cliente-manabi",
       "source": "difare",
       "company": "Difare",
@@ -700,7 +766,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Store Operations",
       "city": "Quito",
-      "publishedAt": "2026-11-12",
+      "publishedAt": "2026-11-11",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Store-Operations_R135915",
       "isIT": false,
       "firstSeen": "2026-11-11"
@@ -770,28 +836,6 @@
       "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1820",
       "isIT": false,
       "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "claro-1838",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "ANALISTA DE PRODUCTO",
-      "city": null,
-      "publishedAt": "2026-11-11",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1838",
-      "isIT": false,
-      "firstSeen": "2026-11-12"
-    },
-    {
-      "id": "tigo-R135887",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Comisiones",
-      "city": "Quito",
-      "publishedAt": "2026-11-11",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Comisiones_R135887",
-      "isIT": false,
-      "firstSeen": "2026-11-10"
     },
     {
       "id": "netlife-ejecutivo-de-ventas-puerta-a-puerta-guayaquil-guayaquil",
@@ -1036,17 +1080,6 @@
       "firstSeen": "2026-11-09"
     },
     {
-      "id": "pronaca-26966",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "PLANI. PRODUC. (VAL) (20013291)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26966",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "puntonet-8693617",
       "source": "puntonet",
       "company": "PuntoNet",
@@ -1054,6 +1087,17 @@
       "city": "Quito",
       "publishedAt": "2026-11-09",
       "url": "https://puntonet.teamtailor.com/jobs/8693617-especialista-de-supply-chain-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-09"
+    },
+    {
+      "id": "arca-1448891800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR A. UNIVERSAL | CEDI AMBATO",
+      "city": null,
+      "publishedAt": "2026-11-09",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-AMBATO/1448891800/",
       "isIT": false,
       "firstSeen": "2026-11-09"
     },
@@ -1352,17 +1396,6 @@
       "publishedAt": null,
       "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
       "isIT": true,
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "pronaca-26975",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "SUP. MANT. (VAL) (20000996)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26975",
-      "isIT": false,
       "firstSeen": "2026-11-05"
     },
     {
@@ -1816,17 +1849,6 @@
       "url": "https://empleo.elrosado.com/Postulante/frmAplicacionSociedad",
       "isIT": false,
       "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "difare-trabajador-social",
-      "source": "difare",
-      "company": "Difare",
-      "title": "TRABAJADOR SOCIAL",
-      "city": "PICHINCHA",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/trabajador-social/",
-      "isIT": false,
-      "firstSeen": "2026-10-29"
     },
     {
       "id": "difare-asistente-de-gente-y-cultura-2",
@@ -3393,116 +3415,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "difare-pasante-de-calidad-guayaquil",
-      "source": "difare",
-      "company": "Difare",
-      "title": "PASANTE DE CALIDAD GUAYAQUIL",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/pasante-de-calidad-guayaquil/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-asistente-de-operaciones-auditor-de-recetas",
-      "source": "difare",
-      "company": "Difare",
-      "title": "ASISTENTE DE OPERACIONES (AUDITOR DE RECETAS)",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/asistente-de-operaciones-auditor-de-recetas/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-visitador-medico-guayaquil",
-      "source": "difare",
-      "company": "Difare",
-      "title": "VISITADOR MEDICO GUAYAQUIL",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/visitador-medico-guayaquil/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-analista-contable-guayaquil",
-      "source": "difare",
-      "company": "Difare",
-      "title": "ANALISTA CONTABLE GUAYAQUIL",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/analista-contable-guayaquil/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-asesor-de-aplicaciones-guayaquil",
-      "source": "difare",
-      "company": "Difare",
-      "title": "ASESOR DE APLICACIONES GUAYAQUIL",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/asesor-de-aplicaciones-guayaquil/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-asistente-de-cuentas-por-pagar-4",
-      "source": "difare",
-      "company": "Difare",
-      "title": "ASISTENTE DE CUENTAS POR PAGAR",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/asistente-de-cuentas-por-pagar-4/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-analista-de-mercadeo-guayaquil-2",
-      "source": "difare",
-      "company": "Difare",
-      "title": "ANALISTA DE MERCADEO GUAYAQUIL",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/analista-de-mercadeo-guayaquil-2/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-analista-de-planificacion-financiera",
-      "source": "difare",
-      "company": "Difare",
-      "title": "ANALISTA DE PLANIFICACIÓN FINANCIERA",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/analista-de-planificacion-financiera/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-supervisor-de-ventas-salud-animal-gye",
-      "source": "difare",
-      "company": "Difare",
-      "title": "SUPERVISOR DE VENTAS SALUD ANIMAL GYE",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/supervisor-de-ventas-salud-animal-gye/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-asistente-de-compras-de-insumos-medicos",
-      "source": "difare",
-      "company": "Difare",
-      "title": "ASISTENTE DE COMPRAS DE INSUMOS MÉDICOS",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/asistente-de-compras-de-insumos-medicos/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "difare-asistente-de-calidad-2026-cde",
       "source": "difare",
       "company": "Difare",
@@ -3510,28 +3422,6 @@
       "city": "GUAYAQUIL",
       "publishedAt": null,
       "url": "https://difare.evaluar.com/trabajo/asistente-de-calidad-2026-cde/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-parqueadero-auxiliar-de-punto-de-venta-2026-sierra-2",
-      "source": "difare",
-      "company": "Difare",
-      "title": "PARQUEADERO AUXILIAR DE PUNTO DE VENTA 2026 SIERRA",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/parqueadero-auxiliar-de-punto-de-venta-2026-sierra-2/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-pasante-de-trabajo-social-gye",
-      "source": "difare",
-      "company": "Difare",
-      "title": "PASANTE DE TRABAJO SOCIAL GYE",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/pasante-de-trabajo-social-gye/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -3587,17 +3477,6 @@
       "city": "GUAYAQUIL",
       "publishedAt": null,
       "url": "https://difare.evaluar.com/trabajo/auxiliar-de-logistica-cde/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-somos-la-generacion-d-buscamos-jovenes-con-proposito-3",
-      "source": "difare",
-      "company": "Difare",
-      "title": "Somos la Generación D- Buscamos jóvenes con propósito",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/somos-la-generacion-d-buscamos-jovenes-con-proposito-3/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -5956,6 +5835,18 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "tigo-R135809",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas Norte-6",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-18",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/Ejecutivo-de-Tiendas-Norte-6_R135809",
+      "isIT": false,
+      "firstSeen": "2026-11-17",
+      "closedOn": "2026-11-18"
+    },
+    {
       "id": "arca-1440630100",
       "source": "arca",
       "company": "Arca Continental",
@@ -6160,6 +6051,30 @@
       "closedOn": "2026-11-12"
     },
     {
+      "id": "claro-1838",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ANALISTA DE PRODUCTO",
+      "city": null,
+      "publishedAt": "2026-11-11",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1838",
+      "isIT": false,
+      "firstSeen": "2026-11-12",
+      "closedOn": "2026-11-18"
+    },
+    {
+      "id": "tigo-R135887",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Comisiones",
+      "city": "Quito",
+      "publishedAt": "2026-11-11",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Comisiones_R135887",
+      "isIT": false,
+      "firstSeen": "2026-11-10",
+      "closedOn": "2026-11-18"
+    },
+    {
       "id": "farmaenlace-1338174862",
       "source": "farmaenlace",
       "company": "Farmaenlace",
@@ -6304,16 +6219,16 @@
       "closedOn": "2026-11-10"
     },
     {
-      "id": "arca-1448891800",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR A. UNIVERSAL | CEDI AMBATO",
+      "id": "pronaca-26966",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "PLANI. PRODUC. (VAL) (20013291)",
       "city": null,
-      "publishedAt": "2026-11-09",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-AMBATO/1448891800/",
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26966",
       "isIT": false,
       "firstSeen": "2026-11-09",
-      "closedOn": "2026-11-17"
+      "closedOn": "2026-11-18"
     },
     {
       "id": "arca-1449210500",
@@ -6530,6 +6445,18 @@
       "isIT": true,
       "firstSeen": "2026-11-06",
       "closedOn": "2026-11-10"
+    },
+    {
+      "id": "pronaca-26975",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "SUP. MANT. (VAL) (20000996)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26975",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-18"
     },
     {
       "id": "arca-1448285900",
@@ -7216,6 +7143,18 @@
       "closedOn": "2026-10-31"
     },
     {
+      "id": "difare-trabajador-social",
+      "source": "difare",
+      "company": "Difare",
+      "title": "TRABAJADOR SOCIAL",
+      "city": "PICHINCHA",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/trabajador-social/",
+      "isIT": false,
+      "firstSeen": "2026-10-29",
+      "closedOn": "2026-11-18"
+    },
+    {
       "id": "nestle-1452721733",
       "source": "nestle",
       "company": "Nestlé Ecuador",
@@ -7694,6 +7633,162 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "difare-pasante-de-calidad-guayaquil",
+      "source": "difare",
+      "company": "Difare",
+      "title": "PASANTE DE CALIDAD GUAYAQUIL",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/pasante-de-calidad-guayaquil/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-18"
+    },
+    {
+      "id": "difare-asistente-de-operaciones-auditor-de-recetas",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ASISTENTE DE OPERACIONES (AUDITOR DE RECETAS)",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/asistente-de-operaciones-auditor-de-recetas/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-18"
+    },
+    {
+      "id": "difare-visitador-medico-guayaquil",
+      "source": "difare",
+      "company": "Difare",
+      "title": "VISITADOR MEDICO GUAYAQUIL",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/visitador-medico-guayaquil/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-18"
+    },
+    {
+      "id": "difare-analista-contable-guayaquil",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ANALISTA CONTABLE GUAYAQUIL",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/analista-contable-guayaquil/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-18"
+    },
+    {
+      "id": "difare-asesor-de-aplicaciones-guayaquil",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ASESOR DE APLICACIONES GUAYAQUIL",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/asesor-de-aplicaciones-guayaquil/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-18"
+    },
+    {
+      "id": "difare-asistente-de-cuentas-por-pagar-4",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ASISTENTE DE CUENTAS POR PAGAR",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/asistente-de-cuentas-por-pagar-4/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-18"
+    },
+    {
+      "id": "difare-analista-de-mercadeo-guayaquil-2",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ANALISTA DE MERCADEO GUAYAQUIL",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/analista-de-mercadeo-guayaquil-2/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-18"
+    },
+    {
+      "id": "difare-analista-de-planificacion-financiera",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ANALISTA DE PLANIFICACIÓN FINANCIERA",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/analista-de-planificacion-financiera/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-18"
+    },
+    {
+      "id": "difare-supervisor-de-ventas-salud-animal-gye",
+      "source": "difare",
+      "company": "Difare",
+      "title": "SUPERVISOR DE VENTAS SALUD ANIMAL GYE",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/supervisor-de-ventas-salud-animal-gye/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-18"
+    },
+    {
+      "id": "difare-asistente-de-compras-de-insumos-medicos",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ASISTENTE DE COMPRAS DE INSUMOS MÉDICOS",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/asistente-de-compras-de-insumos-medicos/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-18"
+    },
+    {
+      "id": "difare-parqueadero-auxiliar-de-punto-de-venta-2026-sierra-2",
+      "source": "difare",
+      "company": "Difare",
+      "title": "PARQUEADERO AUXILIAR DE PUNTO DE VENTA 2026 SIERRA",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/parqueadero-auxiliar-de-punto-de-venta-2026-sierra-2/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-18"
+    },
+    {
+      "id": "difare-pasante-de-trabajo-social-gye",
+      "source": "difare",
+      "company": "Difare",
+      "title": "PASANTE DE TRABAJO SOCIAL GYE",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/pasante-de-trabajo-social-gye/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-18"
+    },
+    {
+      "id": "difare-somos-la-generacion-d-buscamos-jovenes-con-proposito-3",
+      "source": "difare",
+      "company": "Difare",
+      "title": "Somos la Generación D- Buscamos jóvenes con propósito",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/somos-la-generacion-d-buscamos-jovenes-con-proposito-3/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-18"
     },
     {
       "id": "holcim-1374004457",
