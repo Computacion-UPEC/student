@@ -79,6 +79,17 @@
       "firstSeen": "2026-11-18"
     },
     {
+      "id": "netlife-pasante-de-cobranzas-guayaquil",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "PASANTE DE COBRANZAS",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
+    },
+    {
       "id": "tigo-R135958",
       "source": "tigo",
       "company": "Tigo (ex Movistar)",
@@ -908,17 +919,6 @@
       "source": "netlife",
       "company": "Netlife",
       "title": "PASANTE DE INNOVACIÓN",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
-      "isIT": false,
-      "firstSeen": "2026-11-10"
-    },
-    {
-      "id": "netlife-pasante-de-cobranzas-quito",
-      "source": "netlife",
-      "company": "Netlife",
-      "title": "PASANTE DE COBRANZAS",
       "city": "Quito",
       "publishedAt": null,
       "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
@@ -6133,6 +6133,18 @@
       "isIT": false,
       "firstSeen": "2026-11-03",
       "closedOn": "2026-11-11"
+    },
+    {
+      "id": "netlife-pasante-de-cobranzas-quito",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "PASANTE DE COBRANZAS",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-10",
+      "closedOn": "2026-11-18"
     },
     {
       "id": "unilever-99469988832",
