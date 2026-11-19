@@ -2,6 +2,66 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1337621062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "TRAINEE (RIESGO OPERATIVO) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-19",
+      "url": "https://vacantes.pichincha.com/job/QUITO-TRAINEE-%28RIESGO-OPERATIVO%29-QUITO-QUIT-RIESGO-OPE/1337621062/",
+      "isIT": false,
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "pichincha-1335783562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DUENO DE PRODUCTO - COMEX",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-19",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-COMEX-QUIT-CELULA-COM/1335783562/",
+      "isIT": false,
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "pichincha-1337642062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DUENO DE PRODUCTO SR - CANALES",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-19",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-SR-CANALES-QUIT-CELULA-APP/1337642062/",
+      "isIT": false,
+      "firstSeen": "2026-10-21"
+    },
+    {
+      "id": "pichincha-1337515962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DISENADOR DE EXPERIENCIA EVENTUAL - UIO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-19",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-EVENTUAL-UIO-QUIT-DISENO-DE/1337515962/",
+      "isIT": true,
+      "firstSeen": "2026-10-17"
+    },
+    {
+      "id": "pichincha-1335012062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "GERENTE CREDITO MICROFINANZAS - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-19",
+      "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-CREDITO-MICROFINANZAS-QUITO-QUIT-CREDITO-MI/1335012062/",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
+    },
+    {
       "id": "pichincha-1337609962",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -59,6 +119,42 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-MODELO-DE-ATENCION-QUITO-QUIT-MODELO-DE/1338358662/",
       "isIT": false,
       "firstSeen": "2026-11-18"
+    },
+    {
+      "id": "pichincha-1338363562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-18",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUITO-QUIT-SERVICIOS/1338363562/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "pichincha-1338364062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS - GUALACEO",
+      "province": "AZUAY",
+      "city": "GUALACEO",
+      "publishedAt": "2026-11-18",
+      "url": "https://vacantes.pichincha.com/job/GUALACEO-OFICIAL-COMERCIAL-Y-SERVICIOS-GUALACEO-CUEN-ZONA-AUSTR/1338364062/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "pichincha-1338363062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "INGENIERO CALIDAD - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-18",
+      "url": "https://vacantes.pichincha.com/job/QUITO-INGENIERO-CALIDAD-QUITO-QUIT-CALIDAD-TI/1338363062/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
     },
     {
       "id": "pichincha-1332558062",
@@ -698,40 +794,26 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "pichincha-1337621062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "TRAINEE (RIESGO OPERATIVO) - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-21",
-      "url": "https://vacantes.pichincha.com/job/QUITO-TRAINEE-%28RIESGO-OPERATIVO%29-QUITO-QUIT-RIESGO-OPE/1337621062/",
+      "id": "bancoloja-6ad2a6408e0b7d70dc0f0918",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Gerente de Negocios",
+      "city": "Loja",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ad2a6408e0b7d70dc0f0918",
       "isIT": false,
-      "firstSeen": "2026-10-21"
+      "firstSeen": "2026-10-22"
     },
     {
-      "id": "pichincha-1335783562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DUENO DE PRODUCTO - COMEX",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-21",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-COMEX-QUIT-CELULA-COM/1335783562/",
+      "id": "bancoloja-6ad273a36118d36ade436997",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Gerente de Marketing y Experiencia",
+      "city": "Loja",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ad273a36118d36ade436997",
       "isIT": false,
-      "firstSeen": "2026-10-21"
-    },
-    {
-      "id": "pichincha-1337642062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DUENO DE PRODUCTO SR - CANALES",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-21",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-SR-CANALES-QUIT-CELULA-APP/1337642062/",
-      "isIT": false,
-      "firstSeen": "2026-10-21"
+      "firstSeen": "2026-10-22"
     },
     {
       "id": "jep-gerente de agencia – la troncal",
@@ -1053,30 +1135,6 @@
       },
       "isIT": false,
       "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1337515962",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DISENADOR DE EXPERIENCIA EVENTUAL - UIO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-16",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-EVENTUAL-UIO-QUIT-DISENO-DE/1337515962/",
-      "isIT": true,
-      "firstSeen": "2026-10-17"
-    },
-    {
-      "id": "pichincha-1335012062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "GERENTE CREDITO MICROFINANZAS - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-07-23",
-      "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-CREDITO-MICROFINANZAS-QUITO-QUIT-CREDITO-MI/1335012062/",
-      "isIT": false,
-      "firstSeen": "2026-11-18"
     },
     {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
@@ -2079,30 +2137,6 @@
       "city": "Quito",
       "publishedAt": null,
       "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6acd7c05bb9d54db293385c4",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-11-01"
-    },
-    {
-      "id": "bancoloja-6ad2a6408e0b7d70dc0f0918",
-      "source": "bancoloja",
-      "institution": "Banco de Loja",
-      "title": "Gerente de Negocios",
-      "city": "Loja",
-      "publishedAt": null,
-      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ad2a6408e0b7d70dc0f0918",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-11-01"
-    },
-    {
-      "id": "bancoloja-6ad273a36118d36ade436997",
-      "source": "bancoloja",
-      "institution": "Banco de Loja",
-      "title": "Gerente de Marketing y Experiencia",
-      "city": "Loja",
-      "publishedAt": null,
-      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ad273a36118d36ade436997",
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-11-01"

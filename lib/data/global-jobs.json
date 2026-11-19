@@ -839,16 +839,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "ashby-supabase-06752423-eebb-472c-95b5-c7ff2559fd60",
-      "company": "Supabase",
-      "title": "Software Engineer - Branching",
-      "location": "Remote, Global",
-      "route": "remoto",
-      "publishedAt": "2026-09-02",
-      "url": "https://jobs.ashbyhq.com/supabase/06752423-eebb-472c-95b5-c7ff2559fd60",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "greenhouse-stripe-8165259",
       "company": "Stripe",
       "title": "UX Research Manager, Payments",
@@ -925,6 +915,17 @@
       "firstSeen": "2026-11-05"
     },
     {
+      "id": "greenhouse-affirm-7829429003",
+      "company": "Affirm",
+      "title": "Staff Software Engineer, Mobile (App Infrastructure)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-08-14",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
+      "firstSeen": "2026-11-05"
+    },
+    {
       "id": "greenhouse-affirm-7819451003",
       "company": "Affirm",
       "title": "Staff CIAM Software Engineer",
@@ -955,17 +956,6 @@
       "canadaLmia": 17,
       "publishedAt": "2026-08-06",
       "url": "https://stripe.com/jobs/search?gh_jid=8112043",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-affirm-7785814003",
-      "company": "Affirm",
-      "title": "Senior Software Engineer",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-08-05",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7785814003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2275,6 +2265,17 @@
       "closedOn": "2026-11-07"
     },
     {
+      "id": "ashby-supabase-06752423-eebb-472c-95b5-c7ff2559fd60",
+      "company": "Supabase",
+      "title": "Software Engineer - Branching",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-09-02",
+      "url": "https://jobs.ashbyhq.com/supabase/06752423-eebb-472c-95b5-c7ff2559fd60",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-19"
+    },
+    {
       "id": "ashby-supabase-8fa1c7a0-a85c-4562-a1f5-4dd22cadae27",
       "company": "Supabase",
       "title": "Platform Security Engineer (AMER/APAC)",
@@ -2284,18 +2285,6 @@
       "url": "https://jobs.ashbyhq.com/supabase/8fa1c7a0-a85c-4562-a1f5-4dd22cadae27",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-10"
-    },
-    {
-      "id": "greenhouse-affirm-7829429003",
-      "company": "Affirm",
-      "title": "Staff Software Engineer, Mobile (App Infrastructure)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-08-14",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
-      "firstSeen": "2026-11-05",
-      "closedOn": "2026-11-17"
     },
     {
       "id": "greenhouse-stripe-8113100",
@@ -2320,6 +2309,18 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7822389003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-09"
+    },
+    {
+      "id": "greenhouse-affirm-7785814003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-08-05",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7785814003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-19"
     },
     {
       "id": "ashby-supabase-59083a14-b2b6-4dd8-8037-739aa1ad1e22",

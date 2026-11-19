@@ -2,6 +2,14 @@
   "source": "https://www.celec.gob.ec",
   "calls": [
     {
+      "unit": "Coca Codo Sinclair",
+      "role": "Asistente topógrafo",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-18",
+      "closesAt": "2026-11-23",
+      "url": "https://www.celec.gob.ec/cocacodo/wp-content/uploads/2026/11/CONVOCATORIA_PSS_2026_68_NL_ASISTENTE_TOPOGRAFO.pdf"
+    },
+    {
       "unit": "Termopichincha",
       "role": "Convocatoria para el Proceso de Selección simple un Especialista de Comunicación (1).",
       "eligibility": "No aplica",

@@ -2,6 +2,28 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "tigo-R135671",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "(EVENTUAL) Pasante",
+      "city": "Quito",
+      "publishedAt": "2026-11-19",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135671",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
+    },
+    {
+      "id": "nestle-1458653133",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Pasante Supply Agricola",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-19",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-Pasante-Supply-Agricola-17-03-4574/1458653133/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
       "id": "holcim-1377772957",
       "source": "holcim",
       "company": "Holcim Ecuador",
@@ -68,17 +90,6 @@
       "firstSeen": "2026-11-18"
     },
     {
-      "id": "tigo-R135671",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "(EVENTUAL) Pasante",
-      "city": "Quito",
-      "publishedAt": "2026-11-18",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135671",
-      "isIT": false,
-      "firstSeen": "2026-11-18"
-    },
-    {
       "id": "netlife-pasante-de-cobranzas-guayaquil",
       "source": "netlife",
       "company": "Netlife",
@@ -95,7 +106,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "(EVENTUAL) Pasante",
       "city": "Guayaquil",
-      "publishedAt": "2026-11-17",
+      "publishedAt": "2026-11-18",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/XMLNAME--EVENTUAL--Pasante_R135958",
       "isIT": false,
       "firstSeen": "2026-11-17"
@@ -106,10 +117,76 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante en Ingeniería de Datos",
       "city": "Quito",
-      "publishedAt": "2026-11-17",
+      "publishedAt": "2026-11-18",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-en-Ingeniera-de-Datos_R135776",
       "isIT": true,
       "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "arca-1452043600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI LA TRONCAL",
+      "city": null,
+      "publishedAt": "2026-11-18",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LA-TRONCAL/1452043600/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "arca-1452001200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR AVANCE | CEDI LA TRONCAL",
+      "city": null,
+      "publishedAt": "2026-11-18",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-AVANCE-CEDI-LA-TRONCAL/1452001200/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "arca-1452006800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR SENIOR | INALECSA MACHALA",
+      "city": null,
+      "publishedAt": "2026-11-18",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-SENIOR-INALECSA-MACHALA-6601/1452006800/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "arca-1452008600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-11-18",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-GUAYAQUIL-Dip-Guay/1452008600/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "arca-1452009700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-11-18",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-CEDI-GUAYAQUIL-Dip-Guay/1452009700/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "arca-1452004500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AYUDANTE DE BODEGA | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-11-18",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AYUDANTE-DE-BODEGA-CEDI-GUAYAQUIL-Dip-Guay/1452004500/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
     },
     {
       "id": "arca-1441337200",
@@ -143,17 +220,6 @@
       "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1574",
       "isIT": false,
       "firstSeen": "2026-10-24"
-    },
-    {
-      "id": "arca-1451290700",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | CEDI GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-11-17",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-GUAYAQUIL-SUR/1451290700/",
-      "isIT": false,
-      "firstSeen": "2026-11-17"
     },
     {
       "id": "arca-1451458700",
@@ -651,17 +717,6 @@
       "firstSeen": "2026-11-13"
     },
     {
-      "id": "farmaenlace-1338253362",
-      "source": "farmaenlace",
-      "company": "Farmaenlace",
-      "title": "COSMETOLOGA",
-      "city": "Distrito",
-      "publishedAt": null,
-      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-COSMETOLOGA/1338253362/",
-      "isIT": false,
-      "firstSeen": "2026-11-13"
-    },
-    {
       "id": "pronaca-27038",
       "source": "pronaca",
       "company": "Pronaca",
@@ -777,7 +832,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante Store Operations",
       "city": "Quito",
-      "publishedAt": "2026-11-11",
+      "publishedAt": "2026-11-12",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Store-Operations_R135915",
       "isIT": false,
       "firstSeen": "2026-11-11"
@@ -1729,17 +1784,6 @@
       "firstSeen": "2026-11-03"
     },
     {
-      "id": "arca-1447443400",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-11-03",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-GUAYAQUIL-SUR/1447443400/",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
-    },
-    {
       "id": "pronaca-26770",
       "source": "pronaca",
       "company": "Pronaca",
@@ -1849,17 +1893,6 @@
       "url": "https://empleo.elrosado.com/Postulante/frmAplicacionSociedad",
       "isIT": false,
       "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "difare-asistente-de-gente-y-cultura-2",
-      "source": "difare",
-      "company": "Difare",
-      "title": "ASISTENTE DE GENTE Y CULTURA",
-      "city": "PICHINCHA",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/asistente-de-gente-y-cultura-2/",
-      "isIT": false,
-      "firstSeen": "2026-10-29"
     },
     {
       "id": "difare-analista-de-producto-abastecimiento-cuenca",
@@ -3623,6 +3656,17 @@
       "city": "Cuenca",
       "publishedAt": null,
       "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-Comercial-Cuenca/1375017857/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "holcim-1374004457",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Supervisor/a de Distribución - Quito",
+      "city": "Quito • Quito • Quito",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Quito-Supervisora-de-Distribuci%C3%B3n-Quito-P-170175/1374004457/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -5847,6 +5891,18 @@
       "closedOn": "2026-11-18"
     },
     {
+      "id": "arca-1451290700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-11-17",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-GUAYAQUIL-SUR/1451290700/",
+      "isIT": false,
+      "firstSeen": "2026-11-17",
+      "closedOn": "2026-11-19"
+    },
+    {
       "id": "arca-1440630100",
       "source": "arca",
       "company": "Arca Continental",
@@ -5941,6 +5997,18 @@
       "isIT": false,
       "firstSeen": "2026-11-13",
       "closedOn": "2026-11-16"
+    },
+    {
+      "id": "farmaenlace-1338253362",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "COSMETOLOGA",
+      "city": "Distrito",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-COSMETOLOGA/1338253362/",
+      "isIT": false,
+      "firstSeen": "2026-11-13",
+      "closedOn": "2026-11-19"
     },
     {
       "id": "claro-1517",
@@ -6711,6 +6779,18 @@
       "closedOn": "2026-11-05"
     },
     {
+      "id": "arca-1447443400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-11-03",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-GUAYAQUIL-SUR/1447443400/",
+      "isIT": false,
+      "firstSeen": "2026-11-03",
+      "closedOn": "2026-11-19"
+    },
+    {
       "id": "netlife-ejecutivo-de-venta-machala-machala",
       "source": "netlife",
       "company": "Netlife",
@@ -7153,6 +7233,18 @@
       "isIT": false,
       "firstSeen": "2026-10-26",
       "closedOn": "2026-10-31"
+    },
+    {
+      "id": "difare-asistente-de-gente-y-cultura-2",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ASISTENTE DE GENTE Y CULTURA",
+      "city": "PICHINCHA",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/asistente-de-gente-y-cultura-2/",
+      "isIT": false,
+      "firstSeen": "2026-10-29",
+      "closedOn": "2026-11-19"
     },
     {
       "id": "difare-trabajador-social",
@@ -7798,18 +7890,6 @@
       "city": "GUAYAQUIL",
       "publishedAt": null,
       "url": "https://difare.evaluar.com/trabajo/somos-la-generacion-d-buscamos-jovenes-con-proposito-3/",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-11-18"
-    },
-    {
-      "id": "holcim-1374004457",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Supervisor/a de Distribución - Quito",
-      "city": "Quito • Quito • Quito",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Quito-Supervisora-de-Distribuci%C3%B3n-Quito-P-170175/1374004457/",
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-11-18"
