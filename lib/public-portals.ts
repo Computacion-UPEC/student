@@ -12,13 +12,16 @@
 // EP Petroecuador está en el sector Energía (sus cargos de TI se recolectan a diario).
 // No incluidos: EPMAPS (aguaquito.gob.ec bloquea las consultas automáticas y no se pudo verificar su sección de
 // empleo) y el Banco Central del Ecuador (no publica una sección de empleo ni se hallaron convocatorias recientes).
+// Fuerzas Armadas (revisado el 18 nov 2026): la Armada pidió perfiles TIC en Especialistas 2026 (boletín
+// ARE-RECL-2025-005). La FAE no tiene inscripciones activas. El Ejército abrió Especialistas 2027 el 6 oct 2026, pero
+// sus carreras son de salud, derecho, administración y música: no se incluye.
 
 export type PortalLink = { label: string; url: string }
 
 export type PublicPortal = {
   id: string
   name: string
-  kind: "Empresa pública" | "Instituto" | "Agencia de regulación" | "Función Judicial"
+  kind: "Empresa pública" | "Instituto" | "Agencia de regulación" | "Función Judicial" | "Fuerzas Armadas"
   /** Enlaces directos: ver vacantes, crear la cuenta o registrar la hoja de vida (el primero es el principal). */
   links: PortalLink[]
   /** Lo que el estudiante encuentra al abrir el enlace. */
@@ -33,6 +36,9 @@ export const publicPortals: PublicPortal[] = [
   // El formulario es de Google y pide iniciar sesión con una cuenta de Google
   { id: "arcotel", name: "ARCOTEL", kind: "Agencia de regulación", links: [{ label: "Registrar hoja de vida", url: "https://docs.google.com/forms/d/e/1FAIpQLSe82Pp63of_-KZJvFgGekcZ3VE0jP6pyJUv086_eDcIIu2ceQ/viewform" }], note: "Bolsa de empleo: formulario oficial para dejar tus datos; te consideran cuando abren una vacante. Sus concursos van por Encuentra Empleo." },
   // Jueces, notarios y servidores judiciales: concursos propios del Consejo de la Judicatura (no van por Encuentra Empleo)
+  // Especialistas: profesionales con título registrado en la SENESCYT que entran como oficiales o tripulantes
+  { id: "armada", name: "Armada del Ecuador", kind: "Fuerzas Armadas", links: [{ label: "Reclutamiento", url: "https://reclutamiento.armada.mil.ec/" }, { label: "Boletín Especialistas 2026", url: "https://reclutamiento.armada.mil.ec/web/content/86727?unique=b96a49325524a10dcb158997d18244a624099fd5&download=true" }], note: "Recibe perfiles TIC. Especialistas 2026 pidió 6 tripulantes de Informática (tecnólogo en Desarrollo de Software o en Programación) y 1 oficial Ingeniero Electrónico. Registro en línea desde el 15 dic 2025; formación de 6 meses en Salinas. Edad: hasta 29 años (oficiales con maestría, hasta 34). El ciclo 2027 aún no se anuncia (revisado el 18 nov 2026)." },
+  { id: "fae", name: "Fuerza Aérea Ecuatoriana (FAE)", kind: "Fuerzas Armadas", links: [{ label: "Reclutamiento", url: "https://reclutamiento.fae.mil.ec/fae-reclutamiento/paginas/inicio.jsf" }], note: "Oficiales y soldados especialistas. Sin inscripciones activas al 18 nov 2026. Sus procesos suelen abrir a fin de año (2023: registro del 30 nov al 12 dic). Las últimas convocatorias no incluyeron carreras de TI: revisa el prospecto cuando abra. Contacto: reclutamiento@fae.mil.ec." },
   { id: "funcion-judicial", name: "Función Judicial (Consejo de la Judicatura)", kind: "Función Judicial", links: [{ label: "Concursos", url: "https://www.funcionjudicial.gob.ec/historico-concursos/" }], note: "Concursos propios para jueces (incluida la Corte Nacional), notarios y servidores judiciales; se anuncian en su sitio oficial." },
 ]
 
