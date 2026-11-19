@@ -1,5 +1,5 @@
 // Portales oficiales de empleo de bancos y cooperativas del Ecuador.
-// Cada enlace se verificó en octubre de 2026 (abre la sección de empleo de la institución, no su página de inicio).
+// Cada enlace se verificó en octubre de 2026 (29 de Octubre, SanFra, CoopProgreso y Jardín Azuayo en noviembre) (abre la sección de empleo de la institución, no su página de inicio).
 // Produbanco: su portal empleos.produbanco.com no resuelve (oct 2026); publica en Multitrabajos.
 // No incluidos: Banco Guayaquil (su portal de reclutamiento responde "503 No available server"),
 // y Banco del Pacífico, Bolivariano, del Austro y Pablo Muñoz Vega (no publican una sección de empleo en su sitio).
@@ -53,6 +53,9 @@ export const financePortals: JobPortal[] = [
   { id: "tulcan", name: "Cooperativa Tulcán", kind: "Cooperativa", sector: "Financiero", ownership: "Privado", url: "https://www.cooptulcan.fin.ec/bolsa-de-empleo/", note: "Bolsa de empleo de la cooperativa con sede en Tulcán.", local: true },
   { id: "jep", name: "Cooperativa JEP", kind: "Cooperativa", sector: "Financiero", ownership: "Privado", url: "https://www.jep.coop/informate/ofertas-laborables", note: "Ofertas laborales y postulación en línea.", collected: true },
   { id: "alianza", name: "Alianza del Valle", kind: "Cooperativa", sector: "Financiero", ownership: "Privado", url: "https://alianzaapps.alianzadelvalle.fin.ec:44144/vacantes", note: "Portal de vacantes de la cooperativa." },
-  { id: "jardin-azuayo", name: "Jardín Azuayo", kind: "Cooperativa", sector: "Financiero", ownership: "Privado", url: "https://www.jardinazuayo.fin.ec/empleo/", note: "Empleos y postulación en línea." },
+  { id: "jardin-azuayo", name: "Jardín Azuayo", kind: "Cooperativa", sector: "Financiero", ownership: "Privado", url: "https://www.multitrabajos.com/perfiles/empresa_cooperativa-jardin-azuayo_10199124.html", note: "Segunda cooperativa más grande del país. Su página de empleo (jardinazuayo.fin.ec/empleo) envía a este perfil de Multitrabajos, el único medio para postular; suele buscar perfiles de Telecomunicaciones e Informática en Cuenca." },
+  { id: "coop29deoctubre", name: "Cooperativa 29 de Octubre", kind: "Cooperativa", sector: "Financiero", ownership: "Privado", url: "https://coop29deoctubre.hiringroom.com/jobs", note: "Cooperativa de Quito del segmento 1, con agencia en El Ángel (Carchi). Su sitio oficial enlaza este portal de HiringRoom.", local: true, collected: true },
+  { id: "sanfra", name: "Cooperativa San Francisco (SanFra)", kind: "Cooperativa", sector: "Financiero", ownership: "Privado", url: "https://coacsanfra.hiringroom.com/jobs", note: "Cooperativa de Ambato del segmento 1. Su sitio oficial enlaza este portal de HiringRoom.", collected: true },
+  { id: "cooprogreso", name: "CoopProgreso", kind: "Cooperativa", sector: "Financiero", ownership: "Privado", url: "https://www.cooprogreso.fin.ec/trabaja-con-nosotros", note: "No publica vacantes: deja tu hoja de vida en su formulario, que pregunta por tus conocimientos técnicos e informáticos." },
   { id: "cacpeco", name: "CACPECO", kind: "Cooperativa", sector: "Financiero", ownership: "Privado", url: "https://quierolaburo.com/empresas/cacpeco", note: "Publica sus vacantes en Laburo, enlazado desde “Trabaja con nosotros”; las revisamos desde un computador.", collected: true },
 ]
