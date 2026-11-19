@@ -2,6 +2,24 @@
   "source": "https://empleo.cnt.gob.ec/",
   "jobs": [
     {
+      "id": "cnt-ps-2026-008-impulsador-de-ventas-temporal-quito",
+      "title": "IMPULSADOR DE VENTAS TEMPORAL - QUITO",
+      "url": "https://empleo.cnt.gob.ec/concursos/cnt-ps-2026-008-impulsador-de-ventas-temporal-quito",
+      "publishedOn": "2026-11-19",
+      "closesOn": "2026-11-26",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "cnt-ps-2026-007-vendedor-temporal-quito",
+      "title": "VENDEDOR TEMPORAL - QUITO",
+      "url": "https://empleo.cnt.gob.ec/concursos/cnt-ps-2026-007-vendedor-temporal-quito",
+      "publishedOn": "2026-11-19",
+      "closesOn": "2026-11-26",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
       "id": "cnt-ps-2026-006-promotor-de-la-salud-quito",
       "title": "PROMOTOR DE LA SALUD - QUITO",
       "url": "https://empleo.cnt.gob.ec/concursos/cnt-ps-2026-006-promotor-de-la-salud-quito",
