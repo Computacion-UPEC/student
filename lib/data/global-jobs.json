@@ -2,6 +2,26 @@
   "collectedSince": "2026-11-05",
   "jobs": [
     {
+      "id": "ashby-supabase-463d8cd7-3092-44eb-b80e-8d21008e569e",
+      "company": "Supabase",
+      "title": "Storage Platform Engineer",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-11-19",
+      "url": "https://jobs.ashbyhq.com/supabase/463d8cd7-3092-44eb-b80e-8d21008e569e",
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "ashby-supabase-2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+      "company": "Supabase",
+      "title": "Software Engineer - Postgres Tooling",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-11-19",
+      "url": "https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+      "firstSeen": "2026-11-19"
+    },
+    {
       "id": "greenhouse-affirm-8205744003",
       "company": "Affirm",
       "title": "Manager, Machine Learning Engineering",
@@ -923,17 +943,6 @@
       "canadaLmia": 5,
       "publishedAt": "2026-08-14",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7829429003",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-affirm-7819451003",
-      "company": "Affirm",
-      "title": "Staff CIAM Software Engineer",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-08-12",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819451003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2285,6 +2294,18 @@
       "url": "https://jobs.ashbyhq.com/supabase/8fa1c7a0-a85c-4562-a1f5-4dd22cadae27",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-10"
+    },
+    {
+      "id": "greenhouse-affirm-7819451003",
+      "company": "Affirm",
+      "title": "Staff CIAM Software Engineer",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-08-12",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819451003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-19"
     },
     {
       "id": "greenhouse-stripe-8113100",

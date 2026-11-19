@@ -167,17 +167,6 @@
       "firstSeen": "2026-11-10"
     },
     {
-      "id": "stackbuilders-CC267177A8",
-      "company": "Stack Builders",
-      "title": "Ecuador - DevOps Engineer",
-      "city": "Quito",
-      "remote": false,
-      "publishedAt": "2026-08-20",
-      "url": "https://apply.workable.com/j/CC267177A8",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "devsu-E554D058D2",
       "company": "Devsu",
       "title": "Senior Account Manager - Latam",
@@ -370,6 +359,18 @@
       "isIT": true,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-10-20"
+    },
+    {
+      "id": "stackbuilders-CC267177A8",
+      "company": "Stack Builders",
+      "title": "Ecuador - DevOps Engineer",
+      "city": "Quito",
+      "remote": false,
+      "publishedAt": "2026-08-20",
+      "url": "https://apply.workable.com/j/CC267177A8",
+      "isIT": true,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-11-19"
     },
     {
       "id": "devsu-ED84C9DB19",

@@ -2,17 +2,6 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
-      "id": "tigo-R135671",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "(EVENTUAL) Pasante",
-      "city": "Quito",
-      "publishedAt": "2026-11-19",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135671",
-      "isIT": false,
-      "firstSeen": "2026-11-18"
-    },
-    {
       "id": "nestle-1458653133",
       "source": "nestle",
       "company": "Nestlé Ecuador",
@@ -22,6 +11,116 @@
       "url": "https://jobdetails.nestle.com/job/Guayaquil-Pasante-Supply-Agricola-17-03-4574/1458653133/",
       "isIT": false,
       "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "arca-1452100400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ESTIBADOR | CEDI BABAHOYO",
+      "city": null,
+      "publishedAt": "2026-11-19",
+      "url": "https://careers.arcacontal.com/job/ESTIBADOR-CEDI-BABAHOYO/1452100400/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "arca-1452369100",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "BODEGUERO DE PRODUCTO TERMINADO | CEDI PLAYAS",
+      "city": null,
+      "publishedAt": "2026-11-19",
+      "url": "https://careers.arcacontal.com/job/BODEGUERO-DE-PRODUCTO-TERMINADO-CEDI-PLAYAS/1452369100/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "farmaenlace-1338394662",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "PASANTE",
+      "city": "Distrito",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-PASANTE-PICH/1338394662/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "farmaenlace-1338397862",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "EJECUTIVO DE PROYECTOS NUEVOS",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Guayaquil-EJECUTIVO-DE-PROYECTOS-NUEVOS-GUAY/1338397862/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "pronaca-26986",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "ADMIN. ALMACEN (AGR) (20011990)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26986",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "pronaca-26871",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "OPER. PLANTA (PEC) (20009483)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26871",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "tigo-R135695",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Especialista de Tiendas Sur",
+      "city": "Tienda San Marino",
+      "publishedAt": "2026-11-19",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-San-Marino/Especialista-de-Tiendas-Sur_R135695",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "nestle-1458963633",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Revenue Analyst",
+      "city": "Quito",
+      "publishedAt": "2026-11-19",
+      "url": "https://jobdetails.nestle.com/job/Quito-Revenue-Analyst-17-03-4574/1458963633/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "nestle-1459038433",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Analista de Ventas",
+      "city": "Quito",
+      "publishedAt": "2026-11-19",
+      "url": "https://jobdetails.nestle.com/job/Quito-Analista-de-Ventas-17-03-4574/1459038433/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "tigo-R135671",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "(EVENTUAL) Pasante",
+      "city": "Quito",
+      "publishedAt": "2026-11-18",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135671",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
     },
     {
       "id": "holcim-1377772957",
@@ -101,39 +200,6 @@
       "firstSeen": "2026-11-18"
     },
     {
-      "id": "tigo-R135958",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "(EVENTUAL) Pasante",
-      "city": "Guayaquil",
-      "publishedAt": "2026-11-18",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/XMLNAME--EVENTUAL--Pasante_R135958",
-      "isIT": false,
-      "firstSeen": "2026-11-17"
-    },
-    {
-      "id": "tigo-R135776",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante en Ingeniería de Datos",
-      "city": "Quito",
-      "publishedAt": "2026-11-18",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-en-Ingeniera-de-Datos_R135776",
-      "isIT": true,
-      "firstSeen": "2026-11-17"
-    },
-    {
-      "id": "arca-1452043600",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | CEDI LA TRONCAL",
-      "city": null,
-      "publishedAt": "2026-11-18",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LA-TRONCAL/1452043600/",
-      "isIT": false,
-      "firstSeen": "2026-11-19"
-    },
-    {
       "id": "arca-1452001200",
       "source": "arca",
       "company": "Arca Continental",
@@ -189,15 +255,26 @@
       "firstSeen": "2026-11-19"
     },
     {
-      "id": "arca-1441337200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "ANALISTA DE NÓMINA | CEDI VALLE",
-      "city": null,
+      "id": "tigo-R135958",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "(EVENTUAL) Pasante",
+      "city": "Guayaquil",
       "publishedAt": "2026-11-17",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-ANALISTA-DE-N%C3%93MINA-CEDI-VALLE-Dip-Quit/1441337200/",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/XMLNAME--EVENTUAL--Pasante_R135958",
       "isIT": false,
-      "firstSeen": "2026-10-23"
+      "firstSeen": "2026-11-17"
+    },
+    {
+      "id": "tigo-R135776",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante en Ingeniería de Datos",
+      "city": "Quito",
+      "publishedAt": "2026-11-17",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-en-Ingeniera-de-Datos_R135776",
+      "isIT": true,
+      "firstSeen": "2026-11-17"
     },
     {
       "id": "arca-1440781700",
@@ -825,17 +902,6 @@
       "url": "https://careers.arcacontal.com/job/COORDINADOR-DE-TRADE-EMERGENTES-CUENCA/1450167800/",
       "isIT": false,
       "firstSeen": "2026-11-16"
-    },
-    {
-      "id": "tigo-R135915",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante Store Operations",
-      "city": "Quito",
-      "publishedAt": "2026-11-12",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Store-Operations_R135915",
-      "isIT": false,
-      "firstSeen": "2026-11-11"
     },
     {
       "id": "arca-1449750100",
@@ -1928,15 +1994,15 @@
       "firstSeen": "2026-10-29"
     },
     {
-      "id": "nestle-1452346033",
-      "source": "nestle",
-      "company": "Nestlé Ecuador",
-      "title": "Logistics And Distribution Auxiliary",
-      "city": "Guayaquil",
+      "id": "arca-1445054500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI QUITO NORTE",
+      "city": null,
       "publishedAt": "2026-10-29",
-      "url": "https://jobdetails.nestle.com/job/Guayaquil-Logistics-And-Distribution-Auxiliary-17-03-4574/1452346033/",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-VENDEDOR-CEDI-QUITO-NORTE-Dip-Quit/1445054500/",
       "isIT": false,
-      "firstSeen": "2026-11-04"
+      "firstSeen": "2026-10-29"
     },
     {
       "id": "difare-sub-gerente-de-producto-dyvenpro",
@@ -1994,17 +2060,6 @@
       "url": "https://empleo.elrosado.com/Postulante/frmAplicacionSociedad",
       "isIT": false,
       "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "nestle-1452322633",
-      "source": "nestle",
-      "company": "Nestlé Ecuador",
-      "title": "Pasante de Marketing Confites",
-      "city": "GUAYAQUIL",
-      "publishedAt": "2026-10-28",
-      "url": "https://jobdetails.nestle.com/job/GUAYAQUIL-Pasante-de-Marketing-Confites-17-03-4574/1452322633/",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
     },
     {
       "id": "novacero-6adfbe9210f80e9c370a3b33",
@@ -2093,17 +2148,6 @@
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-CHOFER-DE-TRAILER-CEDI-GUAYAQUIL-Dip-Guay/1444380700/",
       "isIT": false,
       "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "arca-1443691500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI MANTA",
-      "city": null,
-      "publishedAt": "2026-10-26",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-MANTA/1443691500/",
-      "isIT": false,
-      "firstSeen": "2026-10-26"
     },
     {
       "id": "puntonet-8615977",
@@ -5879,6 +5923,18 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "arca-1452043600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI LA TRONCAL",
+      "city": null,
+      "publishedAt": "2026-11-18",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LA-TRONCAL/1452043600/",
+      "isIT": false,
+      "firstSeen": "2026-11-19",
+      "closedOn": "2026-11-19"
+    },
+    {
       "id": "tigo-R135809",
       "source": "tigo",
       "company": "Tigo (ex Movistar)",
@@ -5889,6 +5945,18 @@
       "isIT": false,
       "firstSeen": "2026-11-17",
       "closedOn": "2026-11-18"
+    },
+    {
+      "id": "arca-1441337200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ANALISTA DE NÓMINA | CEDI VALLE",
+      "city": null,
+      "publishedAt": "2026-11-17",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-ANALISTA-DE-N%C3%93MINA-CEDI-VALLE-Dip-Quit/1441337200/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-11-19"
     },
     {
       "id": "arca-1451290700",
@@ -6057,6 +6125,18 @@
       "isIT": false,
       "firstSeen": "2026-11-13",
       "closedOn": "2026-11-13"
+    },
+    {
+      "id": "tigo-R135915",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante Store Operations",
+      "city": "Quito",
+      "publishedAt": "2026-11-12",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-Store-Operations_R135915",
+      "isIT": false,
+      "firstSeen": "2026-11-11",
+      "closedOn": "2026-11-19"
     },
     {
       "id": "arca-1450362100",
@@ -7235,6 +7315,18 @@
       "closedOn": "2026-10-31"
     },
     {
+      "id": "nestle-1452346033",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Logistics And Distribution Auxiliary",
+      "city": "Guayaquil",
+      "publishedAt": "2026-10-29",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-Logistics-And-Distribution-Auxiliary-17-03-4574/1452346033/",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-19"
+    },
+    {
       "id": "difare-asistente-de-gente-y-cultura-2",
       "source": "difare",
       "company": "Difare",
@@ -7319,18 +7411,6 @@
       "closedOn": "2026-11-09"
     },
     {
-      "id": "arca-1445054500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI QUITO NORTE",
-      "city": null,
-      "publishedAt": "2026-10-29",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-VENDEDOR-CEDI-QUITO-NORTE-Dip-Quit/1445054500/",
-      "isIT": false,
-      "firstSeen": "2026-10-29",
-      "closedOn": "2026-11-08"
-    },
-    {
       "id": "farmaenlace-1337840062",
       "source": "farmaenlace",
       "company": "Farmaenlace",
@@ -7401,6 +7481,18 @@
       "isIT": false,
       "firstSeen": "2026-11-03",
       "closedOn": "2026-11-04"
+    },
+    {
+      "id": "nestle-1452322633",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Pasante de Marketing Confites",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-10-28",
+      "url": "https://jobdetails.nestle.com/job/GUAYAQUIL-Pasante-de-Marketing-Confites-17-03-4574/1452322633/",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-19"
     },
     {
       "id": "arca-1444654800",
@@ -7605,6 +7697,18 @@
       "isIT": false,
       "firstSeen": "2026-10-27",
       "closedOn": "2026-10-30"
+    },
+    {
+      "id": "arca-1443691500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI MANTA",
+      "city": null,
+      "publishedAt": "2026-10-26",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-MANTA/1443691500/",
+      "isIT": false,
+      "firstSeen": "2026-10-26",
+      "closedOn": "2026-11-19"
     },
     {
       "id": "arca-1443783000",

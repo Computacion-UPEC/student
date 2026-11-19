@@ -38,18 +38,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "pichincha-1337515962",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DISENADOR DE EXPERIENCIA EVENTUAL - UIO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-19",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-EVENTUAL-UIO-QUIT-DISENO-DE/1337515962/",
-      "isIT": true,
-      "firstSeen": "2026-10-17"
-    },
-    {
       "id": "pichincha-1335012062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -60,6 +48,65 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-CREDITO-MICROFINANZAS-QUITO-QUIT-CREDITO-MI/1335012062/",
       "isIT": false,
       "firstSeen": "2026-11-18"
+    },
+    {
+      "id": "pichincha-1338389662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO OPERACIONES MESA HIPOTECARIO - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-19",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-OPERACIONES-MESA-HIPOTECARIO-QUITO-QUIT-HIPOTECARI/1338389662/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "pichincha-1338386762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO COMERCIAL BANCA PRIVADA - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-19",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-COMERCIAL-BANCA-PRIVADA-QUITO-QUIT-BANCA-PRIV/1338386762/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "pichincha-1338388362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO COMERCIAL EMPRESAS - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-19",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-COMERCIAL-EMPRESAS-QUITO-QUIT-BANCA-EMPR/1338388362/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "pichincha-1338401362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL B - LATACUNGA",
+      "province": "COTOPAXI",
+      "city": "LATACUNGA",
+      "publishedAt": "2026-11-19",
+      "url": "https://vacantes.pichincha.com/job/LATACUNGA-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-B-LATACUNGA-LATA-ZONA-NOROR/1338401362/",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "pagueya-6a8cb3e303e50c44287b5acc",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "ESPECIALISTA PROYECTOS",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6a8cb3e303e50c44287b5acc",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
     },
     {
       "id": "pichincha-1337609962",
@@ -285,18 +332,6 @@
       "city": "TENA",
       "publishedAt": "2026-11-16",
       "url": "https://vacantes.pichincha.com/job/TENA-ESPECIALISTA-SEGUIMIENTO-Y-REFINANCIACION-COBRANZA-EVENTUAL-TENA-TENA-SEGUIMIENT/1338292262/",
-      "isIT": false,
-      "firstSeen": "2026-11-16"
-    },
-    {
-      "id": "pichincha-1338291762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ASISTENTE CREDITO PYME - GUAYAQUIL",
-      "province": "GUAYAS",
-      "city": "GUAYAQUIL",
-      "publishedAt": "2026-11-16",
-      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-ASISTENTE-CREDITO-PYME-GUAYAQUIL-GUAY-CREDITO-PY/1338291762/",
       "isIT": false,
       "firstSeen": "2026-11-16"
     },
@@ -621,18 +656,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-ADMINISTRADOR-PORTAL-WEB-QUIT-CONTENIDO/1337984062/",
       "isIT": false,
       "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "pichincha-1337998962",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE NEGOCIOS DIGITALES",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-04",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-NEGOCIOS-DIGITALES-QUIT-TRIBU-NEGO/1337998962/",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
     },
     {
       "id": "bancoloja-6ae50f88441151bb778e4def",
@@ -1159,6 +1182,32 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "pichincha-1337515962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DISENADOR DE EXPERIENCIA EVENTUAL - UIO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-19",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-EVENTUAL-UIO-QUIT-DISENO-DE/1337515962/",
+      "isIT": true,
+      "firstSeen": "2026-10-17",
+      "closedOn": "2026-11-19"
+    },
+    {
+      "id": "pichincha-1338291762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASISTENTE CREDITO PYME - GUAYAQUIL",
+      "province": "GUAYAS",
+      "city": "GUAYAQUIL",
+      "publishedAt": "2026-11-16",
+      "url": "https://vacantes.pichincha.com/job/GUAYAQUIL-ASISTENTE-CREDITO-PYME-GUAYAQUIL-GUAY-CREDITO-PY/1338291762/",
+      "isIT": false,
+      "firstSeen": "2026-11-16",
+      "closedOn": "2026-11-19"
+    },
+    {
       "id": "pichincha-1337422862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1486,6 +1535,19 @@
       "isIT": false,
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-07"
+    },
+    {
+      "id": "pichincha-1337998962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE NEGOCIOS DIGITALES",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-04",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-NEGOCIOS-DIGITALES-QUIT-TRIBU-NEGO/1337998962/",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-19"
     },
     {
       "id": "pichincha-1338003562",
