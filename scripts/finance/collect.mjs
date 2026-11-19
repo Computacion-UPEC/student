@@ -6,6 +6,8 @@
 //   - Banco Central del Ecuador: portal de HiringRoom, enlazado desde bce.fin.ec
 //   - Banco de Loja: portal de HiringRoom, enlazado desde "Trabaja con nosotros" de bancodeloja.fin.ec
 //   - Banco Internacional: SuccessFactors clásico, leído desde su feed XML público (scripts/lib/successfactors-xml.mjs)
+//   - Cooperativa 29 de Octubre y Cooperativa San Francisco (SanFra, Ambato): portales de HiringRoom enlazados desde
+//     "Trabaja con nosotros" de 29deoctubre.fin.ec y coac-sanfra.com
 // Otras empresas del Grupo Pichincha no tienen portal propio: Credife y Amerafin fueron absorbidas por el banco en
 // 2024 (BankWatch Ratings, calificación de papel comercial 2026) y sus cargos salen en el portal de Banco Pichincha;
 // Vaserum (transporte de valores), Almesa (almacenera) y Deuna (billetera) no tienen sitio de empleo verificable.
@@ -13,7 +15,9 @@
 // Los demás portales se quedan como enlace (ver lib/finance-portals.ts): Produbanco (publica en Multitrabajos),
 // BanEcuador (sin página de vacantes; sus entradas
 // "convocatoria" son llamados antiguos a secretarios de coactiva), Alianza del Valle, Jardín Azuayo y
-// Cooperativa Tulcán (formulario de hoja de vida, no vacantes). CACPECO publica en Laburo, que exige un navegador real
+// Cooperativa Tulcán (formulario de hoja de vida, no vacantes). Jardín Azuayo publica en Multitrabajos, que arma la
+// lista en el navegador; CoopProgreso solo tiene un formulario de hoja de vida. Fernando Daquilema enlaza
+// bolsaempleo.coopdaquilema.com, que no resuelve (nov 2026), y Mushuc Runa no tiene sección de empleo: no se incluyen. CACPECO publica en Laburo, que exige un navegador real
 // (Firebase App Check): lo recoge portales_navegador.py del scraper de Encuentra Empleo, desde un computador.
 //
 // Guarda un historial en lib/data/finance-jobs.json: cada oferta tiene firstSeen y, cuando deja de
@@ -99,6 +103,8 @@ const SOURCES = [
   { id: "pagueya", institution: "Pague Ya (Grupo Pichincha)", collect: () => hiringRoom("pagueya") },
   { id: "bancoloja", institution: "Banco de Loja", collect: () => hiringRoom("bancoloja") },
   { id: "bce", institution: "Banco Central del Ecuador", collect: () => hiringRoom("bancocentraldelecuador") },
+  { id: "coop29deoctubre", institution: "Cooperativa 29 de Octubre", collect: () => hiringRoom("coop29deoctubre") },
+  { id: "sanfra", institution: "Cooperativa San Francisco", collect: () => hiringRoom("coacsanfra") },
   { id: "bancointernacional", institution: "Banco Internacional", collect: () => successFactorsXml("career2.successfactors.eu", "interame01", "VjItV1BPM0FGNlZ0TDkwSHBhc3NlbUtIUT09") },
 ]
 
