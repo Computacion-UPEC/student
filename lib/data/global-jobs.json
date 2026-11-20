@@ -2,6 +2,28 @@
   "collectedSince": "2026-11-05",
   "jobs": [
     {
+      "id": "greenhouse-databricks-8906869002",
+      "company": "Databricks",
+      "title": "Sr. Solutions Engineer",
+      "location": "Toronto, Canada",
+      "route": "patrocinio",
+      "canadaLmia": 3,
+      "publishedAt": "2026-11-20",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8906869002",
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "greenhouse-stripe-8406660",
+      "company": "Stripe",
+      "title": "Integration Reliability Engineer, Payments",
+      "location": "Toronto",
+      "route": "patrocinio",
+      "canadaLmia": 17,
+      "publishedAt": "2026-11-20",
+      "url": "https://stripe.com/jobs/search?gh_jid=8406660",
+      "firstSeen": "2026-11-20"
+    },
+    {
       "id": "ashby-supabase-463d8cd7-3092-44eb-b80e-8d21008e569e",
       "company": "Supabase",
       "title": "Storage Platform Engineer",
@@ -650,17 +672,6 @@
       "route": "remoto",
       "publishedAt": "2026-10-09",
       "url": "https://jobs.ashbyhq.com/supabase/5d09daeb-2d7e-42de-9151-81a1341195c4",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-affirm-8010496003",
-      "company": "Affirm",
-      "title": "Senior Software Engineer, Frontend (Marketing and Privacy)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-10-09",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8010496003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2138,6 +2149,18 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8017509003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-06"
+    },
+    {
+      "id": "greenhouse-affirm-8010496003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Frontend (Marketing and Privacy)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-10-09",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8010496003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-20"
     },
     {
       "id": "greenhouse-affirm-8003030003",

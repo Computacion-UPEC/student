@@ -622,18 +622,6 @@
       "firstSeen": "2026-11-12"
     },
     {
-      "id": "pichincha-1338232062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ASISTENTE GESTION OPERATIVA Y ADMINISTRATIVA CON DISCAPACIDAD",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-12",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ASISTENTE-GESTION-OPERATIVA-Y-ADMINISTRATIVA-CON-DISCAPACIDAD-QUIT-SECRETARIA/1338232062/",
-      "isIT": false,
-      "firstSeen": "2026-11-13"
-    },
-    {
       "id": "pichincha-1331181562",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1384,6 +1372,19 @@
       "isIT": false,
       "firstSeen": "2026-11-16",
       "closedOn": "2026-11-19"
+    },
+    {
+      "id": "pichincha-1338232062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASISTENTE GESTION OPERATIVA Y ADMINISTRATIVA CON DISCAPACIDAD",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-12",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ASISTENTE-GESTION-OPERATIVA-Y-ADMINISTRATIVA-CON-DISCAPACIDAD-QUIT-SECRETARIA/1338232062/",
+      "isIT": false,
+      "firstSeen": "2026-11-13",
+      "closedOn": "2026-11-20"
     },
     {
       "id": "pichincha-1337422862",
