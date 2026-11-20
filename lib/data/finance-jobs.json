@@ -2,6 +2,172 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1335750862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "TECHNICAL OWNER SR / SWITCH TRANSACCIONAL (QUITO)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-20",
+      "url": "https://vacantes.pichincha.com/job/QUITO-TECHNICAL-OWNER-SR-SWITCH-TRANSACCIONAL-%28QUITO%29-QUIT-TRIBU-INTE/1335750862/",
+      "isIT": true,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "coop29deoctubre-6ad8cea564a5b5c2607416f4",
+      "source": "coop29deoctubre",
+      "institution": "Cooperativa 29 de Octubre",
+      "title": "ASESOR DE NEGOCIOS - NORTE",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://coop29deoctubre.hiringroom.com/jobs/get_vacancy/6ad8cea564a5b5c2607416f4",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "coop29deoctubre-6ad7ae00ae165d64d5631326",
+      "source": "coop29deoctubre",
+      "institution": "Cooperativa 29 de Octubre",
+      "title": "ASESOR DE NEGOCIOS - MAGDALENA - RECREO",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://coop29deoctubre.hiringroom.com/jobs/get_vacancy/6ad7ae00ae165d64d5631326",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "coop29deoctubre-6ad0fd5530e7fbe5d02c04ee",
+      "source": "coop29deoctubre",
+      "institution": "Cooperativa 29 de Octubre",
+      "title": "ASESOR DE NEGOCIOS",
+      "city": "El Ángel",
+      "publishedAt": null,
+      "url": "https://coop29deoctubre.hiringroom.com/jobs/get_vacancy/6ad0fd5530e7fbe5d02c04ee",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "coop29deoctubre-6a45135dc921fca701f9fa04",
+      "source": "coop29deoctubre",
+      "institution": "Cooperativa 29 de Octubre",
+      "title": "Auditor Junior",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://coop29deoctubre.hiringroom.com/jobs/get_vacancy/6a45135dc921fca701f9fa04",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "sanfra-6aff2e8b193efde0eea992ce",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "GESTOR DEL CLIENTE - AGENCIA PÍLLARO",
+      "city": "Píllaro",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6aff2e8b193efde0eea992ce",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "sanfra-6afc8a46e881c1999d89604b",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "ABOGADO DE RECUPERACIÓN DE CARTERA – AGENCIA EL CHACO",
+      "city": "El Chaco",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6afc8a46e881c1999d89604b",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "sanfra-6afc8b56fb9852847a584524",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "GESTOR INTEGRAL OPERATIVO – AGENCIA PUYO",
+      "city": "Puyo",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6afc8b56fb9852847a584524",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "sanfra-6afb3413f1a88a69482af949",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "CAJERO - AGENCIA VILLAFLORA",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6afb3413f1a88a69482af949",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "sanfra-6afb169581e1dfa509266c0f",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "CAJERO - AGENCIA COLÓN",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6afb169581e1dfa509266c0f",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "sanfra-6afb1605e5ac1e711144c518",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "CAJERO - AGENCIA SALCEDO",
+      "city": "Salcedo",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6afb1605e5ac1e711144c518",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "sanfra-6afb157df6e574025eb413ed",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "CAJERO - AGENCIA SAQUISILÍ",
+      "city": "Saquisilí",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6afb157df6e574025eb413ed",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "sanfra-6af35e6ff81bbb1467df9e40",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "PASANTE DE DERECHO - AGENCIA SANGOLQUI",
+      "city": "Sangolquí",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6af35e6ff81bbb1467df9e40",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "sanfra-6ad774bb49bcbc6c2923d17f",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "PASANTE DE DERECHO - AGENCIA RIOBAMBA",
+      "city": "Riobamba",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6ad774bb49bcbc6c2923d17f",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "sanfra-6ad2469ee8eca2712559e62f",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "GESTOR DEL CLIENTE - AGENCIA MACAS",
+      "city": "Macas",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6ad2469ee8eca2712559e62f",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
       "id": "pichincha-1337621062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -107,6 +273,18 @@
       "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6a8cb3e303e50c44287b5acc",
       "isIT": false,
       "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "pichincha-1338406762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "TRAINEE A y G ( TESORERIA)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-19",
+      "url": "https://vacantes.pichincha.com/job/QUITO-TRAINEE-A-y-G-%28-TESORERIA%29-QUIT-ANALISIS-Y/1338406762/",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
     },
     {
       "id": "pichincha-1337609962",

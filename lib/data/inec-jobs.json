@@ -30,6 +30,48 @@
       "applyUrl": null
     },
     {
+      "id": "1.CONVOCATORIA_espac_analista_ac_19_nov.pdf#Analista senior de calidad en encuestas ambientales",
+      "title": "Analista senior de calidad en encuestas ambientales",
+      "group": "Civil",
+      "contract": "Servicios Profesionales",
+      "project": "Encuesta de Superficie y Producción Agropecuaria Continua – ESPAC",
+      "place": "Administración Central",
+      "deadlineText": "Hasta las 10h00 del 23 de noviembre de 2026",
+      "closesAt": "2026-11-23T10:00:00-05:00",
+      "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Trabaja_con_Nosotros/2026/1.CONVOCATORIA_espac_analista_ac_19_nov.pdf",
+      "isIT": false,
+      "firstSeen": "2026-11-20",
+      "applyUrl": "https://aplicaciones2.ecuadorencifras.gob.ec/encuestas/index.php/686739?lang=es"
+    },
+    {
+      "id": "2.CONVOCATORIA_espac_Asistente_ac_19_nov.PDF#Asistente técnico en procesos de calidad ambiental",
+      "title": "Asistente técnico en procesos de calidad ambiental",
+      "group": "Civil",
+      "contract": "Civil Técnico Especializado",
+      "project": "Encuesta de Superficie y Producción Agropecuaria Continua – ESPAC",
+      "place": "Administración Central",
+      "deadlineText": "Hasta las 10h00 del 23 de noviembre de 2026",
+      "closesAt": "2026-11-23T10:00:00-05:00",
+      "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Trabaja_con_Nosotros/2026/2.CONVOCATORIA_espac_Asistente_ac_19_nov.PDF",
+      "isIT": false,
+      "firstSeen": "2026-11-20",
+      "applyUrl": "https://aplicaciones2.ecuadorencifras.gob.ec/encuestas/index.php/464382?lang=es"
+    },
+    {
+      "id": "3.CONVOCATORIA_espac_Especialista_ac_19_nov.pdf#Especialista en el diseño e implementación de sistemas informáticos",
+      "title": "Especialista en el diseño e implementación de sistemas informáticos",
+      "group": "Civil",
+      "contract": "Servicios Profesionales",
+      "project": "Encuesta de Superficie y Producción Agropecuaria Continua – ESPAC",
+      "place": "Administración Central",
+      "deadlineText": "Hasta las 10h00 del 23 de noviembre de 2026",
+      "closesAt": "2026-11-23T10:00:00-05:00",
+      "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Trabaja_con_Nosotros/2026/3.CONVOCATORIA_espac_Especialista_ac_19_nov.pdf",
+      "isIT": true,
+      "firstSeen": "2026-11-20",
+      "applyUrl": "https://aplicaciones2.ecuadorencifras.gob.ec/encuestas/index.php/766773?lang=es"
+    },
+    {
       "id": "Convocatoria_modernizacion_ac_11_nov.pdf#Servicio de transporte de camionetas",
       "title": "Servicio de transporte de camionetas",
       "group": "Servicio de transporte",

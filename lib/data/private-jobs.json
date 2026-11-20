@@ -2,6 +2,39 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "tigo-R135695",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Especialista de Tiendas Sur",
+      "city": "Tienda San Marino",
+      "publishedAt": "2026-11-20",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-San-Marino/Especialista-de-Tiendas-Sur_R135695",
+      "isIT": false,
+      "firstSeen": "2026-11-19"
+    },
+    {
+      "id": "difare-pasante-de-inteligencia-de-negocios",
+      "source": "difare",
+      "company": "Difare",
+      "title": "PASANTE DE INTELIGENCIA DE NEGOCIOS",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/pasante-de-inteligencia-de-negocios/",
+      "isIT": true,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "tigo-R135895",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "(EVENTUAL) Pasante",
+      "city": "Quito",
+      "publishedAt": "2026-11-20",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135895",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
       "id": "nestle-1458653133",
       "source": "nestle",
       "company": "Nestlé Ecuador",
@@ -35,28 +68,6 @@
       "firstSeen": "2026-11-19"
     },
     {
-      "id": "farmaenlace-1338394662",
-      "source": "farmaenlace",
-      "company": "Farmaenlace",
-      "title": "PASANTE",
-      "city": "Distrito",
-      "publishedAt": null,
-      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-PASANTE-PICH/1338394662/",
-      "isIT": false,
-      "firstSeen": "2026-11-19"
-    },
-    {
-      "id": "farmaenlace-1338397862",
-      "source": "farmaenlace",
-      "company": "Farmaenlace",
-      "title": "EJECUTIVO DE PROYECTOS NUEVOS",
-      "city": "Guayaquil",
-      "publishedAt": null,
-      "url": "https://trabajaconnosotros.farmaenlace.com/job/Guayaquil-EJECUTIVO-DE-PROYECTOS-NUEVOS-GUAY/1338397862/",
-      "isIT": false,
-      "firstSeen": "2026-11-19"
-    },
-    {
       "id": "pronaca-26986",
       "source": "pronaca",
       "company": "Pronaca",
@@ -75,17 +86,6 @@
       "city": null,
       "publishedAt": null,
       "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26871",
-      "isIT": false,
-      "firstSeen": "2026-11-19"
-    },
-    {
-      "id": "tigo-R135695",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Especialista de Tiendas Sur",
-      "city": "Tienda San Marino",
-      "publishedAt": "2026-11-19",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-San-Marino/Especialista-de-Tiendas-Sur_R135695",
       "isIT": false,
       "firstSeen": "2026-11-19"
     },
@@ -117,10 +117,54 @@
       "company": "Tigo (ex Movistar)",
       "title": "(EVENTUAL) Pasante",
       "city": "Quito",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-19",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135671",
       "isIT": false,
       "firstSeen": "2026-11-18"
+    },
+    {
+      "id": "arca-1452385500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | PLANTA INALECSA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-11-19",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-JUNIOR-PLANTA-INALECSA-GUAYAQUIL-6601/1452385500/",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "arca-1452389300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | PLANTA INALECSA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-11-19",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-JUNIOR-PLANTA-INALECSA-GUAYAQUIL-6601/1452389300/",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "arca-1452424300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "TECNICO DE EQUIPO DE VENTA|CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-11-19",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-TECNICO-DE-EQUIPO-DE-VENTACEDI-GUAYAQUIL-Dip-Guay/1452424300/",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "arca-1452388600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "TECNICO DE CENTRO DE ACOPIO | RIOBAMBA",
+      "city": null,
+      "publishedAt": "2026-11-19",
+      "url": "https://careers.arcacontal.com/job/SDO-Santo-Domingo-TECNICO-DE-CENTRO-DE-ACOPIO-RIOBAMBA-Ton-Sant/1452388600/",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
     },
     {
       "id": "holcim-1377772957",
@@ -260,7 +304,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "(EVENTUAL) Pasante",
       "city": "Guayaquil",
-      "publishedAt": "2026-11-17",
+      "publishedAt": "2026-11-18",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/XMLNAME--EVENTUAL--Pasante_R135958",
       "isIT": false,
       "firstSeen": "2026-11-17"
@@ -271,7 +315,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante en Ingeniería de Datos",
       "city": "Quito",
-      "publishedAt": "2026-11-17",
+      "publishedAt": "2026-11-18",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-en-Ingeniera-de-Datos_R135776",
       "isIT": true,
       "firstSeen": "2026-11-17"
@@ -1234,17 +1278,6 @@
       "firstSeen": "2026-11-08"
     },
     {
-      "id": "nestle-1435079033",
-      "source": "nestle",
-      "company": "Nestlé Ecuador",
-      "title": "Distribution Center Supervisor",
-      "city": "Guayaquil",
-      "publishedAt": "2026-11-06",
-      "url": "https://jobdetails.nestle.com/job/Guayaquil-Distribution-Center-Supervisor-17-03-4574/1435079033/",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
-    },
-    {
       "id": "holcim-1376855057",
       "source": "holcim",
       "company": "Holcim Ecuador",
@@ -1912,17 +1945,6 @@
       "city": null,
       "publishedAt": "2026-10-31",
       "url": "https://careers.arcacontal.com/job/ENTRENADOR-COMERCIAL-CEDI-GUAYAQUIL-SUR/1435618900/",
-      "isIT": false,
-      "firstSeen": "2026-10-30"
-    },
-    {
-      "id": "difare-analista-de-producto-3",
-      "source": "difare",
-      "company": "Difare",
-      "title": "ANALISTA DE PRODUCTO",
-      "city": "CUENCA",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/analista-de-producto-3/",
       "isIT": false,
       "firstSeen": "2026-10-30"
     },
@@ -5923,6 +5945,30 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "farmaenlace-1338394662",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "PASANTE",
+      "city": "Distrito",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-PASANTE-PICH/1338394662/",
+      "isIT": false,
+      "firstSeen": "2026-11-19",
+      "closedOn": "2026-11-20"
+    },
+    {
+      "id": "farmaenlace-1338397862",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "EJECUTIVO DE PROYECTOS NUEVOS",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Guayaquil-EJECUTIVO-DE-PROYECTOS-NUEVOS-GUAY/1338397862/",
+      "isIT": false,
+      "firstSeen": "2026-11-19",
+      "closedOn": "2026-11-20"
+    },
+    {
       "id": "arca-1452043600",
       "source": "arca",
       "company": "Arca Continental",
@@ -6533,6 +6579,18 @@
       "isIT": false,
       "firstSeen": "2026-11-06",
       "closedOn": "2026-11-13"
+    },
+    {
+      "id": "nestle-1435079033",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Distribution Center Supervisor",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-06",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-Distribution-Center-Supervisor-17-03-4574/1435079033/",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-20"
     },
     {
       "id": "arca-1448762400",
@@ -7205,6 +7263,18 @@
       "isIT": false,
       "firstSeen": "2026-11-03",
       "closedOn": "2026-11-11"
+    },
+    {
+      "id": "difare-analista-de-producto-3",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ANALISTA DE PRODUCTO",
+      "city": "CUENCA",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/analista-de-producto-3/",
+      "isIT": false,
+      "firstSeen": "2026-10-30",
+      "closedOn": "2026-11-20"
     },
     {
       "id": "nestle-1453117333",
