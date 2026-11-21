@@ -1498,17 +1498,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "netlife-pasante-generación-de-contenido-guayaquil",
-      "source": "netlife",
-      "company": "Netlife",
-      "title": "Pasante Generación de Contenido",
-      "city": "Guayaquil",
-      "publishedAt": null,
-      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "netlife-asesor-de-operación-y-experiencia-digital-portoviejo-portoviejo",
       "source": "netlife",
       "company": "Netlife",
@@ -6667,6 +6656,18 @@
       "isIT": true,
       "firstSeen": "2026-11-06",
       "closedOn": "2026-11-10"
+    },
+    {
+      "id": "netlife-pasante-generación-de-contenido-guayaquil",
+      "source": "netlife",
+      "company": "Netlife",
+      "title": "Pasante Generación de Contenido",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-21"
     },
     {
       "id": "pronaca-26975",
