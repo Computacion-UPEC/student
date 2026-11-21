@@ -40,7 +40,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Especialista de Tiendas Sur",
       "city": "Tienda San Marino",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-20",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-San-Marino/Especialista-de-Tiendas-Sur_R135695",
       "isIT": false,
       "firstSeen": "2026-11-19"
@@ -51,10 +51,21 @@
       "company": "Tigo (ex Movistar)",
       "title": "(EVENTUAL) Pasante",
       "city": "Quito",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-20",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135895",
       "isIT": false,
       "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "nestle-1459448733",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Jefe/a de Seguridad, Salud y Medio Ambiente (SHE)",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-20",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-Jefea-de-Seguridad%2C-Salud-y-Medio-Ambiente-%28SHE%29-17-03-4574/1459448733/",
+      "isIT": false,
+      "firstSeen": "2026-11-21"
     },
     {
       "id": "nestle-1458653133",
@@ -183,7 +194,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "(EVENTUAL) Pasante",
       "city": "Quito",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-19",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135671",
       "isIT": false,
       "firstSeen": "2026-11-18"
@@ -315,7 +326,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "(EVENTUAL) Pasante",
       "city": "Guayaquil",
-      "publishedAt": "2026-11-17",
+      "publishedAt": "2026-11-18",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/XMLNAME--EVENTUAL--Pasante_R135958",
       "isIT": false,
       "firstSeen": "2026-11-17"
@@ -326,7 +337,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante en Ingeniería de Datos",
       "city": "Quito",
-      "publishedAt": "2026-11-17",
+      "publishedAt": "2026-11-18",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-en-Ingeniera-de-Datos_R135776",
       "isIT": true,
       "firstSeen": "2026-11-17"
@@ -3510,17 +3521,6 @@
       "city": "SANTO DOMINGO",
       "publishedAt": null,
       "url": "https://difare.evaluar.com/trabajo/auxiliar-de-punto-de-venta-2026-sto-domingo-esmeraldas-sierra-norte-2/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-evaluacion-auxiliar-de-farmacias-manabi-5",
-      "source": "difare",
-      "company": "Difare",
-      "title": "EVALUACIÓN AUXILIAR DE FARMACIAS MANABI",
-      "city": "MANABI",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/evaluacion-auxiliar-de-farmacias-manabi-5/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -7915,6 +7915,18 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "difare-evaluacion-auxiliar-de-farmacias-manabi-5",
+      "source": "difare",
+      "company": "Difare",
+      "title": "EVALUACIÓN AUXILIAR DE FARMACIAS MANABI",
+      "city": "MANABI",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/evaluacion-auxiliar-de-farmacias-manabi-5/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-21"
     },
     {
       "id": "difare-pasante-de-calidad-guayaquil",

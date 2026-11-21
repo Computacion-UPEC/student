@@ -24,6 +24,28 @@
       "firstSeen": "2026-11-20"
     },
     {
+      "id": "greenhouse-affirm-8201471003",
+      "company": "Affirm",
+      "title": "Software Engineer I, Backend (Streaming Infra)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-20",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8201471003",
+      "firstSeen": "2026-11-21"
+    },
+    {
+      "id": "greenhouse-affirm-8196691003",
+      "company": "Affirm",
+      "title": "Software Engineer I, Fullstack (Disputes Platform)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-20",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196691003",
+      "firstSeen": "2026-11-21"
+    },
+    {
       "id": "ashby-supabase-463d8cd7-3092-44eb-b80e-8d21008e569e",
       "company": "Supabase",
       "title": "Storage Platform Engineer",
@@ -1167,6 +1189,17 @@
       "canadaLmia": 17,
       "publishedAt": "2026-05-11",
       "url": "https://stripe.com/jobs/search?gh_jid=7913700",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-affirm-7719649003",
+      "company": "Affirm",
+      "title": "Staff Software Engineer, Backend (Resilience)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-05-07",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7719649003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2421,18 +2454,6 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8026689",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-16"
-    },
-    {
-      "id": "greenhouse-affirm-7719649003",
-      "company": "Affirm",
-      "title": "Staff Software Engineer, Backend (Capacity Modeling)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-05-07",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7719649003",
-      "firstSeen": "2026-11-05",
-      "closedOn": "2026-11-10"
     },
     {
       "id": "greenhouse-affirm-7663436003",
