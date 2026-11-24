@@ -46,12 +46,177 @@
       "firstSeen": "2026-11-24"
     },
     {
+      "id": "arca-1442520200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AYUDANTE DE BODEGA | CEDI VALLE",
+      "city": null,
+      "publishedAt": "2026-11-24",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-AYUDANTE-DE-BODEGA-CEDI-VALLE-Dip-Quit/1442520200/",
+      "isIT": false,
+      "firstSeen": "2026-10-22"
+    },
+    {
+      "id": "claro-1820",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "INGENIERO DE MEJORA CONTINUA Y TRANSFORMACION DIGITAL",
+      "city": null,
+      "publishedAt": "2026-11-24",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1820",
+      "isIT": false,
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "arca-1453447300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI CHONE",
+      "city": null,
+      "publishedAt": "2026-11-24",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-CHONE/1453447300/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "arca-1453578600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "ESTIBADOR | CEDI LA LIBERTAD",
+      "city": null,
+      "publishedAt": "2026-11-24",
+      "url": "https://careers.arcacontal.com/job/ESTIBADOR-CEDI-LA-LIBERTAD/1453578600/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "farmaenlace-1338479762",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "PASANTE",
+      "city": "Distrito",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-PASANTE-PICH/1338479762/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "farmaenlace-1338480062",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "ASISTENTE ADMINISTRATIVO GERENCIA DE SISTEMAS",
+      "city": "Ibarra",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Ibarra-ASISTENTE-ADMINISTRATIVO-GERENCIA-DE-SISTEMAS-IMBA/1338480062/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "novacero-6b05ec216bff669a7309f74e",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "ASESOR TÉCNICO VENTAS ESPECIALIZADAS - CUENCA",
+      "city": "Cuenca",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6b05ec216bff669a7309f74e",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "difare-pasante-de-seleccion",
+      "source": "difare",
+      "company": "Difare",
+      "title": "PASANTE DE SELECCIÓN",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/pasante-de-seleccion/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "difare-pasante-de-talento-humano-tthh",
+      "source": "difare",
+      "company": "Difare",
+      "title": "PASANTE DE TALENTO HUMANO (TTHH)",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/pasante-de-talento-humano-tthh/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "difare-pasante-de-talento-humano-3",
+      "source": "difare",
+      "company": "Difare",
+      "title": "PASANTE DE TALENTO HUMANO",
+      "city": "QUITO",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/pasante-de-talento-humano-3/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "pronaca-27166",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "JEFE COM. NEGOCIO (20013385)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27166",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "puntonet-8791228",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "ASISTENTE CONTABLE - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-11-24",
+      "url": "https://puntonet.teamtailor.com/jobs/8791228-asistente-contable-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "puntonet-8789481",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "EJECUTIVO COMERCIAL EPICENTRO - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-11-24",
+      "url": "https://puntonet.teamtailor.com/jobs/8789481-ejecutivo-comercial-epicentro-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "puntonet-8789454",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "Ejecutivo Comercial B2B - Epicentro",
+      "city": "Cuenca",
+      "publishedAt": "2026-11-24",
+      "url": "https://puntonet.teamtailor.com/jobs/8789454-ejecutivo-comercial-b2b-epicentro",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "nestle-1460414333",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Pasante Comercial Confites",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-24",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-Pasante-Comercial-Confites-17-03-4574/1460414333/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
       "id": "tigo-R135884",
       "source": "tigo",
       "company": "Tigo (ex Movistar)",
       "title": "Especialista de Producto Cloud B2B",
       "city": "Ubicaciones: 2",
-      "publishedAt": "2026-11-24",
+      "publishedAt": "2026-11-23",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Especialista-de-Producto-Cloud-B2B_R135884",
       "isIT": true,
       "firstSeen": "2026-11-24"
@@ -156,6 +321,17 @@
       "firstSeen": "2026-11-24"
     },
     {
+      "id": "puntonet-8785092",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "KEY ACCOUNT MANAGER - QUITO",
+      "city": "Quito",
+      "publishedAt": "2026-11-23",
+      "url": "https://puntonet.teamtailor.com/jobs/8785092-key-account-manager-quito",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
       "id": "difare-pasante-de-inteligencia-de-negocios",
       "source": "difare",
       "company": "Difare",
@@ -205,7 +381,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Especialista de Tiendas Sur",
       "city": "Tienda San Marino",
-      "publishedAt": "2026-11-20",
+      "publishedAt": "2026-11-19",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-San-Marino/Especialista-de-Tiendas-Sur_R135695",
       "isIT": false,
       "firstSeen": "2026-11-19"
@@ -216,7 +392,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "(EVENTUAL) Pasante",
       "city": "Quito",
-      "publishedAt": "2026-11-20",
+      "publishedAt": "2026-11-19",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135895",
       "isIT": false,
       "firstSeen": "2026-11-20"
@@ -326,7 +502,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "(EVENTUAL) Pasante",
       "city": "Quito",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-18",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135671",
       "isIT": false,
       "firstSeen": "2026-11-18"
@@ -447,7 +623,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "(EVENTUAL) Pasante",
       "city": "Guayaquil",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-17",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/XMLNAME--EVENTUAL--Pasante_R135958",
       "isIT": false,
       "firstSeen": "2026-11-17"
@@ -458,7 +634,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Pasante en Ingeniería de Datos",
       "city": "Quito",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-17",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-en-Ingeniera-de-Datos_R135776",
       "isIT": true,
       "firstSeen": "2026-11-17"
@@ -2865,17 +3041,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "novacero-6a7e3cf9b309a18a3d8d5bfc",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Auxiliar de Servicios Generales - Planta Lasso",
-      "city": "Latacunga",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a7e3cf9b309a18a3d8d5bfc",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "novacero-6a7b598af6391a66a55e3381",
       "source": "novacero",
       "company": "Novacero",
@@ -3015,17 +3180,6 @@
       "city": "Cuenca",
       "publishedAt": null,
       "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a4e8c32f384265010f1c761",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6a3999853c49dd7b8f98289c",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Auxiliar de Servicios Generales - Planta Quito",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a3999853c49dd7b8f98289c",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -3360,17 +3514,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "holcim-1371372757",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Pasante de Excelencia Comercial - Guayaquil",
-      "city": "EC",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-de-Excelencia-Comercial-Guayaquil/1371372757/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "elrosado-12484",
       "source": "elrosado",
       "company": "Corporación El Rosado",
@@ -3458,17 +3601,6 @@
       "city": "Cuenca",
       "publishedAt": null,
       "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-Comercial-Cuenca/1375017857/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1442520200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "AYUDANTE DE BODEGA | CEDI VALLE",
-      "city": null,
-      "publishedAt": "2026-10-21",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-AYUDANTE-DE-BODEGA-CEDI-VALLE-Dip-Quit/1442520200/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -6185,18 +6317,6 @@
       "closedOn": "2026-11-21"
     },
     {
-      "id": "claro-1820",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "INGENIERO DE MEJORA CONTINUA Y TRANSFORMACION DIGITAL",
-      "city": null,
-      "publishedAt": "2026-11-11",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1820",
-      "isIT": false,
-      "firstSeen": "2026-11-05",
-      "closedOn": "2026-11-20"
-    },
-    {
       "id": "claro-1838",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -7995,6 +8115,42 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "novacero-6a7e3cf9b309a18a3d8d5bfc",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Auxiliar de Servicios Generales - Planta Lasso",
+      "city": "Latacunga",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a7e3cf9b309a18a3d8d5bfc",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "novacero-6a3999853c49dd7b8f98289c",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Auxiliar de Servicios Generales - Planta Quito",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a3999853c49dd7b8f98289c",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "holcim-1371372757",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Pasante de Excelencia Comercial - Guayaquil",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-de-Excelencia-Comercial-Guayaquil/1371372757/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "holcim-1374126857",

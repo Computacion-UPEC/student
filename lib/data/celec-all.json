@@ -3,6 +3,14 @@
   "calls": [
     {
       "unit": "CELEC SUR",
+      "role": "ESPECIALISTA ADM 4/ESPECIALISTA JURÍDICO",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-24",
+      "closesAt": "2026-11-25",
+      "url": "https://www.celec.gob.ec/celecsur/wp-content/uploads/2026/11/13.-CONVOCATORIA-ESPECIALISTA-ESPECIALISTA-JURIDICO.pdf"
+    },
+    {
+      "unit": "CELEC SUR",
       "role": "ESPECIALISTA ADM 5/ESPECIALISTA DE SERVICIOS GENERALES",
       "eligibility": "No aplica",
       "publishedAt": "2026-11-23",

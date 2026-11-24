@@ -783,17 +783,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "greenhouse-affirm-8005408003",
-      "company": "Affirm",
-      "title": "Staff Software Engineer, Backend (Search)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-09-30",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8005408003",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "greenhouse-stripe-8231439",
       "company": "Stripe",
       "title": "Software Engineer, Metronome Infrastructure",
@@ -824,17 +813,6 @@
       "canadaLmia": 5,
       "publishedAt": "2026-09-23",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8003170003",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-stripe-8212314",
-      "company": "Stripe",
-      "title": "Design Engineer, Expansion",
-      "location": "US, Canada",
-      "route": "patrocinio",
-      "canadaLmia": 17,
-      "publishedAt": "2026-09-22",
-      "url": "https://stripe.com/jobs/search?gh_jid=8212314",
       "firstSeen": "2026-11-05"
     },
     {
@@ -1083,27 +1061,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "greenhouse-affirm-7800319003",
-      "company": "Affirm",
-      "title": "Staff Software Engineer, Backend (Ledger Engineering)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-07-20",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7800319003",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "ashby-supabase-b75ba81e-54cc-4393-a575-bc41776b0113",
-      "company": "Supabase",
-      "title": "Software Engineer - Spark",
-      "location": "Remote, Global",
-      "route": "remoto",
-      "publishedAt": "2026-07-17",
-      "url": "https://jobs.ashbyhq.com/supabase/b75ba81e-54cc-4393-a575-bc41776b0113",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "greenhouse-stripe-8022713",
       "company": "Stripe",
       "title": "ML Engineer Manager, AI Conversation Platform",
@@ -1160,7 +1117,7 @@
     {
       "id": "greenhouse-stripe-7913700",
       "company": "Stripe",
-      "title": "Backend Engineer, Data",
+      "title": "Senior Software Engineer",
       "location": "Canada",
       "route": "patrocinio",
       "canadaLmia": 17,
@@ -2281,6 +2238,18 @@
       "closedOn": "2026-11-07"
     },
     {
+      "id": "greenhouse-affirm-8005408003",
+      "company": "Affirm",
+      "title": "Staff Software Engineer, Backend (Search)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-09-30",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8005408003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-24"
+    },
+    {
       "id": "greenhouse-affirm-8003022003",
       "company": "Affirm",
       "title": "Software Engineer II, Backend (Streaming)",
@@ -2303,6 +2272,18 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7994795003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-07"
+    },
+    {
+      "id": "greenhouse-stripe-8212314",
+      "company": "Stripe",
+      "title": "Design Engineer, Expansion",
+      "location": "US, Canada",
+      "route": "patrocinio",
+      "canadaLmia": 17,
+      "publishedAt": "2026-09-22",
+      "url": "https://stripe.com/jobs/search?gh_jid=8212314",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "greenhouse-affirm-7989061003",
@@ -2420,6 +2401,29 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7796530003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-17"
+    },
+    {
+      "id": "greenhouse-affirm-7800319003",
+      "company": "Affirm",
+      "title": "Staff Software Engineer, Backend (Ledger Engineering)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-07-20",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7800319003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "ashby-supabase-b75ba81e-54cc-4393-a575-bc41776b0113",
+      "company": "Supabase",
+      "title": "Software Engineer - Spark",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-07-17",
+      "url": "https://jobs.ashbyhq.com/supabase/b75ba81e-54cc-4393-a575-bc41776b0113",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "greenhouse-affirm-7727322003",

@@ -14,6 +14,29 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1338508962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASESOR LEGAL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-24",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ASESOR-LEGAL-QUIT-LEGAL-EMPR/1338508962/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "bancoloja-6b05beaa8294f6a68cc41f4f",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Jefe de Agencia",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6b05beaa8294f6a68cc41f4f",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
       "id": "pichincha-1338449662",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -633,18 +656,6 @@
       "firstSeen": "2026-10-31"
     },
     {
-      "id": "pichincha-1337888662",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE - SOSTENIBILIDAD",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-30",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-SOSTENIBILIDAD-QUIT-SOSTENIBIL/1337888662/",
-      "isIT": false,
-      "firstSeen": "2026-10-30"
-    },
-    {
       "id": "pichincha-1337849062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -690,6 +701,18 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-DE-PROCESOS-TRIBU-CANALES-QUIT-TRIBU-CANA/1337777462/",
       "isIT": false,
       "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "pichincha-1335668362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "LIDER TECNICO DE TRIBU / FINANZAS (QUITO)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-27",
+      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-TECNICO-DE-TRIBU-FINANZAS-%28QUITO%29-QUIT-TRIBU-AREA/1335668362/",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
     },
     {
       "id": "bancoloja-6ac7daeef7d65014043aa02a",
@@ -1099,6 +1122,30 @@
       },
       "isIT": false,
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1336560562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "GERENTE SISTEMATICA COMERCIAL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-09-14",
+      "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-SISTEMATICA-COMERCIAL-QUIT-SISTEMATIC/1336560562/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "pichincha-1335386162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DUENO DE PRODUCTO (IDENTIDADES) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-09-11",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-%28IDENTIDADES%29-QUITO-QUIT-TRIBU-CIBE/1335386162/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
     },
     {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
@@ -1964,6 +2011,19 @@
       "closedOn": "2026-11-04"
     },
     {
+      "id": "pichincha-1337888662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE - SOSTENIBILIDAD",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-30",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-SOSTENIBILIDAD-QUIT-SOSTENIBIL/1337888662/",
+      "isIT": false,
+      "firstSeen": "2026-10-30",
+      "closedOn": "2026-11-24"
+    },
+    {
       "id": "pichincha-1336197062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -2144,19 +2204,6 @@
       "isIT": false,
       "firstSeen": "2026-10-27",
       "closedOn": "2026-11-24"
-    },
-    {
-      "id": "pichincha-1335668362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "LIDER TECNICO DE TRIBU / FINANZAS (QUITO)",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-27",
-      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-TECNICO-DE-TRIBU-FINANZAS-%28QUITO%29-QUIT-TRIBU-AREA/1335668362/",
-      "isIT": false,
-      "firstSeen": "2026-10-26",
-      "closedOn": "2026-11-07"
     },
     {
       "id": "pichincha-1337753562",
