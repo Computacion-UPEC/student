@@ -464,17 +464,6 @@
       "firstSeen": "2026-11-17"
     },
     {
-      "id": "arca-1440781700",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI SANTO DOMINGO",
-      "city": null,
-      "publishedAt": "2026-11-17",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-SANTO-DOMINGO/1440781700/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "claro-1574",
       "source": "claro",
       "company": "Claro Ecuador",
@@ -549,17 +538,6 @@
       "publishedAt": null,
       "url": "https://difare.evaluar.com/trabajo/pasante-de-calidad-guayaquil-daule/",
       "isIT": false,
-      "firstSeen": "2026-11-17"
-    },
-    {
-      "id": "claro-1840",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "ANALISTA DE INTELIGENCIA DE NEGOCIOS",
-      "city": null,
-      "publishedAt": "2026-11-17",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1840",
-      "isIT": true,
       "firstSeen": "2026-11-17"
     },
     {
@@ -812,17 +790,6 @@
       "city": null,
       "publishedAt": null,
       "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27058",
-      "isIT": false,
-      "firstSeen": "2026-11-16"
-    },
-    {
-      "id": "pronaca-26900",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "GALPONERO GRANJA (AVE) (20003911)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26900",
       "isIT": false,
       "firstSeen": "2026-11-16"
     },
@@ -1230,17 +1197,6 @@
       "city": null,
       "publishedAt": "2026-11-09",
       "url": "https://careers.arcacontal.com/job/PIC-Quito-VENDEDOR-UNIVERSAL-CEDI-QUITO-NORTE-Dip-Quit/1448882600/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "pronaca-26976",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "PASANTE (20008376)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26976",
       "isIT": false,
       "firstSeen": "2026-11-09"
     },
@@ -5821,6 +5777,30 @@
       "closedOn": "2026-11-18"
     },
     {
+      "id": "arca-1440781700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI SANTO DOMINGO",
+      "city": null,
+      "publishedAt": "2026-11-17",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-SANTO-DOMINGO/1440781700/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "claro-1840",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ANALISTA DE INTELIGENCIA DE NEGOCIOS",
+      "city": null,
+      "publishedAt": "2026-11-17",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1840",
+      "isIT": true,
+      "firstSeen": "2026-11-17",
+      "closedOn": "2026-11-24"
+    },
+    {
       "id": "arca-1451458700",
       "source": "arca",
       "company": "Arca Continental",
@@ -5903,6 +5883,18 @@
       "isIT": false,
       "firstSeen": "2026-11-16",
       "closedOn": "2026-11-17"
+    },
+    {
+      "id": "pronaca-26900",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "GALPONERO GRANJA (AVE) (20003911)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26900",
+      "isIT": false,
+      "firstSeen": "2026-11-16",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "nestle-1457673133",
@@ -6395,6 +6387,18 @@
       "isIT": false,
       "firstSeen": "2026-11-09",
       "closedOn": "2026-11-10"
+    },
+    {
+      "id": "pronaca-26976",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "PASANTE (20008376)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26976",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "arca-1448876600",

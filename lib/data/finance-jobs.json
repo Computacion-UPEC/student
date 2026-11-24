@@ -2,6 +2,18 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1336150162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO PLANIFICACION CIBERSEGURIDAD - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-24",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PLANIFICACION-CIBERSEGURIDAD-QUITO-QUIT-PROYECTOS/1336150162/",
+      "isIT": true,
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "pichincha-1338449662",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -383,18 +395,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1338316262",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "GESTOR BANCARIO DIGITAL - AG. CARAPUNGO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-17",
-      "url": "https://vacantes.pichincha.com/job/QUITO-GESTOR-BANCARIO-DIGITAL-AG_-CARAPUNGO-QUIT-ZONA-NORTE/1338316262/",
-      "isIT": false,
-      "firstSeen": "2026-11-17"
-    },
-    {
       "id": "pichincha-1338314462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -551,42 +551,6 @@
       "firstSeen": "2026-11-10"
     },
     {
-      "id": "pichincha-1338194162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ESPECIALISTA PRODUCTO MEDIOS DE PAGO - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-11",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-PRODUCTO-MEDIOS-DE-PAGO-QUITO-QUIT-CELULA-CRO/1338194162/",
-      "isIT": false,
-      "firstSeen": "2026-11-12"
-    },
-    {
-      "id": "pichincha-1338137062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ARQUITECTO INTEGRACION",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-10",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ARQUITECTO-INTEGRACION-QUIT-ARQUITECTU/1338137062/",
-      "isIT": true,
-      "firstSeen": "2026-11-10"
-    },
-    {
-      "id": "pichincha-1338092762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ARQUITECTO SRE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-09",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ARQUITECTO-SRE-QUIT-INGENIERIA/1338092762/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "bancoloja-6a739197fd656f3c39247a31",
       "source": "bancoloja",
       "institution": "Banco de Loja",
@@ -658,30 +622,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1338022662",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO DESARROLLO SOCIO - ECONOMICO - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-05",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-DESARROLLO-SOCIO-ECONOMICO-QUITO-QUIT-DESARROLLO/1338022662/",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "pichincha-1338020062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "AUDITOR B - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-05",
-      "url": "https://vacantes.pichincha.com/job/QUITO-AUDITOR-B-QUITO-QUIT-AUDITORIA/1338020062/",
-      "isIT": false,
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "bancoloja-6ae50f88441151bb778e4def",
       "source": "bancoloja",
       "institution": "Banco de Loja",
@@ -717,6 +657,18 @@
       "firstSeen": "2026-10-29"
     },
     {
+      "id": "pichincha-1337801462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO MARCO NORMATIVO CIBERSEGURIDAD - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-28",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-MARCO-NORMATIVO-CIBERSEGURIDAD-QUITO-QUIT-MARCO-NORM/1337801462/",
+      "isIT": true,
+      "firstSeen": "2026-10-28"
+    },
+    {
       "id": "pagueya-6ae0c9e4a2045997eaee439c",
       "source": "pagueya",
       "institution": "Pague Ya (Grupo Pichincha)",
@@ -738,18 +690,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-DE-PROCESOS-TRIBU-CANALES-QUIT-TRIBU-CANA/1337777462/",
       "isIT": false,
       "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "pichincha-1335195462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO INGENIERIA SEGURIDAD TECNOLOGICA - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-27",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-INGENIERIA-SEGURIDAD-TECNOLOGICA-QUITO-QUIT-INGENIERIA/1335195462/",
-      "isIT": false,
-      "firstSeen": "2026-10-27"
     },
     {
       "id": "bancoloja-6ac7daeef7d65014043aa02a",
@@ -1161,18 +1101,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1336150162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO PLANIFICACION CIBERSEGURIDAD - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-15",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PLANIFICACION-CIBERSEGURIDAD-QUITO-QUIT-PROYECTOS/1336150162/",
-      "isIT": true,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
       "source": "cacpeco",
       "institution": "CACPECO",
@@ -1270,6 +1198,19 @@
       "isIT": false,
       "firstSeen": "2026-10-21",
       "closedOn": "2026-11-21"
+    },
+    {
+      "id": "pichincha-1338316262",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "GESTOR BANCARIO DIGITAL - AG. CARAPUNGO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-17",
+      "url": "https://vacantes.pichincha.com/job/QUITO-GESTOR-BANCARIO-DIGITAL-AG_-CARAPUNGO-QUIT-ZONA-NORTE/1338316262/",
+      "isIT": false,
+      "firstSeen": "2026-11-17",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "pichincha-1338303162",
@@ -1415,6 +1356,32 @@
       "closedOn": "2026-11-14"
     },
     {
+      "id": "pichincha-1338194162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA PRODUCTO MEDIOS DE PAGO - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-11",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-PRODUCTO-MEDIOS-DE-PAGO-QUITO-QUIT-CELULA-CRO/1338194162/",
+      "isIT": false,
+      "firstSeen": "2026-11-12",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "pichincha-1338137062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ARQUITECTO INTEGRACION",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-10",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ARQUITECTO-INTEGRACION-QUIT-ARQUITECTU/1338137062/",
+      "isIT": true,
+      "firstSeen": "2026-11-10",
+      "closedOn": "2026-11-24"
+    },
+    {
       "id": "pichincha-1336492862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1450,6 +1417,19 @@
       "isIT": false,
       "firstSeen": "2026-11-10",
       "closedOn": "2026-11-13"
+    },
+    {
+      "id": "pichincha-1338092762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ARQUITECTO SRE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-09",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ARQUITECTO-SRE-QUIT-INGENIERIA/1338092762/",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "pichincha-1338094062",
@@ -1663,6 +1643,32 @@
       "isIT": false,
       "firstSeen": "2026-11-07",
       "closedOn": "2026-11-09"
+    },
+    {
+      "id": "pichincha-1338022662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO DESARROLLO SOCIO - ECONOMICO - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-05",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-DESARROLLO-SOCIO-ECONOMICO-QUITO-QUIT-DESARROLLO/1338022662/",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "pichincha-1338020062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "AUDITOR B - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-05",
+      "url": "https://vacantes.pichincha.com/job/QUITO-AUDITOR-B-QUITO-QUIT-AUDITORIA/1338020062/",
+      "isIT": false,
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "pichincha-1338016962",
@@ -2088,19 +2094,6 @@
       "closedOn": "2026-11-12"
     },
     {
-      "id": "pichincha-1337801462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO MARCO NORMATIVO CIBERSEGURIDAD - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-28",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-MARCO-NORMATIVO-CIBERSEGURIDAD-QUITO-QUIT-MARCO-NORM/1337801462/",
-      "isIT": true,
-      "firstSeen": "2026-10-28",
-      "closedOn": "2026-11-12"
-    },
-    {
       "id": "pichincha-1337799362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -2138,6 +2131,19 @@
       "isIT": false,
       "firstSeen": "2026-10-28",
       "closedOn": "2026-10-31"
+    },
+    {
+      "id": "pichincha-1335195462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO INGENIERIA SEGURIDAD TECNOLOGICA - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-27",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-INGENIERIA-SEGURIDAD-TECNOLOGICA-QUITO-QUIT-INGENIERIA/1335195462/",
+      "isIT": false,
+      "firstSeen": "2026-10-27",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "pichincha-1335668362",
