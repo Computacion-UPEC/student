@@ -2,6 +2,22 @@
   "source": "https://www.celec.gob.ec",
   "calls": [
     {
+      "unit": "CELEC SUR",
+      "role": "ESPECIALISTA ADM 5/ESPECIALISTA DE SERVICIOS GENERALES",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-23",
+      "closesAt": "2026-11-24",
+      "url": "https://www.celec.gob.ec/celecsur/wp-content/uploads/2026/11/13.-C2-CONVOCATORIA-ESPECIALISTA-SERVICIOS-GENERALES.pdf"
+    },
+    {
+      "unit": "CELEC EP Matriz",
+      "role": "Especialista de Procesos y Calidad Corporativo / Especialista Administrativo 4",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-23",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/wp-content/uploads/2026/11/Convocatoria-de-23-de-noviembre-de-2026.pdf"
+    },
+    {
       "unit": "CELEC EP Matriz",
       "role": "Especialista Químico de Producción / Especialista Técnico 4",
       "eligibility": "No aplica",

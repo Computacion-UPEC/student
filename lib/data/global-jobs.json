@@ -2,6 +2,16 @@
   "collectedSince": "2026-11-05",
   "jobs": [
     {
+      "id": "ashby-supabase-30cc053e-33dc-4924-a870-2cf41c296b01",
+      "company": "Supabase",
+      "title": "Software Engineer - Interfaces Backend",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-11-23",
+      "url": "https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01",
+      "firstSeen": "2026-11-24"
+    },
+    {
       "id": "greenhouse-databricks-8906869002",
       "company": "Databricks",
       "title": "Sr. Solutions Engineer",
@@ -356,17 +366,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "greenhouse-stripe-8346778",
-      "company": "Stripe",
-      "title": "Data Scientist, FX Quantitative Research",
-      "location": "Toronto",
-      "route": "patrocinio",
-      "canadaLmia": 17,
-      "publishedAt": "2026-11-02",
-      "url": "https://stripe.com/jobs/search?gh_jid=8346778",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "ashby-supabase-fb0b563a-e541-43fd-8555-9eb6473aaa11",
       "company": "Supabase",
       "title": "Software Engineer - AI Tooling Infrastructure",
@@ -524,17 +523,6 @@
       "route": "remoto",
       "publishedAt": "2026-10-21",
       "url": "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-affirm-8033589003",
-      "company": "Affirm",
-      "title": "Senior Software Engineer, Backend (Capacity Modeling)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-10-21",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8033589003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -1116,17 +1104,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "greenhouse-affirm-7727322003",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Test Infra)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-07-10",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "greenhouse-stripe-8022713",
       "company": "Stripe",
       "title": "ML Engineer Manager, AI Conversation Platform",
@@ -1253,17 +1230,6 @@
       "canadaLmia": 17,
       "publishedAt": "2026-03-03",
       "url": "https://stripe.com/jobs/search?gh_jid=7476555",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-stripe-7663023",
-      "company": "Stripe",
-      "title": "Product Designer, Connect",
-      "location": "Canada",
-      "route": "patrocinio",
-      "canadaLmia": 17,
-      "publishedAt": "2026-02-27",
-      "url": "https://stripe.com/jobs/search?gh_jid=7663023",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2160,6 +2126,30 @@
       "closedOn": "2026-11-18"
     },
     {
+      "id": "greenhouse-stripe-8346778",
+      "company": "Stripe",
+      "title": "Data Scientist, FX Quantitative Research",
+      "location": "Toronto",
+      "route": "patrocinio",
+      "canadaLmia": 17,
+      "publishedAt": "2026-11-02",
+      "url": "https://stripe.com/jobs/search?gh_jid=8346778",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "greenhouse-affirm-8033589003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (Capacity Modeling)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-10-21",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8033589003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-24"
+    },
+    {
       "id": "greenhouse-affirm-8017505003",
       "company": "Affirm",
       "title": "Senior Software Engineer, Backend (Identity Data)",
@@ -2432,6 +2422,18 @@
       "closedOn": "2026-11-17"
     },
     {
+      "id": "greenhouse-affirm-7727322003",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Test Infra)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-07-10",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-24"
+    },
+    {
       "id": "greenhouse-stripe-7557899",
       "company": "Stripe",
       "title": "Backend Engineer, Developer SDKs",
@@ -2466,6 +2468,18 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7663436003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-11"
+    },
+    {
+      "id": "greenhouse-stripe-7663023",
+      "company": "Stripe",
+      "title": "Product Designer, Connect",
+      "location": "Canada",
+      "route": "patrocinio",
+      "canadaLmia": 17,
+      "publishedAt": "2026-02-27",
+      "url": "https://stripe.com/jobs/search?gh_jid=7663023",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "greenhouse-affirm-7590373003",

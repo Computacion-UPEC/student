@@ -2,6 +2,160 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "holcim-1378289257",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Operador/a de Equipo Pesado (Cargadora Frontal) - Guayaquil",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Operadora-de-Equipo-Pesado-%28Cargadora-Frontal%29-Guayaquil/1378289257/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "novacero-6b04b054af6d6050ee6cb257",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "ELÉCTRICO TEMPORAL",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6b04b054af6d6050ee6cb257",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "novacero-6b0480694db5797682f43e1b",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Asesor Comercial de Canales – Región Oriente",
+      "city": "Coca",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6b0480694db5797682f43e1b",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "difare-asesor-comercial-2",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ASESOR COMERCIAL",
+      "city": "PICHINCHA",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/asesor-comercial-2/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "tigo-R135884",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Especialista de Producto Cloud B2B",
+      "city": "Ubicaciones: 2",
+      "publishedAt": "2026-11-24",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Especialista-de-Producto-Cloud-B2B_R135884",
+      "isIT": true,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "claro-1776",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ASESOR SOLUCIONES ESPECIALIZADAS",
+      "city": null,
+      "publishedAt": "2026-11-23",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1776",
+      "isIT": false,
+      "firstSeen": "2026-10-24"
+    },
+    {
+      "id": "arca-1453224400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR ASESOR UNIVERSAL | CEDI GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-11-23",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-ASESOR-UNIVERSAL-CEDI-GUAYAQUIL-SUR/1453224400/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "arca-1453256600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PASANTE CAPITAL HUMANO | CEDI MACHALA",
+      "city": null,
+      "publishedAt": "2026-11-23",
+      "url": "https://careers.arcacontal.com/job/PASANTE-CAPITAL-HUMANO-CEDI-MACHALA/1453256600/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "arca-1453171500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AYUDANTE DE DESPACHO | CEDI GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-11-23",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AYUDANTE-DE-DESPACHO-CEDI-GUAYAQUIL-Dip-Guay/1453171500/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "claro-1615",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ANALISTA DE COMUNICACIÓN Y MEDIOS",
+      "city": null,
+      "publishedAt": "2026-11-23",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1615",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "claro-1683",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ASESOR CENTRO DE ATENCIÓN AL CLIENTE",
+      "city": null,
+      "publishedAt": "2026-11-23",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1683",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "claro-1841",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "VENDEDOR CUENCA",
+      "city": null,
+      "publishedAt": "2026-11-23",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1841",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "puntonet-8785100",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "KAM - Guayaquil",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-23",
+      "url": "https://puntonet.teamtailor.com/jobs/8785100-kam-guayaquil",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "puntonet-8785088",
+      "source": "puntonet",
+      "company": "PuntoNet",
+      "title": "Ejecutivo Comercial B2B - Guayaquil",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-23",
+      "url": "https://puntonet.teamtailor.com/jobs/8785088-ejecutivo-comercial-b2b-guayaquil",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
       "id": "difare-pasante-de-inteligencia-de-negocios",
       "source": "difare",
       "company": "Difare",
@@ -143,28 +297,6 @@
       "url": "https://jobdetails.nestle.com/job/Quito-Analista-de-Ventas-17-03-4574/1459038433/",
       "isIT": false,
       "firstSeen": "2026-11-19"
-    },
-    {
-      "id": "arca-1452385500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | PLANTA INALECSA GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-11-19",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-JUNIOR-PLANTA-INALECSA-GUAYAQUIL-6601/1452385500/",
-      "isIT": false,
-      "firstSeen": "2026-11-20"
-    },
-    {
-      "id": "arca-1452389300",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | PLANTA INALECSA GUAYAQUIL",
-      "city": null,
-      "publishedAt": "2026-11-19",
-      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-JUNIOR-PLANTA-INALECSA-GUAYAQUIL-6601/1452389300/",
-      "isIT": false,
-      "firstSeen": "2026-11-20"
     },
     {
       "id": "arca-1452424300",
@@ -352,17 +484,6 @@
       "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1574",
       "isIT": false,
       "firstSeen": "2026-10-24"
-    },
-    {
-      "id": "arca-1451458700",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PASANTE | GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-11-17",
-      "url": "https://careers.arcacontal.com/job/PASANTE-GUAYAQUIL-SUR/1451458700/",
-      "isIT": false,
-      "firstSeen": "2026-11-17"
     },
     {
       "id": "novacero-6afc94442aaa3893c8fe0709",
@@ -717,17 +838,6 @@
       "firstSeen": "2026-11-16"
     },
     {
-      "id": "nestle-1457673133",
-      "source": "nestle",
-      "company": "Nestlé Ecuador",
-      "title": "Pasante Administrativo de Generación de Demanda",
-      "city": "Quito",
-      "publishedAt": "2026-11-16",
-      "url": "https://jobdetails.nestle.com/job/Quito-Pasante-Administrativo-de-Generaci%C3%B3n-de-Demanda-17-03-4574/1457673133/",
-      "isIT": false,
-      "firstSeen": "2026-11-18"
-    },
-    {
       "id": "nestle-1457700933",
       "source": "nestle",
       "company": "Nestlé Ecuador",
@@ -838,17 +948,6 @@
       "firstSeen": "2026-11-12"
     },
     {
-      "id": "pronaca-27042",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "ASISTENTE COMERCIAL",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27042",
-      "isIT": false,
-      "firstSeen": "2026-11-12"
-    },
-    {
       "id": "puntonet-8723756",
       "source": "puntonet",
       "company": "PuntoNet",
@@ -922,17 +1021,6 @@
       "city": null,
       "publishedAt": null,
       "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26891",
-      "isIT": false,
-      "firstSeen": "2026-11-11"
-    },
-    {
-      "id": "nestle-1456478133",
-      "source": "nestle",
-      "company": "Nestlé Ecuador",
-      "title": "Pasante Comercial",
-      "city": "Quito",
-      "publishedAt": "2026-11-11",
-      "url": "https://jobdetails.nestle.com/job/Quito-Pasante-Comercial-17-03-4574/1456478133/",
       "isIT": false,
       "firstSeen": "2026-11-11"
     },
@@ -1120,17 +1208,6 @@
       "city": "Guayaquil",
       "publishedAt": null,
       "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Guayaquil-PASANTE-H&amp;S-Guayaquil-G-90902/1377069157/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "arca-1448876600",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR A. UNIVERSAL | CEDI AMBATO",
-      "city": null,
-      "publishedAt": "2026-11-09",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-AMBATO/1448876600/",
       "isIT": false,
       "firstSeen": "2026-11-09"
     },
@@ -1463,17 +1540,6 @@
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-TECNICO-MECANICO-PLANTA-GUAYAQUIL-60000/1427282000/",
       "isIT": false,
       "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "arca-1447881200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "CHOFER REPARTIDOR | CEDI QUITO NORTE",
-      "city": null,
-      "publishedAt": "2026-11-04",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-CHOFER-REPARTIDOR-CEDI-QUITO-NORTE-Dip-Quit/1447881200/",
-      "isIT": false,
-      "firstSeen": "2026-11-04"
     },
     {
       "id": "gpf-6aeb96a121b5ee96a236331b",
@@ -1895,17 +1961,6 @@
       "firstSeen": "2026-10-30"
     },
     {
-      "id": "arca-1445054500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI QUITO NORTE",
-      "city": null,
-      "publishedAt": "2026-10-29",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-VENDEDOR-CEDI-QUITO-NORTE-Dip-Quit/1445054500/",
-      "isIT": false,
-      "firstSeen": "2026-10-29"
-    },
-    {
       "id": "difare-sub-gerente-de-producto-dyvenpro",
       "source": "difare",
       "company": "Difare",
@@ -1961,17 +2016,6 @@
       "url": "https://empleo.elrosado.com/Postulante/frmAplicacionSociedad",
       "isIT": false,
       "firstSeen": "2026-11-02"
-    },
-    {
-      "id": "novacero-6adfbe9210f80e9c370a3b33",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "PLANIFICADOR DE PRODUCCIÓN",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6adfbe9210f80e9c370a3b33",
-      "isIT": false,
-      "firstSeen": "2026-10-27"
     },
     {
       "id": "arca-1434465500",
@@ -2071,17 +2115,6 @@
       "url": "https://difare.evaluar.com/trabajo/auxiliar-de-punto-de-venta-2026-sierra-centro-y-oriente/",
       "isIT": false,
       "firstSeen": "2026-10-24"
-    },
-    {
-      "id": "holcim-1375648757",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Pasante Comercial - Machala",
-      "city": "EC",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-Comercial-Machala/1375648757/",
-      "isIT": false,
-      "firstSeen": "2026-10-23"
     },
     {
       "id": "novacero-6ada9fdd7d48613d076a665a",
@@ -2190,17 +2223,6 @@
       "city": "Ambato",
       "publishedAt": null,
       "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Auxiliar-de-Bomba-Ambato/1371494157/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "holcim-1374126857",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Pasante Industrial - Latacunga",
-      "city": "Latacunga",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Latacunga-Pasante-Industrial-Latacunga-X-50101/1374126857/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -2733,17 +2755,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "novacero-6ab69769336dfb81ed5029bb",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "ELÉCTRICO",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6ab69769336dfb81ed5029bb",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "novacero-6ab5e9ea69a652f8f6955623",
       "source": "novacero",
       "company": "Novacero",
@@ -2758,7 +2769,7 @@
       "id": "novacero-6ab408120e617586df0f58d3",
       "source": "novacero",
       "company": "Novacero",
-      "title": "PASANTE DE MEJORA CONTINUA",
+      "title": "Pasante de Mejora Continua",
       "city": "Quito",
       "publishedAt": null,
       "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6ab408120e617586df0f58d3",
@@ -2854,28 +2865,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "novacero-6a976f183ca95ac64c216c41",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Asistente de Compras",
-      "city": "Latacunga",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a976f183ca95ac64c216c41",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6a96dc251799000137608236",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "DESPACHADOR - QUITO",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a96dc251799000137608236",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "novacero-6a95e431e3c6e2d83cf0a609",
       "source": "novacero",
       "company": "Novacero",
@@ -2894,17 +2883,6 @@
       "city": "Guayaquil",
       "publishedAt": null,
       "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a90a9dd9225025efecd794b",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6a90495a58c3afc2739d0a85",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "ASISTENTE DE PRODUCCIÓN",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a90495a58c3afc2739d0a85",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -3085,17 +3063,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "novacero-6a4d4e19bdb7bf6586df340b",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "ANALISTA DE CALIDAD",
-      "city": "Guayaquil",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a4d4e19bdb7bf6586df340b",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "novacero-6a3999853c49dd7b8f98289c",
       "source": "novacero",
       "company": "Novacero",
@@ -3202,39 +3169,6 @@
       "city": "Guayaquil",
       "publishedAt": null,
       "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69692f3088c9c0b0a877408f",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6938c3d3e803e5db5a9b0095",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "ASESOR COMERCIAL",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6938c3d3e803e5db5a9b0095",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-69272a269d5e11732f8d4b1c",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "ELÉCTRICO",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69272a269d5e11732f8d4b1c",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-68e5dbab260cfcfbb3e290bb",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "SUPERVISOR DE CALIDAD",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/68e5dbab260cfcfbb3e290bb",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -3572,13 +3506,13 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "holcim-1374004457",
-      "source": "holcim",
-      "company": "Holcim Ecuador",
-      "title": "Supervisor/a de Distribución - Quito",
-      "city": "Quito • Quito • Quito",
-      "publishedAt": null,
-      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Quito-Supervisora-de-Distribuci%C3%B3n-Quito-P-170175/1374004457/",
+      "id": "arca-1442520200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "AYUDANTE DE BODEGA | CEDI VALLE",
+      "city": null,
+      "publishedAt": "2026-10-21",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-AYUDANTE-DE-BODEGA-CEDI-VALLE-Dip-Quit/1442520200/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -5791,6 +5725,30 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "arca-1452385500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | PLANTA INALECSA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-11-19",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-JUNIOR-PLANTA-INALECSA-GUAYAQUIL-6601/1452385500/",
+      "isIT": false,
+      "firstSeen": "2026-11-20",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "arca-1452389300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | PLANTA INALECSA GUAYAQUIL",
+      "city": null,
+      "publishedAt": "2026-11-19",
+      "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-VENDEDOR-JUNIOR-PLANTA-INALECSA-GUAYAQUIL-6601/1452389300/",
+      "isIT": false,
+      "firstSeen": "2026-11-20",
+      "closedOn": "2026-11-24"
+    },
+    {
       "id": "farmaenlace-1338394662",
       "source": "farmaenlace",
       "company": "Farmaenlace",
@@ -5863,6 +5821,18 @@
       "closedOn": "2026-11-18"
     },
     {
+      "id": "arca-1451458700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PASANTE | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-11-17",
+      "url": "https://careers.arcacontal.com/job/PASANTE-GUAYAQUIL-SUR/1451458700/",
+      "isIT": false,
+      "firstSeen": "2026-11-17",
+      "closedOn": "2026-11-24"
+    },
+    {
       "id": "arca-1441337200",
       "source": "arca",
       "company": "Arca Continental",
@@ -5933,6 +5903,18 @@
       "isIT": false,
       "firstSeen": "2026-11-16",
       "closedOn": "2026-11-17"
+    },
+    {
+      "id": "nestle-1457673133",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Pasante Administrativo de Generación de Demanda",
+      "city": "Quito",
+      "publishedAt": "2026-11-16",
+      "url": "https://jobdetails.nestle.com/job/Quito-Pasante-Administrativo-de-Generaci%C3%B3n-de-Demanda-17-03-4574/1457673133/",
+      "isIT": false,
+      "firstSeen": "2026-11-18",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "arca-1450937200",
@@ -6103,6 +6085,18 @@
       "closedOn": "2026-11-13"
     },
     {
+      "id": "pronaca-27042",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "ASISTENTE COMERCIAL",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27042",
+      "isIT": false,
+      "firstSeen": "2026-11-12",
+      "closedOn": "2026-11-24"
+    },
+    {
       "id": "tigo-R135915",
       "source": "tigo",
       "company": "Tigo (ex Movistar)",
@@ -6173,6 +6167,18 @@
       "isIT": false,
       "firstSeen": "2026-11-12",
       "closedOn": "2026-11-12"
+    },
+    {
+      "id": "nestle-1456478133",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Pasante Comercial",
+      "city": "Quito",
+      "publishedAt": "2026-11-11",
+      "url": "https://jobdetails.nestle.com/job/Quito-Pasante-Comercial-17-03-4574/1456478133/",
+      "isIT": false,
+      "firstSeen": "2026-11-11",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "arca-1449750100",
@@ -6389,6 +6395,18 @@
       "isIT": false,
       "firstSeen": "2026-11-09",
       "closedOn": "2026-11-10"
+    },
+    {
+      "id": "arca-1448876600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR A. UNIVERSAL | CEDI AMBATO",
+      "city": null,
+      "publishedAt": "2026-11-09",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-AMBATO/1448876600/",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "pronaca-26966",
@@ -6785,6 +6803,18 @@
       "isIT": false,
       "firstSeen": "2026-11-04",
       "closedOn": "2026-11-05"
+    },
+    {
+      "id": "arca-1447881200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "CHOFER REPARTIDOR | CEDI QUITO NORTE",
+      "city": null,
+      "publishedAt": "2026-11-04",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-CHOFER-REPARTIDOR-CEDI-QUITO-NORTE-Dip-Quit/1447881200/",
+      "isIT": false,
+      "firstSeen": "2026-11-04",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "claro-1816",
@@ -7387,6 +7417,18 @@
       "closedOn": "2026-10-31"
     },
     {
+      "id": "arca-1445054500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI QUITO NORTE",
+      "city": null,
+      "publishedAt": "2026-10-29",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-VENDEDOR-CEDI-QUITO-NORTE-Dip-Quit/1445054500/",
+      "isIT": false,
+      "firstSeen": "2026-10-29",
+      "closedOn": "2026-11-24"
+    },
+    {
       "id": "arca-1445055000",
       "source": "arca",
       "company": "Arca Continental",
@@ -7651,6 +7693,18 @@
       "closedOn": "2026-10-30"
     },
     {
+      "id": "novacero-6adfbe9210f80e9c370a3b33",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "PLANIFICADOR DE PRODUCCIÓN",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6adfbe9210f80e9c370a3b33",
+      "isIT": false,
+      "firstSeen": "2026-10-27",
+      "closedOn": "2026-11-24"
+    },
+    {
       "id": "arca-1444000300",
       "source": "arca",
       "company": "Arca Continental",
@@ -7879,6 +7933,18 @@
       "closedOn": "2026-10-27"
     },
     {
+      "id": "holcim-1375648757",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Pasante Comercial - Machala",
+      "city": "EC",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Pasante-Comercial-Machala/1375648757/",
+      "isIT": false,
+      "firstSeen": "2026-10-23",
+      "closedOn": "2026-11-24"
+    },
+    {
       "id": "nestle-1450943933",
       "source": "nestle",
       "company": "Nestlé Ecuador",
@@ -7925,6 +7991,126 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "holcim-1374126857",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Pasante Industrial - Latacunga",
+      "city": "Latacunga",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Latacunga-Pasante-Industrial-Latacunga-X-50101/1374126857/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "novacero-6ab69769336dfb81ed5029bb",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "ELÉCTRICO",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6ab69769336dfb81ed5029bb",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "novacero-6a976f183ca95ac64c216c41",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Asistente de Compras",
+      "city": "Latacunga",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a976f183ca95ac64c216c41",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "novacero-6a96dc251799000137608236",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "DESPACHADOR - QUITO",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a96dc251799000137608236",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "novacero-6a90495a58c3afc2739d0a85",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "ASISTENTE DE PRODUCCIÓN",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a90495a58c3afc2739d0a85",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "novacero-6a4d4e19bdb7bf6586df340b",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "ANALISTA DE CALIDAD",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a4d4e19bdb7bf6586df340b",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "novacero-6938c3d3e803e5db5a9b0095",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "ASESOR COMERCIAL",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6938c3d3e803e5db5a9b0095",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "novacero-69272a269d5e11732f8d4b1c",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "ELÉCTRICO",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69272a269d5e11732f8d4b1c",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "novacero-68e5dbab260cfcfbb3e290bb",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "SUPERVISOR DE CALIDAD",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/68e5dbab260cfcfbb3e290bb",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "holcim-1374004457",
+      "source": "holcim",
+      "company": "Holcim Ecuador",
+      "title": "Supervisor/a de Distribución - Quito",
+      "city": "Quito • Quito • Quito",
+      "publishedAt": null,
+      "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Quito-Supervisora-de-Distribuci%C3%B3n-Quito-P-170175/1374004457/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "difare-evaluacion-auxiliar-de-farmacias-manabi-5",
@@ -8635,18 +8821,6 @@
       "closedOn": "2026-11-07"
     },
     {
-      "id": "arca-1442520200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "AYUDANTE DE BODEGA | CEDI VALLE",
-      "city": null,
-      "publishedAt": "2026-10-21",
-      "url": "https://careers.arcacontal.com/job/PIC-Quito-AYUDANTE-DE-BODEGA-CEDI-VALLE-Dip-Quit/1442520200/",
-      "isIT": false,
-      "firstSeen": "2026-10-22",
-      "closedOn": "2026-11-01"
-    },
-    {
       "id": "arca-1442131500",
       "source": "arca",
       "company": "Arca Continental",
@@ -8993,18 +9167,6 @@
       "isIT": false,
       "firstSeen": "2026-10-22",
       "closedOn": "2026-10-28"
-    },
-    {
-      "id": "claro-1776",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "ASESOR SOLUCIONES ESPECIALIZADAS",
-      "city": null,
-      "publishedAt": "2026-10-13",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1776",
-      "isIT": false,
-      "firstSeen": "2026-10-24",
-      "closedOn": "2026-10-30"
     },
     {
       "id": "arca-1439652200",

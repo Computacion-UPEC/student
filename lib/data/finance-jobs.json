@@ -2,6 +2,42 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1338449662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "SOPORTE ADMINISTRATIVO - EVENTUAL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-23",
+      "url": "https://vacantes.pichincha.com/job/QUITO-SOPORTE-ADMINISTRATIVO-EVENTUAL-QUIT-CONTROL-Y/1338449662/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "pichincha-1338463162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DISENADOR DE EXPERIENCIA - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-23",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DISENADOR-DE-EXPERIENCIA-QUITO-QUIT-DISENO-DE/1338463162/",
+      "isIT": true,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "pichincha-1338464062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA SOFTWARE - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-23",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-SOFTWARE-QUITO-QUIT-DESARROLLO/1338464062/",
+      "isIT": true,
+      "firstSeen": "2026-11-24"
+    },
+    {
       "id": "pichincha-1335750862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -180,18 +216,6 @@
       "firstSeen": "2026-10-21"
     },
     {
-      "id": "pichincha-1337642062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DUENO DE PRODUCTO SR - CANALES",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-19",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-SR-CANALES-QUIT-CELULA-APP/1337642062/",
-      "isIT": false,
-      "firstSeen": "2026-10-21"
-    },
-    {
       "id": "pichincha-1335012062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -273,17 +297,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-TRAINEE-A-y-G-%28-TESORERIA%29-QUIT-ANALISIS-Y/1338406762/",
       "isIT": false,
       "firstSeen": "2026-11-20"
-    },
-    {
-      "id": "bce-6afcdd7bbf2f7deb83fe280b",
-      "source": "bce",
-      "institution": "Banco Central del Ecuador",
-      "title": "Analista de Bienestar Laboral y Seguridad y Salud Ocupacional",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6afcdd7bbf2f7deb83fe280b",
-      "isIT": false,
-      "firstSeen": "2026-11-18"
     },
     {
       "id": "pichincha-1338335962",
@@ -466,18 +479,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337474462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE DE GESTIÓN DE REDES SOCIALES Y CANALES DIGITALES",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-13",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-DE-GESTI%C3%93N-DE-REDES-SOCIALES-Y-CANALES-DIGITALES-QUIT-CONTENIDO/1337474462/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
       "id": "pichincha-1337283362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -574,18 +575,6 @@
       "firstSeen": "2026-11-10"
     },
     {
-      "id": "pichincha-1338094062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL ANALISIS DE CREDITO - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-09",
-      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-ANALISIS-DE-CREDITO-QUITO-QUIT-CREDITO-PE/1338094062/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "pichincha-1338092762",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -594,17 +583,6 @@
       "city": "QUITO",
       "publishedAt": "2026-11-09",
       "url": "https://vacantes.pichincha.com/job/QUITO-ARQUITECTO-SRE-QUIT-INGENIERIA/1338092762/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "bancoloja-6a7f80a7b46faf095c50f0c4",
-      "source": "bancoloja",
-      "institution": "Banco de Loja",
-      "title": "Cajero",
-      "city": "Loja",
-      "publishedAt": null,
-      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6a7f80a7b46faf095c50f0c4",
       "isIT": false,
       "firstSeen": "2026-11-09"
     },
@@ -782,17 +760,6 @@
       "publishedAt": null,
       "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ac7daeef7d65014043aa02a",
       "isIT": false,
-      "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "pagueya-6adf733ff42c7d19476c1683",
-      "source": "pagueya",
-      "institution": "Pague Ya (Grupo Pichincha)",
-      "title": "INGENIERO DE SOLUCIONES TI",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6adf733ff42c7d19476c1683",
-      "isIT": true,
       "firstSeen": "2026-10-26"
     },
     {
@@ -1194,6 +1161,18 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1336150162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO PLANIFICACION CIBERSEGURIDAD - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-15",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PLANIFICACION-CIBERSEGURIDAD-QUITO-QUIT-PROYECTOS/1336150162/",
+      "isIT": true,
+      "firstSeen": "2026-10-16"
+    },
+    {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
       "source": "cacpeco",
       "institution": "CACPECO",
@@ -1214,6 +1193,19 @@
       "url": "https://quierolaburo.com/empresas/cacpeco",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "pichincha-1337642062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DUENO DE PRODUCTO SR - CANALES",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-19",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-SR-CANALES-QUIT-CELULA-APP/1337642062/",
+      "isIT": false,
+      "firstSeen": "2026-10-21",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "pichincha-1337621062",
@@ -1240,6 +1232,18 @@
       "isIT": true,
       "firstSeen": "2026-10-17",
       "closedOn": "2026-11-19"
+    },
+    {
+      "id": "bce-6afcdd7bbf2f7deb83fe280b",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Analista de Bienestar Laboral y Seguridad y Salud Ocupacional",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6afcdd7bbf2f7deb83fe280b",
+      "isIT": false,
+      "firstSeen": "2026-11-18",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "pichincha-1338364062",
@@ -1331,6 +1335,19 @@
       "isIT": false,
       "firstSeen": "2026-11-16",
       "closedOn": "2026-11-19"
+    },
+    {
+      "id": "pichincha-1337474462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE DE GESTIÓN DE REDES SOCIALES Y CANALES DIGITALES",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-13",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-DE-GESTI%C3%93N-DE-REDES-SOCIALES-Y-CANALES-DIGITALES-QUIT-CONTENIDO/1337474462/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "pichincha-1338232062",
@@ -1433,6 +1450,31 @@
       "isIT": false,
       "firstSeen": "2026-11-10",
       "closedOn": "2026-11-13"
+    },
+    {
+      "id": "pichincha-1338094062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL ANALISIS DE CREDITO - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-09",
+      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-ANALISIS-DE-CREDITO-QUITO-QUIT-CREDITO-PE/1338094062/",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-24"
+    },
+    {
+      "id": "bancoloja-6a7f80a7b46faf095c50f0c4",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Cajero",
+      "city": "Loja",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6a7f80a7b46faf095c50f0c4",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-24"
     },
     {
       "id": "pichincha-1338106262",
@@ -2150,6 +2192,18 @@
       "closedOn": "2026-10-30"
     },
     {
+      "id": "pagueya-6adf733ff42c7d19476c1683",
+      "source": "pagueya",
+      "institution": "Pague Ya (Grupo Pichincha)",
+      "title": "INGENIERO DE SOLUCIONES TI",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6adf733ff42c7d19476c1683",
+      "isIT": true,
+      "firstSeen": "2026-10-26",
+      "closedOn": "2026-11-24"
+    },
+    {
       "id": "pichincha-1337737862",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -2765,19 +2819,6 @@
       "isIT": true,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-11-09"
-    },
-    {
-      "id": "pichincha-1336150162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO PLANIFICACION CIBERSEGURIDAD - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-15",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PLANIFICACION-CIBERSEGURIDAD-QUITO-QUIT-PROYECTOS/1336150162/",
-      "isIT": true,
-      "firstSeen": "2026-10-16",
-      "closedOn": "2026-11-05"
     },
     {
       "id": "pichincha-1337457762",

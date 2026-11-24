@@ -1,6 +1,6 @@
 {
   "source": "https://www.celec.gob.ec",
-  "exportedAt": "2026-11-19",
+  "exportedAt": "2026-11-24",
   "jobs": [
     {
       "id": "celec-48e5318a17",
@@ -267,25 +267,6 @@
       "code": "",
       "url": "https://www.celec.gob.ec/hidrotoapi/uncategorized/celec-ep-hidrotoapi-invita-a-participar-en-el-proceso-de-seleccion-simple-para-ocupar-el-puesto-de-ayudante-electrico-generacion-hidraulica-asistente-tecnico-6/",
       "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "celec-293273862b",
-      "unit": "CELEC EP Matriz",
-      "role": "Especialista de Nuevos Negocios Asociativos / Especialista Administrativo 5",
-      "fit": "Directa",
-      "isIT": false,
-      "fitDetail": "Directa (Computación/Sistemas/TI)",
-      "minExperienceMonths": 24,
-      "experience": "Alternativa 1: 2 años en cargos similares Alternativa 2: 3 años en cargos de Ayudantes / Auxiliares",
-      "education": "Tercer Nivel de Grado: Administración de Empresas, Negocios Digitales, Gestión de la Innovación Organizacional y Productividad, Emprendimiento e Innovación, Negocios Internacionales, Contabilidad, Economista, Finanzas, Comercial, Industrial, Sistemas; Telecomunicaciones o carreras afines en función de la formación.",
-      "salary": "$2,340.00",
-      "openings": "",
-      "publishedAt": "2026-11-18",
-      "closesAt": null,
-      "statusAtScrape": "Reciente - revisar",
-      "code": "",
-      "url": "https://www.celec.gob.ec/wp-content/uploads/2026/11/Convocatoria-18-de-noviembre-de-2026.pdf",
-      "firstSeen": "2026-11-19"
     },
     {
       "id": "celec-608a764835",
@@ -1426,6 +1407,25 @@
       "code": "",
       "url": "https://www.celec.gob.ec/gensur/uncategorized/convocatoria-especialista-electronico-de-mantenimiento/",
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "celec-293273862b",
+      "unit": "CELEC EP Matriz",
+      "role": "Especialista de Nuevos Negocios Asociativos / Especialista Administrativo 5",
+      "fit": "Directa",
+      "isIT": false,
+      "fitDetail": "Directa (Computación/Sistemas/TI)",
+      "minExperienceMonths": 24,
+      "experience": "Alternativa 1: 2 años en cargos similares Alternativa 2: 3 años en cargos de Ayudantes / Auxiliares",
+      "education": "Tercer Nivel de Grado: Administración de Empresas, Negocios Digitales, Gestión de la Innovación Organizacional y Productividad, Emprendimiento e Innovación, Negocios Internacionales, Contabilidad, Economista, Finanzas, Comercial, Industrial, Sistemas; Telecomunicaciones o carreras afines en función de la formación.",
+      "salary": "$2,340.00",
+      "openings": "",
+      "publishedAt": "2026-11-18",
+      "closesAt": null,
+      "statusAtScrape": "Reciente - revisar",
+      "code": "",
+      "url": "https://www.celec.gob.ec/wp-content/uploads/2026/11/Convocatoria-18-de-noviembre-de-2026.pdf",
+      "firstSeen": "2026-11-19"
     },
     {
       "id": "celec-69c0110861",
