@@ -2,6 +2,16 @@
   "collectedSince": "2026-11-05",
   "jobs": [
     {
+      "id": "ashby-supabase-62ad3b86-3a18-435a-ab29-dc62b77154e5",
+      "company": "Supabase",
+      "title": "Product Security Engineer",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-11-25",
+      "url": "https://jobs.ashbyhq.com/supabase/62ad3b86-3a18-435a-ab29-dc62b77154e5",
+      "firstSeen": "2026-11-25"
+    },
+    {
       "id": "ashby-supabase-30cc053e-33dc-4924-a870-2cf41c296b01",
       "company": "Supabase",
       "title": "Software Engineer - Interfaces Backend",
@@ -1112,17 +1122,6 @@
       "route": "remoto",
       "publishedAt": "2026-05-13",
       "url": "https://jobs.ashbyhq.com/supabase/3ab0b926-c9b5-4197-aff2-88d5bf009e13",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "greenhouse-stripe-7913700",
-      "company": "Stripe",
-      "title": "Senior Software Engineer",
-      "location": "Canada",
-      "route": "patrocinio",
-      "canadaLmia": 17,
-      "publishedAt": "2026-05-11",
-      "url": "https://stripe.com/jobs/search?gh_jid=7913700",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2460,6 +2459,18 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8026689",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-16"
+    },
+    {
+      "id": "greenhouse-stripe-7913700",
+      "company": "Stripe",
+      "title": "Senior Software Engineer",
+      "location": "Canada",
+      "route": "patrocinio",
+      "canadaLmia": 17,
+      "publishedAt": "2026-05-11",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913700",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-25"
     },
     {
       "id": "greenhouse-affirm-7663436003",

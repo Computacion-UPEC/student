@@ -2,6 +2,17 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "devsu-9B914768B2",
+      "company": "Devsu",
+      "title": "Científico de datos Jr IA - Sector financiero/bancario",
+      "city": "Quito",
+      "remote": false,
+      "publishedAt": "2026-11-25",
+      "url": "https://apply.workable.com/j/9B914768B2",
+      "isIT": true,
+      "firstSeen": "2026-11-25"
+    },
+    {
       "id": "devsu-E2DF095E86",
       "company": "Devsu",
       "title": "Senior Desarrollador Java (Spring) - Sector Financiero/Bancario",
@@ -11,17 +22,6 @@
       "url": "https://apply.workable.com/j/E2DF095E86",
       "isIT": true,
       "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "devsu-41942D3953",
-      "company": "Devsu",
-      "title": "Líder de Transformación y Desempeño Organizacional - Sector Bancario",
-      "city": "Quito",
-      "remote": false,
-      "publishedAt": "2026-10-30",
-      "url": "https://apply.workable.com/j/41942D3953",
-      "isIT": false,
-      "firstSeen": "2026-10-30"
     },
     {
       "id": "devsu-FA056D61D9",
@@ -287,6 +287,18 @@
       "isIT": false,
       "firstSeen": "2026-11-09",
       "closedOn": "2026-11-11"
+    },
+    {
+      "id": "devsu-41942D3953",
+      "company": "Devsu",
+      "title": "Líder de Transformación y Desempeño Organizacional - Sector Bancario",
+      "city": "Quito",
+      "remote": false,
+      "publishedAt": "2026-10-30",
+      "url": "https://apply.workable.com/j/41942D3953",
+      "isIT": false,
+      "firstSeen": "2026-10-30",
+      "closedOn": "2026-11-25"
     },
     {
       "id": "devsu-ED9697D299",

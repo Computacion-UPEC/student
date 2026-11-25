@@ -2,6 +2,14 @@
   "source": "https://www.celec.gob.ec",
   "calls": [
     {
+      "unit": "Hidronación",
+      "role": "Convocatoria para el Proceso de Selección Simple – Especialista de Gestión Documental y Archivo",
+      "eligibility": "No aplica",
+      "publishedAt": "2026-11-25",
+      "closesAt": null,
+      "url": "https://www.celec.gob.ec/hidronacion/uncategorized/convocatoria-para-el-proceso-de-seleccion-simple-especialista-de-gestion-documental-y-archivo/"
+    },
+    {
       "unit": "CELEC SUR",
       "role": "ESPECIALISTA ADM 4/ESPECIALISTA JURÍDICO",
       "eligibility": "No aplica",

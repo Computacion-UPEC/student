@@ -50,6 +50,41 @@
       "firstSeen": "2026-11-24"
     },
     {
+      "id": "pichincha-1338526862",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO SERVICIOS INTEGRALES - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-25",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EJECUTIVO-SERVICIOS-INTEGRALES-QUITO-QUIT-OPERACIONE/1338526862/",
+      "isIT": false,
+      "firstSeen": "2026-11-25"
+    },
+    {
+      "id": "pichincha-1338528662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS AGENCIA VIRTUAL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-25",
+      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-COMERCIAL-Y-SERVICIOS-AGENCIA-VIRTUAL-QUIT-OFICINA-VI/1338528662/",
+      "isIT": false,
+      "firstSeen": "2026-11-25"
+    },
+    {
+      "id": "sanfra-6b0715e6e5ab9eee9e95731b",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "GESTOR DE NEGOCIOS - AGENCIA RIOBAMBA",
+      "city": "Riobamba",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6b0715e6e5ab9eee9e95731b",
+      "isIT": false,
+      "firstSeen": "2026-11-25"
+    },
+    {
       "id": "pichincha-1336150162",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -60,18 +95,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-PLANIFICACION-CIBERSEGURIDAD-QUITO-QUIT-PROYECTOS/1336150162/",
       "isIT": true,
       "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1338508962",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ASESOR LEGAL",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-24",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ASESOR-LEGAL-QUIT-LEGAL-EMPR/1338508962/",
-      "isIT": false,
-      "firstSeen": "2026-11-24"
     },
     {
       "id": "bancoloja-6b05beaa8294f6a68cc41f4f",
@@ -177,17 +200,6 @@
       "firstSeen": "2026-11-20"
     },
     {
-      "id": "sanfra-6aff2e8b193efde0eea992ce",
-      "source": "sanfra",
-      "institution": "Cooperativa San Francisco",
-      "title": "GESTOR DEL CLIENTE - AGENCIA PÍLLARO",
-      "city": "Píllaro",
-      "publishedAt": null,
-      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6aff2e8b193efde0eea992ce",
-      "isIT": false,
-      "firstSeen": "2026-11-20"
-    },
-    {
       "id": "sanfra-6afc8a46e881c1999d89604b",
       "source": "sanfra",
       "institution": "Cooperativa San Francisco",
@@ -250,39 +262,6 @@
       "city": "Saquisilí",
       "publishedAt": null,
       "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6afb157df6e574025eb413ed",
-      "isIT": false,
-      "firstSeen": "2026-11-20"
-    },
-    {
-      "id": "sanfra-6af35e6ff81bbb1467df9e40",
-      "source": "sanfra",
-      "institution": "Cooperativa San Francisco",
-      "title": "PASANTE DE DERECHO - AGENCIA SANGOLQUI",
-      "city": "Sangolquí",
-      "publishedAt": null,
-      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6af35e6ff81bbb1467df9e40",
-      "isIT": false,
-      "firstSeen": "2026-11-20"
-    },
-    {
-      "id": "sanfra-6ad774bb49bcbc6c2923d17f",
-      "source": "sanfra",
-      "institution": "Cooperativa San Francisco",
-      "title": "PASANTE DE DERECHO - AGENCIA RIOBAMBA",
-      "city": "Riobamba",
-      "publishedAt": null,
-      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6ad774bb49bcbc6c2923d17f",
-      "isIT": false,
-      "firstSeen": "2026-11-20"
-    },
-    {
-      "id": "sanfra-6ad2469ee8eca2712559e62f",
-      "source": "sanfra",
-      "institution": "Cooperativa San Francisco",
-      "title": "GESTOR DEL CLIENTE - AGENCIA MACAS",
-      "city": "Macas",
-      "publishedAt": null,
-      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6ad2469ee8eca2712559e62f",
       "isIT": false,
       "firstSeen": "2026-11-20"
     },
@@ -601,7 +580,7 @@
       "id": "bancoloja-6a739197fd656f3c39247a31",
       "source": "bancoloja",
       "institution": "Banco de Loja",
-      "title": "Asesor Banca Personas - Agencia Quito",
+      "title": "Asesor Banca Personas",
       "city": "Quito",
       "publishedAt": null,
       "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6a739197fd656f3c39247a31",
@@ -669,15 +648,28 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "bancoloja-6ae50f88441151bb778e4def",
-      "source": "bancoloja",
-      "institution": "Banco de Loja",
-      "title": "Relacionista Público/a",
-      "city": "Loja",
-      "publishedAt": null,
-      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ae50f88441151bb778e4def",
+      "id": "pichincha-1337984062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ADMINISTRADOR PORTAL WEB",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-04",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ADMINISTRADOR-PORTAL-WEB-QUIT-CONTENIDO/1337984062/",
       "isIT": false,
-      "firstSeen": "2026-10-31"
+      "firstSeen": "2026-11-04"
+    },
+    {
+      "id": "pichincha-1337081062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE OPERACIONES DE TALENTO HUMANO - CUENCA",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-10-30",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-PASANTE-OPERACIONES-DE-TALENTO-HUMANO-CUENCA-CUEN-SERVICIOS/1337081062/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
     },
     {
       "id": "pichincha-1337849062",
@@ -777,17 +769,6 @@
       "city": "Guayaquil",
       "publishedAt": null,
       "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ac56bb70ba3c4c66e7b725c",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "bancoloja-6ad2a6408e0b7d70dc0f0918",
-      "source": "bancoloja",
-      "institution": "Banco de Loja",
-      "title": "Gerente de Negocios",
-      "city": "Loja",
-      "publishedAt": null,
-      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ad2a6408e0b7d70dc0f0918",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -1144,6 +1125,67 @@
       "url": "https://quierolaburo.com/empresas/cacpeco",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "pichincha-1338508962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASESOR LEGAL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-24",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ASESOR-LEGAL-QUIT-LEGAL-EMPR/1338508962/",
+      "isIT": false,
+      "firstSeen": "2026-11-24",
+      "closedOn": "2026-11-25"
+    },
+    {
+      "id": "sanfra-6aff2e8b193efde0eea992ce",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "GESTOR DEL CLIENTE - AGENCIA PÍLLARO",
+      "city": "Píllaro",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6aff2e8b193efde0eea992ce",
+      "isIT": false,
+      "firstSeen": "2026-11-20",
+      "closedOn": "2026-11-25"
+    },
+    {
+      "id": "sanfra-6af35e6ff81bbb1467df9e40",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "PASANTE DE DERECHO - AGENCIA SANGOLQUI",
+      "city": "Sangolquí",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6af35e6ff81bbb1467df9e40",
+      "isIT": false,
+      "firstSeen": "2026-11-20",
+      "closedOn": "2026-11-25"
+    },
+    {
+      "id": "sanfra-6ad774bb49bcbc6c2923d17f",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "PASANTE DE DERECHO - AGENCIA RIOBAMBA",
+      "city": "Riobamba",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6ad774bb49bcbc6c2923d17f",
+      "isIT": false,
+      "firstSeen": "2026-11-20",
+      "closedOn": "2026-11-25"
+    },
+    {
+      "id": "sanfra-6ad2469ee8eca2712559e62f",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "GESTOR DEL CLIENTE - AGENCIA MACAS",
+      "city": "Macas",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6ad2469ee8eca2712559e62f",
+      "isIT": false,
+      "firstSeen": "2026-11-20",
+      "closedOn": "2026-11-25"
     },
     {
       "id": "pichincha-1337642062",
@@ -1798,19 +1840,6 @@
       "closedOn": "2026-11-07"
     },
     {
-      "id": "pichincha-1337984062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ADMINISTRADOR PORTAL WEB",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-04",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ADMINISTRADOR-PORTAL-WEB-QUIT-CONTENIDO/1337984062/",
-      "isIT": false,
-      "firstSeen": "2026-11-04",
-      "closedOn": "2026-11-21"
-    },
-    {
       "id": "pichincha-1337998962",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1900,6 +1929,18 @@
       "isIT": true,
       "firstSeen": "2026-10-29",
       "closedOn": "2026-11-17"
+    },
+    {
+      "id": "bancoloja-6ae50f88441151bb778e4def",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Relacionista Público/a",
+      "city": "Loja",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ae50f88441151bb778e4def",
+      "isIT": false,
+      "firstSeen": "2026-10-31",
+      "closedOn": "2026-11-25"
     },
     {
       "id": "pichincha-1337144262",
@@ -2050,19 +2091,6 @@
       "isIT": false,
       "firstSeen": "2026-10-30",
       "closedOn": "2026-11-10"
-    },
-    {
-      "id": "pichincha-1337081062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE OPERACIONES DE TALENTO HUMANO - CUENCA",
-      "province": "AZUAY",
-      "city": "CUENCA",
-      "publishedAt": "2026-10-30",
-      "url": "https://vacantes.pichincha.com/job/CUENCA-PASANTE-OPERACIONES-DE-TALENTO-HUMANO-CUENCA-CUEN-SERVICIOS/1337081062/",
-      "isIT": false,
-      "firstSeen": "2026-10-16",
-      "closedOn": "2026-11-06"
     },
     {
       "id": "pichincha-1337044862",
@@ -2399,6 +2427,18 @@
       "isIT": false,
       "firstSeen": "2026-10-24",
       "closedOn": "2026-10-28"
+    },
+    {
+      "id": "bancoloja-6ad2a6408e0b7d70dc0f0918",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Gerente de Negocios",
+      "city": "Loja",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6ad2a6408e0b7d70dc0f0918",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-25"
     },
     {
       "id": "pichincha-1337683162",
