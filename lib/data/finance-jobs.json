@@ -2,6 +2,54 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1337777462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE DE PROCESOS - TRIBU CANALES",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-25",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-DE-PROCESOS-TRIBU-CANALES-QUIT-TRIBU-CANA/1337777462/",
+      "isIT": false,
+      "firstSeen": "2026-10-28"
+    },
+    {
+      "id": "pichincha-1335668362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "LIDER TECNICO DE TRIBU / FINANZAS (QUITO)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-25",
+      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-TECNICO-DE-TRIBU-FINANZAS-%28QUITO%29-QUIT-TRIBU-AREA/1335668362/",
+      "isIT": false,
+      "firstSeen": "2026-10-26"
+    },
+    {
+      "id": "pichincha-1336560562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "GERENTE SISTEMATICA COMERCIAL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-25",
+      "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-SISTEMATICA-COMERCIAL-QUIT-SISTEMATIC/1336560562/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
+      "id": "pichincha-1335386162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DUENO DE PRODUCTO (IDENTIDADES) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-25",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-%28IDENTIDADES%29-QUITO-QUIT-TRIBU-CIBE/1335386162/",
+      "isIT": false,
+      "firstSeen": "2026-11-24"
+    },
+    {
       "id": "pichincha-1336150162",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -430,18 +478,6 @@
       "firstSeen": "2026-11-17"
     },
     {
-      "id": "pichincha-1338323362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-17",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-CELULA-TAR/1338323362/",
-      "isIT": false,
-      "firstSeen": "2026-11-18"
-    },
-    {
       "id": "pichincha-1338322762",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -476,18 +512,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-RIESGO-MODELOS-QUITO-QUIT-RIESGO-MER/1338322062/",
       "isIT": false,
       "firstSeen": "2026-11-18"
-    },
-    {
-      "id": "pichincha-1338293162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ESPECIALISTA SEGUIMIENTO Y REFINANCIACION COBRANZA - IBARRA",
-      "province": "IMBABURA",
-      "city": "IBARRA",
-      "publishedAt": "2026-11-16",
-      "url": "https://vacantes.pichincha.com/job/IBARRA-ESPECIALISTA-SEGUIMIENTO-Y-REFINANCIACION-COBRANZA-IBARRA-IBAR-SEGUIMIENT/1338293162/",
-      "isIT": false,
-      "firstSeen": "2026-11-17"
     },
     {
       "id": "pichincha-1337501462",
@@ -689,30 +713,6 @@
       "url": "https://pagueya.hiringroom.com/jobs/get_vacancy/6ae0c9e4a2045997eaee439c",
       "isIT": false,
       "firstSeen": "2026-10-27"
-    },
-    {
-      "id": "pichincha-1337777462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE DE PROCESOS - TRIBU CANALES",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-27",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-DE-PROCESOS-TRIBU-CANALES-QUIT-TRIBU-CANA/1337777462/",
-      "isIT": false,
-      "firstSeen": "2026-10-28"
-    },
-    {
-      "id": "pichincha-1335668362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "LIDER TECNICO DE TRIBU / FINANZAS (QUITO)",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-27",
-      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-TECNICO-DE-TRIBU-FINANZAS-%28QUITO%29-QUIT-TRIBU-AREA/1335668362/",
-      "isIT": false,
-      "firstSeen": "2026-10-26"
     },
     {
       "id": "bancoloja-6ac7daeef7d65014043aa02a",
@@ -1124,30 +1124,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1336560562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "GERENTE SISTEMATICA COMERCIAL",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-09-14",
-      "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-SISTEMATICA-COMERCIAL-QUIT-SISTEMATIC/1336560562/",
-      "isIT": false,
-      "firstSeen": "2026-11-24"
-    },
-    {
-      "id": "pichincha-1335386162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DUENO DE PRODUCTO (IDENTIDADES) - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-09-11",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DUENO-DE-PRODUCTO-%28IDENTIDADES%29-QUITO-QUIT-TRIBU-CIBE/1335386162/",
-      "isIT": false,
-      "firstSeen": "2026-11-24"
-    },
-    {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
       "source": "cacpeco",
       "institution": "CACPECO",
@@ -1247,6 +1223,19 @@
       "closedOn": "2026-11-21"
     },
     {
+      "id": "pichincha-1338323362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-17",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-CELULA-TAR/1338323362/",
+      "isIT": false,
+      "firstSeen": "2026-11-18",
+      "closedOn": "2026-11-25"
+    },
+    {
       "id": "pichincha-1338316262",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1284,6 +1273,19 @@
       "isIT": false,
       "firstSeen": "2026-11-18",
       "closedOn": "2026-11-21"
+    },
+    {
+      "id": "pichincha-1338293162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA SEGUIMIENTO Y REFINANCIACION COBRANZA - IBARRA",
+      "province": "IMBABURA",
+      "city": "IBARRA",
+      "publishedAt": "2026-11-16",
+      "url": "https://vacantes.pichincha.com/job/IBARRA-ESPECIALISTA-SEGUIMIENTO-Y-REFINANCIACION-COBRANZA-IBARRA-IBAR-SEGUIMIENT/1338293162/",
+      "isIT": false,
+      "firstSeen": "2026-11-17",
+      "closedOn": "2026-11-25"
     },
     {
       "id": "pichincha-1338292262",

@@ -216,7 +216,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Especialista de Producto Cloud B2B",
       "city": "Ubicaciones: 2",
-      "publishedAt": "2026-11-23",
+      "publishedAt": "2026-11-24",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Especialista-de-Producto-Cloud-B2B_R135884",
       "isIT": true,
       "firstSeen": "2026-11-24"
@@ -381,7 +381,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Especialista de Tiendas Sur",
       "city": "Tienda San Marino",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-20",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-San-Marino/Especialista-de-Tiendas-Sur_R135695",
       "isIT": false,
       "firstSeen": "2026-11-19"
@@ -392,7 +392,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "(EVENTUAL) Pasante",
       "city": "Quito",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-20",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135895",
       "isIT": false,
       "firstSeen": "2026-11-20"
@@ -502,7 +502,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "(EVENTUAL) Pasante",
       "city": "Quito",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-19",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135671",
       "isIT": false,
       "firstSeen": "2026-11-18"
@@ -616,28 +616,6 @@
       "url": "https://careers.arcacontal.com/job/GUY-Guayaquil-AYUDANTE-DE-BODEGA-CEDI-GUAYAQUIL-Dip-Guay/1452004500/",
       "isIT": false,
       "firstSeen": "2026-11-19"
-    },
-    {
-      "id": "tigo-R135958",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "(EVENTUAL) Pasante",
-      "city": "Guayaquil",
-      "publishedAt": "2026-11-17",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/XMLNAME--EVENTUAL--Pasante_R135958",
-      "isIT": false,
-      "firstSeen": "2026-11-17"
-    },
-    {
-      "id": "tigo-R135776",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Pasante en Ingeniería de Datos",
-      "city": "Quito",
-      "publishedAt": "2026-11-17",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-en-Ingeniera-de-Datos_R135776",
-      "isIT": true,
-      "firstSeen": "2026-11-17"
     },
     {
       "id": "claro-1574",
@@ -1399,6 +1377,17 @@
       "firstSeen": "2026-11-09"
     },
     {
+      "id": "arca-1449210500",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "COORDINADOR DE PLATAFORMAS DIGITALES | GUAYAQUIL SUR",
+      "city": null,
+      "publishedAt": "2026-11-09",
+      "url": "https://careers.arcacontal.com/job/COORDINADOR-DE-PLATAFORMAS-DIGITALES-GUAYAQUIL-SUR/1449210500/",
+      "isIT": false,
+      "firstSeen": "2026-11-09"
+    },
+    {
       "id": "arca-1448804200",
       "source": "arca",
       "company": "Arca Continental",
@@ -1549,17 +1538,6 @@
       "city": "Quito",
       "publishedAt": null,
       "url": "https://talentroom.ec/talent-public/portal/netlife/external/vacantes",
-      "isIT": false,
-      "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "pronaca-26617",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "PASANTE TALENTO Y CULTURA",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26617",
       "isIT": false,
       "firstSeen": "2026-11-06"
     },
@@ -5909,6 +5887,30 @@
       "closedOn": "2026-11-18"
     },
     {
+      "id": "tigo-R135958",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "(EVENTUAL) Pasante",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-17",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/XMLNAME--EVENTUAL--Pasante_R135958",
+      "isIT": false,
+      "firstSeen": "2026-11-17",
+      "closedOn": "2026-11-25"
+    },
+    {
+      "id": "tigo-R135776",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Pasante en Ingeniería de Datos",
+      "city": "Quito",
+      "publishedAt": "2026-11-17",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Pasante-en-Ingeniera-de-Datos_R135776",
+      "isIT": true,
+      "firstSeen": "2026-11-17",
+      "closedOn": "2026-11-25"
+    },
+    {
       "id": "arca-1440781700",
       "source": "arca",
       "company": "Arca Continental",
@@ -6545,18 +6547,6 @@
       "closedOn": "2026-11-18"
     },
     {
-      "id": "arca-1449210500",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "COORDINADOR DE PLATAFORMAS DIGITALES | GUAYAQUIL SUR",
-      "city": null,
-      "publishedAt": "2026-11-09",
-      "url": "https://careers.arcacontal.com/job/COORDINADOR-DE-PLATAFORMAS-DIGITALES-GUAYAQUIL-SUR/1449210500/",
-      "isIT": false,
-      "firstSeen": "2026-11-09",
-      "closedOn": "2026-11-14"
-    },
-    {
       "id": "arca-1449200900",
       "source": "arca",
       "company": "Arca Continental",
@@ -6687,6 +6677,18 @@
       "isIT": false,
       "firstSeen": "2026-11-06",
       "closedOn": "2026-11-13"
+    },
+    {
+      "id": "pronaca-26617",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "PASANTE TALENTO Y CULTURA",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26617",
+      "isIT": false,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-25"
     },
     {
       "id": "nestle-1435079033",
