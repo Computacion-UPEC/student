@@ -1,0 +1,703 @@
+{
+  "description": "Savings and credit cooperatives of the RFD network (rfd.org.ec), with official SEPS data. portalStatus: collected = jobs scraped daily by scripts/finance/collect.mjs; link = job page listed in lib/finance-portals.ts; cv-form = only a CV form; no-job-section = none found; unreachable = linked portal does not resolve; to-find = not searched yet.",
+  "sources": {
+    "members": "https://rfd.org.ec/miembros-rfd/ (2026-11-19)",
+    "registry": "SEPS entity registry 2026 (head office, segment), estadisticas.seps.gob.ec",
+    "assets": "SEPS balance sheets 2026: monthly (segments 1-3) and quarterly (segment 4)",
+    "cantons": "SEPS service points 30/09/2026, active offices, ATMs and correspondents"
+  },
+  "updated": "2026-11-26",
+  "cooperatives": [
+    {
+      "id": "jep",
+      "name": "JEP",
+      "officialName": "Cooperativa de Ahorro y Crédito Juventud Ecuatoriana Progresista Limitada",
+      "ruc": "0190115798001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Azuay",
+        "canton": "Cuenca"
+      },
+      "assetsUsd": 3615422181,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 147,
+      "jobPortal": "https://www.jep.coop/informate/ofertas-laborables",
+      "portalStatus": "collected"
+    },
+    {
+      "id": "jardin-azuayo",
+      "name": "Jardín Azuayo",
+      "officialName": "Cooperativa de Ahorro y Crédito Jardin Azuayo Limitada",
+      "ruc": "0190155722001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Azuay",
+        "canton": "Cuenca"
+      },
+      "assetsUsd": 2576780569,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 94,
+      "jobPortal": "https://www.multitrabajos.com/perfiles/empresa_cooperativa-jardin-azuayo_10199124.html",
+      "portalStatus": "link"
+    },
+    {
+      "id": "coop29deoctubre",
+      "name": "29 de Octubre",
+      "officialName": "Cooperativa de Ahorro y Crédito 29 De Octubre Ltda.",
+      "ruc": "1790567699001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Pichincha",
+        "canton": "Quito"
+      },
+      "assetsUsd": 1084061429,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 27,
+      "jobPortal": "https://coop29deoctubre.hiringroom.com/jobs",
+      "portalStatus": "collected"
+    },
+    {
+      "id": "fernando-daquilema",
+      "name": "Fernando Daquilema",
+      "officialName": "Cooperativa de Ahorro y Crédito Fernando Daquilema Limitada",
+      "ruc": "0691706710001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Chimborazo",
+        "canton": "Riobamba"
+      },
+      "assetsUsd": 855740486,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 24,
+      "jobPortal": "https://bolsaempleo.coopdaquilema.com/empleos/",
+      "portalStatus": "unreachable",
+      "note": "Its site links bolsaempleo.coopdaquilema.com, which did not resolve in November 2026."
+    },
+    {
+      "id": "cooprogreso",
+      "name": "CoopProgreso",
+      "officialName": "Cooperativa de Ahorro y Crédito Cooprogreso Limitada",
+      "ruc": "1790451801001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Pichincha",
+        "canton": "Quito"
+      },
+      "assetsUsd": 808563156,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 12,
+      "jobPortal": "https://www.cooprogreso.fin.ec/trabaja-con-nosotros",
+      "portalStatus": "cv-form"
+    },
+    {
+      "id": "sanfra",
+      "name": "San Francisco (SanFra)",
+      "officialName": "Cooperativa de Ahorro y Crédito San Francisco Ltda.",
+      "ruc": "1890003628001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Tungurahua",
+        "canton": "Ambato"
+      },
+      "assetsUsd": 806492741,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 25,
+      "jobPortal": "https://coacsanfra.hiringroom.com/jobs",
+      "portalStatus": "collected"
+    },
+    {
+      "id": "mushuc-runa",
+      "name": "Mushuc Runa",
+      "officialName": "Cooperativa de Ahorro y Crédito Mushuc Runa Ltda.",
+      "ruc": "1890141877001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Tungurahua",
+        "canton": "Ambato"
+      },
+      "assetsUsd": 734102468,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 58,
+      "jobPortal": null,
+      "portalStatus": "no-job-section",
+      "note": "No jobs section on mushucruna.com (November 2026); check its social media."
+    },
+    {
+      "id": "oscus",
+      "name": "OSCUS",
+      "officialName": "Cooperativa de Ahorro y Crédito Oscus Limitada",
+      "ruc": "1890001323001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Tungurahua",
+        "canton": "Ambato"
+      },
+      "assetsUsd": 685133953,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 14,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "riobamba",
+      "name": "Riobamba",
+      "officialName": "Cooperativa de Ahorro y Crédito Riobamba Ltda.",
+      "ruc": "0690045389001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Chimborazo",
+        "canton": "Riobamba"
+      },
+      "assetsUsd": 648213872,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 7,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "atuntaqui",
+      "name": "Atuntaqui",
+      "officialName": "Cooperativa de Ahorro y Crédito Atuntaqui Limitada",
+      "ruc": "1090033456001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Imbabura",
+        "canton": "Antonio Ante"
+      },
+      "assetsUsd": 533399329,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 10,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "23-de-julio",
+      "name": "23 de Julio",
+      "officialName": "Cooperativa de Ahorro y Crédito 23 De Julio Limitada",
+      "ruc": "1790093204001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Pichincha",
+        "canton": "Cayambe"
+      },
+      "assetsUsd": 449013398,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 18,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "tulcan",
+      "name": "Tulcán",
+      "officialName": "Cooperativa de Ahorro y Crédito Tulcan Limitada",
+      "ruc": "0490002669001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Carchi",
+        "canton": "Tulcan"
+      },
+      "assetsUsd": 434431473,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 14,
+      "jobPortal": "https://www.cooptulcan.fin.ec/bolsa-de-empleo/",
+      "portalStatus": "link"
+    },
+    {
+      "id": "cacpe-pastaza",
+      "name": "CACPE Pastaza",
+      "officialName": "Cooperativa de Ahorro y Crédito De La Pequeña Empresa De Pastaza Limitada",
+      "ruc": "1690012606001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Pastaza",
+        "canton": "Pastaza"
+      },
+      "assetsUsd": 367088590,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 13,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "pablo-munoz-vega",
+      "name": "Pablo Muñoz Vega",
+      "officialName": "Cooperativa de Ahorro y Crédito Pablo Muñoz Vega Limitada",
+      "ruc": "0490001883001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Carchi",
+        "canton": "Tulcan"
+      },
+      "assetsUsd": 359774770,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 12,
+      "jobPortal": null,
+      "portalStatus": "no-job-section",
+      "note": "No jobs section on its site (October 2026)."
+    },
+    {
+      "id": "kullki-wasi",
+      "name": "Kullki Wasi",
+      "officialName": "Cooperativa de Ahorro y Crédito Kullki Wasi Ltda.",
+      "ruc": "1891710255001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Tungurahua",
+        "canton": "Ambato"
+      },
+      "assetsUsd": 359284105,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 23,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "san-jose",
+      "name": "San José",
+      "officialName": "Cooperativa de Ahorro y Crédito San Jose Limitada",
+      "ruc": "0290003288001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Bolivar",
+        "canton": "Chimbo"
+      },
+      "assetsUsd": 312550065,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 11,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "indigena-sac",
+      "name": "Indígena SAC",
+      "officialName": "Cooperativa de Ahorro y Crédito Indigena Sac Ltda.",
+      "ruc": "1890142679001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Tungurahua",
+        "canton": "Ambato"
+      },
+      "assetsUsd": 197401001,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 12,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "padre-julian-lorente",
+      "name": "Padre Julián Lorente",
+      "officialName": "Cooperativa de Ahorro y Crédito Padre Julian Lorente Ltda.",
+      "ruc": "1190015110001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Loja",
+        "canton": "Loja"
+      },
+      "assetsUsd": 188990504,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 20,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "chone",
+      "name": "Chone",
+      "officialName": "Cooperativa de Ahorro y Crédito Chone Ltda.",
+      "ruc": "1390007791001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Manabi",
+        "canton": "Chone"
+      },
+      "assetsUsd": 186880838,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 8,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "virgen-del-cisne",
+      "name": "Virgen del Cisne",
+      "officialName": "Cooperativa de Ahorro y Crédito Virgen Del Cisne",
+      "ruc": "0591711164001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Cotopaxi",
+        "canton": "Latacunga"
+      },
+      "assetsUsd": 160850283,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 12,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "9-de-octubre",
+      "name": "9 de Octubre",
+      "officialName": "Cooperativa de Ahorro y Crédito 9 De Octubre Ltda.",
+      "ruc": "0590041920001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Cotopaxi",
+        "canton": "Salcedo"
+      },
+      "assetsUsd": 128988402,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 12,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "lucha-campesina",
+      "name": "Lucha Campesina",
+      "officialName": "Cooperativa de Ahorro y Crédito Lucha Campesina",
+      "ruc": "0690075113001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Chimborazo",
+        "canton": "Cumanda"
+      },
+      "assetsUsd": 124974359,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 23,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "cacpe-zamora-chinchipe",
+      "name": "CACPE Zamora Chinchipe",
+      "officialName": "Cooperativa de Ahorro y Crédito De La Pequeña Empresa Cacpe Zamora Chinchipe Ltda.",
+      "ruc": "1990007027001",
+      "segment": "Segmento 2",
+      "headOffice": {
+        "province": "Zamora Chinchipe",
+        "canton": "Zamora"
+      },
+      "assetsUsd": 105389636,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 11,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "luz-del-valle",
+      "name": "Luz del Valle",
+      "officialName": "Cooperativa de Ahorro y Crédito Luz Del Valle",
+      "ruc": "1791847644001",
+      "segment": "Segmento 2",
+      "headOffice": {
+        "province": "Pichincha",
+        "canton": "Rumiñahui"
+      },
+      "assetsUsd": 94239364,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 3,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "san-francisco-de-asis",
+      "name": "San Francisco de Asís",
+      "officialName": "Cooperativa de Ahorro y Crédito San Francisco De Asis Ltda.",
+      "ruc": "1790045668001",
+      "segment": "Segmento 2",
+      "headOffice": {
+        "province": "Pichincha",
+        "canton": "Quito"
+      },
+      "assetsUsd": 94189668,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 4,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "guaranda",
+      "name": "Guaranda",
+      "officialName": "Cooperativa de Ahorro y Crédito Guaranda Ltda.",
+      "ruc": "0290001269001",
+      "segment": "Segmento 1",
+      "headOffice": {
+        "province": "Bolivar",
+        "canton": "Guaranda"
+      },
+      "assetsUsd": 87755653,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 5,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "crediya",
+      "name": "CrediYa",
+      "officialName": "Cooperativa de Ahorro y Crédito Credi Ya Ltda.",
+      "ruc": "1891743005001",
+      "segment": "Segmento 2",
+      "headOffice": {
+        "province": "Tungurahua",
+        "canton": "Ambato"
+      },
+      "assetsUsd": 81383290,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 18,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "4-de-octubre",
+      "name": "4 de Octubre",
+      "officialName": "Cooperativa de Ahorro y Crédito 4 De Octubre",
+      "ruc": "0691702324001",
+      "segment": "Segmento 2",
+      "headOffice": {
+        "province": "Chimborazo",
+        "canton": "Riobamba"
+      },
+      "assetsUsd": 80531633,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 7,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "huancavilca",
+      "name": "Huancavilca",
+      "officialName": "Cooperativa De Ahorro Y Crédito Huancavilca Ltda.",
+      "ruc": "0992280700001",
+      "segment": "Segmento 2",
+      "headOffice": {
+        "province": "Santa Elena",
+        "canton": "La Libertad"
+      },
+      "assetsUsd": 73704457,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 7,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "pedro-moncayo",
+      "name": "Pedro Moncayo",
+      "officialName": "Cooperativa de Ahorro y Crédito Pedro Moncayo Ltda.",
+      "ruc": "1790892670001",
+      "segment": "Segmento 2",
+      "headOffice": {
+        "province": "Pichincha",
+        "canton": "Pedro Moncayo"
+      },
+      "assetsUsd": 71581519,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 4,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "alianza-minas",
+      "name": "Alianza Minas",
+      "officialName": "Cooperativa de Ahorro y Crédito Alianza Minas Ltda.",
+      "ruc": "1790586863001",
+      "segment": "Segmento 2",
+      "headOffice": {
+        "province": "Pichincha",
+        "canton": "Quito"
+      },
+      "assetsUsd": 70006374,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 1,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "14-de-marzo",
+      "name": "14 de Marzo",
+      "officialName": "Cooperativa de Ahorro y Crédito Textil 14 De Marzo",
+      "ruc": "1791268628001",
+      "segment": "Segmento 2",
+      "headOffice": {
+        "province": "Pichincha",
+        "canton": "Rumiñahui"
+      },
+      "assetsUsd": 65854092,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 4,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "san-antonio-imbabura",
+      "name": "San Antonio (Imbabura)",
+      "officialName": "Cooperativa de Ahorro y Crédito San Antonio Ltda. - Imbabura",
+      "ruc": "1090046892001",
+      "segment": "Segmento 2",
+      "headOffice": {
+        "province": "Imbabura",
+        "canton": "Ibarra"
+      },
+      "assetsUsd": 63828332,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 3,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "mujeres-unidas-cacmu",
+      "name": "Mujeres Unidas (CACMU)",
+      "officialName": "Cooperativa de Ahorro y Crédito Mujeres Unidas Tantanakushka Warmikunapac",
+      "ruc": "1091712284001",
+      "segment": "Segmento 2",
+      "headOffice": {
+        "province": "Imbabura",
+        "canton": "Ibarra"
+      },
+      "assetsUsd": 62767745,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 6,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "la-benefica",
+      "name": "La Benéfica",
+      "officialName": "Cooperativa de Ahorro y Crédito La Benefica Ltda.",
+      "ruc": "1390143156001",
+      "segment": "Segmento 2",
+      "headOffice": {
+        "province": "Manabi",
+        "canton": "El Carmen"
+      },
+      "assetsUsd": 53276859,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 3,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "union-el-ejido",
+      "name": "Unión El Ejido",
+      "officialName": "Cooperativa de Ahorro y Crédito Union El Ejido",
+      "ruc": "1090058521001",
+      "segment": "Segmento 2",
+      "headOffice": {
+        "province": "Imbabura",
+        "canton": "Cotacachi"
+      },
+      "assetsUsd": 43092676,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 4,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "maquita-cushunchic",
+      "name": "Maquita Cushunchic",
+      "officialName": "Cooperativa de Ahorro y Crédito Maquita Cushunchic Ltda.",
+      "ruc": "1791379470001",
+      "segment": "Segmento 2",
+      "headOffice": {
+        "province": "Pichincha",
+        "canton": "Quito"
+      },
+      "assetsUsd": 42409314,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 2,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "tena",
+      "name": "Tena",
+      "officialName": "Cooperativa de Ahorro y Crédito Tena Ltda.",
+      "ruc": "1590001585001",
+      "segment": "Segmento 2",
+      "headOffice": {
+        "province": "Napo",
+        "canton": "Tena"
+      },
+      "assetsUsd": 39593190,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 3,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "fondvida",
+      "name": "FondVida",
+      "officialName": "Cooperativa de Ahorro y Crédito Fondo Para El Desarrollo Y La Vida",
+      "ruc": "1791784979001",
+      "segment": "Segmento 2",
+      "headOffice": {
+        "province": "Pichincha",
+        "canton": "Quito"
+      },
+      "assetsUsd": 31850388,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 2,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "los-andes-latinos",
+      "name": "Los Andes Latinos",
+      "officialName": "Cooperativa de Ahorro y Crédito Los Andes Latinos Ltda.",
+      "ruc": "0992381760001",
+      "segment": "Segmento 3",
+      "headOffice": {
+        "province": "Guayas",
+        "canton": "Guayaquil"
+      },
+      "assetsUsd": 22037639,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 2,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "san-juan-de-cotogchoa",
+      "name": "San Juan de Cotogchoa",
+      "officialName": "Cooperativa de Ahorro y Crédito San Juan De Cotogchoa",
+      "ruc": "1790894053001",
+      "segment": "Segmento 3",
+      "headOffice": {
+        "province": "Pichincha",
+        "canton": "Rumiñahui"
+      },
+      "assetsUsd": 21040954,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 4,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "rural-sierra-norte",
+      "name": "Rural Sierra Norte",
+      "officialName": "Cooperativa de Ahorro y Crédito Rural Sierra Norte",
+      "ruc": "1091761439001",
+      "segment": "Segmento 3",
+      "headOffice": {
+        "province": "Imbabura",
+        "canton": "Ibarra"
+      },
+      "assetsUsd": 20031639,
+      "assetsDate": "2026-10-31",
+      "cantonsServed": 10,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "padre-vicente-ponce-rubio",
+      "name": "Padre Vicente Ponce Rubio",
+      "officialName": "Cooperativa de Ahorro y Crédito Padre Vicente Ponce Rubio",
+      "ruc": "0491508973001",
+      "segment": "Segmento 4",
+      "headOffice": {
+        "province": "Carchi",
+        "canton": "Tulcan"
+      },
+      "assetsUsd": 3208517,
+      "assetsDate": "2026-9-30",
+      "cantonsServed": 1,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    }
+  ]
+}
