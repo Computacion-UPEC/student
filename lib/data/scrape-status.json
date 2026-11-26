@@ -1,8 +1,8 @@
 {
   "platforms": {
     "Bancos": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-26",
+      "lastSuccess": "2026-11-26",
       "ok": true
     },
     "CACPECO": {
@@ -11,8 +11,8 @@
       "ok": true
     },
     "CELEC": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-26",
+      "lastSuccess": "2026-11-26",
       "ok": true
     },
     "CNT": {
@@ -21,8 +21,8 @@
       "ok": true
     },
     "Concursos": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-26",
+      "lastSuccess": "2026-11-26",
       "ok": true
     },
     "Educa-Empleo": {
@@ -46,23 +46,23 @@
       "ok": true
     },
     "Exterior": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-26",
+      "lastSuccess": "2026-11-26",
       "ok": true
     },
     "INEC": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-26",
+      "lastSuccess": "2026-11-26",
       "ok": true
     },
     "Petroecuador": {
-      "lastRun": "2026-11-25",
+      "lastRun": "2026-11-26",
       "lastSuccess": "2026-11-25",
-      "ok": true
+      "ok": false
     },
     "Privadas": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-26",
+      "lastSuccess": "2026-11-26",
       "ok": true
     },
     "Remotas": {
@@ -71,24 +71,24 @@
       "ok": true
     },
     "Software": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-26",
+      "lastSuccess": "2026-11-26",
       "ok": true
     },
     "Visas": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-26",
+      "lastSuccess": "2026-11-26",
       "ok": true
     }
   },
   "failing": {
     "Pague Ya (Grupo Pichincha)": {
       "since": "2026-11-25",
-      "runs": 1
+      "runs": 2
     },
     "Tiendas Tuti": {
       "since": "2026-11-09",
-      "runs": 34
+      "runs": 35
     }
   }
 }

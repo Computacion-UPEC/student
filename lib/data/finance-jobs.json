@@ -14,6 +14,41 @@
       "firstSeen": "2026-10-28"
     },
     {
+      "id": "pichincha-1338584962",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO ESTRATEGIA INTERACCIONES - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-26",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-ESTRATEGIA-INTERACCIONES-QUITO-QUIT-CELULA-EST/1338584962/",
+      "isIT": false,
+      "firstSeen": "2026-11-26"
+    },
+    {
+      "id": "pichincha-1338574162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL CREDITO MICROFINANZAS B - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-26",
+      "url": "https://vacantes.pichincha.com/job/QUITO-OFICIAL-CREDITO-MICROFINANZAS-B-QUITO-QUIT-CREDITO-MI/1338574162/",
+      "isIT": false,
+      "firstSeen": "2026-11-26"
+    },
+    {
+      "id": "bce-6ac82cf60d32b3dd4834c7a7",
+      "source": "bce",
+      "institution": "Banco Central del Ecuador",
+      "title": "Analista Contable Financiero - Servicios Profesionales",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancocentraldelecuador.hiringroom.com/jobs/get_vacancy/6ac82cf60d32b3dd4834c7a7",
+      "isIT": false,
+      "firstSeen": "2026-11-26"
+    },
+    {
       "id": "pichincha-1337777462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -128,18 +163,6 @@
       "city": "Quito",
       "publishedAt": null,
       "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6b05beaa8294f6a68cc41f4f",
-      "isIT": false,
-      "firstSeen": "2026-11-24"
-    },
-    {
-      "id": "pichincha-1338449662",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "SOPORTE ADMINISTRATIVO - EVENTUAL",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-23",
-      "url": "https://vacantes.pichincha.com/job/QUITO-SOPORTE-ADMINISTRATIVO-EVENTUAL-QUIT-CONTROL-Y/1338449662/",
       "isIT": false,
       "firstSeen": "2026-11-24"
     },
@@ -286,6 +309,17 @@
       "city": "Saquisilí",
       "publishedAt": null,
       "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6afb157df6e574025eb413ed",
+      "isIT": false,
+      "firstSeen": "2026-11-20"
+    },
+    {
+      "id": "sanfra-6af35e6ff81bbb1467df9e40",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "PASANTE DE DERECHO - AGENCIA SANGOLQUI",
+      "city": "Sangolquí",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6af35e6ff81bbb1467df9e40",
       "isIT": false,
       "firstSeen": "2026-11-20"
     },
@@ -1164,6 +1198,19 @@
       "closedOn": "2026-11-25"
     },
     {
+      "id": "pichincha-1338449662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "SOPORTE ADMINISTRATIVO - EVENTUAL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-23",
+      "url": "https://vacantes.pichincha.com/job/QUITO-SOPORTE-ADMINISTRATIVO-EVENTUAL-QUIT-CONTROL-Y/1338449662/",
+      "isIT": false,
+      "firstSeen": "2026-11-24",
+      "closedOn": "2026-11-26"
+    },
+    {
       "id": "sanfra-6aff2e8b193efde0eea992ce",
       "source": "sanfra",
       "institution": "Cooperativa San Francisco",
@@ -1171,18 +1218,6 @@
       "city": "Píllaro",
       "publishedAt": null,
       "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6aff2e8b193efde0eea992ce",
-      "isIT": false,
-      "firstSeen": "2026-11-20",
-      "closedOn": "2026-11-25"
-    },
-    {
-      "id": "sanfra-6af35e6ff81bbb1467df9e40",
-      "source": "sanfra",
-      "institution": "Cooperativa San Francisco",
-      "title": "PASANTE DE DERECHO - AGENCIA SANGOLQUI",
-      "city": "Sangolquí",
-      "publishedAt": null,
-      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6af35e6ff81bbb1467df9e40",
       "isIT": false,
       "firstSeen": "2026-11-20",
       "closedOn": "2026-11-25"
