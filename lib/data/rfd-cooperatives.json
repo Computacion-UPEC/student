@@ -136,7 +136,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 14,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No jobs section on oscus.coop (November 2026)."
     },
     {
       "id": "riobamba",
@@ -152,7 +153,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 7,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No jobs section on cooprio.fin.ec (November 2026)."
     },
     {
       "id": "atuntaqui",
@@ -167,8 +169,8 @@
       "assetsUsd": 533399329,
       "assetsDate": "2026-10-31",
       "cantonsServed": 10,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://www.atuntaqui.fin.ec/trabaja-con-nosotros/",
+      "portalStatus": "cv-form"
     },
     {
       "id": "23-de-julio",
@@ -183,8 +185,8 @@
       "assetsUsd": 449013398,
       "assetsDate": "2026-10-31",
       "cantonsServed": 18,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://coop23dejulio.hiringroom.com/jobs",
+      "portalStatus": "collected"
     },
     {
       "id": "tulcan",
@@ -215,8 +217,9 @@
       "assetsUsd": 367088590,
       "assetsDate": "2026-10-31",
       "cantonsServed": 13,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://cacpepastaza.hiringroom.com/jobs",
+      "portalStatus": "collected",
+      "note": "Its site (cacpepas.fin.ec) also has a CV form."
     },
     {
       "id": "pablo-munoz-vega",
@@ -249,7 +252,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 23,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No jobs section on kullkiwasi.com.ec (November 2026)."
     },
     {
       "id": "san-jose",
@@ -265,7 +269,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 11,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No jobs section on coopsanjose.fin.ec; its LinkedIn has asked for CVs by email (November 2026)."
     },
     {
       "id": "indigena-sac",
@@ -281,7 +286,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 12,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No official website found (November 2026)."
     },
     {
       "id": "padre-julian-lorente",
@@ -297,7 +303,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 20,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No jobs section on lorente.fin.ec (November 2026)."
     },
     {
       "id": "chone",
@@ -312,8 +319,9 @@
       "assetsUsd": 186880838,
       "assetsDate": "2026-10-31",
       "cantonsServed": 8,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://coopchone.fin.ec/wp-content/uploads/2026/04/Proceso-de-seleccion-1.pdf",
+      "portalStatus": "link",
+      "note": "Its menu \"Procesos de Selección\" links a PDF (April 2026)."
     },
     {
       "id": "virgen-del-cisne",
@@ -328,8 +336,8 @@
       "assetsUsd": 160850283,
       "assetsDate": "2026-10-31",
       "cantonsServed": 12,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://www.virgendelcisne.fin.ec/vacant.php",
+      "portalStatus": "link"
     },
     {
       "id": "9-de-octubre",
@@ -345,7 +353,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 12,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No official website found (November 2026)."
     },
     {
       "id": "lucha-campesina",
@@ -360,8 +369,9 @@
       "assetsUsd": 124974359,
       "assetsDate": "2026-10-31",
       "cantonsServed": 23,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://luchacampesina.hiringroom.com/jobs",
+      "portalStatus": "collected",
+      "note": "Its site also has a CV form."
     },
     {
       "id": "cacpe-zamora-chinchipe",
@@ -376,8 +386,8 @@
       "assetsUsd": 105389636,
       "assetsDate": "2026-10-31",
       "cantonsServed": 11,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://www.cacpezamora.fin.ec/trabaje-con-nosotros/",
+      "portalStatus": "cv-form"
     },
     {
       "id": "luz-del-valle",
@@ -393,7 +403,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 3,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "unreachable",
+      "note": "luzdelvalle.fin.ec did not respond (November 2026)."
     },
     {
       "id": "san-francisco-de-asis",
@@ -409,7 +420,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 4,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No official website found (November 2026)."
     },
     {
       "id": "guaranda",
@@ -425,7 +437,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 5,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No official website found (November 2026)."
     },
     {
       "id": "crediya",
@@ -440,8 +453,8 @@
       "assetsUsd": 81383290,
       "assetsDate": "2026-10-31",
       "cantonsServed": 18,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://www.crediya.fin.ec/contactanos/trabaja-nosotros/",
+      "portalStatus": "cv-form"
     },
     {
       "id": "4-de-octubre",
@@ -457,7 +470,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 7,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No official website found (November 2026)."
     },
     {
       "id": "huancavilca",
@@ -473,7 +487,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 7,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No jobs section on cooperativahuancavilca.com (November 2026)."
     },
     {
       "id": "pedro-moncayo",
@@ -489,7 +504,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 4,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No official website found (November 2026)."
     },
     {
       "id": "alianza-minas",
@@ -504,8 +520,8 @@
       "assetsUsd": 70006374,
       "assetsDate": "2026-10-31",
       "cantonsServed": 1,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://coopalianzaminas.com/trabaja-con-nosotros/",
+      "portalStatus": "cv-form"
     },
     {
       "id": "14-de-marzo",
@@ -520,8 +536,8 @@
       "assetsUsd": 65854092,
       "assetsDate": "2026-10-31",
       "cantonsServed": 4,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://www.14demarzo.fin.ec/trabaja-con-nosotros-2/",
+      "portalStatus": "cv-form"
     },
     {
       "id": "san-antonio-imbabura",
@@ -537,7 +553,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 3,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No jobs section on coopsanantonio.fin.ec (November 2026)."
     },
     {
       "id": "mujeres-unidas-cacmu",
@@ -553,7 +570,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 6,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No official website found (November 2026)."
     },
     {
       "id": "la-benefica",
@@ -569,7 +587,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 3,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No jobs section on labenefica.fin.ec (November 2026)."
     },
     {
       "id": "union-el-ejido",
@@ -585,7 +604,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 4,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No official website found (November 2026)."
     },
     {
       "id": "maquita-cushunchic",
@@ -600,8 +620,8 @@
       "assetsUsd": 42409314,
       "assetsDate": "2026-10-31",
       "cantonsServed": 2,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://www.maquita.fin.ec/empleos/",
+      "portalStatus": "link"
     },
     {
       "id": "tena",
@@ -616,8 +636,8 @@
       "assetsUsd": 39593190,
       "assetsDate": "2026-10-31",
       "cantonsServed": 3,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://cooptena.fin.ec/transparencia/convocatorias-concursos/",
+      "portalStatus": "link"
     },
     {
       "id": "fondvida",
@@ -633,7 +653,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 2,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No official website found (November 2026)."
     },
     {
       "id": "los-andes-latinos",
@@ -649,7 +670,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 2,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No official website found (November 2026)."
     },
     {
       "id": "san-juan-de-cotogchoa",
@@ -665,7 +687,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 4,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No jobs section on coopcotogchoa.com (November 2026)."
     },
     {
       "id": "rural-sierra-norte",
@@ -681,7 +704,8 @@
       "assetsDate": "2026-10-31",
       "cantonsServed": 10,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No jobs section on coacruralsierranorte.fin.ec (November 2026)."
     },
     {
       "id": "padre-vicente-ponce-rubio",
@@ -697,7 +721,8 @@
       "assetsDate": "2026-9-30",
       "cantonsServed": 1,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No official website found (November 2026)."
     }
   ]
 }
