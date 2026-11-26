@@ -4,6 +4,7 @@
 // se publica en https://educacion.gob.ec/educa-empleo/. La página no trae las fechas como texto, pero su
 // título cambia cada mes ("EDUCA EMPLEO OCTUBRE 2026 – RÉGIMEN ..."). Este script lo lee dos veces al día y
 // guarda en lib/data/educa-empleo.json cada mes nuevo con el día en que apareció, para avisar a tiempo.
+// La inscripción dura solo 1 a 3 días (en 2026, entre el día 4 y el 15 de cada mes) y se anuncia 1 o 2 días antes.
 // Uso (desde la raíz del repo):  node scripts/educa-empleo/collect.mjs
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import path from "node:path"
@@ -31,11 +32,14 @@ const key = `${year}-${String(month).padStart(2, "0")}`
 
 // Documentos de la convocatoria (lineamientos, manual) publicados en la página
 const documents = [...new Set([...html.matchAll(/href="([^"]+educa-empleo[^"]*\.pdf)"/gi)].map((m) => m[1]))]
+// Imagen del cronograma del mes ("CUADROS-EDUCA-EMPLE-NOV-2026.png"): las fechas de inscripción solo vienen ahí
+const schedule = html.match(/src="([^"]*CUADROS-EDUCA-EMPLE[^"]*\d{4}[^"]*\.(?:png|jpe?g))"/i)?.[1] ?? null
 
 const previous = existsSync(OUT) ? JSON.parse(readFileSync(OUT, "utf8")) : { calls: [] }
 const calls = previous.calls.filter((call) => call.key !== key)
 const before = previous.calls.find((call) => call.key === key)
-calls.push({ key, title: heading, firstSeen: before?.firstSeen ?? today, documents })
+// Se conservan los datos agregados a mano (registration, results, source), que vienen de la imagen o de la prensa
+calls.push({ ...before, key, title: heading, firstSeen: before?.firstSeen ?? today, documents, ...(schedule ? { schedule } : {}) })
 calls.sort((a, b) => b.key.localeCompare(a.key))
 
 const output = JSON.stringify({ source: PAGE, calls }, null, 2) + "\n"
