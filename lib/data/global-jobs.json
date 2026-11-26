@@ -12,14 +12,14 @@
       "firstSeen": "2026-11-25"
     },
     {
-      "id": "ashby-supabase-30cc053e-33dc-4924-a870-2cf41c296b01",
+      "id": "ashby-supabase-da282b12-4c4a-4eb1-b983-58543ed58ec5",
       "company": "Supabase",
-      "title": "Software Engineer - Interfaces Backend",
+      "title": "Engineering Productivity Engineer",
       "location": "Remote, Global",
       "route": "remoto",
-      "publishedAt": "2026-11-23",
-      "url": "https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01",
-      "firstSeen": "2026-11-24"
+      "publishedAt": "2026-11-25",
+      "url": "https://jobs.ashbyhq.com/supabase/da282b12-4c4a-4eb1-b983-58543ed58ec5",
+      "firstSeen": "2026-11-26"
     },
     {
       "id": "greenhouse-databricks-8906869002",
@@ -1104,17 +1104,6 @@
       "firstSeen": "2026-11-05"
     },
     {
-      "id": "greenhouse-affirm-7749582003",
-      "company": "Affirm",
-      "title": "Staff Software Engineer (Continuous Integration)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-05-27",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7749582003",
-      "firstSeen": "2026-11-05"
-    },
-    {
       "id": "ashby-supabase-3ab0b926-c9b5-4197-aff2-88d5bf009e13",
       "company": "Supabase",
       "title": "Software Engineer - Functions (Compute)",
@@ -2070,6 +2059,17 @@
       "firstSeen": "2026-11-05"
     },
     {
+      "id": "ashby-supabase-30cc053e-33dc-4924-a870-2cf41c296b01",
+      "company": "Supabase",
+      "title": "Software Engineer - Interfaces Backend",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-11-23",
+      "url": "https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01",
+      "firstSeen": "2026-11-24",
+      "closedOn": "2026-11-26"
+    },
+    {
       "id": "greenhouse-affirm-8196114003",
       "company": "Affirm",
       "title": "Software Engineer II, Backend",
@@ -2459,6 +2459,18 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8026689",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-16"
+    },
+    {
+      "id": "greenhouse-affirm-7749582003",
+      "company": "Affirm",
+      "title": "Staff Software Engineer (Continuous Integration)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-05-27",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7749582003",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-26"
     },
     {
       "id": "greenhouse-stripe-7913700",

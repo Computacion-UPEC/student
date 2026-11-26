@@ -2,6 +2,18 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1337801462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EXPERTO MARCO NORMATIVO CIBERSEGURIDAD - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-26",
+      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-MARCO-NORMATIVO-CIBERSEGURIDAD-QUITO-QUIT-MARCO-NORM/1337801462/",
+      "isIT": true,
+      "firstSeen": "2026-10-28"
+    },
+    {
       "id": "pichincha-1337777462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -83,6 +95,18 @@
       "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6b0715e6e5ab9eee9e95731b",
       "isIT": false,
       "firstSeen": "2026-11-25"
+    },
+    {
+      "id": "pichincha-1338549662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA CONTENIDO SEO Y GEO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-25",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-CONTENIDO-SEO-Y-GEO-QUIT-CONTENIDO/1338549662/",
+      "isIT": false,
+      "firstSeen": "2026-11-26"
     },
     {
       "id": "pichincha-1336150162",
@@ -493,6 +517,18 @@
       "firstSeen": "2026-11-18"
     },
     {
+      "id": "pichincha-1338323362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE MEDIOS DE PAGO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-17",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-MEDIOS-DE-PAGO-QUIT-CELULA-TAR/1338323362/",
+      "isIT": false,
+      "firstSeen": "2026-11-18"
+    },
+    {
       "id": "pichincha-1337501462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -682,18 +718,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-FUNCIONAL-DE-CREDITO-%28AVALUOS-Y-GARANTIAS%29-QUIT-CELULA-ADM/1337849062/",
       "isIT": false,
       "firstSeen": "2026-10-29"
-    },
-    {
-      "id": "pichincha-1337801462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EXPERTO MARCO NORMATIVO CIBERSEGURIDAD - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-28",
-      "url": "https://vacantes.pichincha.com/job/QUITO-EXPERTO-MARCO-NORMATIVO-CIBERSEGURIDAD-QUITO-QUIT-MARCO-NORM/1337801462/",
-      "isIT": true,
-      "firstSeen": "2026-10-28"
     },
     {
       "id": "pagueya-6ae0c9e4a2045997eaee439c",
@@ -1263,19 +1287,6 @@
       "isIT": false,
       "firstSeen": "2026-10-21",
       "closedOn": "2026-11-21"
-    },
-    {
-      "id": "pichincha-1338323362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-17",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-QUIT-CELULA-TAR/1338323362/",
-      "isIT": false,
-      "firstSeen": "2026-11-18",
-      "closedOn": "2026-11-25"
     },
     {
       "id": "pichincha-1338316262",

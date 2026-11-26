@@ -1,6 +1,6 @@
 {
   "source": "https://www.celec.gob.ec",
-  "exportedAt": "2026-11-24",
+  "exportedAt": "2026-11-26",
   "jobs": [
     {
       "id": "celec-48e5318a17",
@@ -761,6 +761,25 @@
       "code": "",
       "url": "https://www.celec.gob.ec/hidrotoapi/uncategorized/celec-ep-hidrotoapi-invita-a-participar-en-el-proceso-de-seleccion-simple-para-ocupar-el-puesto-de-operador-del-centro-de-control-generacion-hidraulica-especialista-tecnico-1/",
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "celec-420c7806ae",
+      "unit": "Termopichincha",
+      "role": "Convocatoria para el Proceso de Selección simple un «ESPECIALISTA DE CONSTRUCCIONES DE MONTAJE ELECTROMECÁNICO – ELECTRÓNICO (EQUIPAMIENTO)/ ESPECIALISTA ADMINISTRATIVO 4 (PSS-TPI-2026-062)»",
+      "fit": "Posible",
+      "isIT": false,
+      "fitDetail": "Posible (carrera afín / ingeniería)",
+      "minExperienceMonths": 36,
+      "experience": "Tiempo de experiencia: 3 años en cargos similares, 4 años En cargos de Asistentes, relacionadas con el área. Departamento de Talento Humano Subgerencia Administrativa",
+      "education": "Formación académica: Tercer nivel de Grado/ Licenciatura y títulos profesionales Ingeniería Electrónica; o carreras afines en función de la formación.",
+      "salary": "$2,025.00",
+      "openings": "",
+      "publishedAt": "2026-11-26",
+      "closesAt": null,
+      "statusAtScrape": "Reciente - revisar",
+      "code": "",
+      "url": "https://www.celec.gob.ec/termopichincha/uncategorized/convocatoria-para-el-proceso-de-seleccion-simple-un-especialista-de-construcciones-de-montaje-electromecanico-electronico-equipamiento-especialista-administrativo-4-pss-tpi-2026-062/",
+      "firstSeen": "2026-11-26"
     },
     {
       "id": "celec-4ec0ff465e",

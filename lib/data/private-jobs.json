@@ -2,6 +2,28 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "tigo-R136056",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Ejecutivo de Tiendas-2",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-26",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/Ejecutivo-de-Tiendas-2_R136056",
+      "isIT": false,
+      "firstSeen": "2026-11-25"
+    },
+    {
+      "id": "farmaenlace-1338547962",
+      "source": "farmaenlace",
+      "company": "Farmaenlace",
+      "title": "PASANTE",
+      "city": "Distrito",
+      "publishedAt": null,
+      "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-PASANTE-PICH/1338547962/",
+      "isIT": false,
+      "firstSeen": "2026-11-26"
+    },
+    {
       "id": "arca-1434465500",
       "source": "arca",
       "company": "Arca Continental",
@@ -178,17 +200,6 @@
       "firstSeen": "2026-11-25"
     },
     {
-      "id": "tigo-R136056",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Ejecutivo de Tiendas-2",
-      "city": "Guayaquil",
-      "publishedAt": "2026-11-25",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Guayaquil/Ejecutivo-de-Tiendas-2_R136056",
-      "isIT": false,
-      "firstSeen": "2026-11-25"
-    },
-    {
       "id": "unilever-103782744384",
       "source": "unilever",
       "company": "Unilever",
@@ -198,6 +209,17 @@
       "url": "https://careers.unilever.com/en/job/guayaquil/hr-generalist/34155/103782744384",
       "isIT": false,
       "firstSeen": "2026-11-25"
+    },
+    {
+      "id": "claro-1848",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ASESOR SOLUCIONES ESPECIALIZADAS",
+      "city": null,
+      "publishedAt": "2026-11-25",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1848",
+      "isIT": false,
+      "firstSeen": "2026-11-26"
     },
     {
       "id": "holcim-1378289257",
@@ -414,7 +436,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Especialista de Producto Cloud B2B",
       "city": "Ubicaciones: 2",
-      "publishedAt": "2026-11-23",
+      "publishedAt": "2026-11-24",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Especialista-de-Producto-Cloud-B2B_R135884",
       "isIT": true,
       "firstSeen": "2026-11-24"
@@ -568,7 +590,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Especialista de Tiendas Sur",
       "city": "Tienda San Marino",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-20",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-San-Marino/Especialista-de-Tiendas-Sur_R135695",
       "isIT": false,
       "firstSeen": "2026-11-19"
@@ -579,7 +601,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "(EVENTUAL) Pasante",
       "city": "Quito",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-20",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135895",
       "isIT": false,
       "firstSeen": "2026-11-20"
@@ -689,7 +711,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "(EVENTUAL) Pasante",
       "city": "Quito",
-      "publishedAt": "2026-11-18",
+      "publishedAt": "2026-11-19",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135671",
       "isIT": false,
       "firstSeen": "2026-11-18"
@@ -1465,17 +1487,6 @@
       "firstSeen": "2026-11-10"
     },
     {
-      "id": "difare-auxiliar-de-laboratorio-2",
-      "source": "difare",
-      "company": "Difare",
-      "title": "AUXILIAR DE LABORATORIO",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/auxiliar-de-laboratorio-2/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "arca-1419793800",
       "source": "arca",
       "company": "Arca Continental",
@@ -1593,17 +1604,6 @@
       "city": "QUITO",
       "publishedAt": null,
       "url": "https://difare.evaluar.com/trabajo/tecnico-para-seguridad-electronica-2/",
-      "isIT": false,
-      "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "difare-analista-planificador",
-      "source": "difare",
-      "company": "Difare",
-      "title": "ANALISTA PLANIFICADOR",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/analista-planificador/",
       "isIT": false,
       "firstSeen": "2026-11-06"
     },
@@ -6667,6 +6667,18 @@
       "closedOn": "2026-11-10"
     },
     {
+      "id": "difare-auxiliar-de-laboratorio-2",
+      "source": "difare",
+      "company": "Difare",
+      "title": "AUXILIAR DE LABORATORIO",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/auxiliar-de-laboratorio-2/",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-26"
+    },
+    {
       "id": "pronaca-26976",
       "source": "pronaca",
       "company": "Pronaca",
@@ -6833,6 +6845,18 @@
       "isIT": false,
       "firstSeen": "2026-11-06",
       "closedOn": "2026-11-13"
+    },
+    {
+      "id": "difare-analista-planificador",
+      "source": "difare",
+      "company": "Difare",
+      "title": "ANALISTA PLANIFICADOR",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/analista-planificador/",
+      "isIT": false,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-26"
     },
     {
       "id": "pronaca-26617",
