@@ -8,7 +8,16 @@
       "documents": [
         "https://educacion.gob.ec/wp-content/uploads/downloads/2026/10/manual-usuario-educa-empleo-octubre-2026.pdf",
         "https://educacion.gob.ec/wp-content/uploads/downloads/2026/11/lineamientos-educa-empleo-noviembre-2026.pdf"
-      ]
+      ],
+      "registration": {
+        "from": "2026-11-14",
+        "to": "2026-11-15"
+      },
+      "results": {
+        "from": "2026-11-24",
+        "to": "2026-11-25"
+      },
+      "schedule": "https://educacion.gob.ec/wp-content/uploads/2020/03/CUADROS-EDUCA-EMPLE-NOV-2026.png"
     },
     {
       "key": "2026-10",
@@ -18,6 +27,94 @@
         "https://educacion.gob.ec/wp-content/uploads/downloads/2026/10/manual-usuario-educa-empleo-octubre-2026.pdf",
         "https://educacion.gob.ec/wp-content/uploads/downloads/2026/10/lineamientos-educa-empleo-aspirantes-docentes-octubre-2026.pdf"
       ]
+    },
+    {
+      "key": "2026-09",
+      "title": "EDUCA EMPLEO SEPTIEMBRE 2026",
+      "firstSeen": null,
+      "documents": [],
+      "registration": {
+        "from": "2026-09-11",
+        "to": "2026-09-12"
+      },
+      "source": "https://elmercurio.com.ec/_educacion/2026/09/10/educa-empleo-septiembre-docentes/"
+    },
+    {
+      "key": "2026-08",
+      "title": "EDUCA EMPLEO AGOSTO 2026",
+      "firstSeen": null,
+      "documents": [],
+      "registration": {
+        "from": "2026-08-04",
+        "to": "2026-08-05"
+      },
+      "source": "https://www.vistazo.com/servicios/bolsa-de-empleo/2026-08-03-educa-empleo-agosto-cronograma-requisitos-postula-docentes-DF11143101"
+    },
+    {
+      "key": "2026-07",
+      "title": "EDUCA EMPLEO JULIO 2026",
+      "firstSeen": null,
+      "documents": [],
+      "registration": {
+        "from": "2026-07-14",
+        "to": "2026-07-15"
+      },
+      "source": "https://www.vistazo.com/servicios/bolsa-de-empleo/2026-07-14-vacantes-docentes-ecuador-link-inscribirse-educa-empleo-ecuador-JA11112029"
+    },
+    {
+      "key": "2026-06",
+      "title": "EDUCA EMPLEO JUNIO 2026",
+      "firstSeen": null,
+      "documents": [],
+      "registration": {
+        "from": "2026-06-12",
+        "to": "2026-06-13"
+      },
+      "source": "https://elmercurio.com.ec/_educacion/2026/06/10/educa-empleo-docentes-junio/"
+    },
+    {
+      "key": "2026-05",
+      "title": "EDUCA EMPLEO MAYO 2026",
+      "firstSeen": null,
+      "documents": [],
+      "registration": {
+        "from": "2026-05-12",
+        "to": "2026-05-13"
+      },
+      "source": "https://www.ecuadorlegalonline.com/educacion/educa-empleo/"
+    },
+    {
+      "key": "2026-04",
+      "title": "EDUCA EMPLEO ABRIL 2026",
+      "firstSeen": null,
+      "documents": [],
+      "registration": {
+        "from": "2026-04-06",
+        "to": "2026-04-08"
+      },
+      "source": "https://www.eltelegrafo.com.ec/noticias/nacionales/210/como-postular-mas-2-000-vacantes-docentes-ecuador"
+    },
+    {
+      "key": "2026-03",
+      "title": "EDUCA EMPLEO MARZO 2026",
+      "firstSeen": null,
+      "documents": [],
+      "registration": {
+        "from": "2026-03-13",
+        "to": "2026-03-14"
+      },
+      "source": "https://www.vistazo.com/portada/2026-03-12-educa-empleo-abre-convocatoria-docentes-ecuador-requisitos-fechas-ED10752017"
+    },
+    {
+      "key": "2026-02",
+      "title": "EDUCA EMPLEO FEBRERO 2026",
+      "firstSeen": null,
+      "documents": [],
+      "registration": {
+        "from": "2026-02-13",
+        "to": "2026-02-14"
+      },
+      "source": "https://www.laprensa.com.ec/educa-empleo-febrero-2026/"
     }
   ]
 }
