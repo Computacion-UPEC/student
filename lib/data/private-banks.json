@@ -1,0 +1,439 @@
+{
+  "description": "Private banks of Ecuador (Superintendencia de Bancos). loanMix = share of gross loans by credit type, in percent. portalStatus: collected = jobs scraped daily by scripts/finance/collect.mjs; link = job page listed in lib/finance-portals.ts; cv-form = only a CV form; no-job-section = none found; unreachable = linked portal does not resolve; to-find = not searched yet.",
+  "sources": {
+    "balances": "Superintendencia de Bancos, Boletín financiero mensual banca privada, 31/10/2026 (superbancos.gob.ec/estadisticas/portalestudios/bancos/)",
+    "cantons": "Superintendencia de Bancos, Puntos de atención consolidado, September 2026: active offices, ATMs and non-bank correspondents"
+  },
+  "updated": "2026-11-26",
+  "banks": [
+    {
+      "id": "pichincha",
+      "name": "Banco Pichincha",
+      "group": "Large bank",
+      "assetsUsd": 23407190981,
+      "grossLoansUsd": 15156735384,
+      "depositsUsd": 19665305504,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Productive": 39.3,
+        "Consumer": 37.9,
+        "Microcredit": 15.6,
+        "Real estate": 6.9
+      },
+      "cantonsServed": 220,
+      "offices": 211,
+      "jobPortal": "https://vacantes.pichincha.com/",
+      "portalStatus": "collected"
+    },
+    {
+      "id": "guayaquil",
+      "name": "Banco Guayaquil",
+      "group": "Large bank",
+      "assetsUsd": 10990316306,
+      "grossLoansUsd": 7679111183,
+      "depositsUsd": 8550676944,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Productive": 49.5,
+        "Consumer": 41.5,
+        "Microcredit": 6.1,
+        "Real estate": 2.9
+      },
+      "cantonsServed": 219,
+      "offices": 175,
+      "jobPortal": null,
+      "portalStatus": "unreachable",
+      "note": "Recruitment portal answered 503 (Oct 2026); check again."
+    },
+    {
+      "id": "pacifico",
+      "name": "Banco del Pacífico",
+      "group": "Large bank",
+      "assetsUsd": 10963611491,
+      "grossLoansUsd": 7305366363,
+      "depositsUsd": 7310093055,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Consumer": 49.6,
+        "Productive": 40.0,
+        "Real estate": 8.0,
+        "Education": 1.3,
+        "Social housing": 0.8
+      },
+      "cantonsServed": 215,
+      "offices": 107,
+      "jobPortal": null,
+      "portalStatus": "no-job-section",
+      "note": "No job section found on its site (Oct 2026); check again."
+    },
+    {
+      "id": "produbanco",
+      "name": "Produbanco",
+      "group": "Large bank",
+      "assetsUsd": 9681890209,
+      "grossLoansUsd": 6874773342,
+      "depositsUsd": 7714345970,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Productive": 59.9,
+        "Consumer": 34.2,
+        "Real estate": 4.8,
+        "Microcredit": 1.1
+      },
+      "cantonsServed": 182,
+      "offices": 135,
+      "jobPortal": "https://www.multitrabajos.com/empleos-busqueda-produbanco.html",
+      "portalStatus": "link"
+    },
+    {
+      "id": "bolivariano",
+      "name": "Banco Bolivariano",
+      "group": "Medium bank",
+      "assetsUsd": 6767040183,
+      "grossLoansUsd": 4632958348,
+      "depositsUsd": 5068886672,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Productive": 69.6,
+        "Consumer": 25.9,
+        "Real estate": 4.4
+      },
+      "cantonsServed": 192,
+      "offices": 99,
+      "jobPortal": null,
+      "portalStatus": "no-job-section",
+      "note": "No job section found on its site (Oct 2026); check again."
+    },
+    {
+      "id": "internacional",
+      "name": "Banco Internacional",
+      "group": "Medium bank",
+      "assetsUsd": 6489843842,
+      "grossLoansUsd": 4812336102,
+      "depositsUsd": 5333895961,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Productive": 81.3,
+        "Consumer": 15.2,
+        "Real estate": 3.1
+      },
+      "cantonsServed": 31,
+      "offices": 78,
+      "jobPortal": "https://career2.successfactors.eu/career?company=interame01&site=VjItV1BPM0FGNlZ0TDkwSHBhc3NlbUtIUT09",
+      "portalStatus": "collected"
+    },
+    {
+      "id": "austro",
+      "name": "Banco del Austro",
+      "group": "Medium bank",
+      "assetsUsd": 3771054781,
+      "grossLoansUsd": 2119520455,
+      "depositsUsd": 3247874486,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Consumer": 62.0,
+        "Productive": 34.8,
+        "Real estate": 2.6,
+        "Microcredit": 0.6
+      },
+      "cantonsServed": 137,
+      "offices": 86,
+      "jobPortal": null,
+      "portalStatus": "no-job-section",
+      "note": "No job section found on its site (Oct 2026); check again."
+    },
+    {
+      "id": "diners-club",
+      "name": "Banco Diners Club",
+      "group": "Medium bank",
+      "assetsUsd": 3368741518,
+      "grossLoansUsd": 2732463844,
+      "depositsUsd": 1864161216,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Consumer": 91.5,
+        "Productive": 8.1
+      },
+      "cantonsServed": 5,
+      "offices": 6,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "general-ruminahui",
+      "name": "Banco General Rumiñahui",
+      "group": "Medium bank",
+      "assetsUsd": 1577336322,
+      "grossLoansUsd": 1120130786,
+      "depositsUsd": 1300994638,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Consumer": 77.2,
+        "Real estate": 11.9,
+        "Productive": 9.9,
+        "Social housing": 0.9
+      },
+      "cantonsServed": 26,
+      "offices": 27,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "machala",
+      "name": "Banco de Machala",
+      "group": "Medium bank",
+      "assetsUsd": 1392613703,
+      "grossLoansUsd": 928110998,
+      "depositsUsd": 1126105965,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Productive": 68.5,
+        "Consumer": 25.8,
+        "Real estate": 4.8,
+        "Microcredit": 0.8
+      },
+      "cantonsServed": 25,
+      "offices": 38,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "loja",
+      "name": "Banco de Loja",
+      "group": "Medium bank",
+      "assetsUsd": 1124401761,
+      "grossLoansUsd": 753978057,
+      "depositsUsd": 943814109,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Consumer": 41.8,
+        "Productive": 27.4,
+        "Microcredit": 22.5,
+        "Real estate": 8.4
+      },
+      "cantonsServed": 18,
+      "offices": 18,
+      "jobPortal": "https://bancoloja.hiringroom.com/jobs",
+      "portalStatus": "collected"
+    },
+    {
+      "id": "citibank",
+      "name": "Citibank",
+      "group": "Medium bank",
+      "assetsUsd": 867590988,
+      "grossLoansUsd": 338068490,
+      "depositsUsd": 710301096,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Productive": 100.0
+      },
+      "cantonsServed": 1,
+      "offices": 1,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "solidario",
+      "name": "Banco Solidario",
+      "group": "Medium bank",
+      "assetsUsd": 825654468,
+      "grossLoansUsd": 670746390,
+      "depositsUsd": 351951700,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Consumer": 51.5,
+        "Microcredit": 48.5
+      },
+      "cantonsServed": 27,
+      "offices": 52,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "procredit",
+      "name": "Banco ProCredit",
+      "group": "Small bank",
+      "assetsUsd": 721286903,
+      "grossLoansUsd": 567595203,
+      "depositsUsd": 632893045,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Productive": 60.3,
+        "Microcredit": 33.3,
+        "Real estate": 4.4,
+        "Consumer": 2.0
+      },
+      "cantonsServed": 8,
+      "offices": 5,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "amazonas",
+      "name": "Banco Amazonas",
+      "group": "Small bank",
+      "assetsUsd": 511764378,
+      "grossLoansUsd": 248576823,
+      "depositsUsd": 422454652,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Productive": 53.6,
+        "Consumer": 36.7,
+        "Microcredit": 8.3,
+        "Real estate": 1.5
+      },
+      "cantonsServed": 2,
+      "offices": 2,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "codesarrollo",
+      "name": "Banco Codesarrollo",
+      "group": "Small bank",
+      "assetsUsd": 327711371,
+      "grossLoansUsd": 232174589,
+      "depositsUsd": 256537323,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Consumer": 40.9,
+        "Microcredit": 28.5,
+        "Real estate": 17.2,
+        "Productive": 13.4
+      },
+      "cantonsServed": 19,
+      "offices": 22,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "coopnacional",
+      "name": "Banco CoopNacional",
+      "group": "Small bank",
+      "assetsUsd": 265218226,
+      "grossLoansUsd": 39437219,
+      "depositsUsd": 224965474,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Productive": 90.9,
+        "Microcredit": 8.0,
+        "Consumer": 0.5,
+        "Real estate": 0.5
+      },
+      "cantonsServed": 1,
+      "offices": 4,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "atlantida",
+      "name": "Banco Atlántida",
+      "group": "Small bank",
+      "assetsUsd": 212980072,
+      "grossLoansUsd": 102587885,
+      "depositsUsd": 184774528,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Microcredit": 44.1,
+        "Consumer": 39.2,
+        "Productive": 14.9,
+        "Real estate": 1.7
+      },
+      "cantonsServed": 0,
+      "offices": 0,
+      "jobPortal": null,
+      "portalStatus": "to-find",
+      "note": "Not listed in the September 2026 service-points file."
+    },
+    {
+      "id": "comercial-de-manabi",
+      "name": "Banco Comercial de Manabí",
+      "group": "Small bank",
+      "assetsUsd": 206124024,
+      "grossLoansUsd": 103115176,
+      "depositsUsd": 179489299,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Productive": 70.6,
+        "Consumer": 23.3,
+        "Microcredit": 6.1
+      },
+      "cantonsServed": 5,
+      "offices": 6,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "visionfund",
+      "name": "Banco VisionFund",
+      "group": "Small bank",
+      "assetsUsd": 198773906,
+      "grossLoansUsd": 184180539,
+      "depositsUsd": 93829224,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Microcredit": 93.3,
+        "Consumer": 6.7
+      },
+      "cantonsServed": 21,
+      "offices": 22,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "capital",
+      "name": "Banco Capital",
+      "group": "Small bank",
+      "assetsUsd": 92030883,
+      "grossLoansUsd": 63779420,
+      "depositsUsd": 75577142,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Consumer": 67.7,
+        "Microcredit": 28.5,
+        "Productive": 3.9
+      },
+      "cantonsServed": 3,
+      "offices": 3,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "litoral",
+      "name": "Banco del Litoral",
+      "group": "Small bank",
+      "assetsUsd": 50102811,
+      "grossLoansUsd": 37335040,
+      "depositsUsd": 36679723,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Consumer": 62.3,
+        "Productive": 32.7,
+        "Microcredit": 4.9
+      },
+      "cantonsServed": 5,
+      "offices": 6,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    },
+    {
+      "id": "delbank",
+      "name": "Delbank",
+      "group": "Small bank",
+      "assetsUsd": 39811937,
+      "grossLoansUsd": 26965148,
+      "depositsUsd": 21590559,
+      "assetsDate": "2026-10-31",
+      "loanMix": {
+        "Productive": 84.2,
+        "Consumer": 10.6,
+        "Real estate": 4.7,
+        "Microcredit": 0.5
+      },
+      "cantonsServed": 11,
+      "offices": 17,
+      "jobPortal": null,
+      "portalStatus": "to-find"
+    }
+  ]
+}
