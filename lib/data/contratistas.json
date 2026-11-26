@@ -1,0 +1,5799 @@
+{
+  "source": "SERCOP, datos abiertos OCDS",
+  "years": [
+    2025,
+    2026
+  ],
+  "operators": [
+    "CELEC EP",
+    "CNEL EP",
+    "Distribuidoras eléctricas",
+    "EP Petroecuador",
+    "BanEcuador",
+    "BIESS",
+    "Banco Central del Ecuador",
+    "CFN",
+    "BDE",
+    "CONAFIPS"
+  ],
+  "processes": 180,
+  "companies": [
+    {
+      "ruc": "0992835605001",
+      "name": "SERVICIOS Y PRODUCTOS DE INGENIERIA SERPRODIN S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP",
+        "CNEL EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 4,
+      "awardedAmount": 4561409,
+      "bids": 6,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-LICS-CELECEP-2026-02275-238940",
+          "operator": "CELEC EP",
+          "description": "EGU SERVICIO DE MANTENIMIENTO MAYOR DE LOS GENERADORES DE LAS UNIDADES AT1 Y AT2 CENTRAL ALVARO TINAJERO",
+          "amount": 1976000,
+          "date": "2026-09-26"
+        },
+        {
+          "ocid": "ocds-5wno2w-LICS-CELECEP-2025-02187-238940",
+          "operator": "CELEC EP",
+          "description": "EGU SERVICIO DE MANTENIMIENTO MAYOR DE LOS GENERADORES ELECTRICOS DE LA CENTRAL SANTA ELENA III",
+          "amount": 1753350,
+          "date": "2025-06-11"
+        },
+        {
+          "ocid": "ocds-5wno2w-LICS-CELECEP-2026-02114-238940",
+          "operator": "CELEC EP",
+          "description": "EGU SERVICIO DE MANTENIMIENTO MAYOR DEL GENERADOR ELECTRICO DE LA UNIDAD TG4 DE LA CENTRAL GONZALO ZEVALLOS INCLUYE REPUESTOS Y CONSUMIBLES",
+          "amount": 785000,
+          "date": "2026-03-31"
+        },
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-06236-238940",
+          "operator": "CELEC EP",
+          "description": "HNA SERVICIO DE MANTENIMIENTO DE GENERADORES ELECTRICOS DE EMERGENCIA DE LA CENTRAL HIDROELECTRICA MARCEL LANIADO DE WIND",
+          "amount": 47059,
+          "date": "2025-12-05"
+        }
+      ],
+      "mainField": "Mantenimiento electromecánico"
+    },
+    {
+      "ruc": "1792844576001",
+      "name": "KARPATTY TECNOLOGIAS CIA LTDA",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía",
+        "Finanzas"
+      ],
+      "operators": [
+        "CELEC EP",
+        "CNEL EP",
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "TI y software",
+        "Mantenimiento electromecánico",
+        "Automatización y control"
+      ],
+      "awards": 3,
+      "awardedAmount": 1332395,
+      "bids": 5,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-07060-238940",
+          "operator": "CELEC EP",
+          "description": "TRA MANTENIMIENTO PREVENTIVO DE EQUIPOS ELECTROMECANICOS DE LOS CENTROS DE DATOS Y SALAS DE ENERGIA DE CELEC EP - TRANSELECTRIC, INCLUYE SOPORTE TECNICO 24/7 Y REPUESTOS Y CONSUMIBLES",
+          "amount": 709200,
+          "date": "2025-09-26"
+        },
+        {
+          "ocid": "ocds-5wno2w-LICO-CNELEP-2026-018-462114",
+          "operator": "CNEL EP",
+          "description": "GYE REPOTENCIACIÓN DE INFRAESTRUCTURA Y EQUIPOS DE CENTRO DE DATOS PLANTA NORTE E INSTALACIÓN DE MONITOREO GTI",
+          "amount": 568498.3039,
+          "date": "2026-10-08"
+        },
+        {
+          "ocid": "ocds-5wno2w-SIE-CNELEP-2025-150-462114",
+          "operator": "CNEL EP",
+          "description": "GYE SERVICIO DE MONITOREO, MANTENIMIENTO PREVENTIVO Y CORRECTIVO DEL CUARTO DE COMPUTO SCADA PARA CNEL EP UNIDAD DE NEGOCIO GUAYAQUIL GTI.",
+          "amount": 54696.25,
+          "date": "2025-09-18"
+        }
+      ],
+      "mainField": "TI y software"
+    },
+    {
+      "ruc": "1791773098001",
+      "name": "ESERSUM IND. CIA. LTDA",
+      "website": "http://www.esersum.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones",
+        "Mantenimiento electromecánico",
+        "TI y software"
+      ],
+      "awards": 3,
+      "awardedAmount": 818100,
+      "bids": 8,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2026-03127-238940",
+          "operator": "CELEC EP",
+          "description": "SUR ADQUISICIÓN DE EQUIPO PARA TRATAMIENTO DE ACEITE DIELÉCTRICO PARA LAS CENTRALES DE GENERACIÓN, INCLUYE REPUESTOS, ACCESORIOS Y TANQUE DE ALMACENAMIENTO DE ACEITE",
+          "amount": 418800,
+          "date": "2026-09-21"
+        },
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-03308-238940",
+          "operator": "CELEC EP",
+          "description": "SUR ADQUISICION DE EQUIPOS Y ACCESORIOS PARA MANTENIMIENTO ELECTRONICO Y METROLOGIA DE LAS CENTRALES DE GENERACION DE LA UNIDAD DE NEGOCIO CELEC SUR",
+          "amount": 331000,
+          "date": "2026-05-28"
+        },
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-05030-238940",
+          "operator": "CELEC EP",
+          "description": "TES ADQUISICIÓN DE INSUMOS Y MATERIALES PARA MANTENIMIENTO ELÉCTRICO Y ELECTRÓNICO DE LA CENTRAL TÉRMICA ESMERALDAS II",
+          "amount": 68300,
+          "date": "2026-05-27"
+        }
+      ],
+      "mainField": "Mantenimiento electromecánico",
+      "links": {
+        "facebook": "https://www.facebook.com/profile.php?id=61559549046551&locale=es_LA",
+        "linkedin": "https://www.linkedin.com/company/esersum-ind",
+        "x": "https://x.com/EsersumInd",
+        "instagram": "https://www.instagram.com/esersum_ind",
+        "about": "Proveedor de equipos eléctricos en Ecuador desde 2001: seguridad eléctrica, medición, herramientas y alumbrado público. Representación exclusiva Megger."
+      }
+    },
+    {
+      "ruc": "1791883098001",
+      "name": "MILESTONE TECHNOLOGIES CIA. LTDA.",
+      "website": "http://www.milestone.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones",
+        "TI y software"
+      ],
+      "awards": 3,
+      "awardedAmount": 209249,
+      "bids": 5,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-07157-238940",
+          "operator": "CELEC EP",
+          "description": "TRA ADQUISICIÓN DE EQUIPOS CONVERSORES DE MEDIO PARA LA IMPLEMENTACIÓN DE SERVICIOS DE TELECOMUNICACIONES EN DIFERENTES LOCALIDADES DE CELEC EP - TRANSELECTRIC",
+          "amount": 129099,
+          "date": "2026-06-13"
+        },
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2026-03187-238940",
+          "operator": "CELEC EP",
+          "description": "SUR ADQUISICIÓN DE SISTEMA DE CLIMATIZACIÓN DE PRECISIÓN PARA EL CENTRO DE DATOS DE CUENCA, INCLUYE INSTALACIÓN",
+          "amount": 65450,
+          "date": "2026-11-07"
+        },
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-10108-238940",
+          "operator": "CELEC EP",
+          "description": "CCS ADQUISICION DE PARTES, PIEZAS Y ACCESORIOS DE TELECOMUNICACIONES DE LA CENTRAL COCA CODO SINCLAIR",
+          "amount": 14700,
+          "date": "2026-01-27"
+        }
+      ],
+      "mainField": "Telecomunicaciones",
+      "links": {
+        "about": "Milestone Technologies - Ingenier a en telecomunicaciones"
+      }
+    },
+    {
+      "ruc": "1793200513001",
+      "name": "DNE IMPORTACIONES S.A.S.",
+      "website": "https://www.dneimportaciones.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico",
+        "Seguridad industrial y electrónica",
+        "Automatización y control",
+        "Telecomunicaciones"
+      ],
+      "awards": 3,
+      "awardedAmount": 119950,
+      "bids": 6,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-10045-238940",
+          "operator": "CELEC EP",
+          "description": "CCS REPOSICION DE HERRAMIENTAS Y EQUIPOS MENORES PARA EJECUTAR LOS MANTENIMIENTOS DE LA INFRAESTRUCTURA ELECTRICA EN EXPLOTACION DE LA CENTRAL HIDROELECTRICA MANDURIACU",
+          "amount": 94200,
+          "date": "2025-06-18"
+        },
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-06023-238940",
+          "operator": "CELEC EP",
+          "description": "HNA ADQUISICIÓN DE REPUESTOS ELECTRÓNICOS Y DE INSTRUMENTACIÓN INDUSTRIAL DE LOS SISTEMAS PRINCIPALES Y AUXILIARES DE LA CENTRAL HIDROELÉCTRICA BABA",
+          "amount": 13500,
+          "date": "2025-07-16"
+        },
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-03053-238940",
+          "operator": "CELEC EP",
+          "description": "SUR ADQUISICION DE REPUESTOS PARA EL SISTEMA CONTRAINCENDIOS CO2 KIDDE-FENWAL DE LA CENTRAL MAZAR",
+          "amount": 12250,
+          "date": "2026-02-15"
+        }
+      ],
+      "mainField": "Mantenimiento electromecánico",
+      "links": {
+        "linkedin": "https://www.linkedin.com/company/dne-importaciones-s-a-s",
+        "x": "http://x.com/dneimpsas",
+        "instagram": "https://www.instagram.com/grupodne?stkn=MXdmMzc4dmx1djJ3Yw==",
+        "whatsapp": "https://wa.me/593992016167?text=%C2%A1Hola%21%20Estoy%20interesado%20en%20los%20productos%20y%20soluciones%20que%20comercializan.%20%C2%BFPodr%C3%ADan%20ayudarme%20con%20un%20requerimiento%3F",
+        "about": "DNE Importaciones S.A.S."
+      }
+    },
+    {
+      "ruc": "0992279095001",
+      "name": "TECNOLOGIA DE PUNTA S.A. TECPUNSA",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 2,
+      "awardedAmount": 3964377,
+      "bids": 2,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-LICS-CELECEP-2025-04485-238940",
+          "operator": "CELEC EP",
+          "description": "TPI SERVICIO DE MANTENIMIENTO Y MEJORAMIENTO DEL SISTEMA CONTRA INCENDIOS DE LAS CENTRALES TÉRMICAS GUANGOPOLO I Y GUANGOPOLO II, INCLUYE EQUIPAMIENTOY ACCESORIOS.",
+          "amount": 1984287.6,
+          "date": "2026-05-27"
+        },
+        {
+          "ocid": "ocds-5wno2w-LICS-CELECEP-2025-02478-238940",
+          "operator": "CELEC EP",
+          "description": "EGU SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DEL SISTEMA CONTRA INCENDIO INCLUYE EQUIPOS PARA LA CENTRAL TRINITARIA",
+          "amount": 1980089.8,
+          "date": "2026-01-22"
+        }
+      ],
+      "mainField": "Seguridad industrial y electrónica"
+    },
+    {
+      "ruc": "0993043605001",
+      "name": "ROYAL-TECHNOLOGY S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "TI y software",
+        "Automatización y control"
+      ],
+      "awards": 2,
+      "awardedAmount": 2503000,
+      "bids": 2,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CNELEP-2025-276-462114",
+          "operator": "CNEL EP",
+          "description": "CORP Adquisición de solución para la integración, organización y automatización de respuesta en la detección, gestión y bloqueo granular para incidentes de ciberseguridad - GSI",
+          "amount": 1716000,
+          "date": "2026-05-27"
+        },
+        {
+          "ocid": "ocds-5wno2w-SIE-CNELEP-2025-004-462114",
+          "operator": "CNEL EP",
+          "description": "CORP Suscripción de la plataforma de ciberseguridad para la gestión de accesos para usuarios privilegiados de CNEL EP - GSI",
+          "amount": 787000,
+          "date": "2025-10-29"
+        }
+      ],
+      "mainField": "TI y software"
+    },
+    {
+      "ruc": "0195117969001",
+      "name": "PMK ECUADOR CIA. LTDA.",
+      "website": null,
+      "city": "CUENCA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 2,
+      "awardedAmount": 2305914,
+      "bids": 5,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CNELEP-2025-234-462114",
+          "operator": "CNEL EP",
+          "description": "“GLR ADQUISICIÓN DE MEDIDORES AMI CELULAR GC”",
+          "amount": 2026794,
+          "date": "2026-05-28"
+        },
+        {
+          "ocid": "ocds-5wno2w-RE-PU-CNELEP-2025-25-462114",
+          "operator": "CNEL EP",
+          "description": "CORP SERVICIO DE SOPORTE Y MANTENIMIENTO PARA LA OPERATIVIDAD DE MEDICIÓN AVANZADA AMI HEXING EN EL ÁREA DE SERVICIO DE CN EL EP GC",
+          "amount": 279120,
+          "date": "2026-06-13"
+        }
+      ],
+      "mainField": "Automatización y control"
+    },
+    {
+      "ruc": "0992720042001",
+      "name": "COMPLYCORP S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 2,
+      "awardedAmount": 842410,
+      "bids": 5,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-RE-PU-CNELEP-2025-6-462114",
+          "operator": "CNEL EP",
+          "description": "GLR ADQUISICION DE EQUIPOS DE MEDICION PARA OPERACION Y MANTENIMIENTO DE SISTEMA AMI UN 2025 GLR GC",
+          "amount": 663937.21,
+          "date": "2026-05-27"
+        },
+        {
+          "ocid": "ocds-5wno2w-RE-PU-CNELEP-2025-4.-462114",
+          "operator": "CNEL EP",
+          "description": "EOR ADQUISICION DE MEDIDORES MULTIFUNCION TECNOLOGIA AMI PARA MANTENIMIENTO GC",
+          "amount": 178473.24,
+          "date": "2025-08-12"
+        }
+      ],
+      "mainField": "Automatización y control"
+    },
+    {
+      "ruc": "1791358740001",
+      "name": "TELECOMUNICACIONES A SU ALCANCE TELALCA S.A.",
+      "website": "http://www.telalca.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía",
+        "Finanzas"
+      ],
+      "operators": [
+        "CELEC EP",
+        "BIESS"
+      ],
+      "fields": [
+        "Telecomunicaciones",
+        "TI y software"
+      ],
+      "awards": 2,
+      "awardedAmount": 738834,
+      "bids": 3,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-LICS-BIESS-2026-003-278089",
+          "operator": "BIESS",
+          "description": "ADQUISICIÓN DE UNA SOLUCIÓN XDR PARA EL BIESS, INCLUYENDO SERVICIOS DE SOPORTE TÉCNICO ESPECIALIZADO",
+          "amount": 662914.14,
+          "date": "2026-10-21"
+        },
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2026-06229-238940",
+          "operator": "CELEC EP",
+          "description": "HNA SERVICIO DE RENOVACIÓN DEL CABLEADO ESTRUCTURADO DE LA UNIDAD DE NEGOCIO HIDRONACIÓN",
+          "amount": 75920,
+          "date": "2026-11-24"
+        }
+      ],
+      "mainField": "TI y software",
+      "links": {
+        "careers": [
+          {
+            "label": "Trabaja con Nosotros",
+            "url": "https://www.telalca.com/trabaja-con-nosotros/"
+          }
+        ],
+        "facebook": "https://www.facebook.com/TelalcaEcuador",
+        "instagram": "https://www.instagram.com/telalcaEcuador",
+        "youtube": "https://www.youtube.com/@telalcaecuador",
+        "linkedin": "https://www.linkedin.com/company/telalca",
+        "whatsapp": "https://api.whatsapp.com/send?phone=593994500244",
+        "about": "¿Buscas optimizar la conectividad? Conoce las soluciones de tecnología de Telalca. ¡Lleva tu infraestructura al siguiente nivel!"
+      }
+    },
+    {
+      "ruc": "0992360356001",
+      "name": "FURCHETSA S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 2,
+      "awardedAmount": 704570,
+      "bids": 8,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CNELEP-2026-105-462114",
+          "operator": "CNEL EP",
+          "description": "EOR Adquisicion de medidores multifuncion tecnologia AMI celular para mantenimiento GC",
+          "amount": 372600,
+          "date": "2026-10-24"
+        },
+        {
+          "ocid": "ocds-5wno2w-SIE-CNELEP-2026-073-462114",
+          "operator": "CNEL EP",
+          "description": "SUC ADQUISICIÓN DE MEDIDORES ELECTRÓNICOS KWH, KVARH, KW, MULTITARIFA,TIPO SOCKET CON TARJETA DE TELEMETRÍA GC",
+          "amount": 331970,
+          "date": "2026-09-16"
+        }
+      ],
+      "mainField": "Automatización y control"
+    },
+    {
+      "ruc": "1791927338001",
+      "name": "SEPROTEICO S.A.",
+      "website": "http://www.conecta.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía",
+        "Finanzas"
+      ],
+      "operators": [
+        "CELEC EP",
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 2,
+      "awardedAmount": 205925,
+      "bids": 2,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-BCE-2025-029-2457",
+          "operator": "Banco Central del Ecuador",
+          "description": "SUSCRIPCION Y SOPORTE TECNICO DEL SOFTWARE DE RESPALDOS DEL BANCO CENTRAL DEL ECUADOR",
+          "amount": 115499,
+          "date": "2026-01-27"
+        },
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2026-10186-238940",
+          "operator": "CELEC EP",
+          "description": "CCS RENOVACIÓN DE LA HERRAMIENTA DE RESPALDOS PARA SERVIDORES DE LA UNIDAD DE NEGOCIO COCA CODO SINCLAIR",
+          "amount": 90426.2,
+          "date": "2026-11-05"
+        }
+      ],
+      "mainField": "TI y software",
+      "links": {
+        "careers": [
+          {
+            "label": "Trabaja con nosotros",
+            "url": "https://www.conecta.com.ec/contacto/#unete-nosotros"
+          }
+        ],
+        "instagram": "https://www.instagram.com/conecta.ecuador/?hl=es%20instagram",
+        "linkedin": "https://ec.linkedin.com/company/conecta-ecuador",
+        "about": "Descubra nuestro software financiero: Transformación digital simplificada con una solución Ready To Use para experiencias de usuario envolventes y amigables."
+      }
+    },
+    {
+      "ruc": "0992477628001",
+      "name": "SKYCOMPANY S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control",
+        "Telecomunicaciones"
+      ],
+      "awards": 2,
+      "awardedAmount": 116956,
+      "bids": 2,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CNELEP-2025-198-462114",
+          "operator": "CNEL EP",
+          "description": "MAN ADQUISICIÓN DE BASE SOCKET PARA LA IMPLEMENTACIÓN MEDICIÓN AMI GPRS 4G PARA EL MONITOREO Y CONTROL DE PÉRDIDAS DE ENERGÍA EN CLIENTES COMERCIALES EN EL ÁREA DE SERVICIO CNEL EP MANABÍ GC",
+          "amount": 102565.5,
+          "date": "2026-07-08"
+        },
+        {
+          "ocid": "ocds-5wno2w-SIE-CNELEP-2025-327-462114",
+          "operator": "CNEL EP",
+          "description": "GYE SWITCH DE PRUEBA 10 POLOS PARA MEDICION INDIRECTA GC",
+          "amount": 14390.25,
+          "date": "2026-07-14"
+        }
+      ],
+      "mainField": "Automatización y control"
+    },
+    {
+      "ruc": "1792362326001",
+      "name": "SOFTWAREONE ECUADOR SOLUCIONES S.A.",
+      "website": "http://www.softwareone.com",
+      "city": "QUITO",
+      "sectors": [
+        "Petróleo"
+      ],
+      "operators": [
+        "EP Petroecuador"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 10589124,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-EPP-2025-009-253178",
+          "operator": "EP Petroecuador",
+          "description": "SOPORTE, SUSCRIPCIÓN Y ADQUISICIÓN DE LICENCIAMIENTO MICROSOFT PARA EP PETROECUADOR",
+          "amount": 10589124.26,
+          "date": "2025-08-26"
+        }
+      ],
+      "mainField": "TI y software"
+    },
+    {
+      "ruc": "0993376204001",
+      "name": "DISICORPRO S.A.S.",
+      "website": null,
+      "city": "DAULE",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 1,
+      "awardedAmount": 1975127,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-LICS-CELECEP-2026-02124-238940",
+          "operator": "CELEC EP",
+          "description": "EGU SERVICIO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO DEL SISTEMA CONTRA INCENDIO PARA LAS CENTRALES ALVARO TINAJERO Y ANIBAL SANTOS, INCLUYE EQUIPOS",
+          "amount": 1975127,
+          "date": "2026-08-27"
+        }
+      ],
+      "mainField": "Seguridad industrial y electrónica"
+    },
+    {
+      "ruc": "1790435024001",
+      "name": "INGENIERIA DE SEGURIDAD E INCENDIOS LEVO CIA. LTDA.",
+      "website": "http://www.levo.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 1,
+      "awardedAmount": 1932919,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-LICS-CELECEP-2026-14126-238940",
+          "operator": "CELEC EP",
+          "description": "TMA SERVICIO ESPECIALIZADO DE MANTENIMIENTO MAYOR Y REPOTENCIACIÓN DEL SISTEMA CONTRA INCENDIOS DE LA CENTRAL MIRAFLORES DE LA UNIDAD DE NEGOCIO TERMOMANABÍ.”",
+          "amount": 1932919.01,
+          "date": "2026-11-11"
+        }
+      ],
+      "mainField": "Seguridad industrial y electrónica",
+      "links": {
+        "about": "Somos la solución para tus proyectos. Contamos con equipos de calidad y servicios de ingeniería especializada que nos permiten garantizar el éxito de tus proyectos. Somos especialistas en sistemas contra incendios, siste"
+      }
+    },
+    {
+      "ruc": "1890061385001",
+      "name": "ECUATRAN SA",
+      "website": null,
+      "city": "AMBATO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 1,
+      "awardedAmount": 1463438,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-RE-PU-CELECEP-2025-07099-238940",
+          "operator": "CELEC EP",
+          "description": "TRA CONTRATACION DE SERVICIO TECNICO PARA EL MANTENIMIENTO DE LOS CONMUTADORES BAJO CARGA MARCA MR PARA VARIOS TRANSFORMADORES DEL SISTEMA NACIONAL DE TRANSMISION",
+          "amount": 1463437.53,
+          "date": "2026-05-27"
+        }
+      ],
+      "mainField": "Mantenimiento electromecánico"
+    },
+    {
+      "ruc": "0993247375001",
+      "name": "VITROM S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 1,
+      "awardedAmount": 1205800,
+      "bids": 4,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CNELEP-2025-196-462114",
+          "operator": "CNEL EP",
+          "description": "MAN MEJORAMIENTO DE LA CALIDAD DE LA MEDICIÓN EN CLIENTES ESPECIALES MEDIANTE LA ADQUISICIÓN DE MEDIDORES PARA LA APLICACIÓN DE TELEMETRÍA ZONA SUR CNEL EP MANABÍ GC",
+          "amount": 1205800,
+          "date": "2026-01-30"
+        }
+      ],
+      "mainField": "Automatización y control"
+    },
+    {
+      "ruc": "1792734134001",
+      "name": "T&SCORP CIA. LTDA.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "BanEcuador"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 1089513,
+      "bids": 2,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-BANEC-2026-010-722820",
+          "operator": "BanEcuador",
+          "description": "SERVICIO DE SOPORTE TÉCNICO DE LOS PRODUCTOS LICENCIADOS DE SAP DE BANECUADOR B.P., Y ADQUISICIÓN DE LICENCIAMIENTO SAP ASE SERVIDOR HISTÓRICO",
+          "amount": 1089513.35,
+          "date": "2026-10-16"
+        }
+      ],
+      "mainField": "TI y software"
+    },
+    {
+      "ruc": "0992787740001",
+      "name": "KINELETEC S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 1,
+      "awardedAmount": 1040881,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-LICS-CELECEP-2025-02022-238940",
+          "operator": "CELEC EP",
+          "description": "EGU SERVICIO DE MANTENIMIENTO CORRECTIVO DE TRANSFORMADORES DE POTENCIA DE LA CENTRAL SANTA ELENA II INCLUYE RESPUESTOS",
+          "amount": 1040880.94,
+          "date": "2025-10-17"
+        }
+      ],
+      "mainField": "Mantenimiento electromecánico"
+    },
+    {
+      "ruc": "0990504377001",
+      "name": "IELCO INSTALACIONES ELECTRICAS Y CONSTRUCCIONES C. LTDA.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 1,
+      "awardedAmount": 894500,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-LICB-CNELEP-2025-001-462114",
+          "operator": "CNEL EP",
+          "description": "GYE ADQUISICION MONTAJE Y AUTOMATIZACIÓN DE RECONECTADORES MONOFASICOS, CON SU CONCENTRADOR DE DATOS Y RADIOS DE COMUNICACIÓN PARA EL MEJORAMIENTO DE LA CALIDAD DEL SERVICIO ELÉCTRICO, EN LAS REDES DE DISTRIBUCIÓN DE CNEL EP UN GUAYAQUIL CON INTEGRACIÓN AL SCADA, FASE 1 GD.",
+          "amount": 894500,
+          "date": "2025-07-03"
+        }
+      ],
+      "mainField": "Automatización y control"
+    },
+    {
+      "ruc": "1793145647001",
+      "name": "TOTALSAFE S.A.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 1,
+      "awardedAmount": 782967,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2026-04076-238940",
+          "operator": "CELEC EP",
+          "description": "TPI ADQUISICION DE EQUIPOS, DISPOSITIVOS Y ACCESORIOS DE SEGURIDAD INDUSTRIAL PARA LA PREVENCION DE RIESGOS LABORALES DEL PERSONAL DE LA UNIDAD DE NEGOCIO TERMOPICHINCHA",
+          "amount": 782966.99,
+          "date": "2026-06-13"
+        }
+      ],
+      "mainField": "Seguridad industrial y electrónica"
+    },
+    {
+      "ruc": "1792154693001",
+      "name": "COMGSP INGENIERIA S A",
+      "website": "http://www.comgsp.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 737000,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-LICB-CELECEP-2026-02162-238940",
+          "operator": "CELEC EP",
+          "description": "EGU ADQUISICION DE CENTRO DE DATOS TIPO CONTENEDOR PARA LA CENTRAL GONZALO ZEVALLOS INCLUYE PUESTA EN MARCHA",
+          "amount": 737000,
+          "date": "2026-09-26"
+        }
+      ],
+      "mainField": "TI y software",
+      "links": {
+        "whatsapp": "https://web.whatsapp.com/send?phone=593999345262&text=",
+        "linkedin": "https://www.linkedin.com/company/comgsp-ingenieria-s-a",
+        "facebook": "https://www.facebook.com/pages/Comgsp-Ingenieria/201676630566406",
+        "about": "Acreditados por los proveedores más relevantes de la industria tecnológica, apalancamos sus objetivos hacia un ecosistema de Transformación Digital"
+      }
+    },
+    {
+      "ruc": "0992581840001",
+      "name": "TELCOMBAS S.A.",
+      "website": "http://www.telcombas.com",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía",
+        "Finanzas"
+      ],
+      "operators": [
+        "CNEL EP",
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "TI y software",
+        "Automatización y control"
+      ],
+      "awards": 1,
+      "awardedAmount": 434310,
+      "bids": 4,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CNELEP-2025-059-462114",
+          "operator": "CNEL EP",
+          "description": "CORP SERVICIO DE SOPORTE, MANTENIMIENTO Y RENOVACIÓN DE GARANTÍA PARA LA PLATAFORMA DE ALMACENAMIENTO DE BLOQUES Y ALMACENAMIENTO DE OBJETOS HITACHI GTI",
+          "amount": 434310,
+          "date": "2025-09-17"
+        }
+      ],
+      "mainField": "TI y software",
+      "links": {
+        "facebook": "https://www.facebook.com/telcombas",
+        "instagram": "https://www.instagram.com/telcombas",
+        "about": "Todas las alianzas realizadas para brindar soluciones a nuestros clientes son con proveedores de clase mundial. Nuestros procesos y servicios basan su modelo de operación en estándares mundiales como ITIL y PMI."
+      }
+    },
+    {
+      "ruc": "1792695724001",
+      "name": "NAVSTEK C.LTDA.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 1,
+      "awardedAmount": 418000,
+      "bids": 2,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-07059-238940",
+          "operator": "CELEC EP",
+          "description": "TRA ADQUISICIÓN DE MATERIALES DE NETWORKING PARA CELEC EP - TRANSELECTRIC",
+          "amount": 418000,
+          "date": "2026-05-27"
+        }
+      ],
+      "mainField": "Telecomunicaciones"
+    },
+    {
+      "ruc": "1790219526001",
+      "name": "SIEMENS S.A.",
+      "website": "http://www.siemens.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 1,
+      "awardedAmount": 360000,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-RE-PU-CELECEP-2026-14077-238940",
+          "operator": "CELEC EP",
+          "description": "TMA ADQUISICIÓN, INSTALACIÓN, PRUEBAS y PUESTA EN MARCHA DE TRES CONTROLADORES LÓGICOS PROGRAMABLES PLC SIMATIC S7- 400 REDUNDANTES Y DIECIOCHO PANELES HMI SIMATIC MTP 1500 DEL SISTEMA DE CONTROL DCS DE LA CENTRAL TÉRMICA JARAMIJÓ",
+          "amount": 360000,
+          "date": "2026-10-19"
+        }
+      ],
+      "mainField": "Automatización y control",
+      "links": {
+        "careers": [
+          {
+            "label": "Careers Change starts here. Learn more",
+            "url": "http://www.siemens.com/en-us/company/jobs/"
+          }
+        ],
+        "about": "Siemens: A global technology leader driving innovation in industry, infrastructure and mobility through digital transformation."
+      }
+    },
+    {
+      "ruc": "1790224716001",
+      "name": "DIGITEC S.A.",
+      "website": "http://www.digitec.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 340318,
+      "bids": 2,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-RE-PU-CELECEP-2025-07064-238940",
+          "operator": "CELEC EP",
+          "description": "TRA SERVICIO DE MANTENIMIENTO PREVENTIVO Y SOPORTE TÉCNICO PARA EL SISTEMA DE SINCRONISMO DE CELEC EP TRANSELECTRIC",
+          "amount": 340317.54,
+          "date": "2025-11-28"
+        }
+      ],
+      "mainField": "TI y software"
+    },
+    {
+      "ruc": "1793200538001",
+      "name": "SIMEC-CG S.A.S.",
+      "website": "http://www.simeccg.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 1,
+      "awardedAmount": 302221,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-COTO-CELECEP-2025-07009-238940",
+          "operator": "CELEC EP",
+          "description": "TRA SUMINISTRO, MONTAJE Y PUESTA EN SERVICIO DEL SISTEMA DE PROTECCIÓN CONTRA INCENDIOS PARA EL EDIFICIO DE CELEC EP TRANSELECTRIC QUITO",
+          "amount": 302220.84,
+          "date": "2025-08-21"
+        }
+      ],
+      "mainField": "Seguridad industrial y electrónica",
+      "links": {
+        "linkedin": "https://www.linkedin.com/company/simec-consulting-group/about",
+        "facebook": "https://www.facebook.com/consorciosimeccg",
+        "about": "SIMEC Consulting Group transforma ideas en realidad: Nuestros servicios de ingeniería abarcan innovación, precisión y excelencia. ¡Contáctanos!"
+      }
+    },
+    {
+      "ruc": "1791432762001",
+      "name": "SIPSE SIPSE ECUADOR CIA. LTDA.",
+      "website": "http://www.sipse.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "BIESS"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 298750,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-BIESS-2026-006-278089",
+          "operator": "BIESS",
+          "description": "ADQUISICIÓN, IMPLEMENTACIÓN Y PUESTA EN OPERACIÓN DE UNA SOLUCIÓN INTEGRAL DE GESTIÓN DE TURNOS, QUE INCLUYE SOFTWARE, EQUIPAMIENTO Y SERVICIOS ASOCIADOS PARA LAS OFICINAS DEL BIESS",
+          "amount": 298750,
+          "date": "2026-11-20"
+        }
+      ],
+      "mainField": "TI y software",
+      "links": {
+        "about": "Sipse Sistemas de Turnos, Pantallas Interactivas y Más"
+      }
+    },
+    {
+      "ruc": "0992440279001",
+      "name": "MACROSIGMA S.A.",
+      "website": "http://www.macrosigma.net",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 1,
+      "awardedAmount": 250168,
+      "bids": 2,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-RE-PU-CNELEP-2025-23-462114",
+          "operator": "CNEL EP",
+          "description": "CORP SERVICIO DE SOPORTE Y MANTENIMIENTO DE SWITCH TRANSACCIONAL MACTRANS DE CNEL EP GTI",
+          "amount": 250168,
+          "date": "2026-07-04"
+        }
+      ],
+      "mainField": "Telecomunicaciones"
+    },
+    {
+      "ruc": "0992357452001",
+      "name": "ADEATEL S.A.",
+      "website": "http://www.adeatel.net",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 1,
+      "awardedAmount": 231124,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-LCC-CNELEP-2025-007-462114",
+          "operator": "CNEL EP",
+          "description": "LRS OP ESTUDIOS PARA LA MEJORA DE LA OPERACIÓN DEL SISTEMA ELÉCTRICO POR MEDIO DE LA IMPLEMENTACIÓN DE REDES DE FIBRA ÓPTICA E INFRAESTRUCTURA DE COMUNICACIÓN PARA INTERCONEXIÓN DE LAS SUBESTACIONES DE DISTRIBUCIÓN CNEL LOS RÍOS GD",
+          "amount": 231124.04,
+          "date": "2026-07-10"
+        }
+      ],
+      "mainField": "Telecomunicaciones",
+      "links": {
+        "about": "Impulsamos negocios con soluciones tecnológicas diseñadas para dar resultados. Estratégicas con enfoque meticuloso en cada detalle de tu proyecto. Conócenos →"
+      }
+    },
+    {
+      "ruc": "0993373677001",
+      "name": "KONSULT-IT S.A.S.",
+      "website": null,
+      "city": "MILAGRO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 1,
+      "awardedAmount": 204999,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-LICS-CNELEP-2026-059-462114",
+          "operator": "CNEL EP",
+          "description": "GYE MANTENIMIENTO ESPECIALIZADO Y SOPORTE EXTENDIDO PARA INFRAESTRUCTURA CRITICA DE CONTINUIDAD OPERACIONAL AMI (DR/HA) DE CNEL EP UNIDAD DE NEGOCIOS GUAYAQUIL GTI",
+          "amount": 204999,
+          "date": "2026-09-22"
+        }
+      ],
+      "mainField": "Automatización y control"
+    },
+    {
+      "ruc": "0791844065001",
+      "name": "TR-ILEC S.A.S.",
+      "website": null,
+      "city": "EL GUABO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 1,
+      "awardedAmount": 188500,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CNELEP-2025-254-462114",
+          "operator": "CNEL EP",
+          "description": "STE Adquisicion de reconectadores trifasicos para automatizacion de alimentadores de CNEL EP UN STE GD",
+          "amount": 188500,
+          "date": "2026-05-27"
+        }
+      ],
+      "mainField": "Automatización y control"
+    },
+    {
+      "ruc": "1790550540001",
+      "name": "SAMPER CIA. LTDA.",
+      "website": "http://www.samper.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 1,
+      "awardedAmount": 174999,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-03003-238940",
+          "operator": "CELEC EP",
+          "description": "SUR ADQUISICION DE EQUIPOS E IMPLEMENTOS DE PROTECCION CONTRA INCENDIO PARA LA UNIDAD DE NEGOCIO CELEC SUR",
+          "amount": 174999,
+          "date": "2026-06-13"
+        }
+      ],
+      "mainField": "Seguridad industrial y electrónica",
+      "links": {
+        "linkedin": "https://www.linkedin.com/company/samper-cia.-ltda",
+        "facebook": "https://www.facebook.com/profile.php?id=61589183166384",
+        "instagram": "https://www.instagram.com/samperfire",
+        "about": "Diseño, instalación y mantenimiento de sistemas contra incendios industriales en Ecuador: petróleo y gas, minería, energía e infraestructura crítica."
+      }
+    },
+    {
+      "ruc": "1792940761001",
+      "name": "ESPECIALISTAS EN SUBESTACIONES EMS-TESTING CIA.LTDA.",
+      "website": "http://www.emstesting.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP",
+        "CNEL EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 1,
+      "awardedAmount": 159718,
+      "bids": 3,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-COTS-CNELEP-2025-001-462114",
+          "operator": "CNEL EP",
+          "description": "GLR MANTENIMIENTO INTEGRAL DE SUBESTACIONES MÓVILES GD",
+          "amount": 159718.07,
+          "date": "2026-05-27"
+        }
+      ],
+      "mainField": "Mantenimiento electromecánico",
+      "links": {
+        "facebook": "https://www.facebook.com/profile.php?id=61582444515268",
+        "instagram": "https://www.instagram.com/emstestingec",
+        "linkedin": "https://www.linkedin.com/company/especialistas-en-subestaciones-ems-testing",
+        "youtube": "https://www.youtube.com/@Emstestingec",
+        "about": "Empresa especializada en comisionado, mantenimiento preventivo -predictivo y puesta en marcha de equipos eléctricos de baja, media y alta tensión, dotada de un equipo de ingenieros de alto nivel, especialistas en el diag"
+      }
+    },
+    {
+      "ruc": "1791737849001",
+      "name": "RADICAL ALTERNATIVAS DE AVANZADA ALTRADICALAVAN CIA. LTDA",
+      "website": "http://www.gruporadical.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones",
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 128994,
+      "bids": 2,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-07040-238940",
+          "operator": "CELEC EP",
+          "description": "TRA SERVICIO DE SOPORTE TÉCNICO Y MANTENIMIENTO PREVENTIVO DEL SISTEMA DE HARDWARE Y SOFTWARE UNIFICADO DE LA ADMINISTRACIÓN DE LA RED DE TELECOMUNICACIONES DE CELEC EP - TRANSELECTRIC",
+          "amount": 128994.15,
+          "date": "2025-08-30"
+        }
+      ],
+      "mainField": "Telecomunicaciones",
+      "links": {
+        "about": "Proteger a las organizaciones de Amenazas Digitales, garantizar la continuidad operativa. 25 años de logros en ciberseguridad e infraestructura tecnológica en LATAM."
+      }
+    },
+    {
+      "ruc": "1792227976001",
+      "name": "BEDUCACION S.A.",
+      "website": "https://grupobusiness.it/",
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "BIESS"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 122550,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-BIESS-2025-008-278089",
+          "operator": "BIESS",
+          "description": "SUSCRIPCIÓN Y SERVICIO DE SOPORTE TÉCNICO DEL SOFTWARE RED HAT ENTERPRISE LINUX Y JBOSS",
+          "amount": 122550,
+          "date": "2026-01-24"
+        }
+      ],
+      "mainField": "TI y software",
+      "links": {
+        "about": "Encuentra en Business IT las soluciones tecnológicas que necesitas ✅ Soluciones de software a tu medida. Contáctanos."
+      }
+    },
+    {
+      "ruc": "0993367247001",
+      "name": "HANAQ S.A.S.",
+      "website": "https://hanaq.ec/",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 116235,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CNELEP-2025-044-462114",
+          "operator": "CNEL EP",
+          "description": "CORP SERVICIO DE SOPORTE Y VIRTUALIZACIÓN DE LA CENTRAL TELEFONICA DE CNEL EP - GTI",
+          "amount": 116235.02,
+          "date": "2025-11-13"
+        }
+      ],
+      "mainField": "TI y software",
+      "links": {
+        "about": "Inicio - HANAQ"
+      }
+    },
+    {
+      "ruc": "1791241398001",
+      "name": "PROTECOMPU C.A.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 106053,
+      "bids": 2,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-LICS-CELECEP-2025-03343-238940",
+          "operator": "CELEC EP",
+          "description": "SUR: SERVICIOS DE MANTENIMIENTO DE DATACENTERS DE LA UNIDAD DE NEGOCIOS CELEC SUR, INCLUYE SUMINISTROS Y REPUESTOS.",
+          "amount": 106052.61,
+          "date": "2026-06-09"
+        }
+      ],
+      "mainField": "TI y software"
+    },
+    {
+      "ruc": "1793189574001",
+      "name": "IOT-GREEN SOLUTIONS S.A.",
+      "website": "http://www.iot-green.com/",
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "BanEcuador"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 98570,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-BANEC-2025-008-722820",
+          "operator": "BanEcuador",
+          "description": "SERVICIO DE SOPORTE TÉCNICO Y MANTENIMIENTO DE LA HERRAMIENTA DE SEGURIDAD DE BASE DE DATOS DE BANECUADOR B.P",
+          "amount": 98570.12,
+          "date": "2026-09-24"
+        }
+      ],
+      "mainField": "TI y software",
+      "links": {
+        "whatsapp": "https://wa.me/593994250954?text=Hola%2C%20vengo%20del%20sitio%20web%20de%20IoT-Green%20y%20quisiera%20m%C3%A1s%20informaci%C3%B3n.",
+        "about": "Más de 20 años implementando observabilidad, nube e infraestructura, ciberseguridad, optimización de IT y gestión de activos para empresas en Ecuador y Bolivia."
+      }
+    },
+    {
+      "ruc": "1790819507001",
+      "name": "VERA QUINTANA ASOCIADOS CIA. LTDA.",
+      "website": "http://www.veraquintana.net",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 89858,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CNELEP-2025-078-462114",
+          "operator": "CNEL EP",
+          "description": "CORP SUSCRIPCIÓN A PLATAFORMA DE DISEÑO ASISTIDO POR COMPUTADORA (CAD) PARA CNEL EP GTI",
+          "amount": 89858.16,
+          "date": "2026-09-28"
+        }
+      ],
+      "mainField": "TI y software",
+      "links": {
+        "instagram": "https://www.instagram.com/veraquintanacorp",
+        "tiktok": "https://www.tiktok.com/@veraquintanacorp?_t=ZM-8tdSnJVwJmQ&_r=1",
+        "facebook": "https://www.facebook.com/veraquintanacorp",
+        "about": "Pioneros en BIM en Ecuador. Ofrecemos software Autodesk, gestión de proyectos BIM, modelado 3D y capacitaciones para construcción e ingeniería. +30 años de experiencia."
+      }
+    },
+    {
+      "ruc": "1792508614001",
+      "name": "NET I0 SERVICIOS S.A.",
+      "website": "http://www.networkers-io.com",
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 86000,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-BCE-2026-007-2457",
+          "operator": "Banco Central del Ecuador",
+          "description": "RENOVACIÓN DE GARANTIAS, MANTENIMIENTO Y SOPORTE TECNICO DE LA RED WIFI CORPORATIVA PARA EL BANCO CENTRAL DEL ECUADOR",
+          "amount": 86000,
+          "date": "2026-06-19"
+        }
+      ],
+      "mainField": "TI y software",
+      "links": {
+        "facebook": "https://www.facebook.com/networkers.io",
+        "x": "https://twitter.com/networkers_io",
+        "instagram": "https://www.instagram.com/networkers_io",
+        "about": "Networkers IO"
+      }
+    },
+    {
+      "ruc": "0992926120001",
+      "name": "SEGURIDAD INDUSTRIAL FIVER SEINSAFIVER S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 1,
+      "awardedAmount": 70933,
+      "bids": 2,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2026-02103-238940",
+          "operator": "CELEC EP",
+          "description": "EGU SERVICIO DE RECARGA MANTENIMIENTO Y PRUEBA HIDROSTATICAS DEL SISTEMAS CONTRA INCENDIO COMPLEMENTARIO FIJOS Y PORTATILES DE LA UNIDAD DE NEGOCIO ELECTROGUAYAS",
+          "amount": 70932.64,
+          "date": "2026-08-20"
+        }
+      ],
+      "mainField": "Seguridad industrial y electrónica"
+    },
+    {
+      "ruc": "0190135802001",
+      "name": "ELECTROMEC-ECUADOR CIA. LTDA.",
+      "website": "http://www.electromec.com.ec",
+      "city": "CUENCA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 1,
+      "awardedAmount": 70602,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-RE-RA-CELECEP-2025-06021-238940",
+          "operator": "CELEC EP",
+          "description": "HNA ADQUISICION DE REPUESTOS PARA LOS SISTEMAS DE CONTROL DE LOS REGULADORES DE TENSION DEL SISTEMA DE EXCITATRIZ DE LAS UNIDADES DE GENERACION 2X21 MW DE LA CENTRAL HIDROELECTRICA BABA",
+          "amount": 70602,
+          "date": "2026-05-27"
+        }
+      ],
+      "mainField": "Automatización y control"
+    },
+    {
+      "ruc": "0992309792001",
+      "name": "ELICOST S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 1,
+      "awardedAmount": 68673,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2026-05102-238940",
+          "operator": "CELEC EP",
+          "description": "TES SERVICIO DE INSTALACION Y MANTENIMIENTO DE CABLEADO ESTRUCTURADO EN LAS CENTRALES DE LA UNIDAD DE NEGOCIO TERMOESMERALDAS",
+          "amount": 68673,
+          "date": "2026-09-10"
+        }
+      ],
+      "mainField": "Telecomunicaciones"
+    },
+    {
+      "ruc": "0993248169001",
+      "name": "AKLLA ECUADOR S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP",
+        "CNEL EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico",
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 68650,
+      "bids": 2,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CNELEP-2025-194-462114",
+          "operator": "CNEL EP",
+          "description": "LRS MNTTO ADQUISICION DE ELEMENTOS PARA MANTENIMIENTOS DE SISTEMAS DE RESPALDO DE ENERGIA DE SUBESTACIONES Y EQUIPOS EN REDES DE MEDIA TENSION GD",
+          "amount": 68650,
+          "date": "2026-09-29"
+        }
+      ],
+      "mainField": "TI y software"
+    },
+    {
+      "ruc": "0992142960001",
+      "name": "ALEXSOFT S.A.",
+      "website": "http://www.asextreme.com",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "BanEcuador"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 1,
+      "awardedAmount": 55451,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-RE-PU-BANEC-2026-04-722820",
+          "operator": "BanEcuador",
+          "description": "SOPORTE Y MANTENIMIENTO DEL SWITCH TRANSACCIONAL EXTREME DE BANECUADOR B.P.",
+          "amount": 55450.8,
+          "date": "2026-09-01"
+        }
+      ],
+      "mainField": "Telecomunicaciones",
+      "links": {
+        "about": "Soluciones transaccionales robustas para banca, fintech y servicios financieros: enrutamiento, autorizaciones, ATM, POS, clearing e integración criptográfica."
+      }
+    },
+    {
+      "ruc": "1791907116001",
+      "name": "ELECTRICAL SIGHT CIA. LTDA.",
+      "website": "http://WWW.ELECTRICALSIGHT.COM",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 1,
+      "awardedAmount": 53990,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-09125-238940",
+          "operator": "CELEC EP",
+          "description": "HTP SERVICIO DE MANTENIMIENTO PREVENTIVO, RUTINARIO Y CORRECTIVO DE LOS SISTEMAS CONTRA INCENDIOS DE LA CENTRAL HIDROELÉCTRICA SARAPULLO, SUBESTACIÓN SARAPULLO Y CAPTACIÓN PILATÓN”",
+          "amount": 53990,
+          "date": "2026-09-18"
+        }
+      ],
+      "mainField": "Seguridad industrial y electrónica",
+      "links": {
+        "about": "Domain Not Valid"
+      }
+    },
+    {
+      "ruc": "1790027740001",
+      "name": "ASTAP CIA. LTDA.",
+      "website": "http://www.astap.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 1,
+      "awardedAmount": 53899,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2026-05059-238940",
+          "operator": "CELEC EP",
+          "description": "TES ADQUISICION DE REPUESTOS PARA EL SISTEMA DE CONTROL Y DISTRIBUCION DE CLORO GAS DE LA CENTRAL ESMERALDAS I SEICA",
+          "amount": 53899.12,
+          "date": "2026-06-09"
+        }
+      ],
+      "mainField": "Automatización y control",
+      "links": {
+        "careers": [
+          {
+            "label": "Trabaja con nosotros",
+            "url": "https://www.astap.com/trabaja-con-nosotros"
+          }
+        ],
+        "facebook": "https://www.facebook.com/ASTAP.1941",
+        "instagram": "http://instagram.com/astap.ec",
+        "linkedin": "https://www.linkedin.com/company/astap/?originalSubdomain=ec",
+        "about": "Desarrollamos soluciones mediante el suministro de equipos y servicios de montajes para aplicaciones relacionadas con el uso y control de fluidos. Válvulas, bombas, tubería, medidores, turbinas, compresores, tanques, equ"
+      }
+    },
+    {
+      "ruc": "1391829396001",
+      "name": "CONSULTORÍA & CONSTRUCCIONES CIVILPOWER CIA.LTDA.",
+      "website": null,
+      "city": "MANTA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 46400,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-CDC-CNELEP-2025-032-462114",
+          "operator": "CNEL EP",
+          "description": "MAN SAPG OYM Contratación de consultoría para el soporte técnico de la plataforma de atención a reclamos y solicitudes SAPG 2025 GD",
+          "amount": 46400,
+          "date": "2026-06-02"
+        }
+      ],
+      "mainField": "TI y software"
+    },
+    {
+      "ruc": "1792766338001",
+      "name": "FLUIDMAQ REPRESENTACIONES SA",
+      "website": "http://www.fluidmaq.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 1,
+      "awardedAmount": 45000,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-11066-238940",
+          "operator": "CELEC EP",
+          "description": "GSR ADQUISICION DE EQUIPO DE TORQUE PARA EL MANTENIMIENTO DE LOS AEROGENERADORES DE LA CENTRAL EOLICA VILLONACO",
+          "amount": 45000,
+          "date": "2026-05-29"
+        }
+      ],
+      "mainField": "Mantenimiento electromecánico",
+      "links": {
+        "linkedin": "https://ec.linkedin.com/company/fluidmaq-representaciones-s-a",
+        "about": "Fluidmaq: importación y comercialización de equipos industriales en Ecuador. Calderas, válvulas, bombas, intercambiadores y más. Marcas Alfa Laval, Ruhrpumpen y Georg Fischer."
+      }
+    },
+    {
+      "ruc": "1792344751001",
+      "name": "ECUAINTEGRAL CONSULTING S.A.",
+      "website": "https://www.fisoluciones.com/",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 1,
+      "awardedAmount": 43039,
+      "bids": 2,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2026-03170-238940",
+          "operator": "CELEC EP",
+          "description": "SUR ADQUISICIÓN DE EQUIPOS ESPECIALES DE MEDICIÓN PARA TELECOMUNICACIONES PARA LA UNIDAD DE NEGOCIO CELECSUR",
+          "amount": 43038.52,
+          "date": "2026-10-21"
+        }
+      ],
+      "mainField": "Telecomunicaciones",
+      "links": {
+        "whatsapp": "https://wa.me/593983610338?text=Hola%20equipo%20FIS",
+        "about": "Equipos de telecomunicaciones, fibra óptica, networking, GPON y cableado estructurado con stock local, asesoría especializada y cobertura en Ecuador."
+      }
+    },
+    {
+      "ruc": "1791864182001",
+      "name": "ACCESORIOS SOLUTIONS S.A.",
+      "website": "http://www.accesorios.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 1,
+      "awardedAmount": 42126,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-05149-238940",
+          "operator": "CELEC EP",
+          "description": "TES ADQUISICION DE RESPUESTOS MATERIALES Y ACCESORIOS PARA LOS SISTEMAS CONTRA INCENDIOS DE LA UNIDAD DE NEGOCIO TERMOESMERALDAS",
+          "amount": 42126.1,
+          "date": "2026-02-27"
+        }
+      ],
+      "mainField": "Seguridad industrial y electrónica"
+    },
+    {
+      "ruc": "0992322160001",
+      "name": "ONLY CONTROL S.A. CONONLY",
+      "website": "http://www.onlycontrol.com",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 39998,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-RE-PU-CNELEP-2025-16-462114",
+          "operator": "CNEL EP",
+          "description": "Contratar el mantenimiento preventivo y correctivo de hardware y software incluyendo partes y piezas para los equipos biométricos con la finalidad de preservar la operación del sistema.",
+          "amount": 39998.36,
+          "date": "2025-11-20"
+        }
+      ],
+      "mainField": "TI y software",
+      "links": {}
+    },
+    {
+      "ruc": "1793216034001",
+      "name": "STIM MANUFACTURING S.A.S.",
+      "website": "http://www.stimmanufacturing.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 39500,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2026-08107-238940",
+          "operator": "CELEC EP",
+          "description": "HAG RENOVACION Y ADQUISICION DE LICENCIAS DE SOFTWARE ESPECIALIZADO PARA EL PROCESAMIENTO DE NUBE DE PUNTOS PARA EL CIRT",
+          "amount": 39500,
+          "date": "2026-11-12"
+        }
+      ],
+      "mainField": "TI y software",
+      "links": {
+        "about": "STIM | Somos una empresa que apuesta por la innovación y la transformación digital de la industria ecuatoriana a base de la integración de tecnologías disruptivas ligadas al concepto de Industria 4.0."
+      }
+    },
+    {
+      "ruc": "1790395405001",
+      "name": "QUEMCO CIA. LTDA.",
+      "website": "http://www.quemco.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 1,
+      "awardedAmount": 35825,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CNELEP-2025-181-462114",
+          "operator": "CNEL EP",
+          "description": "BOL MNTTO ADQUISICIÓN DE MATERIALES PARA MANTENIMIENTO DE SUBESTACIONES Y REDES DE SUBTRANSMISIÓN GD",
+          "amount": 35825,
+          "date": "2025-10-09"
+        }
+      ],
+      "mainField": "Mantenimiento electromecánico",
+      "links": {
+        "about": "Coming Soon"
+      }
+    },
+    {
+      "ruc": "0991372377001",
+      "name": "PUNTO ELECTRICO PUNTELEC S.A.",
+      "website": "http://www.puntelec.com",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 1,
+      "awardedAmount": 32859,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-06005-238940",
+          "operator": "CELEC EP",
+          "description": "HNA SERVICIO DE MANTENIMIENTO ANUAL DE LOS GENERADORES ELECTRICOS DE LAS UNIDADES DE GENERACION DE LA CHMLW",
+          "amount": 32858.64,
+          "date": "2025-09-18"
+        }
+      ],
+      "mainField": "Mantenimiento electromecánico",
+      "links": {
+        "about": "Puntelec S.A. - 29 años de experiencia en reparación, rebobinaje y mantenimiento de motores eléctricos industriales, generadores y rotores en Guayaquil, Ecuador. Miembro activo EASA. Certificados por Innomotics Siemens. "
+      }
+    },
+    {
+      "ruc": "1790821994001",
+      "name": "PUFFER CIA. LTDA.",
+      "website": "http://www.puffer.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 1,
+      "awardedAmount": 30600,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-RE-PU-CELECEP-2025-05089-238940",
+          "operator": "CELEC EP",
+          "description": "TES SERVICIO DE MANTENIMIENTO DEL SISTEMAS DE CONTROL DELTA V DE LA CENTRAL ESMERALDAS I SEICA",
+          "amount": 30600,
+          "date": "2026-02-10"
+        }
+      ],
+      "mainField": "Automatización y control",
+      "links": {
+        "about": "Web en Construcción Puffer Ecuador"
+      }
+    },
+    {
+      "ruc": "1792077958001",
+      "name": "MECANIZADOS VALLEJO VARGAS CIA. LTDA.",
+      "website": "http://mecanizadosvv.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 1,
+      "awardedAmount": 28200,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-07090-238940",
+          "operator": "CELEC EP",
+          "description": "TRA ADQUISICIÓN DE HERRAJES Y ACCESORIOS PARA LA INSTALACIÓN Y MANTENIMIENTO DE LA RED DE FIBRA ÓPTICA",
+          "amount": 28200,
+          "date": "2026-05-27"
+        }
+      ],
+      "mainField": "Telecomunicaciones"
+    },
+    {
+      "ruc": "1793194012001",
+      "name": "CARLOS DUQUE SOLUCIONES CADUSOL S.A.S.",
+      "website": "http://www.cadusol.com",
+      "city": "RUMIÑAHUI",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 1,
+      "awardedAmount": 24990,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-02304-238940",
+          "operator": "CELEC EP",
+          "description": "EGU ADQUISICION DE MANOMETROS TERMOMETROS Y SWITCHES PARA LA CENTRAL GONZALO ZEVALLOS",
+          "amount": 24990,
+          "date": "2026-10-26"
+        }
+      ],
+      "mainField": "Telecomunicaciones",
+      "links": {
+        "linkedin": "https://www.linkedin.com/company/cadusol-sas"
+      }
+    },
+    {
+      "ruc": "1791256115001",
+      "name": "OTECEL S.A.",
+      "website": "http://www.movistar.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones",
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 23900,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-07055-238940",
+          "operator": "CELEC EP",
+          "description": "TRA SERVICIO DE SUSCRIPCIÓN, SOPORTE TÉCNICO Y MANTENIMIENTO PREVENTIVO DE LA PLATAFORMA DE SEGURIDAD DEL SISTEMA DE HARDWARE Y SOFTWARE DE LA ADMINISTRACIÓN DE LA RED DE TELECOMUNICACIONES DE CELEC EP – TRANSELECTRIC",
+          "amount": 23900,
+          "date": "2025-09-30"
+        }
+      ],
+      "mainField": "Telecomunicaciones"
+    },
+    {
+      "ruc": "1791996747001",
+      "name": "EBTEL CIA. LTDA.",
+      "website": "http://www.ebtel.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "CONAFIPS"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 23376,
+      "bids": 2,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CONAFIPS-2025-01-448191",
+          "operator": "CONAFIPS",
+          "description": "CONTRATACIÓN DE LA SUSCRIPCIÓN DE HERRAMIENTA DE SEGURIDAD DE BASE DE DATOS",
+          "amount": 23375.76,
+          "date": "2025-11-20"
+        }
+      ],
+      "mainField": "TI y software"
+    },
+    {
+      "ruc": "1790885186001",
+      "name": "COMPUTADORES Y EQUIPOS COMPUEQUIP DOS S.A.",
+      "website": "https://www.dos.com.ec/",
+      "city": "QUITO",
+      "sectors": [
+        "Energía",
+        "Finanzas"
+      ],
+      "operators": [
+        "CELEC EP",
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 22300,
+      "bids": 4,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-10185-238940",
+          "operator": "CELEC EP",
+          "description": "CCS ACTUALIZACION SOPORTE Y MATENIMIENTO EQUIPOS TIPO SERVIDOR Y ALMACENAMIENTO OFICINAS ADMINISTRATIVAS",
+          "amount": 22300,
+          "date": "2025-12-22"
+        }
+      ],
+      "mainField": "TI y software",
+      "links": {
+        "linkedin": "https://www.linkedin.com/company/dostecnologia",
+        "instagram": "https://www.instagram.com/dos_.ec",
+        "whatsapp": "https://wa.me/593996312064?text=Hola%2C%20tengo%20una%20consulta.",
+        "about": "Somos DOS, empresa ecuatoriana con 3 décadas de presencia en el mercado y gran experiencia en la planificación, gestión y ejecución de Proyectos de Integración de Servicios de TI.Tenemos presencia en las principales ciud"
+      }
+    },
+    {
+      "ruc": "1790699978001",
+      "name": "TECNIEQUIPOS S.A.",
+      "website": "http://www.tecniequipos.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 1,
+      "awardedAmount": 20903,
+      "bids": 2,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-RE-PU-CELECEP-2026-05072-238940",
+          "operator": "CELEC EP",
+          "description": "TES SERVICIO DE REHABILITACION DEL CONTROLADOR DE DOMINIO PRINCIPAL DEL SISTEMA DE CONTROL DCS FOXBORO EVO DE LA CENTRAL ESMERALDAS II",
+          "amount": 20902.6,
+          "date": "2026-09-18"
+        }
+      ],
+      "mainField": "Automatización y control",
+      "links": {
+        "about": "Somos una compa a que ha liderado por 40 a os proyectos de automatizaci n y control dentro del campo industrial petrolero y el ctrico en el Ecuador"
+      }
+    },
+    {
+      "ruc": "1790043800001",
+      "name": "COHECO S.A.",
+      "website": "http://www.coheco.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 1,
+      "awardedAmount": 20569,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-RE-PU-CELECEP-2026-07038-238940",
+          "operator": "CELEC EP",
+          "description": "TRA SERVICIO DE MANTENIMIENTO DE LOS ASCENSORES MARCA MITSUBISHI DEL EDIFICIO TRANSELECTRIC",
+          "amount": 20568.72,
+          "date": "2026-06-09"
+        }
+      ],
+      "mainField": "Mantenimiento electromecánico",
+      "links": {
+        "careers": [
+          {
+            "label": "Trabaja con nosotros",
+            "url": "https://www.coheco.com/about-us.html#work-with-us"
+          }
+        ],
+        "about": "Descubre soluciones innovadoras en ascensores, escaleras eléctricas y sistemas de accesibilidad con COHECO. Líder en movilidad vertical en Ecuador."
+      }
+    },
+    {
+      "ruc": "1792185483001",
+      "name": "BELECH FIRE & RESCUE CIA. LTDA.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 1,
+      "awardedAmount": 17573,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-LICB-CELECEP-2026-05038-238940",
+          "operator": "CELEC EP",
+          "description": "TES ADQUISICION DE TARJETAS Y PANELES DE CONTROL DE REPUESTOS PARA LOS GABINETES DE CONTROL DE LAS BOMBAS DEL SISTEMA CONTRA INCENDIOS DE LA CENTRAL ESMERALDAS II",
+          "amount": 17572.98,
+          "date": "2026-07-30"
+        }
+      ],
+      "mainField": "Seguridad industrial y electrónica"
+    },
+    {
+      "ruc": "1792711967001",
+      "name": "COMERCIALIZADORA DE TECNOLOGIA NANOTRONIC S.A.",
+      "website": "http://www.nanotroniconline.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 1,
+      "awardedAmount": 14480,
+      "bids": 1,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-CELECEP-2025-11010-238940",
+          "operator": "CELEC EP",
+          "description": "GSR ADQUISICION E IMPLEMENTACION DE SISTEMA DE RESPALDO DE INFORMACION PARA LA CENTRAL HIDROELECTRICA DELSITANISAGUA",
+          "amount": 14480,
+          "date": "2025-07-15"
+        }
+      ],
+      "mainField": "TI y software",
+      "links": {
+        "whatsapp": "https://wa.me/593958988029?text=Hola%2C%20quisiera%20m%C3%A1s%20informaci%C3%B3n%20target=_blank%20rel=noopener%20class=nano-trust-item%20nano-trust-whatsapp",
+        "about": "nanotroniconline"
+      }
+    },
+    {
+      "ruc": "1792535506001",
+      "name": "DIRCOTSP DISTRIBUIDORA Y COMERCIALIZADORA TECHNOLOGY SOLUTION PROVIDER S.A.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 1,
+      "awardedAmount": 10850,
+      "bids": 3,
+      "contracts": [
+        {
+          "ocid": "ocds-5wno2w-SIE-BCE-2026-015-2457",
+          "operator": "Banco Central del Ecuador",
+          "description": "MANTENIMIENTO PREVENTIVO Y CORRECTIVO DE LOS UPS Y TABLEROS ELECTRICOS INSTALADOS EN LOS EDIFICIOS DEL BANCO CENTRAL DEL ECUADOR QUITO Y SANGOLQUI",
+          "amount": 10850,
+          "date": "2026-10-22"
+        }
+      ],
+      "mainField": "Mantenimiento electromecánico"
+    },
+    {
+      "ruc": "0992358262001",
+      "name": "ACRETI S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP",
+        "CNEL EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico",
+        "Seguridad industrial y electrónica",
+        "Telecomunicaciones",
+        "Automatización y control",
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 11,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0992182490001",
+      "name": "GOLDENTIME S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP",
+        "CNEL EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico",
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 6,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1891765238001",
+      "name": "SOLUCIONES Y SERVICIOS ELECTROMECANICOS INTEGRALES ESCOBAR & ASOCIADOS SSEI CIA. LTDA.",
+      "website": null,
+      "city": "AMBATO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP",
+        "CNEL EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 5,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0992362464001",
+      "name": "SEIUS S.A.",
+      "website": "http://www.seius.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones",
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 4,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "whatsapp": "https://wa.me/593998238584?text=Hola,%20quisiera%20m%C3%A1s%20informaci%C3%B3n.",
+        "about": "This is the homepage of the website"
+      }
+    },
+    {
+      "ruc": "1793199776001",
+      "name": "SINERGIST S.A.S.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico",
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 4,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1891811423001",
+      "name": "SUPROCEL S.A.S.",
+      "website": null,
+      "city": "AMBATO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 4,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1791903129001",
+      "name": "ELSYSTEC S.A.",
+      "website": "http://www.elsystec.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones",
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 4,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "about": "Sitio web de Elsystec S.A."
+      }
+    },
+    {
+      "ruc": "1791254511001",
+      "name": "BKB MAQUINARIA INDUSTRIAL CIA. LTDA.",
+      "website": "https://bkbmaquinaria.com/",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico",
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 4,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "facebook": "https://www.facebook.com/BKB-Maquinaria-1057062921018009",
+        "x": "https://twitter.com/BkbMaquinariaIn",
+        "instagram": "https://www.instagram.com/bkb_maquinaria",
+        "linkedin": "https://www.linkedin.com/company/bkb-maquinaria-industrial",
+        "youtube": "https://www.youtube.com/channel/UC0QPWKdr8b3zzZ5f2vyD60Q",
+        "about": "Descubre la mejor calidad en maquinaria industrial. Ofrecemos soluciones integrales para tus necesidades industriales. Contáctanos hoy mismo."
+      }
+    },
+    {
+      "ruc": "1792186366001",
+      "name": "ESPINOSA & LEHRER CIA. LTDA.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP",
+        "CNEL EP"
+      ],
+      "fields": [
+        "Telecomunicaciones",
+        "Mantenimiento electromecánico",
+        "TI y software",
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 4,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1791839595001",
+      "name": "SURGE INGENIERIA CIA. LTDA",
+      "website": "http://www.surge.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía",
+        "Finanzas"
+      ],
+      "operators": [
+        "CELEC EP",
+        "BanEcuador",
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "TI y software",
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 4,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "about": "Descubre cómo SURGE Ingeniería ofrece soluciones integrales para infraestructura tecnológica confiable. Calidad garantizada para infraestructuras robustas y escalables en energía, climatización, comunicaciones, seguridad"
+      }
+    },
+    {
+      "ruc": "1792237416001",
+      "name": "OPTYTECH TECNOLOGIAS DE TELECOMUNICACIONES CIA. LTDA.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 3,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1793207316001",
+      "name": "AILID IMPORTADORA S.A.S. B.I.C.",
+      "website": "http://www.ailid.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones",
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 3,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1790712818001",
+      "name": "IMPORTADORA MURGUEYTIO YEPEZ CIA. LTDA.",
+      "website": "http://www.dwc-store.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 3,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0791835682001",
+      "name": "IMSEN ECUADOR S.A.S.",
+      "website": null,
+      "city": "EL GUABO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 3,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792422426001",
+      "name": "GREENDC S.A.",
+      "website": "http://www.greendc.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía",
+        "Finanzas"
+      ],
+      "operators": [
+        "CELEC EP",
+        "BIESS"
+      ],
+      "fields": [
+        "Telecomunicaciones",
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 3,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "linkedin": "https://www.linkedin.com/company/greendc-s-a",
+        "about": "Quienes somosSomos una empresa de tecnología, con enfoque en productos y servicios en el campo de la infraestructura tecnológica, ciberseguridad y telecomunicaciones.Conoce másConoce másReporte Fortinet SD-WANFortinet es"
+      }
+    },
+    {
+      "ruc": "1793201843001",
+      "name": "INNOVATI-TECNOLOGIAS S.A.S.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía",
+        "Finanzas"
+      ],
+      "operators": [
+        "CELEC EP",
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "TI y software",
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 3,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1791727835001",
+      "name": "KEOPSPOWER CIA. LTDA.",
+      "website": "http://www.keopspower.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía",
+        "Finanzas"
+      ],
+      "operators": [
+        "CELEC EP",
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "TI y software",
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 3,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "facebook": "https://www.facebook.com/profile.php?id=100072875725299",
+        "instagram": "https://www.instagram.com/keopspower",
+        "linkedin": "https://www.linkedin.com/company/keopspower-cia-ltda",
+        "x": "https://x.com/KeopsPower",
+        "youtube": "https://www.youtube.com/@keopspower",
+        "whatsapp": "https://wa.me/593987099530",
+        "about": "Somos una empresa experimentada en diseño, implementación y mantenimiento de equipos de infraestructura en una área crítica o Data Centers."
+      }
+    },
+    {
+      "ruc": "1890108241001",
+      "name": "ECUATORIANA DE MATRICERIA ECUAMATRIZ CIA LTDA",
+      "website": "http://www.ecuamatriz.com",
+      "city": "AMBATO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 3,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "careers": [
+          {
+            "label": "TRABAJA CON NOSOTROS",
+            "url": "https://www.ecuamatriz.com/trabaja-con-nosotros/"
+          }
+        ],
+        "facebook": "https://www.facebook.com/ecuamatriz",
+        "instagram": "https://www.instagram.com/ecuamatriz",
+        "linkedin": "https://www.linkedin.com/company/11030959/admin/feed/posts",
+        "tiktok": "https://www.tiktok.com/@ecuamatriz?_t=8mb6WA9OsJT&_r=1",
+        "about": "Ecuamatriz diseña, fabrica y comercializa productos de metal y plástico de la más alta calidad, personalizados con tecnología de vanguardia."
+      }
+    },
+    {
+      "ruc": "1791254791001",
+      "name": "SONDA DEL ECUADOR ECUASONDA S.A.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "BanEcuador",
+        "BIESS"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 3,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1791412478001",
+      "name": "CONENERGY S.A. CONTROL Y ENERGIA",
+      "website": "http://www.conenergysa.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1793163440001",
+      "name": "ALCAMO INDUSTRIAL Y COMERCIAL S.A.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1790008959001",
+      "name": "ACERO COMERCIAL ECUATORIANO S.A.",
+      "website": "http://www.acerocomercial.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "careers": [
+          {
+            "label": "Empleos",
+            "url": "http://www.acerocomercial.com/jobs"
+          }
+        ],
+        "tiktok": "https://www.tiktok.com/@acero_comercial_ec",
+        "whatsapp": "https://wa.me/593958640698",
+        "about": "Venta de bombas de agua, repuestos para bombas de agua, herramientas, maquinaria, válvulas y equipos para construcción, industria, agroindustria, minería y petróleo. Asesoría y servicio técnico especializado en: Ridgid, "
+      }
+    },
+    {
+      "ruc": "0691773094001",
+      "name": "ORGANIZACION TECNICA COMERCIAL ORGATEC-AP S.A.",
+      "website": "http://www.orgatec-ec.com",
+      "city": "RIOBAMBA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "about": "ORGATEC-AP S.A | Distribuidor de Material Eléctrico"
+      }
+    },
+    {
+      "ruc": "0991414827001",
+      "name": "MICROSOLUTIONS S.A.",
+      "website": "http://www.microsolutions-sa.com",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control",
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "facebook": "https://www.facebook.com/lcaminoc",
+        "x": "https://twitter.com/msolutions_sa?lang=es",
+        "linkedin": "https://ec.linkedin.com/company/microsolutions-sa",
+        "about": "Microsolutions S. A. - agregamos valor a la tecnologia!"
+      }
+    },
+    {
+      "ruc": "0993283657001",
+      "name": "KAYCONSYSTECSLA S.A.",
+      "website": "http://www.kaylacontrolsystem.com",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0190323013001",
+      "name": "PATHPROFIT S.A.",
+      "website": "http://www.sensorvital.com",
+      "city": "CUENCA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792514576001",
+      "name": "INNOVATECIS CIA. LTDA.",
+      "website": "http://www.innovatec.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "whatsapp": "https://wa.me/593990233233?text=Hola%20Innovatec%2C%20quisiera%20informaci%C3%B3n%20sobre%20calibraci%C3%B3n.",
+        "linkedin": "https://www.linkedin.com/company/innovatec-industrial-solutions",
+        "facebook": "https://www.facebook.com/innovatec.ec",
+        "instagram": "https://www.instagram.com/innovatec.ec",
+        "x": "https://x.com/InnovatecEC",
+        "youtube": "https://www.youtube.com/@INNOVATECIndustrialSolutions",
+        "about": "Laboratorio de calibración acreditado ISO/IEC 17025 (A2LA). Presión, temperatura, masa, eléctrica y más, con trazabilidad. Ecuador, Panamá, Canadá y EE. UU."
+      }
+    },
+    {
+      "ruc": "1791738845001",
+      "name": "ANDEANTRADE S.A.",
+      "website": "http://www.andeantrade.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía",
+        "Finanzas"
+      ],
+      "operators": [
+        "CELEC EP",
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "Telecomunicaciones",
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "careers": [
+          {
+            "label": "Trabaja con nosotros",
+            "url": "https://www.andeantrade.com/trabaja-con-nosotros/"
+          },
+          {
+            "label": "Empleo",
+            "url": "http://www.andeantrade.com/trabaja-con-nosotros/"
+          }
+        ],
+        "facebook": "https://www.facebook.com/AndeanTradeSA",
+        "x": "https://twitter.com/@andeantrade",
+        "linkedin": "https://www.linkedin.com/company/10567130",
+        "about": "Andeantrade"
+      }
+    },
+    {
+      "ruc": "1791950852001",
+      "name": "CIEMTELCOM COMPAÑIA DE TELECOMUNICACIONES SATELITALES S.A.",
+      "website": "http://www.ciemtelcom.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones",
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1790383598001",
+      "name": "CELCO CIA. LTDA.",
+      "website": "https://celco.com.ec/",
+      "city": "QUITO",
+      "sectors": [
+        "Energía",
+        "Finanzas"
+      ],
+      "operators": [
+        "CELEC EP",
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "Telecomunicaciones",
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "facebook": "https://www.facebook.com/ProteccionElectrica.UPS",
+        "x": "https://twitter.com/CelcoEcuador",
+        "instagram": "https://www.instagram.com/celcoecuador",
+        "about": "CELCO | UPS Baterías Cableado Centros de Cómputo"
+      }
+    },
+    {
+      "ruc": "1792958717001",
+      "name": "PROJECT SERVICE MISTEC CIA.LTDA.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía",
+        "Finanzas"
+      ],
+      "operators": [
+        "CELEC EP",
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "Telecomunicaciones",
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792521963001",
+      "name": "GENSMOTORS CIA. LTDA.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1791863984001",
+      "name": "DISETEC COMPAÑIA LIMITADA",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones",
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1791189159001",
+      "name": "ALTA TENSION ALTATEN S.A.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP",
+        "CNEL EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica",
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1891809702001",
+      "name": "LACOV S.A.",
+      "website": null,
+      "city": null,
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1191746712001",
+      "name": "MEGACLIMA CIA LTDA",
+      "website": null,
+      "city": "LOJA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica",
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0991385568001",
+      "name": "OFERSERVI S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1793240024001",
+      "name": "FLOMEQ INDUSTRIAL S.A.S.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control",
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792356326001",
+      "name": "RAFAEL VASQUEZ RAMIREZ TRANSFORMADORES CIA. LTDA.",
+      "website": "http://www.rvrtransformadores.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "whatsapp": "https://wa.me/593981416544",
+        "facebook": "https://www.facebook.com/rvrtrafo",
+        "linkedin": "https://www.linkedin.com/company/rvrtransformadores",
+        "about": "“RVR Transformadores CIA LTDA”, tiene más de 30 años de experiencia en el mercado de fabricación, reparación, mantenimiento y pruebas de transformadores,"
+      }
+    },
+    {
+      "ruc": "0992375906001",
+      "name": "REDES S.A. REDESA",
+      "website": "http://www.redesa.ec",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792199387001",
+      "name": "ITSEGUINFO CIA. LTDA.",
+      "website": "http://www.inforc.lat",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "TI y software",
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "instagram": "https://www.instagram.com/inforcecuador",
+        "facebook": "https://www.facebook.com/inforcecuador?locale=es_LA",
+        "linkedin": "https://www.linkedin.com/company/inforc-ecuador/?viewAsMember=true",
+        "youtube": "https://www.youtube.com/@inforcecuador20",
+        "about": "Soluciones avanzadas de ciberseguridad para empresas en Ecuador. Proteja su infraestructura con IA, XDR, SOC y Threat Intelligence. Contáctenos hoy."
+      }
+    },
+    {
+      "ruc": "1792613523001",
+      "name": "T&GSIMPLECOM CIA LTDA",
+      "website": "http://www.itsistemas.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "TI y software",
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "facebook": "https://www.facebook.com/ITSistemasUIO",
+        "instagram": "https://www.instagram.com/it.sistemas/?hl=es-la",
+        "linkedin": "https://www.linkedin.com/company/t-g-simplecom-itsistemas/mycompany",
+        "about": "En itsistemas ofrecemos ciberseguridad integral, infraestructura tecnológica, backups en nube Office 365, antimalware y más. Fortalecemos la seguridad digital de tu organización con tecnología avanzada y atención persona"
+      }
+    },
+    {
+      "ruc": "0993262420001",
+      "name": "COMUNICACIONES, ELECTRICIDAD Y PROYECTOS COMELPRO S.A.",
+      "website": "http://www.comelprosa.com",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "careers": [
+          {
+            "label": "TRABAJA CON NOSOTROS",
+            "url": "https://comelprosa.com/trabaja-con-nosotros/"
+          }
+        ],
+        "facebook": "https://www.facebook.com/Comelpro-SA-111554957272794",
+        "instagram": "https://www.instagram.com/comelpro_ec",
+        "about": "COMELPRO S.A. Soluciones Estratégicas"
+      }
+    },
+    {
+      "ruc": "0992650885001",
+      "name": "EASYMETERING S.A.",
+      "website": "https://easymetering.com",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "about": "Revolutionizing the Grid Edge"
+      }
+    },
+    {
+      "ruc": "1793206955001",
+      "name": "MAICROTRONIC S.A.S.",
+      "website": "https://maicrotronic.com/",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0993396774001",
+      "name": "TECNIVOLT S.A.S.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0791728762001",
+      "name": "AUSTROELECTRIC S A",
+      "website": null,
+      "city": "MACHALA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792491606001",
+      "name": "SOLUCIONES DE INFRAESTRUCTURA TECNOLOGICA SOLINPOWER CIA. LTDA.",
+      "website": "http://www.solinpower.com",
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 2,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792884926001",
+      "name": "INNOVA NEXPA S.A.",
+      "website": "http://www.nexpa.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "careers": [
+          {
+            "label": "Trabaja con Nosotros",
+            "url": "https://www.nexpa.com.ec/cont%C3%A1ctenos/trabaja-con-nosotros"
+          }
+        ],
+        "about": "NEXPA – NEXPAOIL Specialty Products for the Telecommunications and Oilfield Industries. NEXPA is driven to sell products and tools that increase the productivity of engineers and operators in the Telecommunications and O"
+      }
+    },
+    {
+      "ruc": "1790155102001",
+      "name": "CASTILLO HERMANOS S.A.",
+      "website": "http://www.castillohermanos.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "x": "https://twitter.com/Castillo_Hnos?ref_src=twsrc%5Etfw",
+        "about": "Inicio - Castillo Hermanos"
+      }
+    },
+    {
+      "ruc": "0992111976001",
+      "name": "LAYOSA S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792337992001",
+      "name": "IMPORTADORA FERPROC MP CIA LTDA",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1790990842001",
+      "name": "HDM ELQUITECNICA CIA. LTDA.",
+      "website": "http://www.hdm-elquitecnica.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "facebook": "https://www.facebook.com/people/Hdm-Elquit%C3%A9cnica/pfbid0KYGAvCajZqxdbXDPLSSn4B5kjshsc1Esh6dqDjg5rC91ntjdJz82EKsJX9VSQgVAl",
+        "about": "¡Construimos el ADN del éxito! Click Aquí Click Aquí Click Aquí Click Aquí Click Aquí Click Aquí Click Aquí Click [ ]"
+      }
+    },
+    {
+      "ruc": "1792105331001",
+      "name": "METROLOGIC S.A.",
+      "website": "http://www.metrologic.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "careers": [
+          {
+            "label": "Trabaja con Nosotros",
+            "url": "https://www.metrologic.com.ec/trabaje-con-nosotros/"
+          }
+        ],
+        "whatsapp": "https://web.whatsapp.com/send?phone=593967494885&text=Hola%20requiero%20m%C3%A1s%20informaci%C3%B3n%2C%20gracias.",
+        "tiktok": "https://www.tiktok.com/@metrologic.sa.cal",
+        "facebook": "https://www.facebook.com/metrologic",
+        "linkedin": "https://www.linkedin.com/company/metrologic-s-a",
+        "instagram": "https://www.instagram.com/metrologic_sa",
+        "about": "Laboratorio de calibración, ensayos y organismo de inspección acreditado por el SAE en Ecuador. Servicios técnicos acreditados y venta de equipos de medición."
+      }
+    },
+    {
+      "ruc": "1791403916001",
+      "name": "ENERGYPETROL S.A.",
+      "website": "http://www.energypetrol.net",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "careers": [
+          {
+            "label": "Trabaja con nosotros 05",
+            "url": "https://www.energypetrol.net/index.php/welcome/trabaja"
+          }
+        ],
+        "facebook": "https://www.facebook.com/profile.php?id=100046602356939&locale=es_LA",
+        "instagram": "https://www.instagram.com/energypetrol_sa?igsh=dGlxMmF3ZTIwMDEz",
+        "youtube": "https://www.youtube.com/@energypetrols.a.5121",
+        "linkedin": "https://www.linkedin.com/company/energypetrol/about",
+        "whatsapp": "https://wa.me/593958920430",
+        "x": "https://x.com/energypetrolsa?s=11",
+        "about": "Energypetrol"
+      }
+    },
+    {
+      "ruc": "1792190223001",
+      "name": "CONSTRUTEINCO S.A",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0190486036001",
+      "name": "COMERCIALIZADORA GLOBE INDUSTRIES GLOBEINDSA S.A.",
+      "website": "http://https//www.globeindustriesec.com",
+      "city": "CUENCA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1791914589001",
+      "name": "ENERGY THINK TANK ETT C.A.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0992590432001",
+      "name": "IELMESA S.A. INGENIERIA ELECTRICA Y MECANICA",
+      "website": "http://www.ielmesa.com",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "about": "IELMESA S.A."
+      }
+    },
+    {
+      "ruc": "1891811139001",
+      "name": "DCAC ENERGY AND CONSTRUCTION-SOLUTION S.A.S.",
+      "website": null,
+      "city": "BAÑOS DE AGUA SANTA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "2191774804001",
+      "name": "GLOBAL INDUSTRIES INPORT CONSTRUCTION-DLC S.A.S.",
+      "website": null,
+      "city": "LAGO AGRIO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0991453512001",
+      "name": "IMPERHOUSE S.A.",
+      "website": "http://www.imperhouse.net",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "about": "IMPERHOUSE"
+      }
+    },
+    {
+      "ruc": "0992687002001",
+      "name": "MANTENIMIENTO CONSTRUCCION Y SERVICIOS INDUSTRIALES S.A. MACONSISA",
+      "website": null,
+      "city": null,
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792042089001",
+      "name": "PUMAOIL CONSTRUCTIONS S.A.",
+      "website": "http://www.pumaoil.net",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0190314502001",
+      "name": "TELECOMAUSTRO, INGENIERIA EN TELECOMUNICACIONES DEL AUSTRO CIA. LTDA.",
+      "website": null,
+      "city": "CUENCA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0992369361001",
+      "name": "COMPUCIMA S.A.",
+      "website": "http://www.compucima.com.ec",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "facebook": "https://www.facebook.com/compucima",
+        "youtube": "https://www.youtube.com/channel/UCK8k3EH23oLBgHPxiIFwIUA/featured",
+        "linkedin": "https://www.linkedin.com/company/compucima-ecuador",
+        "instagram": "https://www.instagram.com/compucima",
+        "about": "En Compucima Ecuador ofrecemos soluciones integrales en seguridad electrónica, telecomunicaciones y TI, diseñadas para proteger y optimizar tu empresa."
+      }
+    },
+    {
+      "ruc": "0993331333001",
+      "name": "GIOFAT S.A.S.",
+      "website": "http://www.giofat.com",
+      "city": "DAULE",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "about": "GioF@t Innovación Tecnologica, en la era digital"
+      }
+    },
+    {
+      "ruc": "1791926226001",
+      "name": "TELEWEI S.A.",
+      "website": "http://www.telewei.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {}
+    },
+    {
+      "ruc": "0190152170001",
+      "name": "SYSROB S.A.",
+      "website": "http://www.sysrob.com/",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software",
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "about": "SYSROB - Soluciones Integrales, Innovación Sustentable y Ciencia de Datos aplicada en decisiones estratégicas. Asesoría e intermediación en proyectos de alto impacto."
+      }
+    },
+    {
+      "ruc": "1792262402001",
+      "name": "INNOVATRONICA S.A.",
+      "website": "http://www.innovatronica.com.ec/",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "linkedin": "https://linkedin.com/company/innovatronica-s-a",
+        "whatsapp": "https://wa.me/593987759648?text=%C2%A1Hola!%20Me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n."
+      }
+    },
+    {
+      "ruc": "0190354474001",
+      "name": "GALVANICA CIA. LTDA.",
+      "website": null,
+      "city": "CUENCA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0993400585001",
+      "name": "NOVERIK S.A.S.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1791399846001",
+      "name": "GLOBAL TRADING ELECTRIC GLOBALELECTRIC S.A.",
+      "website": "http://www.globalelectric.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1791434595001",
+      "name": "INDUSTRIAS METALICAS VERGARA INDUMEVER CIA. LTDA.",
+      "website": "http://www.indumever.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "facebook": "https://www.facebook.com/indumeverec",
+        "instagram": "https://www.instagram.com/indumeverec",
+        "linkedin": "https://www.linkedin.com/company/indumever-cia-ltda",
+        "about": "Somos fabricantes y distribuidores de herrajes para fibra óptica y accesorios para agua potable elaborados en acero A36 e inoxidable"
+      }
+    },
+    {
+      "ruc": "1792182379001",
+      "name": "FABRICACION Y DISTRIBUCION DE HERRAJES ELECTRICOS FADHELEC CIA.LTDA",
+      "website": "http://www.fadhelec.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "careers": [
+          {
+            "label": "TRABAJA CON NOSOTROS",
+            "url": "https://fadhelec.com.ec/trabaja-con-nosotros/"
+          }
+        ],
+        "instagram": "https://www.instagram.com/fadheleccia?igsh=MWF4OXAxMm1tenh5Nw==",
+        "tiktok": "https://www.tiktok.com/@fadhelec?_t=ZM-90DregLNSiR&_r=1",
+        "about": "Descubre los servicios de Fadhelec, una empresa dedicada a soluciones eléctricas eficientes y de calidad. Conoce más sobre fadhelec cia ltda."
+      }
+    },
+    {
+      "ruc": "1792528518001",
+      "name": "SISTELNETWRK S.A",
+      "website": "https://www.sistelnetwrk.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0993023345001",
+      "name": "PROYECTOS DE INGENIERIA Y MANTENIMIENTO ELECTRICO INDUSTRIAL ALPROTEC S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1793216351001",
+      "name": "IDEPSAS IMPORT CONSTRUCTION DESIGN AND PROJECT ENGINEERING S.A.S.",
+      "website": "http://www.idepsas.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0992914602001",
+      "name": "ASESORES E IMPORTADORES DE MATERIALES INDUSTRIALES INDUSDEAL S.A.",
+      "website": "http://www.indusdealsa.com",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0992957875001",
+      "name": "SUQUIDAN TECHNICAL SERVICES CIA.LTDA.",
+      "website": "http://www.stsanalytic.com",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "whatsapp": "https://wa.me/593959548565"
+      }
+    },
+    {
+      "ruc": "1792507588001",
+      "name": "ELLOIL CIA. LTDA.",
+      "website": "http://www.elloil.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "linkedin": "https://www.linkedin.com/company/elloil/?originalSubdomain=ec",
+        "instagram": "https://www.instagram.com/elloil_ec",
+        "whatsapp": "https://wa.me/593991983391",
+        "about": "Conoce nuestros Productos & Servicios Industriales. Descubre soluciones avanzadas en los sectores de Oil&Gas, energía y más con Elloil."
+      }
+    },
+    {
+      "ruc": "2293525822001",
+      "name": "PTCENERGY S.A.S.",
+      "website": null,
+      "city": "FRANCISCO DE ORELLANA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792092108001",
+      "name": "PLASTILIMPIO S.A.",
+      "website": "http://www.plastilimpio.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "careers": [
+          {
+            "label": "Trabaja con Nosotros",
+            "url": "https://plastilimpio.com.ec/index.php/trabaja-con-nosotros/"
+          }
+        ],
+        "about": "Plastilimpio S.A."
+      }
+    },
+    {
+      "ruc": "1792036380001",
+      "name": "SEDIELEK CIA. LTDA",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792852315001",
+      "name": "VIASSEN C.A.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0993302929001",
+      "name": "ENERGY BUILDING VIP ENERPING S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1791400097001",
+      "name": "ALMEIDA, VILLAVICENCIO, SORIA, INGENIERIA CIA. LTDA.",
+      "website": "http://www.avsingenieria.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "linkedin": "https://www.linkedin.com/company/avs-ingenieria-cia-ltda",
+        "instagram": "https://www.instagram.com/avs.ingenieria/?hl=es",
+        "x": "https://twitter.com/avsingenieria?lang=es",
+        "about": "En AVS Ingeniería somos expertos, ofrecemos servicios de ingeniería industrial de alta calidad, adaptados a las necesidades específicas de cada cliente."
+      }
+    },
+    {
+      "ruc": "1793211157001",
+      "name": "HYDRAULIC-SMART S.A.S.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792631025001",
+      "name": "FASSNETWORK CIA LTDA",
+      "website": "http://www.fastertec.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "about": "Fastertec Soluciones Tecnológicas Soporte y Mantenimiento de Infraestructura a medida del cliente. Consultoría, diseño y transformación."
+      }
+    },
+    {
+      "ruc": "0791821142001",
+      "name": "SYSPOWENERGY S.A.",
+      "website": null,
+      "city": "MACHALA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1793136184001",
+      "name": "PROYECTOS & CONSTRUCCIONES FIMARPRO S.A.S.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0992800313001",
+      "name": "CONSULTORIA DE PROCESOS S.A. PROCESOLVER",
+      "website": "http://www.procesolver.com",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1791434846001",
+      "name": "EXTINTEC CIA. LTDA.",
+      "website": "http://www.extintec.com.ec",
+      "city": "RUMIÑAHUI",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "linkedin": "https://ec.linkedin.com/company/extintec-cia-ltda",
+        "about": "Soluciones contra incendios en Ecuador: sistemas, extintores, instalación y mantenimiento profesional."
+      }
+    },
+    {
+      "ruc": "1891777074001",
+      "name": "EDETEC-INGENIERIA CIA.LTDA.",
+      "website": null,
+      "city": "BAÑOS DE AGUA SANTA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1891794599001",
+      "name": "LEBON-CONSTRUHYDRO S.A.",
+      "website": "https://lebonconstruhydro.com",
+      "city": "AMBATO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "about": "Lebon Construhydro Ingeniería Mecánica, Eléctrica y Civil en Ecuador"
+      }
+    },
+    {
+      "ruc": "1793220553001",
+      "name": "SKYLAR VENTURES S.A.S.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "2490034415001",
+      "name": "ELECSANT S A",
+      "website": null,
+      "city": "SANTA ELENA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0993377638001",
+      "name": "SEGUREXT SIM S.A.S.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0992658010001",
+      "name": "MUNDO SANO MULTIPLAGA S.A.",
+      "website": "https://mundosanomultiplagas.com/",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "whatsapp": "https://api.whatsapp.com/send?phone=593980407602",
+        "facebook": "https://www.facebook.com/mundosanomsm",
+        "instagram": "https://www.instagram.com/mundosanomsm",
+        "about": "Mundo Sano Multi Plagas Mundo Sano Multiplagas"
+      }
+    },
+    {
+      "ruc": "0992467843001",
+      "name": "DISEÑO E INSTALACIONES TELEFONICAS Y ELECTRICAS DINSTELEC S.A.",
+      "website": "http://www.dinstelec.com",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "facebook": "https://www.facebook.com/profile.php?id=100083181257972",
+        "instagram": "https://www.instagram.com/dinstelec",
+        "about": "Dinstelec Ingeniería en Telecomunicación, Eléctrica y Construcción"
+      }
+    },
+    {
+      "ruc": "1891750028001",
+      "name": "FULL TECNOLOGIA FULLTEC CIA. LTDA.",
+      "website": null,
+      "city": null,
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792345731001",
+      "name": "CENDIPARTS CIA. LTDA.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792481066001",
+      "name": "AMPER ECUADOR S.A. AMPERSA",
+      "website": "https://amperecuador.com/",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "youtube": "https://www.youtube.com/channel/UCHvgm7YzZ_SYTSGKLOu9llg",
+        "about": "— AMPER X Group · Ecuador Soluciones energéticas para Misión Crítica en Ecuador Generadores, sistemas UPS, baterías y climatización de precisión. Ahora, también soluciones de media tensión para proteger y automatizar su "
+      }
+    },
+    {
+      "ruc": "1791772229001",
+      "name": "TECNOPLUS CIA. LTDA.",
+      "website": "http://www.tecnoplus-ec.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1793099378001",
+      "name": "CLOUD BUSINESS & SOLUTIONS CLOUDBUSINESS CIA.LTDA.",
+      "website": "http://www.cloudbusiness.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "facebook": "https://www.facebook.com/CloudBusinessCBS",
+        "linkedin": "https://www.linkedin.com/company/cloudbusinesscbs",
+        "instagram": "https://www.instagram.com/cloudbusiness.solutions",
+        "youtube": "https://www.youtube.com/@CloudBusiness-Solutions",
+        "whatsapp": "https://api.whatsapp.com/send?phone=593967951298&text=Hola%2C+necesito+m%C3%A1s+informaci%C3%B3n.",
+        "about": "Potencia tu empresa con soluciones digitales seguras y personalizadas. Certificados en calidad y seguridad para brindarte resultados reales."
+      }
+    },
+    {
+      "ruc": "0993381303001",
+      "name": "MVN-SOLUCIONES INDUSTRIALES S.A.S.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1793136117001",
+      "name": "BEETECH S.A.S.",
+      "website": "http://www.beetech.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "about": "BeeTech Mejores soluciones tecnológicas"
+      }
+    },
+    {
+      "ruc": "0992571829001",
+      "name": "REDITELSA C.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1391925220001",
+      "name": "BEAT S.A.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1793212958001",
+      "name": "INTEGRATEC&EQUIPMENT S.A.S.",
+      "website": "http://www.integratec.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CELEC EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "facebook": "https://www.facebook.com/integratec.ecuador",
+        "linkedin": "https://www.linkedin.com/company/integratec-equipment",
+        "instagram": "https://www.instagram.com/integratec.ec",
+        "about": "En Integratec & Equipment, ofrecemos soluciones tecnológicas avanzadas en Ecuador. Con el respaldo de marcas líderes."
+      }
+    },
+    {
+      "ruc": "1791828291001",
+      "name": "SMA SISTEMAS MODULARES AURON S.A.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792296730001",
+      "name": "INDUSTRIA FERROMEDICA CIA LIMITADA",
+      "website": "http://www.ferromedica.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1793209001001",
+      "name": "INDUSTRIA MOBILIARIA FERRONOPAL S.A.S.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1791734920001",
+      "name": "SEDEMI SERVICIOS DE MECANICA INDUSTRIAL DISENO CONSTRUCCION Y MONTAJE S.C.C.",
+      "website": "http://www.sedemi.com",
+      "city": "RUMIÑAHUI",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "careers": [
+          {
+            "label": "Trabaja con Nosotros",
+            "url": "https://kairosia.sedemi.com/portal"
+          }
+        ],
+        "whatsapp": "https://api.whatsapp.com/send?phone=593999664501&text=Requiero%20m%C3%A1s%20informaci%C3%B3n.",
+        "facebook": "https://www.facebook.com/SEDEMIEc",
+        "x": "https://twitter.com/sedemiec",
+        "linkedin": "https://ec.linkedin.com/company/sedemi-scc",
+        "instagram": "https://www.instagram.com/sedemiec/?hl=es",
+        "youtube": "https://www.youtube.com/@SedemiSCC",
+        "about": "Soluciones a la Medida para Proyectos de Infraestructura. Ingeniería, Procura, Logística y Construcción de Proyectos de Infraestructura."
+      }
+    },
+    {
+      "ruc": "0195094969001",
+      "name": "PHS S.A.S.",
+      "website": null,
+      "city": "CUENCA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792018080001",
+      "name": "SOLUCIONES VIRTUALES E INFRAESTRUCTURA TECNOLOGICA VIRTUALIT S.A.",
+      "website": "http://www.virtualit.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "facebook": "https://www.facebook.com/ecVirtualIt",
+        "x": "https://twitter.com/ecvirtualit",
+        "linkedin": "https://www.linkedin.com/company/virtualit-ecuador",
+        "about": "Somos los expertos en soluciones de virtualización de servidores e hiperconvergencia para los centros de datos modernos."
+      }
+    },
+    {
+      "ruc": "1792534798001",
+      "name": "NOVIGOTEK CIA LTDA",
+      "website": "http://www.novigotek.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "whatsapp": "https://wa.me/593995064043?text=Holaestoyinteresadoenobtenermsinformacin.",
+        "linkedin": "https://www.linkedin.com/company/novigotek",
+        "x": "https://twitter.com/novigotek",
+        "about": "Novigotek: empresa de ciberseguridad en Ecuador y LATAM. SOC 24/7, ethical hacking, respuesta a incidentes, ISO 27001 y cumplimiento LOPDP. Diagnóstico gratuito."
+      }
+    },
+    {
+      "ruc": "0993393836001",
+      "name": "TECNOLERS S.A.S.",
+      "website": null,
+      "city": "SAMBORONDON",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1791984625001",
+      "name": "MARSED SERVICIOS ASISTENCIA Y DISTRIBUCIONES S.A.",
+      "website": "http://www.marsed.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "facebook": "https://www.facebook.com/marsed.sa.1",
+        "about": "MARSED S.A. ofrece servicios técnicos especializados de monitoreo y control de servicios públicos domiciliarios, con soluciones tecnológicas integradoras e innovadoras."
+      }
+    },
+    {
+      "ruc": "1792500354001",
+      "name": "SERVICIOS TECNOLOGICOS AVANZADOS INFORMATICOS Y NEGOCIOS SERVTAIN CIA. LTDA.",
+      "website": "http://www.servtain.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0190409058001",
+      "name": "TECHSYSTEMS CIA. LTDA.",
+      "website": null,
+      "city": "CUENCA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0993384732001",
+      "name": "TWAINA TECH S.A.S.",
+      "website": "https://twainatech.com",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "about": "Twaina Tech es una empresa de tecnolgía radicada en Guayaquil"
+      }
+    },
+    {
+      "ruc": "0791710049001",
+      "name": "ADC COMPUTER CIA LTDA",
+      "website": null,
+      "city": "MACHALA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0992749962001",
+      "name": "TELENERGY C. LTDA.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792503558001",
+      "name": "INDUSTRIAL SALES & SERVICES COOTERSINDSALE CIA. LTDA.",
+      "website": "http://www.cootersind.com",
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "facebook": "https://www.facebook.com/profile.php?id=100063539893936&mibextid=LQQJ4d",
+        "instagram": "https://instagram.com/cooters_ind?igshid=MzRlODBiNWFlZA==",
+        "whatsapp": "https://wa.me/593993682877?text=Hola%2C%20quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sus%20servicios.",
+        "about": "Empresa ecuatoriana de ingeniería eléctrica: líneas energizadas, subestaciones y líneas eléctricas hasta 230 kV. Calidad certificada ISO 9001:2015."
+      }
+    },
+    {
+      "ruc": "0992740930001",
+      "name": "APERTURAWORLD S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Seguridad industrial y electrónica"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0992849355001",
+      "name": "ASPICONSA S.A.",
+      "website": null,
+      "city": "QUININDE",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0991297480001",
+      "name": "ALEMINSA S.A.",
+      "website": "http://www.aleminsa.com",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "TI y software",
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "about": "Club Royale Quito ecuador Dann Carlton Hotel"
+      }
+    },
+    {
+      "ruc": "1792919568001",
+      "name": "ARCA ENERGIES ARCAENERGIES S.A.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "TI y software",
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0993048275001",
+      "name": "CLOUD SOLUCIONES CLOUDSOLSA S.A.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control",
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0195116741001",
+      "name": "ASLAN-IOT S.A.S.",
+      "website": null,
+      "city": "CUENCA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1391936324001",
+      "name": "MANYRAKSA SOCIEDAD  POR ACCIONES SIMPLIFICADA",
+      "website": null,
+      "city": "MANTA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0993396097001",
+      "name": "INSTRUEDU S.A.S.",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Telecomunicaciones"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0992833971001",
+      "name": "ELECTRICA DEL ECUADOR S.A. ELECTRIECU",
+      "website": null,
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0992401818001",
+      "name": "VIRTUALMEDIA S.A.",
+      "website": "http://www.virtualmedia.com.ec",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "facebook": "https://facebook.com/Virtuamedia-105238878243938",
+        "x": "https://twitter.com/virtualmedia9"
+      }
+    },
+    {
+      "ruc": "0190404188001",
+      "name": "INNOVACION TECNOLOGICA INNOVASEET CIA. LTDA.",
+      "website": null,
+      "city": "CUENCA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "CNEL EP"
+      ],
+      "fields": [
+        "Automatización y control"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0190490106001",
+      "name": "CONSTRUCTORA EMPOSTE S.A.S.",
+      "website": null,
+      "city": "MORONA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "Distribuidoras eléctricas"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1490830193001",
+      "name": "CONSTRUCCIONES AREVALO CALLE ARCA-C S.A.S.",
+      "website": null,
+      "city": "MORONA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "Distribuidoras eléctricas"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0195119112001",
+      "name": "INNOVIZE SUSTAINABLE BUILDING AND ENERGY S.A.S.",
+      "website": null,
+      "city": "CUENCA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "Distribuidoras eléctricas"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0195130523001",
+      "name": "BUILDVISION SOLUTIONS S.A.S.",
+      "website": null,
+      "city": "CUENCA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "Distribuidoras eléctricas"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0195136076001",
+      "name": "ZECONST CONSULTORÍA Y CONSTRUCCIÓN S.A.S.",
+      "website": null,
+      "city": "CUENCA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "Distribuidoras eléctricas"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0195139164001",
+      "name": "CONSTRUCCIONES ELÉCTRICAS CONSELEC-FPO S.A.S.",
+      "website": null,
+      "city": "CUENCA",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "Distribuidoras eléctricas"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0993269549001",
+      "name": "CALLE Y ASOCIADOS SCC",
+      "website": null,
+      "city": "MILAGRO",
+      "sectors": [
+        "Energía"
+      ],
+      "operators": [
+        "Distribuidoras eléctricas"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792332745001",
+      "name": "EMINKATECH S.A.",
+      "website": "http://www.eminkatech.com",
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "BanEcuador"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "about": "Soluciones avanzadas en desarrollo de software, supervisión de redes y soporte técnico especializado en Ecuador."
+      }
+    },
+    {
+      "ruc": "1792634768001",
+      "name": "INFODATASERV S.A.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "BanEcuador"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1793200619001",
+      "name": "LATAMTECHEC S.A.S.",
+      "website": "https://latamatech-sac.com",
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "BIESS"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0992116625001",
+      "name": "AVP. SISTEMAS S.A.",
+      "website": "http://www.avp.com.ec",
+      "city": "GUAYAQUIL",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "BIESS"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1792443857001",
+      "name": "SISTEMAS INTEGRALES PARA ATENCION AL CLIENTE QSISTEMS CIA. LTDA.",
+      "website": "http://www.qsistems.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "BIESS"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "about": "QSISTEMS - Soluciones tecnológicas innovadoras para optimizar la atención al cliente y mejorar la experiencia de los usuarios"
+      }
+    },
+    {
+      "ruc": "1793064191001",
+      "name": "DIGITAL NET CENTER DNCCORP CIA.LTDA.",
+      "website": "http://www.digitalnetcenter.net",
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "BIESS"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1793231944001",
+      "name": "INTEGRALGROUP SERVICES S.A.S.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "BIESS"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "1793097863001",
+      "name": "ULTRAPOWER CIA.LTDA.",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    },
+    {
+      "ruc": "0990140669001",
+      "name": "COMWARE S.A.",
+      "website": "http://www.comware.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "linkedin": "https://www.linkedin.com/company/comware-ec",
+        "facebook": "https://www.facebook.com/comwarecuador",
+        "instagram": "https://www.instagram.com/comware_ec",
+        "about": "Transforma tu empresa con Soluciones Tecnológicas que Transforman Negocios. Mejora la escalabilidad y agilidad con la nube."
+      }
+    },
+    {
+      "ruc": "1791869184001",
+      "name": "SATELITE.COM S.A.",
+      "website": "http://WWW.SATELITE-EC.COM",
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "instagram": "https://www.instagram.com/satelite.ec",
+        "facebook": "https://www.facebook.com/sateliteseguridad",
+        "linkedin": "https://www.linkedin.com/company/satelite-ec/posts/?feedView=all",
+        "x": "https://twitter.com/sateliteEc",
+        "about": "Satelite es una empresa especializada en brindar soluciones de alto valor para la Seguridad de la Información. Ciberseguridad en los negocios para todos."
+      }
+    },
+    {
+      "ruc": "1792231396001",
+      "name": "REDES INGENIERIA Y COMUNICACIONES CTREDING CIA. LTDA.",
+      "website": "http://www.redinco.com",
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "Mantenimiento electromecánico"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "whatsapp": "https://web.whatsapp.com/send?phone=593987934835&text=Page%20Title:%20Inicio%20|%20RedincoPage%20URL:%20https://redinco.com",
+        "instagram": "https://www.instagram.com/redincoecu",
+        "facebook": "https://www.facebook.com/redincoecu",
+        "tiktok": "https://www.tiktok.com/@redincoecuador",
+        "linkedin": "https://www.linkedin.com/company/redinco",
+        "about": "Soluciones para empresas en Ecuador: instalación de redes, cableado, energía y data center. Soporte y mantenimiento."
+      }
+    },
+    {
+      "ruc": "1792589142001",
+      "name": "V&PGROUP INGENIERIA TELECOMUNICACIONES Y SERVICIOS S.A.",
+      "website": "http://www.vpgroup.com.ec",
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "Banco Central del Ecuador"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null,
+      "links": {
+        "facebook": "https://www.facebook.com/vpgroup.ec",
+        "instagram": "https://www.instagram.com/vpgroup.ec",
+        "about": "V&P Group IT Solutions"
+      }
+    },
+    {
+      "ruc": "1792438322001",
+      "name": "BG SUPPORT SCC",
+      "website": null,
+      "city": "QUITO",
+      "sectors": [
+        "Finanzas"
+      ],
+      "operators": [
+        "CONAFIPS"
+      ],
+      "fields": [
+        "TI y software"
+      ],
+      "awards": 0,
+      "awardedAmount": 0,
+      "bids": 1,
+      "contracts": [],
+      "mainField": null
+    }
+  ]
+}
