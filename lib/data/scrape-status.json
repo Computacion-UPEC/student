@@ -84,11 +84,11 @@
   "failing": {
     "Pague Ya (Grupo Pichincha)": {
       "since": "2026-11-25",
-      "runs": 2
+      "runs": 3
     },
     "Tiendas Tuti": {
       "since": "2026-11-09",
-      "runs": 35
+      "runs": 36
     }
   }
 }

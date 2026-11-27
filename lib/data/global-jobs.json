@@ -76,16 +76,6 @@
       "firstSeen": "2026-11-19"
     },
     {
-      "id": "ashby-supabase-2184cfbd-927e-4d3c-b34a-f2301d3e8281",
-      "company": "Supabase",
-      "title": "Software Engineer - Postgres Tooling",
-      "location": "Remote, Global",
-      "route": "remoto",
-      "publishedAt": "2026-11-19",
-      "url": "https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281",
-      "firstSeen": "2026-11-19"
-    },
-    {
       "id": "ashby-supabase-f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
       "company": "Supabase",
       "title": "Multigres Deployment Engineer",
@@ -2080,6 +2070,17 @@
       "url": "https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01",
       "firstSeen": "2026-11-24",
       "closedOn": "2026-11-26"
+    },
+    {
+      "id": "ashby-supabase-2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+      "company": "Supabase",
+      "title": "Software Engineer - Postgres Tooling",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-11-19",
+      "url": "https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+      "firstSeen": "2026-11-19",
+      "closedOn": "2026-11-27"
     },
     {
       "id": "greenhouse-affirm-8196114003",

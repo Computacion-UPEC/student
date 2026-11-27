@@ -2,6 +2,50 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
+      "id": "tigo-R135650",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "(EVENTUAL) Pasante Desarrollo Producto Prepago",
+      "city": "Quito",
+      "publishedAt": "2026-11-27",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante-Desarrollo-Producto-Prepago_R135650",
+      "isIT": false,
+      "firstSeen": "2026-11-03"
+    },
+    {
+      "id": "nestle-1461192933",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Auxiliar de Transporte y Distribución",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-27",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-Auxiliar-de-Transporte-y-Distribuci%C3%B3n-17-03-4574/1461192933/",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "nestle-1461193233",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Auxiliar de Logística y Distribución",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-27",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-Auxiliar-de-Log%C3%ADstica-y-Distribuci%C3%B3n-17-03-4574/1461193233/",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "nestle-1461194133",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Ayudante de Manejo de Equipos (Montacargas)",
+      "city": "Guayaquil",
+      "publishedAt": "2026-11-27",
+      "url": "https://jobdetails.nestle.com/job/Guayaquil-Ayudante-de-Manejo-de-Equipos-%28Montacargas%29-17-03-4574/1461194133/",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
       "id": "farmaenlace-1338547962",
       "source": "farmaenlace",
       "company": "Farmaenlace",
@@ -11,17 +55,6 @@
       "url": "https://trabajaconnosotros.farmaenlace.com/job/Distrito-Metropolitano-De-Quit-PASANTE-PICH/1338547962/",
       "isIT": false,
       "firstSeen": "2026-11-26"
-    },
-    {
-      "id": "tigo-R135650",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "(EVENTUAL) Pasante Desarrollo Producto Prepago",
-      "city": "Quito",
-      "publishedAt": "2026-11-26",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante-Desarrollo-Producto-Prepago_R135650",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
     },
     {
       "id": "arca-1454015200",
@@ -189,17 +222,6 @@
       "firstSeen": "2026-11-26"
     },
     {
-      "id": "nestle-1461049833",
-      "source": "nestle",
-      "company": "Nestlé Ecuador",
-      "title": "Brand Building Chief",
-      "city": "Quito",
-      "publishedAt": "2026-11-26",
-      "url": "https://jobdetails.nestle.com/job/Quito-Brand-Building-Chief-17-03-4574/1461049833/",
-      "isIT": false,
-      "firstSeen": "2026-11-26"
-    },
-    {
       "id": "nestle-1461147833",
       "source": "nestle",
       "company": "Nestlé Ecuador",
@@ -209,6 +231,17 @@
       "url": "https://jobdetails.nestle.com/job/Guayaquil-Operadora-de-Bodega-Picking-17-03-4574/1461147833/",
       "isIT": false,
       "firstSeen": "2026-11-26"
+    },
+    {
+      "id": "claro-1704",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "CONSULTOR CORPORATIVO",
+      "city": null,
+      "publishedAt": "2026-11-26",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1704",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
     },
     {
       "id": "arca-1434465500",
@@ -612,7 +645,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Especialista de Producto Cloud B2B",
       "city": "Ubicaciones: 2",
-      "publishedAt": "2026-11-23",
+      "publishedAt": "2026-11-24",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Especialista-de-Producto-Cloud-B2B_R135884",
       "isIT": true,
       "firstSeen": "2026-11-24"
@@ -766,7 +799,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Especialista de Tiendas Sur",
       "city": "Tienda San Marino",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-20",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-San-Marino/Especialista-de-Tiendas-Sur_R135695",
       "isIT": false,
       "firstSeen": "2026-11-19"
@@ -777,7 +810,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "(EVENTUAL) Pasante",
       "city": "Quito",
-      "publishedAt": "2026-11-19",
+      "publishedAt": "2026-11-20",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135895",
       "isIT": false,
       "firstSeen": "2026-11-20"
@@ -1791,17 +1824,6 @@
       "city": "PICHINCHA",
       "publishedAt": null,
       "url": "https://difare.evaluar.com/trabajo/asesor-de-aplicaciones-4/",
-      "isIT": false,
-      "firstSeen": "2026-11-06"
-    },
-    {
-      "id": "difare-bodeguero-laboratorios-hg",
-      "source": "difare",
-      "company": "Difare",
-      "title": "BODEGUERO – LABORATORIOS HG",
-      "city": "GUAYAQUIL",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/bodeguero-laboratorios-hg/",
       "isIT": false,
       "firstSeen": "2026-11-06"
     },
@@ -2986,17 +3008,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "novacero-6a05f59eb41087f68d0ac4f6",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "COORDINADOR DE TRADE MARKETING - NOVARED",
-      "city": "Guayaquil",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a05f59eb41087f68d0ac4f6",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "novacero-6ada2253965254962f9070de",
       "source": "novacero",
       "company": "Novacero",
@@ -3107,17 +3118,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "novacero-6abb0f8a1ec66a9f932b0f05",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "ASESOR TÉCNICO COMERCIAL - CUENCA",
-      "city": "Cuenca",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6abb0f8a1ec66a9f932b0f05",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "novacero-6abb0f3a00906d1943de37d9",
       "source": "novacero",
       "company": "Novacero",
@@ -3158,17 +3158,6 @@
       "city": "Quito",
       "publishedAt": null,
       "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6ab408120e617586df0f58d3",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6ab35079073fd8e0c0b5619e",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "COORDINACION DE TRADE MARKETING",
-      "city": "Cuenca",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6ab35079073fd8e0c0b5619e",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -3283,17 +3272,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "novacero-6a8328a0060e919ba3c8b975",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "PASANTE DE TRABAJO SOCIAL",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a8328a0060e919ba3c8b975",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "novacero-6a7b598af6391a66a55e3381",
       "source": "novacero",
       "company": "Novacero",
@@ -3312,17 +3290,6 @@
       "city": "Latacunga",
       "publishedAt": null,
       "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a7347ea86da6fc108c60bc2",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6a6b68fbad4c0b64f1ffce8d",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "PASANTE DE PROCESOS",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a6b68fbad4c0b64f1ffce8d",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -3349,72 +3316,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "novacero-6a6a71dc22d11e53a7489271",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "COORDINADOR DE PROYECTOS",
-      "city": "Guayaquil",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a6a71dc22d11e53a7489271",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6a6a3ac1e5ec60a42b94d07d",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Analista de Transporte",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a6a3ac1e5ec60a42b94d07d",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6a67a2b38e7411188ec4a618",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Operador de Planta de Tratamiento de Aguas Residuales",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a67a2b38e7411188ec4a618",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6a677b37e6c792080a979511",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Secretaria/Recepcionista",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a677b37e6c792080a979511",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6a57ce87e3c99ed4fec9af47",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "PASANTE ADMINISTRATIVO/FINANCIERO",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a57ce87e3c99ed4fec9af47",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6a552e7a898c2cc6807ff018",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "ANALISTA BIM",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a552e7a898c2cc6807ff018",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "novacero-6a4e8c32f384265010f1c761",
       "source": "novacero",
       "company": "Novacero",
@@ -3437,61 +3338,6 @@
       "firstSeen": "2026-10-22"
     },
     {
-      "id": "novacero-6a0b725f94124766e842c395",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Pasante de Proyectos",
-      "city": "Guayaquil",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a0b725f94124766e842c395",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-69c3450f37d9500d7f720da3",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "PASANTE DE CONTABILIDAD - PLANTA LASSO",
-      "city": "Latacunga",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69c3450f37d9500d7f720da3",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-69c19a09bee621ec5344d2aa",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "MONITORISTA",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69c19a09bee621ec5344d2aa",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-69b9cfec3b984aa315df1e95",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Despachador- Planta Lasso",
-      "city": "Latacunga",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69b9cfec3b984aa315df1e95",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-69ab13e3ebe9dceeabdfcc5b",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Pasante Administrativo",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69ab13e3ebe9dceeabdfcc5b",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
       "id": "novacero-699f273a61ee0fea5d377fa3",
       "source": "novacero",
       "company": "Novacero",
@@ -3499,171 +3345,6 @@
       "city": "Quito",
       "publishedAt": null,
       "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/699f273a61ee0fea5d377fa3",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-69977be59e853d6f815e03d8",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Pasante de Trabajo Social",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69977be59e853d6f815e03d8",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-69692f3088c9c0b0a877408f",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Ayudante de Producción",
-      "city": "Guayaquil",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69692f3088c9c0b0a877408f",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-68d2c4bec1fca2bc80d56f39",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "SUPERVISOR DE MANTENIMIENTO EN AUTOMATIZACIÓN",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/68d2c4bec1fca2bc80d56f39",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-68c87c1fa59407f0981bdc44",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "PASANTE DE DATOS - DESARROLLO ORGANIZACIONAL",
-      "city": "Guayaquil",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/68c87c1fa59407f0981bdc44",
-      "isIT": true,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6894fbe88c2ca8e680b8233c",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "SUPERVISOR DE PRODUCCIÓN",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6894fbe88c2ca8e680b8233c",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-687e569c09735c4e6245f932",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "ASISTENTE DE PRODUCCIÓN",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/687e569c09735c4e6245f932",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-685db888932b8d52b7b23bf6",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Operador Electromecánico",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/685db888932b8d52b7b23bf6",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-683f0039d701d836c4d3272a",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "AYUDANTE 2",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/683f0039d701d836c4d3272a",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6825f4122f6bdce46c08a9eb",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "INGENIERO DE OBRA CIVIL - PRODUCCIÓN",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6825f4122f6bdce46c08a9eb",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-682e515d43afad5578734444",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "PROMOTORA QUITO",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/682e515d43afad5578734444",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-68001caf815e1f010305c2ce",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "ASISTENTE DE CAJA (EVENTUAL)",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/68001caf815e1f010305c2ce",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-67eda3212506dfe72cdc4330",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "SOLDADOR",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/67eda3212506dfe72cdc4330",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-67d0c209a674bc419d3da504",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "ANALISTA DE DATOS MAESTROS",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/67d0c209a674bc419d3da504",
-      "isIT": true,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-64f6370562e4c050ef2d2f85",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Despachador - CUENCA",
-      "city": "Cuenca",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/64f6370562e4c050ef2d2f85",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "novacero-6410fc5408df04c2e979b2be",
-      "source": "novacero",
-      "company": "Novacero",
-      "title": "Soldador",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6410fc5408df04c2e979b2be",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -3741,17 +3422,6 @@
       "city": "GUAYAQUIL",
       "publishedAt": null,
       "url": "https://difare.evaluar.com/trabajo/base-de-datos-feria-laboral-2024-3/",
-      "isIT": false,
-      "firstSeen": "2026-10-22"
-    },
-    {
-      "id": "difare-gerente-de-asuntos-medicos-y-cientificos",
-      "source": "difare",
-      "company": "Difare",
-      "title": "GERENTE DE ASUNTOS MÉDICOS Y CIENTIFICOS",
-      "city": "QUITO",
-      "publishedAt": null,
-      "url": "https://difare.evaluar.com/trabajo/gerente-de-asuntos-medicos-y-cientificos/",
       "isIT": false,
       "firstSeen": "2026-10-22"
     },
@@ -6055,6 +5725,18 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "nestle-1461049833",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Brand Building Chief",
+      "city": "Quito",
+      "publishedAt": "2026-11-26",
+      "url": "https://jobdetails.nestle.com/job/Quito-Brand-Building-Chief-17-03-4574/1461049833/",
+      "isIT": false,
+      "firstSeen": "2026-11-26",
+      "closedOn": "2026-11-27"
+    },
+    {
       "id": "tigo-R136056",
       "source": "tigo",
       "company": "Tigo (ex Movistar)",
@@ -7037,6 +6719,18 @@
       "isIT": false,
       "firstSeen": "2026-11-06",
       "closedOn": "2026-11-13"
+    },
+    {
+      "id": "difare-bodeguero-laboratorios-hg",
+      "source": "difare",
+      "company": "Difare",
+      "title": "BODEGUERO – LABORATORIOS HG",
+      "city": "GUAYAQUIL",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/bodeguero-laboratorios-hg/",
+      "isIT": false,
+      "firstSeen": "2026-11-06",
+      "closedOn": "2026-11-27"
     },
     {
       "id": "difare-analista-planificador",
@@ -8489,6 +8183,390 @@
       "isIT": false,
       "firstSeen": "2026-10-23",
       "closedOn": "2026-10-24"
+    },
+    {
+      "id": "novacero-6a05f59eb41087f68d0ac4f6",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "COORDINADOR DE TRADE MARKETING - NOVARED",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a05f59eb41087f68d0ac4f6",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-6abb0f8a1ec66a9f932b0f05",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "ASESOR TÉCNICO COMERCIAL - CUENCA",
+      "city": "Cuenca",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6abb0f8a1ec66a9f932b0f05",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-6ab35079073fd8e0c0b5619e",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "COORDINACION DE TRADE MARKETING",
+      "city": "Cuenca",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6ab35079073fd8e0c0b5619e",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-6a8328a0060e919ba3c8b975",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "PASANTE DE TRABAJO SOCIAL",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a8328a0060e919ba3c8b975",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-6a6b68fbad4c0b64f1ffce8d",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "PASANTE DE PROCESOS",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a6b68fbad4c0b64f1ffce8d",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-6a6a71dc22d11e53a7489271",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "COORDINADOR DE PROYECTOS",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a6a71dc22d11e53a7489271",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-6a6a3ac1e5ec60a42b94d07d",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Analista de Transporte",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a6a3ac1e5ec60a42b94d07d",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-6a67a2b38e7411188ec4a618",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Operador de Planta de Tratamiento de Aguas Residuales",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a67a2b38e7411188ec4a618",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-6a677b37e6c792080a979511",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Secretaria/Recepcionista",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a677b37e6c792080a979511",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-6a57ce87e3c99ed4fec9af47",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "PASANTE ADMINISTRATIVO/FINANCIERO",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a57ce87e3c99ed4fec9af47",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-6a552e7a898c2cc6807ff018",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "ANALISTA BIM",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a552e7a898c2cc6807ff018",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-6a0b725f94124766e842c395",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Pasante de Proyectos",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6a0b725f94124766e842c395",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-69c3450f37d9500d7f720da3",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "PASANTE DE CONTABILIDAD - PLANTA LASSO",
+      "city": "Latacunga",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69c3450f37d9500d7f720da3",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-69c19a09bee621ec5344d2aa",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "MONITORISTA",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69c19a09bee621ec5344d2aa",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-69b9cfec3b984aa315df1e95",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Despachador- Planta Lasso",
+      "city": "Latacunga",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69b9cfec3b984aa315df1e95",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-69ab13e3ebe9dceeabdfcc5b",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Pasante Administrativo",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69ab13e3ebe9dceeabdfcc5b",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-69977be59e853d6f815e03d8",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Pasante de Trabajo Social",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69977be59e853d6f815e03d8",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-69692f3088c9c0b0a877408f",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Ayudante de Producción",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/69692f3088c9c0b0a877408f",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-68d2c4bec1fca2bc80d56f39",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "SUPERVISOR DE MANTENIMIENTO EN AUTOMATIZACIÓN",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/68d2c4bec1fca2bc80d56f39",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-68c87c1fa59407f0981bdc44",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "PASANTE DE DATOS - DESARROLLO ORGANIZACIONAL",
+      "city": "Guayaquil",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/68c87c1fa59407f0981bdc44",
+      "isIT": true,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-6894fbe88c2ca8e680b8233c",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "SUPERVISOR DE PRODUCCIÓN",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6894fbe88c2ca8e680b8233c",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-687e569c09735c4e6245f932",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "ASISTENTE DE PRODUCCIÓN",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/687e569c09735c4e6245f932",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-685db888932b8d52b7b23bf6",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Operador Electromecánico",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/685db888932b8d52b7b23bf6",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-683f0039d701d836c4d3272a",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "AYUDANTE 2",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/683f0039d701d836c4d3272a",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-6825f4122f6bdce46c08a9eb",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "INGENIERO DE OBRA CIVIL - PRODUCCIÓN",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6825f4122f6bdce46c08a9eb",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-682e515d43afad5578734444",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "PROMOTORA QUITO",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/682e515d43afad5578734444",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-68001caf815e1f010305c2ce",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "ASISTENTE DE CAJA (EVENTUAL)",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/68001caf815e1f010305c2ce",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-67eda3212506dfe72cdc4330",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "SOLDADOR",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/67eda3212506dfe72cdc4330",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-67d0c209a674bc419d3da504",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "ANALISTA DE DATOS MAESTROS",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/67d0c209a674bc419d3da504",
+      "isIT": true,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-64f6370562e4c050ef2d2f85",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Despachador - CUENCA",
+      "city": "Cuenca",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/64f6370562e4c050ef2d2f85",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "novacero-6410fc5408df04c2e979b2be",
+      "source": "novacero",
+      "company": "Novacero",
+      "title": "Soldador",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://novaceroseleccion.hiringroom.com/jobs/get_vacancy/6410fc5408df04c2e979b2be",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "difare-gerente-de-asuntos-medicos-y-cientificos",
+      "source": "difare",
+      "company": "Difare",
+      "title": "GERENTE DE ASUNTOS MÉDICOS Y CIENTIFICOS",
+      "city": "QUITO",
+      "publishedAt": null,
+      "url": "https://difare.evaluar.com/trabajo/gerente-de-asuntos-medicos-y-cientificos/",
+      "isIT": false,
+      "firstSeen": "2026-10-22",
+      "closedOn": "2026-11-27"
     },
     {
       "id": "novacero-6a6cd67701d5f31febbe6c26",
