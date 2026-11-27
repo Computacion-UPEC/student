@@ -2,6 +2,15 @@
   "source": "https://empleo.cnt.gob.ec/",
   "jobs": [
     {
+      "id": "cnt-ps-2026-012-asistente-administrativo-temporal-quito",
+      "title": "ASISTENTE ADMINISTRATIVO - TEMPORAL - QUITO",
+      "url": "https://empleo.cnt.gob.ec/concursos/cnt-ps-2026-012-asistente-administrativo-temporal-quito",
+      "publishedOn": "2026-11-26",
+      "closesOn": "2026-11-27",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
       "id": "cnt-ps-2026-008-impulsador-de-ventas-temporal-quito",
       "title": "IMPULSADOR DE VENTAS TEMPORAL - QUITO",
       "url": "https://empleo.cnt.gob.ec/concursos/cnt-ps-2026-008-impulsador-de-ventas-temporal-quito",

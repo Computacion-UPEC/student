@@ -16,8 +16,8 @@
       "ok": true
     },
     "CNT": {
-      "lastRun": "2026-11-23",
-      "lastSuccess": "2026-11-23",
+      "lastRun": "2026-11-27",
+      "lastSuccess": "2026-11-27",
       "ok": true
     },
     "Concursos": {
@@ -26,8 +26,8 @@
       "ok": true
     },
     "Educa-Empleo": {
-      "lastRun": "2026-11-23",
-      "lastSuccess": "2026-11-23",
+      "lastRun": "2026-11-27",
+      "lastSuccess": "2026-11-27",
       "ok": true
     },
     "El-Rosado": {
@@ -82,6 +82,10 @@
     }
   },
   "failing": {
+    "Netlife": {
+      "since": "2026-11-27",
+      "runs": 1
+    },
     "Pague Ya (Grupo Pichincha)": {
       "since": "2026-11-25",
       "runs": 3
