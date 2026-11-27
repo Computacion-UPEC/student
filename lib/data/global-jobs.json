@@ -2,6 +2,17 @@
   "collectedSince": "2026-11-05",
   "jobs": [
     {
+      "id": "greenhouse-affirm-8199163003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (Trust Infra)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-27",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8199163003",
+      "firstSeen": "2026-11-27"
+    },
+    {
       "id": "ashby-supabase-62ad3b86-3a18-435a-ab29-dc62b77154e5",
       "company": "Supabase",
       "title": "Product Security Engineer",

@@ -2,17 +2,6 @@
   "collectedSince": "2026-10-22",
   "jobs": [
     {
-      "id": "tigo-R135650",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "(EVENTUAL) Pasante Desarrollo Producto Prepago",
-      "city": "Quito",
-      "publishedAt": "2026-11-27",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante-Desarrollo-Producto-Prepago_R135650",
-      "isIT": false,
-      "firstSeen": "2026-11-03"
-    },
-    {
       "id": "nestle-1461192933",
       "source": "nestle",
       "company": "Nestlé Ecuador",
@@ -42,6 +31,204 @@
       "city": "Guayaquil",
       "publishedAt": "2026-11-27",
       "url": "https://jobdetails.nestle.com/job/Guayaquil-Ayudante-de-Manejo-de-Equipos-%28Montacargas%29-17-03-4574/1461194133/",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "arca-1454122800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "JUNIOR | CEDI RIOBAMBA",
+      "city": null,
+      "publishedAt": "2026-11-27",
+      "url": "https://careers.arcacontal.com/job/JUNIOR-CEDI-RIOBAMBA/1454122800/",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "arca-1454130200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "JUNIOR | CEDI RIOBAMBA",
+      "city": null,
+      "publishedAt": "2026-11-27",
+      "url": "https://careers.arcacontal.com/job/JUNIOR-CEDI-RIOBAMBA/1454130200/",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "arca-1454128400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "JUNIOR | CEDI RIOBAMBA",
+      "city": null,
+      "publishedAt": "2026-11-27",
+      "url": "https://careers.arcacontal.com/job/JUNIOR-CEDI-RIOBAMBA/1454128400/",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "arca-1454132900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR | CEDI RIOBAMBA",
+      "city": null,
+      "publishedAt": "2026-11-27",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-CEDI-RIOBAMBA/1454132900/",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "arca-1454134400",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI LAGO AGRIO",
+      "city": null,
+      "publishedAt": "2026-11-27",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-LAGO-AGRIO/1454134400/",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "arca-1454134800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "JUNIOR | CEDI LATACUNGA",
+      "city": null,
+      "publishedAt": "2026-11-27",
+      "url": "https://careers.arcacontal.com/job/JUNIOR-CEDI-LATACUNGA/1454134800/",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "arca-1454191900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI GUAYAQUIL NORTE",
+      "city": null,
+      "publishedAt": "2026-11-27",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-GUAYAQUIL-NORTE/1454191900/",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "arca-1454143700",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI VALLE",
+      "city": null,
+      "publishedAt": "2026-11-27",
+      "url": "https://careers.arcacontal.com/job/PIC-Quito-VENDEDOR-CEDI-VALLE-Dip-Quit/1454143700/",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "gpf-6a8606ad48663582dbb8a621",
+      "source": "gpf",
+      "company": "FEMSA Salud (GPF)",
+      "title": "PASANTE FEMSA BEGINNERS 2026",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://corporaciongpf.hiringroom.com/jobs/get_vacancy/6a8606ad48663582dbb8a621",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "pronaca-27183",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "ENFERMERO (20009521)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27183",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "pronaca-27187",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "OPER. AGRICOLA (20016729)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27187",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "pronaca-27188",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "OPER. AGRICOLA (20016731)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27188",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "pronaca-27189",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "OPER. AGRICOLA (20016733)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27189",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "pronaca-27190",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "OPER. AGRICOLA (20016735)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27190",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "pronaca-27191",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "OPER. AGRICOLA (20016737)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27191",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "pronaca-27193",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "OPER. AGRICOLA (20016739)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27193",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "pronaca-27192",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "OPER. AGRICOLA (20016741)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27192",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "pronaca-27167",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "SUP. PRODUC. (VAL) (20013460)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27167",
       "isIT": false,
       "firstSeen": "2026-11-27"
     },
@@ -242,6 +429,17 @@
       "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1704",
       "isIT": false,
       "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "nestle-1461049833",
+      "source": "nestle",
+      "company": "Nestlé Ecuador",
+      "title": "Brand Building Nestlé Way Manager",
+      "city": "Quito",
+      "publishedAt": "2026-11-26",
+      "url": "https://jobdetails.nestle.com/job/Quito-Brand-Building-Nestl%C3%A9-Way-Manager-17-03-4574/1461049833/",
+      "isIT": false,
+      "firstSeen": "2026-11-26"
     },
     {
       "id": "arca-1434465500",
@@ -645,7 +843,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Especialista de Producto Cloud B2B",
       "city": "Ubicaciones: 2",
-      "publishedAt": "2026-11-24",
+      "publishedAt": "2026-11-23",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Especialista-de-Producto-Cloud-B2B_R135884",
       "isIT": true,
       "firstSeen": "2026-11-24"
@@ -794,28 +992,6 @@
       "firstSeen": "2026-11-21"
     },
     {
-      "id": "tigo-R135695",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "Especialista de Tiendas Sur",
-      "city": "Tienda San Marino",
-      "publishedAt": "2026-11-20",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-San-Marino/Especialista-de-Tiendas-Sur_R135695",
-      "isIT": false,
-      "firstSeen": "2026-11-19"
-    },
-    {
-      "id": "tigo-R135895",
-      "source": "tigo",
-      "company": "Tigo (ex Movistar)",
-      "title": "(EVENTUAL) Pasante",
-      "city": "Quito",
-      "publishedAt": "2026-11-20",
-      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135895",
-      "isIT": false,
-      "firstSeen": "2026-11-20"
-    },
-    {
       "id": "nestle-1458653133",
       "source": "nestle",
       "company": "Nestlé Ecuador",
@@ -845,17 +1021,6 @@
       "city": null,
       "publishedAt": null,
       "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26986",
-      "isIT": false,
-      "firstSeen": "2026-11-19"
-    },
-    {
-      "id": "pronaca-26871",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "OPER. PLANTA (PEC) (20009483)",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26871",
       "isIT": false,
       "firstSeen": "2026-11-19"
     },
@@ -911,17 +1076,6 @@
       "city": "Quito • Quito",
       "publishedAt": null,
       "url": "https://careers.holcimgroup.com/holcim_ecuador/job/Quito-Pasante-de-Calidad-y-Producci%C3%B3n-Quito-Norte-P-170138/1377772957/",
-      "isIT": false,
-      "firstSeen": "2026-11-18"
-    },
-    {
-      "id": "arca-1451753300",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI AMBATO",
-      "city": null,
-      "publishedAt": "2026-11-18",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-AMBATO/1451753300/",
       "isIT": false,
       "firstSeen": "2026-11-18"
     },
@@ -1179,17 +1333,6 @@
       "firstSeen": "2026-11-18"
     },
     {
-      "id": "claro-1617",
-      "source": "claro",
-      "company": "Claro Ecuador",
-      "title": "ASESOR CENTRO DE ATENCIÓN AL CLIENTE",
-      "city": null,
-      "publishedAt": "2026-11-17",
-      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1617",
-      "isIT": false,
-      "firstSeen": "2026-11-18"
-    },
-    {
       "id": "nestle-1457830433",
       "source": "nestle",
       "company": "Nestlé Ecuador",
@@ -1353,6 +1496,17 @@
       "url": "https://jobdetails.nestle.com/job/Guayaquil-General-Services-Worker-17-03-4574/1457700933/",
       "isIT": false,
       "firstSeen": "2026-11-18"
+    },
+    {
+      "id": "pronaca-27058",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "AUDITOR SENIOR CORPORATIVO DE PROCESOS",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27058",
+      "isIT": false,
+      "firstSeen": "2026-11-16"
     },
     {
       "id": "difare-analista-de-experiencia-al-cliente-manabi",
@@ -1718,17 +1872,6 @@
       "firstSeen": "2026-11-09"
     },
     {
-      "id": "arca-1448891800",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR A. UNIVERSAL | CEDI AMBATO",
-      "city": null,
-      "publishedAt": "2026-11-09",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-AMBATO/1448891800/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "arca-1449210500",
       "source": "arca",
       "company": "Arca Continental",
@@ -1738,39 +1881,6 @@
       "url": "https://careers.arcacontal.com/job/COORDINADOR-DE-PLATAFORMAS-DIGITALES-GUAYAQUIL-SUR/1449210500/",
       "isIT": false,
       "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "arca-1448876600",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR A. UNIVERSAL | CEDI AMBATO",
-      "city": null,
-      "publishedAt": "2026-11-09",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-AMBATO/1448876600/",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
-      "id": "arca-1448877000",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "PREVENDEDOR A. UNIVERSAL | CEDI AMBATO",
-      "city": null,
-      "publishedAt": "2026-11-09",
-      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-AMBATO/1448877000/",
-      "isIT": false,
-      "firstSeen": "2026-11-26"
-    },
-    {
-      "id": "arca-1448804200",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR | CEDI CHONE",
-      "city": null,
-      "publishedAt": "2026-11-08",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-CHONE/1448804200/",
-      "isIT": false,
-      "firstSeen": "2026-11-08"
     },
     {
       "id": "holcim-1376855057",
@@ -5725,15 +5835,15 @@
       "firstSeen": "2026-11-02"
     },
     {
-      "id": "nestle-1461049833",
-      "source": "nestle",
-      "company": "Nestlé Ecuador",
-      "title": "Brand Building Chief",
+      "id": "tigo-R135650",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "(EVENTUAL) Pasante Desarrollo Producto Prepago",
       "city": "Quito",
-      "publishedAt": "2026-11-26",
-      "url": "https://jobdetails.nestle.com/job/Quito-Brand-Building-Chief-17-03-4574/1461049833/",
+      "publishedAt": "2026-11-27",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante-Desarrollo-Producto-Prepago_R135650",
       "isIT": false,
-      "firstSeen": "2026-11-26",
+      "firstSeen": "2026-11-03",
       "closedOn": "2026-11-27"
     },
     {
@@ -5771,6 +5881,42 @@
       "isIT": false,
       "firstSeen": "2026-11-24",
       "closedOn": "2026-11-25"
+    },
+    {
+      "id": "tigo-R135695",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "Especialista de Tiendas Sur",
+      "city": "Tienda San Marino",
+      "publishedAt": "2026-11-20",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Tienda-San-Marino/Especialista-de-Tiendas-Sur_R135695",
+      "isIT": false,
+      "firstSeen": "2026-11-19",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "tigo-R135895",
+      "source": "tigo",
+      "company": "Tigo (ex Movistar)",
+      "title": "(EVENTUAL) Pasante",
+      "city": "Quito",
+      "publishedAt": "2026-11-20",
+      "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/XMLNAME--EVENTUAL--Pasante_R135895",
+      "isIT": false,
+      "firstSeen": "2026-11-20",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "pronaca-26871",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "OPER. PLANTA (PEC) (20009483)",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=26871",
+      "isIT": false,
+      "firstSeen": "2026-11-19",
+      "closedOn": "2026-11-27"
     },
     {
       "id": "arca-1452100400",
@@ -5845,6 +5991,18 @@
       "closedOn": "2026-11-20"
     },
     {
+      "id": "arca-1451753300",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI AMBATO",
+      "city": null,
+      "publishedAt": "2026-11-18",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-AMBATO/1451753300/",
+      "isIT": false,
+      "firstSeen": "2026-11-18",
+      "closedOn": "2026-11-27"
+    },
+    {
       "id": "arca-1451749100",
       "source": "arca",
       "company": "Arca Continental",
@@ -5903,6 +6061,18 @@
       "isIT": false,
       "firstSeen": "2026-11-17",
       "closedOn": "2026-11-18"
+    },
+    {
+      "id": "claro-1617",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "ASESOR CENTRO DE ATENCIÓN AL CLIENTE",
+      "city": null,
+      "publishedAt": "2026-11-17",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1617",
+      "isIT": false,
+      "firstSeen": "2026-11-18",
+      "closedOn": "2026-11-27"
     },
     {
       "id": "tigo-R135958",
@@ -6023,18 +6193,6 @@
       "isIT": false,
       "firstSeen": "2026-11-16",
       "closedOn": "2026-11-17"
-    },
-    {
-      "id": "pronaca-27058",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "AUDITOR SENIOR CORPORATIVO DE PROCESOS",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27058",
-      "isIT": false,
-      "firstSeen": "2026-11-16",
-      "closedOn": "2026-11-26"
     },
     {
       "id": "arca-1450870300",
@@ -6553,6 +6711,42 @@
       "closedOn": "2026-11-10"
     },
     {
+      "id": "arca-1448891800",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR A. UNIVERSAL | CEDI AMBATO",
+      "city": null,
+      "publishedAt": "2026-11-09",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-AMBATO/1448891800/",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "arca-1448876600",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR A. UNIVERSAL | CEDI AMBATO",
+      "city": null,
+      "publishedAt": "2026-11-09",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-AMBATO/1448876600/",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "arca-1448877000",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "PREVENDEDOR A. UNIVERSAL | CEDI AMBATO",
+      "city": null,
+      "publishedAt": "2026-11-09",
+      "url": "https://careers.arcacontal.com/job/PREVENDEDOR-A_-UNIVERSAL-CEDI-AMBATO/1448877000/",
+      "isIT": false,
+      "firstSeen": "2026-11-26",
+      "closedOn": "2026-11-27"
+    },
+    {
       "id": "difare-auxiliar-de-laboratorio-2",
       "source": "difare",
       "company": "Difare",
@@ -6635,6 +6829,18 @@
       "isIT": false,
       "firstSeen": "2026-11-09",
       "closedOn": "2026-11-10"
+    },
+    {
+      "id": "arca-1448804200",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR | CEDI CHONE",
+      "city": null,
+      "publishedAt": "2026-11-08",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-CEDI-CHONE/1448804200/",
+      "isIT": false,
+      "firstSeen": "2026-11-08",
+      "closedOn": "2026-11-27"
     },
     {
       "id": "arca-1448802500",

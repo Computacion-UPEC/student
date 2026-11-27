@@ -14,6 +14,30 @@
       "firstSeen": "2026-10-29"
     },
     {
+      "id": "pichincha-1338605662",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ARQUITECTO CIBERSEGURIDAD - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-27",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ARQUITECTO-CIBERSEGURIDAD-QUITO-QUIT-ARQUITECTU/1338605662/",
+      "isIT": true,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "pichincha-1338605462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE - CUMPLIMIENTO NORMATIVO Y REGULATORIO QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-27",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-CUMPLIMIENTO-NORMATIVO-Y-REGULATORIO-QUITO-QUIT-CUMPLIMIEN/1338605462/",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
       "id": "pichincha-1337801462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -83,18 +107,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-TECNICO-DE-TRIBU-FINANZAS-%28QUITO%29-QUIT-TRIBU-AREA/1335668362/",
       "isIT": false,
       "firstSeen": "2026-10-26"
-    },
-    {
-      "id": "pichincha-1336560562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "GERENTE SISTEMATICA COMERCIAL",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-25",
-      "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-SISTEMATICA-COMERCIAL-QUIT-SISTEMATIC/1336560562/",
-      "isIT": false,
-      "firstSeen": "2026-11-24"
     },
     {
       "id": "pichincha-1335386162",
@@ -194,11 +206,11 @@
       "id": "pichincha-1338464062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
-      "title": "ESPECIALISTA SOFTWARE - QUITO",
+      "title": "ESPECIALISTA SOFTWARE - QUITO (EVENTUAL)",
       "province": "PICHINCHA",
       "city": "QUITO",
       "publishedAt": "2026-11-23",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-SOFTWARE-QUITO-QUIT-DESARROLLO/1338464062/",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-SOFTWARE-QUITO-%28EVENTUAL%29-QUIT-DESARROLLO/1338464062/",
       "isIT": true,
       "firstSeen": "2026-11-24"
     },
@@ -396,18 +408,6 @@
       "firstSeen": "2026-11-19"
     },
     {
-      "id": "pichincha-1338401362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL B - LATACUNGA",
-      "province": "COTOPAXI",
-      "city": "LATACUNGA",
-      "publishedAt": "2026-11-19",
-      "url": "https://vacantes.pichincha.com/job/LATACUNGA-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-B-LATACUNGA-LATA-ZONA-NOROR/1338401362/",
-      "isIT": false,
-      "firstSeen": "2026-11-19"
-    },
-    {
       "id": "pagueya-6a8cb3e303e50c44287b5acc",
       "source": "pagueya",
       "institution": "Pague Ya (Grupo Pichincha)",
@@ -515,30 +515,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1338314462",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "DATA STEWARD - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-17",
-      "url": "https://vacantes.pichincha.com/job/QUITO-DATA-STEWARD-QUITO-QUIT-GOBIERNO-D/1338314462/",
-      "isIT": true,
-      "firstSeen": "2026-11-17"
-    },
-    {
-      "id": "pichincha-1338322762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE (TRIBU ADMINISTRACION CREDITO Y RECUPERACION) - QUITO",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-11-17",
-      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28TRIBU-ADMINISTRACION-CREDITO-Y-RECUPERACION%29-QUITO-QUIT-TRIBU-ADMI/1338322762/",
-      "isIT": false,
-      "firstSeen": "2026-11-18"
-    },
-    {
       "id": "pichincha-1338322362",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -575,6 +551,18 @@
       "firstSeen": "2026-11-18"
     },
     {
+      "id": "pichincha-1338293162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ESPECIALISTA SEGUIMIENTO Y REFINANCIACION COBRANZA - IBARRA",
+      "province": "IMBABURA",
+      "city": "IBARRA",
+      "publishedAt": "2026-11-16",
+      "url": "https://vacantes.pichincha.com/job/IBARRA-ESPECIALISTA-SEGUIMIENTO-Y-REFINANCIACION-COBRANZA-IBARRA-IBAR-SEGUIMIENT/1338293162/",
+      "isIT": false,
+      "firstSeen": "2026-11-17"
+    },
+    {
       "id": "pichincha-1337501462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -599,30 +587,6 @@
       "firstSeen": "2026-10-16"
     },
     {
-      "id": "pichincha-1337185762",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "JEFE COMERCIAL Y SERVICIOS - RIOBAMBA",
-      "province": "CHIMBORAZO",
-      "city": "RIOBAMBA",
-      "publishedAt": "2026-11-13",
-      "url": "https://vacantes.pichincha.com/job/RIOBAMBA-JEFE-COMERCIAL-Y-SERVICIOS-RIOBAMBA-RIOB-ZONA-SUR-O/1337185762/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1336860362",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "JEFE COMERCIAL Y SERVICIOS - CENTRO DE NEGOCIOS LAS ABRAS (RIOBAMBA)",
-      "province": "CHIMBORAZO",
-      "city": "RIOBAMBA",
-      "publishedAt": "2026-11-13",
-      "url": "https://vacantes.pichincha.com/job/RIOBAMBA-JEFE-COMERCIAL-Y-SERVICIOS-CENTRO-DE-NEGOCIOS-LAS-ABRAS-%28RIOBAMBA%29-RIOB-ZONA-SUR-O/1336860362/",
-      "isIT": false,
-      "firstSeen": "2026-11-12"
-    },
-    {
       "id": "pichincha-1336821262",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -633,18 +597,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-ESPECIALISTA-REQUERIMIENTOS-ORGANISMOS-DE-CONTROL-QUIT-SERVICIO-A/1336821262/",
       "isIT": false,
       "firstSeen": "2026-11-13"
-    },
-    {
-      "id": "pichincha-1338216062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "OFICIAL COMERCIAL Y SERVICIOS PYMES - TSACHILAS",
-      "province": "SANTO DOMINGO DE LOS TSACHILAS",
-      "city": "SANTO DOMINGO",
-      "publishedAt": "2026-11-12",
-      "url": "https://vacantes.pichincha.com/job/SANTO-DOMINGO-OFICIAL-COMERCIAL-Y-SERVICIOS-PYMES-TSACHILAS-SANT-ZONA-ESMER/1338216062/",
-      "isIT": false,
-      "firstSeen": "2026-11-12"
     },
     {
       "id": "pichincha-1331181562",
@@ -1163,6 +1115,18 @@
       "firstSeen": "2026-10-16"
     },
     {
+      "id": "pichincha-1336095562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASISTENTE GESTION OPERATIVA Y ADMINISTRATIVA - DISCAPACIDAD (QUITO)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-10-02",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ASISTENTE-GESTION-OPERATIVA-Y-ADMINISTRATIVA-DISCAPACIDAD-%28QUITO%29-QUIT-SERVICIO-A/1336095562/",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
       "source": "cacpeco",
       "institution": "CACPECO",
@@ -1183,6 +1147,19 @@
       "url": "https://quierolaburo.com/empresas/cacpeco",
       "isIT": false,
       "firstSeen": "2026-11-02"
+    },
+    {
+      "id": "pichincha-1336560562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "GERENTE SISTEMATICA COMERCIAL",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-25",
+      "url": "https://vacantes.pichincha.com/job/QUITO-GERENTE-SISTEMATICA-COMERCIAL-QUIT-SISTEMATIC/1336560562/",
+      "isIT": false,
+      "firstSeen": "2026-11-24",
+      "closedOn": "2026-11-27"
     },
     {
       "id": "pichincha-1338508962",
@@ -1245,6 +1222,19 @@
       "isIT": false,
       "firstSeen": "2026-11-20",
       "closedOn": "2026-11-25"
+    },
+    {
+      "id": "pichincha-1338401362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "EJECUTIVO NEGOCIOS MICROFINANZAS GRUPAL B - LATACUNGA",
+      "province": "COTOPAXI",
+      "city": "LATACUNGA",
+      "publishedAt": "2026-11-19",
+      "url": "https://vacantes.pichincha.com/job/LATACUNGA-EJECUTIVO-NEGOCIOS-MICROFINANZAS-GRUPAL-B-LATACUNGA-LATA-ZONA-NOROR/1338401362/",
+      "isIT": false,
+      "firstSeen": "2026-11-19",
+      "closedOn": "2026-11-27"
     },
     {
       "id": "pichincha-1337642062",
@@ -1324,6 +1314,32 @@
       "closedOn": "2026-11-21"
     },
     {
+      "id": "pichincha-1338314462",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "DATA STEWARD - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-17",
+      "url": "https://vacantes.pichincha.com/job/QUITO-DATA-STEWARD-QUITO-QUIT-GOBIERNO-D/1338314462/",
+      "isIT": true,
+      "firstSeen": "2026-11-17",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "pichincha-1338322762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE (TRIBU ADMINISTRACION CREDITO Y RECUPERACION) - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-17",
+      "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-%28TRIBU-ADMINISTRACION-CREDITO-Y-RECUPERACION%29-QUITO-QUIT-TRIBU-ADMI/1338322762/",
+      "isIT": false,
+      "firstSeen": "2026-11-18",
+      "closedOn": "2026-11-27"
+    },
+    {
       "id": "pichincha-1338316262",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1361,19 +1377,6 @@
       "isIT": false,
       "firstSeen": "2026-11-18",
       "closedOn": "2026-11-21"
-    },
-    {
-      "id": "pichincha-1338293162",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ESPECIALISTA SEGUIMIENTO Y REFINANCIACION COBRANZA - IBARRA",
-      "province": "IMBABURA",
-      "city": "IBARRA",
-      "publishedAt": "2026-11-16",
-      "url": "https://vacantes.pichincha.com/job/IBARRA-ESPECIALISTA-SEGUIMIENTO-Y-REFINANCIACION-COBRANZA-IBARRA-IBAR-SEGUIMIENT/1338293162/",
-      "isIT": false,
-      "firstSeen": "2026-11-17",
-      "closedOn": "2026-11-25"
     },
     {
       "id": "pichincha-1338292262",
@@ -1415,6 +1418,32 @@
       "closedOn": "2026-11-19"
     },
     {
+      "id": "pichincha-1337185762",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "JEFE COMERCIAL Y SERVICIOS - RIOBAMBA",
+      "province": "CHIMBORAZO",
+      "city": "RIOBAMBA",
+      "publishedAt": "2026-11-13",
+      "url": "https://vacantes.pichincha.com/job/RIOBAMBA-JEFE-COMERCIAL-Y-SERVICIOS-RIOBAMBA-RIOB-ZONA-SUR-O/1337185762/",
+      "isIT": false,
+      "firstSeen": "2026-10-16",
+      "closedOn": "2026-11-27"
+    },
+    {
+      "id": "pichincha-1336860362",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "JEFE COMERCIAL Y SERVICIOS - CENTRO DE NEGOCIOS LAS ABRAS (RIOBAMBA)",
+      "province": "CHIMBORAZO",
+      "city": "RIOBAMBA",
+      "publishedAt": "2026-11-13",
+      "url": "https://vacantes.pichincha.com/job/RIOBAMBA-JEFE-COMERCIAL-Y-SERVICIOS-CENTRO-DE-NEGOCIOS-LAS-ABRAS-%28RIOBAMBA%29-RIOB-ZONA-SUR-O/1336860362/",
+      "isIT": false,
+      "firstSeen": "2026-11-12",
+      "closedOn": "2026-11-27"
+    },
+    {
       "id": "pichincha-1337474462",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -1426,6 +1455,19 @@
       "isIT": false,
       "firstSeen": "2026-10-16",
       "closedOn": "2026-11-24"
+    },
+    {
+      "id": "pichincha-1338216062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "OFICIAL COMERCIAL Y SERVICIOS PYMES - TSACHILAS",
+      "province": "SANTO DOMINGO DE LOS TSACHILAS",
+      "city": "SANTO DOMINGO",
+      "publishedAt": "2026-11-12",
+      "url": "https://vacantes.pichincha.com/job/SANTO-DOMINGO-OFICIAL-COMERCIAL-Y-SERVICIOS-PYMES-TSACHILAS-SANT-ZONA-ESMER/1338216062/",
+      "isIT": false,
+      "firstSeen": "2026-11-12",
+      "closedOn": "2026-11-27"
     },
     {
       "id": "pichincha-1338232062",
