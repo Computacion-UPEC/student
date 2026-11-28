@@ -234,6 +234,22 @@ def scrape_posts():
 
 
 # ---- Requisitos ----------------------------------------------------------------------------
+# Plazo de postulación escrito en la convocatoria: "hasta las 16:30 del día 18 de noviembre de 2026",
+# "hasta el lunes 6 de octubre de 2026", "hasta el 01/10/2026". Las páginas con lista (sin tabla) solo lo traen ahí.
+PLAZO = re.compile(r"hasta\s+(?:las\s+)?(?:\d{1,2}\s*[:hH]\s*\d{2}\s*(?:h|horas)?\s*,?\s*)?(?:del?\s+)?(?:el\s+)?(?:d[ií]a\s+)?"
+                   r"(?:(?:lunes|martes|mi[eé]rcoles|jueves|viernes|s[aá]bado|domingo),?\s+)?"
+                   r"(\d{1,2}\s+de\s+[a-záéíóú]+\s+(?:de|del)\s+\d{4}|\d{1,2}[-/]\d{1,2}[-/]\d{4})", re.I)
+
+
+def fecha_limite(t, pub):
+    """Primer plazo de postulación del texto que sea coherente con la publicación (no antes, ni más de 60 días después)."""
+    for m in PLAZO.finditer(plano(t)):
+        fin = parse_fecha(m.group(1))
+        if fin and (pub is None or 0 <= (fin - pub).days <= 60):
+            return fin
+    return None
+
+
 def texto_pdf(url):
     try:
         r = pypdf.PdfReader(io.BytesIO(get(url, binario=True)))
@@ -363,6 +379,8 @@ def main():
                   "Experiencia mínima (meses)": meses, "Sueldo (RMU)": sueldo,
                   "Elegibilidad Ing. Computación": elegibilidad(f["Cargo"], form)})
         fin, pub = f["Fecha finalización"], f["Fecha publicación"]
+        if not fin and t:
+            fin = f["Fecha finalización"] = fecha_limite(t, pub)
         if fin:
             f["Estado"] = "Abierta" if fin >= HOY else "Cerrada"
         elif pub and (HOY - pub).days <= 7:
