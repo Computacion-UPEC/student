@@ -74,11 +74,23 @@ export type PublicOpportunity = {
 
 // Educa Empleo publica una convocatoria cada mes (scripts/educa-empleo/collect.mjs detecta el mes nuevo)
 const MONTH_NAMES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
-const latestEducaCall = educaEmpleoData.calls[0] as { key: string; title: string; firstSeen: string } | undefined
+type EducaCall = { key: string; title: string; firstSeen: string | null; registration?: { from: string; to: string }; schedule?: string }
+const latestEducaCall = educaEmpleoData.calls[0] as EducaCall | undefined
 const educaMonth = latestEducaCall ? `${MONTH_NAMES[Number(latestEducaCall.key.slice(5, 7)) - 1]} ${latestEducaCall.key.slice(0, 4)}` : null
+// "14–15 de noviembre de 2026": días de inscripción de la convocatoria más reciente (de su imagen de cronograma)
+const educaDays = (call?: EducaCall) => {
+  if (!call?.registration) return null
+  const [from, to] = [call.registration.from, call.registration.to].map((date) => Number(date.slice(8, 10)))
+  return `${from === to ? from : `${from}–${to}`} de ${MONTH_NAMES[Number(call.registration.to.slice(5, 7)) - 1]} de ${call.registration.to.slice(0, 4)}`
+}
+const educaLatestDays = educaDays(latestEducaCall)
+const educaNote = [
+  "Convocatoria mensual: la inscripción dura solo 1 a 3 días (en 2026, entre el día 4 y el 15 de cada mes) y se anuncia 1 o 2 días antes.",
+  educaMonth ? `Más reciente: ${educaMonth}${educaLatestDays ? `, inscripción el ${educaLatestDays}` : ""}.` : "",
+].filter(Boolean).join(" ")
 
 export const publicOpportunities: PublicOpportunity[] = [
-  { id: "educa-empleo", title: "Educa Empleo", platform: "academico.educarecuador.gob.ec", url: "https://academico.educarecuador.gob.ec/educaempleo/#/homePage", description: "Convocatorias para docencia técnica de informática en instituciones fiscales.", steps: ["Crear cuenta con cédula y correo", "Validar título en SENESCYT", "Filtrar por provincia y especialidad", "Postular hasta a 5 instituciones"], category: "Docencia técnica", note: educaMonth ? `Convocatoria mensual, abre por pocos días. Más reciente: ${educaMonth}.` : "Convocatoria mensual, abre por pocos días.", newSince: latestEducaCall?.firstSeen },
+  { id: "educa-empleo", title: "Educa Empleo", platform: "academico.educarecuador.gob.ec", url: "https://academico.educarecuador.gob.ec/educaempleo/#/homePage", description: "Convocatorias para docencia técnica de informática en instituciones fiscales.", steps: ["Crear cuenta con cédula y correo", "Validar título en SENESCYT", "Filtrar por provincia y especialidad", "Postular hasta a 5 instituciones"], category: "Docencia técnica", note: educaNote, newSince: latestEducaCall?.firstSeen ?? undefined },
   { id: "policia-especialistas", title: "Oficial Especialista · Policía Nacional", platform: "reclutamiento.policia.gob.ec", url: "https://reclutamiento.policia.gob.ec", description: "Convocatorias para profesionales TIC, informática y áreas especializadas.", steps: ["Registrar usuario durante el llamamiento", "Validar título SENESCYT", "Descargar prospecto y declaración", "Subir documentos PDF"], category: "Sector público", note: "Convocatoria anual. Última: abril 2026 (cerrada)." },
   { id: "sercop-consultoria", title: "Proveedor del Estado · SERCOP", platform: "portal.compraspublicas.gob.ec", url: "https://portal.compraspublicas.gob.ec/sercop/", description: "Oportunidades de consultoría, desarrollo, redes y soporte mediante contratación pública.", steps: ["Obtener RUP con RUC activo", "Seleccionar códigos CPC afines", "Filtrar necesidades por Carchi", "Enviar cotización y hoja técnica"], category: "Consultoría" },
   { id: "encuentra-empleo-publico", title: "Vacantes del Sector Público", platform: "encuentraempleo.trabajo.gob.ec", url: "https://encuentraempleo.trabajo.gob.ec", description: "Convocatorias LOSEP y servicios ocasionales para perfiles de Tecnologías de la Información.", steps: ["Completar la hoja de vida", "Entrar a Sector Público", "Filtrar por TIC y nivel jerárquico", "Postular a las convocatorias"], category: "Sector público" },

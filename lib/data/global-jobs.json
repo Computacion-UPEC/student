@@ -2,6 +2,17 @@
   "collectedSince": "2026-11-05",
   "jobs": [
     {
+      "id": "greenhouse-affirm-8199163003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (Trust Infra)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-11-27",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8199163003",
+      "firstSeen": "2026-11-27"
+    },
+    {
       "id": "ashby-supabase-62ad3b86-3a18-435a-ab29-dc62b77154e5",
       "company": "Supabase",
       "title": "Product Security Engineer",
@@ -73,16 +84,6 @@
       "route": "remoto",
       "publishedAt": "2026-11-19",
       "url": "https://jobs.ashbyhq.com/supabase/463d8cd7-3092-44eb-b80e-8d21008e569e",
-      "firstSeen": "2026-11-19"
-    },
-    {
-      "id": "ashby-supabase-2184cfbd-927e-4d3c-b34a-f2301d3e8281",
-      "company": "Supabase",
-      "title": "Software Engineer - Postgres Tooling",
-      "location": "Remote, Global",
-      "route": "remoto",
-      "publishedAt": "2026-11-19",
-      "url": "https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281",
       "firstSeen": "2026-11-19"
     },
     {
@@ -558,6 +559,17 @@
       "firstSeen": "2026-11-17"
     },
     {
+      "id": "greenhouse-affirm-8033589003",
+      "company": "Affirm",
+      "title": "Senior Software Engineer, Backend (Capacity Modeling)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-10-21",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8033589003",
+      "firstSeen": "2026-11-05"
+    },
+    {
       "id": "greenhouse-stripe-8301379",
       "company": "Stripe",
       "title": "Backend / API Engineer, Radar",
@@ -672,16 +684,6 @@
       "canadaLmia": 17,
       "publishedAt": "2026-10-12",
       "url": "https://stripe.com/jobs/search?gh_jid=8274893",
-      "firstSeen": "2026-11-05"
-    },
-    {
-      "id": "ashby-supabase-9073c0cd-2545-473a-b2ac-63e4615c69b5",
-      "company": "Supabase",
-      "title": "Platform Engineer, Managed Postgres",
-      "location": "Remote, Global",
-      "route": "remoto",
-      "publishedAt": "2026-10-09",
-      "url": "https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5",
       "firstSeen": "2026-11-05"
     },
     {
@@ -1068,6 +1070,17 @@
       "canadaLmia": 5,
       "publishedAt": "2026-07-21",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7806920003",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "id": "greenhouse-affirm-7727322003",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Test Infra)",
+      "location": "Remote Canada",
+      "route": "patrocinio",
+      "canadaLmia": 5,
+      "publishedAt": "2026-07-10",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
       "firstSeen": "2026-11-05"
     },
     {
@@ -2070,6 +2083,17 @@
       "closedOn": "2026-11-26"
     },
     {
+      "id": "ashby-supabase-2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+      "company": "Supabase",
+      "title": "Software Engineer - Postgres Tooling",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-11-19",
+      "url": "https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+      "firstSeen": "2026-11-19",
+      "closedOn": "2026-11-27"
+    },
+    {
       "id": "greenhouse-affirm-8196114003",
       "company": "Affirm",
       "title": "Software Engineer II, Backend",
@@ -2090,18 +2114,6 @@
       "canadaLmia": 17,
       "publishedAt": "2026-11-02",
       "url": "https://stripe.com/jobs/search?gh_jid=8346778",
-      "firstSeen": "2026-11-05",
-      "closedOn": "2026-11-24"
-    },
-    {
-      "id": "greenhouse-affirm-8033589003",
-      "company": "Affirm",
-      "title": "Senior Software Engineer, Backend (Capacity Modeling)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-10-21",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8033589003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-24"
     },
@@ -2128,6 +2140,17 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8017509003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-06"
+    },
+    {
+      "id": "ashby-supabase-9073c0cd-2545-473a-b2ac-63e4615c69b5",
+      "company": "Supabase",
+      "title": "Platform Engineer, Managed Postgres",
+      "location": "Remote, Global",
+      "route": "remoto",
+      "publishedAt": "2026-10-09",
+      "url": "https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5",
+      "firstSeen": "2026-11-05",
+      "closedOn": "2026-11-26"
     },
     {
       "id": "greenhouse-affirm-8010496003",
@@ -2421,18 +2444,6 @@
       "route": "remoto",
       "publishedAt": "2026-07-17",
       "url": "https://jobs.ashbyhq.com/supabase/b75ba81e-54cc-4393-a575-bc41776b0113",
-      "firstSeen": "2026-11-05",
-      "closedOn": "2026-11-24"
-    },
-    {
-      "id": "greenhouse-affirm-7727322003",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Test Infra)",
-      "location": "Remote Canada",
-      "route": "patrocinio",
-      "canadaLmia": 5,
-      "publishedAt": "2026-07-10",
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7727322003",
       "firstSeen": "2026-11-05",
       "closedOn": "2026-11-24"
     },

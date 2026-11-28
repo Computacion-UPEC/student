@@ -1,8 +1,8 @@
 {
   "platforms": {
     "Bancos": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-27",
+      "lastSuccess": "2026-11-27",
       "ok": true
     },
     "CACPECO": {
@@ -11,23 +11,23 @@
       "ok": true
     },
     "CELEC": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-27",
+      "lastSuccess": "2026-11-27",
       "ok": true
     },
     "CNT": {
-      "lastRun": "2026-11-23",
-      "lastSuccess": "2026-11-23",
+      "lastRun": "2026-11-28",
+      "lastSuccess": "2026-11-28",
       "ok": true
     },
     "Concursos": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-27",
+      "lastSuccess": "2026-11-27",
       "ok": true
     },
     "Educa-Empleo": {
-      "lastRun": "2026-11-23",
-      "lastSuccess": "2026-11-23",
+      "lastRun": "2026-11-28",
+      "lastSuccess": "2026-11-28",
       "ok": true
     },
     "El-Rosado": {
@@ -46,23 +46,23 @@
       "ok": true
     },
     "Exterior": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-27",
+      "lastSuccess": "2026-11-27",
       "ok": true
     },
     "INEC": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-27",
+      "lastSuccess": "2026-11-27",
       "ok": true
     },
     "Petroecuador": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-27",
+      "lastSuccess": "2026-11-27",
       "ok": true
     },
     "Privadas": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-27",
+      "lastSuccess": "2026-11-27",
       "ok": true
     },
     "Remotas": {
@@ -71,24 +71,28 @@
       "ok": true
     },
     "Software": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-27",
+      "lastSuccess": "2026-11-27",
       "ok": true
     },
     "Visas": {
-      "lastRun": "2026-11-25",
-      "lastSuccess": "2026-11-25",
+      "lastRun": "2026-11-27",
+      "lastSuccess": "2026-11-27",
       "ok": true
     }
   },
   "failing": {
-    "Pague Ya (Grupo Pichincha)": {
-      "since": "2026-11-25",
+    "Nestlé Ecuador": {
+      "since": "2026-11-27",
       "runs": 1
+    },
+    "Netlife": {
+      "since": "2026-11-27",
+      "runs": 2
     },
     "Tiendas Tuti": {
       "since": "2026-11-09",
-      "runs": 34
+      "runs": 38
     }
   }
 }
