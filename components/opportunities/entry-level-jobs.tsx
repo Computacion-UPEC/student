@@ -13,7 +13,7 @@ import techData from "@/lib/data/tech-jobs.json"
 import { encuentraEmpleoFeed } from "@/components/opportunities/encuentra-empleo-jobs"
 import type { TechJob } from "@/components/opportunities/tech-jobs"
 import type { FinanceJob } from "@/lib/finance-portals"
-import { celecJobs, type PetroecuadorJob } from "@/lib/opportunities-data"
+import { celecJobs, celecLastDay, type PetroecuadorJob } from "@/lib/opportunities-data"
 import type { PrivateJob } from "@/lib/private-portals"
 import { encuentraEmpleoLinks, type CntJob, type InecJob, type PublicContestJob } from "@/lib/public-portals"
 import { isEntryRole } from "@/scripts/lib/entry-roles.mjs"
@@ -70,8 +70,10 @@ const entryJobs: EntryJob[] = [
     since: job.firstSeen, url: job.url, flaggedIT: job.isIT,
   })),
   ...celecJobs.filter((job) => isEntry(job.role)).map((job) => ({
-    id: job.id, title: job.role, org: `CELEC EP – ${job.unit}`, sector: "Energía", closes: job.closesAt, since: job.publishedAt,
+    // Sin plazo legible en la convocatoria, se da por cerrada 7 días después de publicada (no queda abierta para siempre)
+    id: job.id, title: job.role, org: `CELEC EP – ${job.unit}`, sector: "Energía", closes: celecLastDay(job), since: job.publishedAt,
     url: job.url ?? "https://www.celec.gob.ec/", flaggedIT: job.isIT || job.fit === "Directa", flaggedRelated: job.fit === "Posible",
+    note: job.closesAt ? undefined : "Plazo no publicado en la página: confírmalo en el PDF de la convocatoria",
   })),
   ...(petroecuadorData as { source: string; jobs: PetroecuadorJob[] }).jobs.filter((job) => isEntry(job.role)).map((job) => ({
     id: `petro-${job.code}`, title: job.role, org: "EP Petroecuador", sector: "Energía", city: job.city, closes: job.closesAt,

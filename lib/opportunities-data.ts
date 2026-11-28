@@ -49,11 +49,24 @@ export const celecUnitUrls: Record<string, string> = {
 
 export type JobStatus = "Abierta" | "Cerrada" | "Por confirmar"
 
-/** Estado según la fecha de cierre; sin fecha se usa lo que marcó el scraper. */
+/** Días que una convocatoria de CELEC sin plazo legible se considera vigente (suelen estar abiertas 1 a 3 días). */
+export const CELEC_DAYS_WITHOUT_DEADLINE = 7
+
+/** Último día probable: su plazo publicado o, si no se pudo leer, 7 días después de publicada. */
+export function celecLastDay(job: Pick<CelecJob, "closesAt" | "publishedAt">): string | null {
+  if (job.closesAt) return job.closesAt
+  if (!job.publishedAt) return null
+  const day = new Date(`${job.publishedAt}T12:00:00Z`)
+  day.setUTCDate(day.getUTCDate() + CELEC_DAYS_WITHOUT_DEADLINE)
+  return day.toISOString().slice(0, 10)
+}
+
+/** Estado según la fecha de cierre; sin fecha, "Por confirmar" durante 7 días desde la publicación y luego cerrada. */
 export function celecJobStatus(job: CelecJob, today: string | null): JobStatus {
   if (job.closesAt && today) return job.closesAt >= today ? "Abierta" : "Cerrada"
-  if (job.statusAtScrape.startsWith("Abierta")) return job.closesAt ? "Abierta" : "Por confirmar"
-  return "Cerrada"
+  const last = celecLastDay(job)
+  if (today && last) return last >= today ? "Por confirmar" : "Cerrada"
+  return job.statusAtScrape.startsWith("Abierta") || job.statusAtScrape.startsWith("Reciente") ? "Por confirmar" : "Cerrada"
 }
 
 // --- Rutas y convocatorias públicas
