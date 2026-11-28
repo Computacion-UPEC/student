@@ -45,8 +45,10 @@ const decode = (text) => text
 const clean = (text) => decode(text.replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").trim()
 
 async function get(url, init = {}) {
-  const response = await fetch(url, { ...init, headers: { "User-Agent": UA, "Accept-Language": "es-EC,es;q=0.9", ...init.headers } })
-  if (!response.ok) throw new Error(`${response.status} en ${url}`)
+  const { acceptServerError, ...options } = init
+  const response = await fetch(url, { ...options, headers: { "User-Agent": UA, "Accept-Language": "es-EC,es;q=0.9", ...options.headers } })
+  // acceptServerError: el sitio responde 500 pero envía la página completa (Tuti desde noviembre de 2026)
+  if (!response.ok && !(acceptServerError && response.status >= 500)) throw new Error(`${response.status} en ${url}`)
   // HiringRoom dice UTF-8 pero algunos textos llegan en Latin-1
   const bytes = await response.arrayBuffer()
   try {
@@ -100,12 +102,15 @@ async function successFactors(base, search, { soloEcuador = false, ciudadEnEnlac
 
 async function tuti() {
   const base = "https://tuti.com.ec"
-  const html = await get(`${base}/trabaja-con-nosotros/`)
+  // Desde el 9 de noviembre de 2026 todo tuti.com.ec responde 500 aunque la página llega completa: se acepta si
+  // trae el contenido de "Trabaja con nosotros", y si no, se cuenta como falla
+  const html = await get(`${base}/trabaja-con-nosotros/`, { acceptServerError: true })
+  if (!/Trabaja con nosotros/i.test(html)) throw new Error("tuti.com.ec no devolvió la página de empleo")
   const jobs = new Map()
   for (const [, url, slug] of html.matchAll(/href="(https:\/\/tuti\.com\.ec\/jobs\/([^"/]+)\/)"/g)) {
     if (jobs.has(slug)) continue
     // El título está en la página de la vacante
-    const page = await get(url).catch(() => "")
+    const page = await get(url, { acceptServerError: true }).catch(() => "")
     const title = clean(page.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? "") || slug.replace(/-/g, " ")
     jobs.set(slug, { key: slug, title, city: null, publishedAt: null, url })
   }

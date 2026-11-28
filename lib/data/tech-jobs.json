@@ -2,17 +2,6 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
-      "id": "devsu-9B914768B2",
-      "company": "Devsu",
-      "title": "Científico de datos Jr IA - Sector financiero/bancario",
-      "city": "Quito",
-      "remote": false,
-      "publishedAt": "2026-11-25",
-      "url": "https://apply.workable.com/j/9B914768B2",
-      "isIT": true,
-      "firstSeen": "2026-11-25"
-    },
-    {
       "id": "devsu-E2DF095E86",
       "company": "Devsu",
       "title": "Senior Desarrollador Java (Spring) - Sector Financiero/Bancario",
@@ -275,6 +264,18 @@
       "url": "https://apply.workable.com/j/FCE05F5D8B",
       "isIT": true,
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "devsu-9B914768B2",
+      "company": "Devsu",
+      "title": "Científico de datos Jr IA - Sector financiero/bancario",
+      "city": "Quito",
+      "remote": false,
+      "publishedAt": "2026-11-25",
+      "url": "https://apply.workable.com/j/9B914768B2",
+      "isIT": true,
+      "firstSeen": "2026-11-25",
+      "closedOn": "2026-11-27"
     },
     {
       "id": "devsu-165A5316E7",
