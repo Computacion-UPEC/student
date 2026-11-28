@@ -41,9 +41,9 @@
       },
       "cantonsServed": 219,
       "offices": 175,
-      "jobPortal": null,
-      "portalStatus": "unreachable",
-      "note": "Recruitment portal answered 503 (Oct 2026); check again."
+      "jobPortal": "https://fa-ewnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/es/sites/CX_3001/tc-join?mode=location",
+      "portalStatus": "collected",
+      "note": "Oracle Recruiting portal linked from \"Trabaja con Nosotros\" in the site footer (Nov 2026); 48 open jobs read through its public API, including IT roles. The old portal gave 503 in Oct."
     },
     {
       "id": "pacifico",
@@ -62,9 +62,9 @@
       },
       "cantonsServed": 215,
       "offices": 107,
-      "jobPortal": null,
-      "portalStatus": "no-job-section",
-      "note": "No job section found on its site (Oct 2026); check again."
+      "jobPortal": "https://ec.linkedin.com/company/banco-del-pacifico",
+      "portalStatus": "link",
+      "note": "The site links \"Oportunidades laborales\" to its LinkedIn company page; no own job portal."
     },
     {
       "id": "produbanco",
@@ -100,9 +100,9 @@
       },
       "cantonsServed": 192,
       "offices": 99,
-      "jobPortal": null,
-      "portalStatus": "no-job-section",
-      "note": "No job section found on its site (Oct 2026); check again."
+      "jobPortal": "https://bancobolivariano.hiringroom.com/jobs",
+      "portalStatus": "collected",
+      "note": "HiringRoom portal under the bank's name (25 open jobs, Nov 2026). The homepage does not link it."
     },
     {
       "id": "internacional",
@@ -140,7 +140,7 @@
       "offices": 86,
       "jobPortal": null,
       "portalStatus": "no-job-section",
-      "note": "No job section found on its site (Oct 2026); check again."
+      "note": "Re-checked Nov 2026 with a rendered browser: no job link on the site."
     },
     {
       "id": "diners-club",
@@ -156,8 +156,9 @@
       },
       "cantonsServed": 5,
       "offices": 6,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://dce.twiinshrm.com/views/02_candidatos/#/candidato/trabaja",
+      "portalStatus": "link",
+      "note": "\"Postúlate\" on dinersclub.com.ec opens its Twiins HRM candidate portal (JavaScript app, not read)."
     },
     {
       "id": "general-ruminahui",
@@ -175,8 +176,9 @@
       },
       "cantonsServed": 26,
       "offices": 27,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://bgr.hiringroom.com/jobs",
+      "portalStatus": "collected",
+      "note": "\"Únete a nosotros\" page links this HiringRoom portal (22 open jobs, Nov 2026)."
     },
     {
       "id": "machala",
@@ -195,7 +197,8 @@
       "cantonsServed": 25,
       "offices": 38,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No job link on bancomachala.com (rendered browser, Nov 2026); hires through LinkedIn posts."
     },
     {
       "id": "loja",
@@ -230,7 +233,8 @@
       "cantonsServed": 1,
       "offices": 1,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "Citi Ecuador page has no job link; Citi hires through its global careers site."
     },
     {
       "id": "solidario",
@@ -246,8 +250,9 @@
       },
       "cantonsServed": 27,
       "offices": 52,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://www.banco-solidario.com/trabajaconnosotros",
+      "portalStatus": "link",
+      "note": "\"Trabaja con nosotros\" is linked from its homepage; the page sits behind a bot check (Radware), so it is not read."
     },
     {
       "id": "procredit",
@@ -265,8 +270,9 @@
       },
       "cantonsServed": 8,
       "offices": 5,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://www.bancoprocredit.com.ec/carrera/",
+      "portalStatus": "link",
+      "note": "\"Carrera\" page with Onboarding (new graduates), Profesionales and paid internships programs; no open job list."
     },
     {
       "id": "amazonas",
@@ -284,8 +290,9 @@
       },
       "cantonsServed": 2,
       "offices": 2,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://www.bancoamazonas.com/trabaje-con-nosotros/",
+      "portalStatus": "cv-form",
+      "note": "\"Trabaje con nosotros\": send the CV to seleccion@bancoamazonas.com for its candidate database."
     },
     {
       "id": "codesarrollo",
@@ -303,8 +310,9 @@
       },
       "cantonsServed": 19,
       "offices": 22,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://forms.gle/xbnoBC6M51vMuwA26",
+      "portalStatus": "cv-form",
+      "note": "\"Trabaja con nosotros\" on its homepage opens a Google Form."
     },
     {
       "id": "coopnacional",
@@ -323,7 +331,8 @@
       "cantonsServed": 1,
       "offices": 4,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No job link on bancocoopnacional.com (rendered browser, Nov 2026)."
     },
     {
       "id": "atlantida",
@@ -341,9 +350,9 @@
       },
       "cantonsServed": 0,
       "offices": 0,
-      "jobPortal": null,
-      "portalStatus": "to-find",
-      "note": "Not listed in the September 2026 service-points file."
+      "jobPortal": "https://contactanos.bancoatlantida.ec/trabajenosotros",
+      "portalStatus": "cv-form",
+      "note": "\"Trabaje con Nosotros\" opens a contact form for candidates."
     },
     {
       "id": "comercial-de-manabi",
@@ -360,8 +369,9 @@
       },
       "cantonsServed": 5,
       "offices": 6,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://www.bcmanabi.com/solicitudesbcm/empleo",
+      "portalStatus": "cv-form",
+      "note": "\"Trabaje con nosotros\" opens a job application form with a PDF CV upload."
     },
     {
       "id": "visionfund",
@@ -377,8 +387,9 @@
       },
       "cantonsServed": 21,
       "offices": 22,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://visionfund.ec/trabajo",
+      "portalStatus": "cv-form",
+      "note": "\"Ofertas Laborales\" page with a CV upload form (Evaluar.com, banco-visionfund.evaluar.com)."
     },
     {
       "id": "capital",
@@ -395,8 +406,9 @@
       },
       "cantonsServed": 3,
       "offices": 3,
-      "jobPortal": null,
-      "portalStatus": "to-find"
+      "jobPortal": "https://www.bancocapital.com/web/trabaja-con-nosotros/",
+      "portalStatus": "link",
+      "note": "\"Trabaja con Nosotros\" lists open roles (e.g. Ejecutivo de Banca Personas y Empresas, Ibarra) with a CV upload form."
     },
     {
       "id": "litoral",
@@ -414,7 +426,8 @@
       "cantonsServed": 5,
       "offices": 6,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No job link on bancodellitoral.com (rendered browser, Nov 2026)."
     },
     {
       "id": "delbank",
@@ -433,7 +446,8 @@
       "cantonsServed": 11,
       "offices": 17,
       "jobPortal": null,
-      "portalStatus": "to-find"
+      "portalStatus": "no-job-section",
+      "note": "No job link on delbank.fin.ec (rendered browser, Nov 2026)."
     }
   ]
 }
