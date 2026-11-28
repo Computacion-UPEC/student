@@ -1,6 +1,6 @@
 {
   "source": "https://www.celec.gob.ec",
-  "exportedAt": "2026-11-26",
+  "exportedAt": "2026-11-28",
   "jobs": [
     {
       "id": "celec-48e5318a17",
@@ -761,6 +761,25 @@
       "code": "",
       "url": "https://www.celec.gob.ec/hidrotoapi/uncategorized/celec-ep-hidrotoapi-invita-a-participar-en-el-proceso-de-seleccion-simple-para-ocupar-el-puesto-de-operador-del-centro-de-control-generacion-hidraulica-especialista-tecnico-1/",
       "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "celec-f55e313ec9",
+      "unit": "Termopichincha",
+      "role": "CONVOCATORIA PARA EL PROCESO DE SELECCIÓN SIMPLE UN VARIOS CARGOS UNIDAD DE NEGOCIO TERMOPICHINCHA",
+      "fit": "Posible",
+      "isIT": false,
+      "fitDetail": "Posible (carrera afín / ingeniería)",
+      "minExperienceMonths": 36,
+      "experience": "Tiempo de experiencia: 3 años en cargos similares, 4 años En cargos de Asistentes, relacionadas con el área. Requerimiento || Tiempo de experiencia: 4 años en cargos similares, 5 años En cargos de Jefaturas de sección relacionadas con el área Departamento de Talento Humano Subgerencia Administrativa",
+      "education": "Formación académica: Tercer Nivel de Grado: Licenciatura y títulos profesionales: Administración de Empresas, Economista, o Psicología Industrial, Comercio, Finanzas; Contabilidad y Auditoría; o carreras afines en función de la formación. || Formación académica: Tercer Nivel de Grado: Licenciatura y títulos profesionales: Mecánica, Eléctrica, o Electrónica; o carreras afines en función de la formación.",
+      "salary": "$1,800.00 / $3,020.00",
+      "openings": "",
+      "publishedAt": "2026-11-28",
+      "closesAt": null,
+      "statusAtScrape": "Reciente - revisar",
+      "code": "",
+      "url": "https://www.celec.gob.ec/termopichincha/uncategorized/convocatoria-para-el-proceso-de-seleccion-simple-un-varios-cargos-unidad-de-negocio-termopichincha/",
+      "firstSeen": "2026-11-28"
     },
     {
       "id": "celec-420c7806ae",

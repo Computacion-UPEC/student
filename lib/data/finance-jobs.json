@@ -2,6 +2,53 @@
   "collectedSince": "2026-10-16",
   "jobs": [
     {
+      "id": "pichincha-1337081062",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "PASANTE OPERACIONES DE TALENTO HUMANO - CUENCA",
+      "province": "AZUAY",
+      "city": "CUENCA",
+      "publishedAt": "2026-11-28",
+      "url": "https://vacantes.pichincha.com/job/CUENCA-PASANTE-OPERACIONES-DE-TALENTO-HUMANO-CUENCA-CUEN-SERVICIOS/1337081062/",
+      "isIT": false,
+      "firstSeen": "2026-10-16"
+    },
+    {
+      "id": "pichincha-1336095562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASISTENTE GESTION OPERATIVA Y ADMINISTRATIVA - DISCAPACIDAD (QUITO)",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-28",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ASISTENTE-GESTION-OPERATIVA-Y-ADMINISTRATIVA-DISCAPACIDAD-%28QUITO%29-QUIT-SERVICIO-A/1336095562/",
+      "isIT": false,
+      "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "pichincha-1338632562",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "LIDER AUDIENCIAS Y MEDIOS - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-28",
+      "url": "https://vacantes.pichincha.com/job/QUITO-LIDER-AUDIENCIAS-Y-MEDIOS-QUITO-QUIT-CELULA-ADT/1338632562/",
+      "isIT": false,
+      "firstSeen": "2026-11-28"
+    },
+    {
+      "id": "sanfra-6b0a119c6a2cc728647c57da",
+      "source": "sanfra",
+      "institution": "Cooperativa San Francisco",
+      "title": "GESTOR DE NEGOCIOS - AGENCIA TENA (LORETO)",
+      "city": "Riobamba",
+      "publishedAt": null,
+      "url": "https://coacsanfra.hiringroom.com/jobs/get_vacancy/6b0a119c6a2cc728647c57da",
+      "isIT": false,
+      "firstSeen": "2026-11-28"
+    },
+    {
       "id": "pichincha-1337849062",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -36,6 +83,18 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-PASANTE-CUMPLIMIENTO-NORMATIVO-Y-REGULATORIO-QUITO-QUIT-CUMPLIMIEN/1338605462/",
       "isIT": false,
       "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "pichincha-1338630162",
+      "source": "pichincha",
+      "institution": "Banco Pichincha",
+      "title": "ASESOR LEGAL PROCESAL EXPERTO - QUITO",
+      "province": "PICHINCHA",
+      "city": "QUITO",
+      "publishedAt": "2026-11-27",
+      "url": "https://vacantes.pichincha.com/job/QUITO-ASESOR-LEGAL-PROCESAL-EXPERTO-QUITO-QUIT-CONTROL-PR/1338630162/",
+      "isIT": false,
+      "firstSeen": "2026-11-28"
     },
     {
       "id": "pichincha-1337801462",
@@ -611,17 +670,6 @@
       "firstSeen": "2026-11-10"
     },
     {
-      "id": "bancoloja-6a739197fd656f3c39247a31",
-      "source": "bancoloja",
-      "institution": "Banco de Loja",
-      "title": "Asesor Banca Personas",
-      "city": "Quito",
-      "publishedAt": null,
-      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6a739197fd656f3c39247a31",
-      "isIT": false,
-      "firstSeen": "2026-11-09"
-    },
-    {
       "id": "pichincha-1338125162",
       "source": "pichincha",
       "institution": "Banco Pichincha",
@@ -692,18 +740,6 @@
       "url": "https://vacantes.pichincha.com/job/QUITO-ADMINISTRADOR-PORTAL-WEB-QUIT-CONTENIDO/1337984062/",
       "isIT": false,
       "firstSeen": "2026-11-04"
-    },
-    {
-      "id": "pichincha-1337081062",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "PASANTE OPERACIONES DE TALENTO HUMANO - CUENCA",
-      "province": "AZUAY",
-      "city": "CUENCA",
-      "publishedAt": "2026-10-30",
-      "url": "https://vacantes.pichincha.com/job/CUENCA-PASANTE-OPERACIONES-DE-TALENTO-HUMANO-CUENCA-CUEN-SERVICIOS/1337081062/",
-      "isIT": false,
-      "firstSeen": "2026-10-16"
     },
     {
       "id": "pagueya-6ae0c9e4a2045997eaee439c",
@@ -1113,18 +1149,6 @@
       },
       "isIT": false,
       "firstSeen": "2026-10-16"
-    },
-    {
-      "id": "pichincha-1336095562",
-      "source": "pichincha",
-      "institution": "Banco Pichincha",
-      "title": "ASISTENTE GESTION OPERATIVA Y ADMINISTRATIVA - DISCAPACIDAD (QUITO)",
-      "province": "PICHINCHA",
-      "city": "QUITO",
-      "publishedAt": "2026-10-02",
-      "url": "https://vacantes.pichincha.com/job/QUITO-ASISTENTE-GESTION-OPERATIVA-Y-ADMINISTRATIVA-DISCAPACIDAD-%28QUITO%29-QUIT-SERVICIO-A/1336095562/",
-      "isIT": false,
-      "firstSeen": "2026-11-27"
     },
     {
       "id": "cacpeco-699f09b7dfa11bade63b0e4f",
@@ -1596,6 +1620,18 @@
       "isIT": false,
       "firstSeen": "2026-11-10",
       "closedOn": "2026-11-13"
+    },
+    {
+      "id": "bancoloja-6a739197fd656f3c39247a31",
+      "source": "bancoloja",
+      "institution": "Banco de Loja",
+      "title": "Asesor Banca Personas",
+      "city": "Quito",
+      "publishedAt": null,
+      "url": "https://bancoloja.hiringroom.com/jobs/get_vacancy/6a739197fd656f3c39247a31",
+      "isIT": false,
+      "firstSeen": "2026-11-09",
+      "closedOn": "2026-11-28"
     },
     {
       "id": "pichincha-1338092762",

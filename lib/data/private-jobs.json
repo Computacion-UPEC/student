@@ -101,17 +101,6 @@
       "firstSeen": "2026-11-27"
     },
     {
-      "id": "arca-1454191900",
-      "source": "arca",
-      "company": "Arca Continental",
-      "title": "VENDEDOR JUNIOR | CEDI GUAYAQUIL NORTE",
-      "city": null,
-      "publishedAt": "2026-11-27",
-      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-GUAYAQUIL-NORTE/1454191900/",
-      "isIT": false,
-      "firstSeen": "2026-11-27"
-    },
-    {
       "id": "arca-1454143700",
       "source": "arca",
       "company": "Arca Continental",
@@ -231,6 +220,17 @@
       "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27167",
       "isIT": false,
       "firstSeen": "2026-11-27"
+    },
+    {
+      "id": "claro-1850",
+      "source": "claro",
+      "company": "Claro Ecuador",
+      "title": "INGENIERO BACKOFFICE TRANSPORTE IP Y SEGURIDADES",
+      "city": null,
+      "publishedAt": "2026-11-27",
+      "url": "https://career19.sapsf.com/career?company=consorcioe&site=VjItZlREOW5LOEo4alZ5cDF3N1psajF6QT09&lang=es_ES&career_ns=job_listing&career_job_req_id=1850",
+      "isIT": false,
+      "firstSeen": "2026-11-28"
     },
     {
       "id": "farmaenlace-1338547962",
@@ -843,7 +843,7 @@
       "company": "Tigo (ex Movistar)",
       "title": "Especialista de Producto Cloud B2B",
       "city": "Ubicaciones: 2",
-      "publishedAt": "2026-11-23",
+      "publishedAt": "2026-11-24",
       "url": "https://tigo.wd103.myworkdayjobs.com/tigocareers/job/Quito/Especialista-de-Producto-Cloud-B2B_R135884",
       "isIT": true,
       "firstSeen": "2026-11-24"
@@ -1496,17 +1496,6 @@
       "url": "https://jobdetails.nestle.com/job/Guayaquil-General-Services-Worker-17-03-4574/1457700933/",
       "isIT": false,
       "firstSeen": "2026-11-18"
-    },
-    {
-      "id": "pronaca-27058",
-      "source": "pronaca",
-      "company": "Pronaca",
-      "title": "AUDITOR SENIOR CORPORATIVO DE PROCESOS",
-      "city": null,
-      "publishedAt": null,
-      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27058",
-      "isIT": false,
-      "firstSeen": "2026-11-16"
     },
     {
       "id": "difare-analista-de-experiencia-al-cliente-manabi",
@@ -5835,6 +5824,18 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "id": "arca-1454191900",
+      "source": "arca",
+      "company": "Arca Continental",
+      "title": "VENDEDOR JUNIOR | CEDI GUAYAQUIL NORTE",
+      "city": null,
+      "publishedAt": "2026-11-27",
+      "url": "https://careers.arcacontal.com/job/VENDEDOR-JUNIOR-CEDI-GUAYAQUIL-NORTE/1454191900/",
+      "isIT": false,
+      "firstSeen": "2026-11-27",
+      "closedOn": "2026-11-28"
+    },
+    {
       "id": "tigo-R135650",
       "source": "tigo",
       "company": "Tigo (ex Movistar)",
@@ -6193,6 +6194,18 @@
       "isIT": false,
       "firstSeen": "2026-11-16",
       "closedOn": "2026-11-17"
+    },
+    {
+      "id": "pronaca-27058",
+      "source": "pronaca",
+      "company": "Pronaca",
+      "title": "AUDITOR SENIOR CORPORATIVO DE PROCESOS",
+      "city": null,
+      "publishedAt": null,
+      "url": "https://career4.successfactors.com/career?company=C0004326754P&lang=es_ES&career_ns=job_listing&career_job_req_id=27058",
+      "isIT": false,
+      "firstSeen": "2026-11-16",
+      "closedOn": "2026-11-28"
     },
     {
       "id": "arca-1450870300",

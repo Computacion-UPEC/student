@@ -82,17 +82,17 @@
     }
   },
   "failing": {
+    "Nestlé Ecuador": {
+      "since": "2026-11-27",
+      "runs": 1
+    },
     "Netlife": {
       "since": "2026-11-27",
       "runs": 1
     },
-    "Pague Ya (Grupo Pichincha)": {
-      "since": "2026-11-25",
-      "runs": 4
-    },
     "Tiendas Tuti": {
       "since": "2026-11-09",
-      "runs": 37
+      "runs": 38
     }
   }
 }
