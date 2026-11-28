@@ -105,6 +105,9 @@ const SOURCES = [
   { id: "bce", institution: "Banco Central del Ecuador", collect: () => hiringRoom("bancocentraldelecuador") },
   { id: "coop29deoctubre", institution: "Cooperativa 29 de Octubre", collect: () => hiringRoom("coop29deoctubre") },
   { id: "sanfra", institution: "Cooperativa San Francisco", collect: () => hiringRoom("coacsanfra") },
+  { id: "23-de-julio", institution: "Cooperativa 23 de Julio", collect: () => hiringRoom("coop23dejulio") },
+  { id: "cacpe-pastaza", institution: "CACPE Pastaza", collect: () => hiringRoom("cacpepastaza") },
+  { id: "lucha-campesina", institution: "Cooperativa Lucha Campesina", collect: () => hiringRoom("luchacampesina") },
   { id: "bancointernacional", institution: "Banco Internacional", collect: () => successFactorsXml("career2.successfactors.eu", "interame01", "VjItV1BPM0FGNlZ0TDkwSHBhc3NlbUtIUT09") },
 ]
 
