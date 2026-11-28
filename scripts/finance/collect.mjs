@@ -6,6 +6,8 @@
 //   - Banco Central del Ecuador: portal de HiringRoom, enlazado desde bce.fin.ec
 //   - Banco de Loja: portal de HiringRoom, enlazado desde "Trabaja con nosotros" de bancodeloja.fin.ec
 //   - Banco Internacional: SuccessFactors clásico, leído desde su feed XML público (scripts/lib/successfactors-xml.mjs)
+//   - Banco Guayaquil: Oracle Recruiting Cloud, enlazado desde "Trabaja con Nosotros" (API pública, scripts/lib/oracle-hcm.mjs)
+//   - Banco Bolivariano y BGR (Banco General Rumiñahui): portales de HiringRoom
 //   - Cooperativa 29 de Octubre y Cooperativa San Francisco (SanFra, Ambato): portales de HiringRoom enlazados desde
 //     "Trabaja con nosotros" de 29deoctubre.fin.ec y coac-sanfra.com
 // Otras empresas del Grupo Pichincha no tienen portal propio: Credife y Amerafin fueron absorbidas por el banco en
@@ -28,6 +30,7 @@ import path from "node:path"
 import { fileURLToPath } from "node:url"
 import { hiringRoom } from "../lib/hiringroom.mjs"
 import { successFactorsXml } from "../lib/successfactors-xml.mjs"
+import { oracleHcm } from "../lib/oracle-hcm.mjs"
 import { trackSource } from "../lib/status.mjs"
 import { isITRole } from "../lib/it-roles.mjs"
 
@@ -108,6 +111,9 @@ const SOURCES = [
   { id: "23-de-julio", institution: "Cooperativa 23 de Julio", collect: () => hiringRoom("coop23dejulio") },
   { id: "cacpe-pastaza", institution: "CACPE Pastaza", collect: () => hiringRoom("cacpepastaza") },
   { id: "lucha-campesina", institution: "Cooperativa Lucha Campesina", collect: () => hiringRoom("luchacampesina") },
+  { id: "bancoguayaquil", institution: "Banco Guayaquil", collect: () => oracleHcm("fa-ewnb-saasfaprod1.fa.ocs.oraclecloud.com", "CX_3001") },
+  { id: "bolivariano", institution: "Banco Bolivariano", collect: () => hiringRoom("bancobolivariano") },
+  { id: "bgr", institution: "Banco General Rumiñahui", collect: () => hiringRoom("bgr") },
   { id: "bancointernacional", institution: "Banco Internacional", collect: () => successFactorsXml("career2.successfactors.eu", "interame01", "VjItV1BPM0FGNlZ0TDkwSHBhc3NlbUtIUT09") },
 ]
 
