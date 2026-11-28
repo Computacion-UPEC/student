@@ -16,8 +16,8 @@
       "ok": true
     },
     "CNT": {
-      "lastRun": "2026-11-27",
-      "lastSuccess": "2026-11-27",
+      "lastRun": "2026-11-28",
+      "lastSuccess": "2026-11-28",
       "ok": true
     },
     "Concursos": {
@@ -26,8 +26,8 @@
       "ok": true
     },
     "Educa-Empleo": {
-      "lastRun": "2026-11-27",
-      "lastSuccess": "2026-11-27",
+      "lastRun": "2026-11-28",
+      "lastSuccess": "2026-11-28",
       "ok": true
     },
     "El-Rosado": {
@@ -88,7 +88,7 @@
     },
     "Netlife": {
       "since": "2026-11-27",
-      "runs": 1
+      "runs": 2
     },
     "Tiendas Tuti": {
       "since": "2026-11-09",
